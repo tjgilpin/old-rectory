@@ -1,5 +1,6 @@
 title: Eleventy Simple Starter Template
 description: Minimal eleventy template with basic configuration for pages and posts
+author: Tim Gilpin
 locale: en_GB
 image: /static/img/496404201.jpg
 imageWidth: 1280

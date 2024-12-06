@@ -5,4 +5,4 @@ eleventyNavigation:
 home: true
 ---
 
-This is the home page
+Home page copy

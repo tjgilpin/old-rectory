@@ -15,7 +15,8 @@
     <meta property="og:image" content="{{ settings.image }}">
     <meta property="og:image:width" content="{{ settings.imageWidth }}">
     <meta property="og:image:height" content="{{ settings.imageHeight }}">
-    <meta property="og:image:alt" content="{{ settings.imageAlt }}">    
+    <meta property="og:image:alt" content="{{ settings.imageAlt }}">
+    <link rel="stylesheet" href="/static/css/style.css">
   </head>
   <body>
     <header>
@@ -31,5 +32,8 @@
     <main>
       {{ content | safe }}
     </main>
+    <footer>
+      &copy; {{ settings.author }}
+    </footer>
   </body>
 </html>
