@@ -3,8 +3,31 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }} - {{ settings.title }}</title>
+    <meta name="description" content="{{ settings.description | default(settings.title) }}">
+    <meta name="generator" content="{{ eleventy.generator }}">    
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ process.env.URL | default('http://localhost:8080') }}{{ page.url }}">
+    <meta property="og:site_name" content="{{ settings.title }}">
+    <meta property="og:locale" content="{{ settings.locale }}">
+    <meta property="og:title" content="{{ settings.title }}">
+    <meta property="og:description" content="{{ settings.description | default(settings.title) }}">
+    <meta property="og:image" content="{{ settings.image }}">
+    <meta property="og:image:width" content="{{ settings.imageWidth }}">
+    <meta property="og:image:height" content="{{ settings.imageHeight }}">
+    <meta property="og:image:alt" content="{{ settings.imageAlt }}">    
   </head>
   <body>
+    <header>
+      <a href="/">SVG logo or text here</a>
+      <nav aria-label="Main">
+        <ul>
+          {% for item in collections.all | eleventyNavigation %}
+            <li><a href="{{ item.url }}">{{ item.title  }}</a></li>
+          {% endfor %}     
+        </ul>
+      </nav>
+    </header>    
     <main>
       {{ content | safe }}
     </main>
