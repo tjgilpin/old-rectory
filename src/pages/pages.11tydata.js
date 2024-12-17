@@ -20,6 +20,6 @@ export default function() {
         };
       }
     },
-    layout: "layout.njk", 
+    layout: "default.njk", 
   }
 }

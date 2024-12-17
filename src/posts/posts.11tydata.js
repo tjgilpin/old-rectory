@@ -1,5 +1,10 @@
 export default function(data) {
   return {
-    layout: "layoutposts.njk"
+    permalink: function (data) {
+      const slug = data.slug || data.title
+      return `/${this.slugify(slug)}/index.html`; // Post permalink
+    },    
+    layout: "post.njk",
+    tags: "posts"
   }
 }
