@@ -1,9 +1,6 @@
 export default function() {
   return {
     permalink: function (data) {
-      if (data.home) {
-        return `/index.html`; // Home page permalink
-      }
       const slug = data.slug || data.title
       return `/${this.slugify(slug)}/index.html`; // Default permalink
     },

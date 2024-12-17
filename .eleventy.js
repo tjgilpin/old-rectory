@@ -11,13 +11,12 @@ export default async function(eleventyConfig) {
   eleventyConfig.addFilter("postDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toLocaleString({ month: 'long', day: 'numeric', year: 'numeric' });
   });
-
 };
 
 export const config = {
   dir: {
     input: "src",
     output: "_site"
-  }
+  },
+  markdownTemplateEngine: "njk"
 };
-
