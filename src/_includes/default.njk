@@ -18,7 +18,7 @@
     <meta property="og:image:alt" content="{{ settings.imageAlt }}">
     <link rel="stylesheet" href="/static/css/style.css">
   </head>
-  <body>
+  <body class="page_{% if page.fileSlug %}{{ page.fileSlug }}{% else %}home{% endif %}">
     <header>
       <a href="/">SVG logo or text here</a>
       <nav aria-label="Main">
@@ -30,6 +30,11 @@
       </nav>
     </header>    
     <main>
+      {% if title  %}
+        <h1>
+          {{ title }}
+        </h1>
+      {% endif %}
       {{ content | safe }}
     </main>
     <footer>

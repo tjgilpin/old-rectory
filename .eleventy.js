@@ -11,6 +11,14 @@ export default async function(eleventyConfig) {
   eleventyConfig.addFilter("postDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toLocaleString({ month: 'long', day: 'numeric', year: 'numeric' });
   });
+
+  eleventyConfig.addFilter("excerpt", (post) => {
+    const content = post.replace(/(<([^>]+)>)/gi, "");
+    if (content.length > 250) {
+      return content.substr(0, content.lastIndexOf(" ", 200)) + "...";
+    }
+    return content;
+  });
 };
 
 export const config = {

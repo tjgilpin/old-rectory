@@ -49,7 +49,7 @@ header ul li a {
 }
 
 main {
-  max-width: 90ch;
+  max-width: 130ch;
   width: 100%;
   padding: 1rem 2rem;
 }
@@ -83,8 +83,8 @@ footer ul li p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
-    font-weight: 400;
+    /* font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif; */
+    font-weight: 500;
     line-height: 1;
 }
 
@@ -94,6 +94,7 @@ h1 {
 
 h2 {
   font-size: 2rem;
+  margin: 0;
 }
 
 h3 {
@@ -108,4 +109,46 @@ img {
 
 input, textarea {
   display: block;
+}
+
+.page_articles article p {
+ margin: 0.5rem 0;
+}
+
+.page_articles article p:first-of-type a {
+  color: inherit;
+  text-decoration: none;
+ }
+
+.page_articles article {
+  display: grid;
+  margin-bottom: 2rem;
+}
+
+time {
+  order: -1;
+  font-size: 0.625rem;
+  text-transform: uppercase;
+  letter-spacing: 0.02rem;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+@media only screen and (min-width: 95ch) {
+  .page_articles section {
+    display: grid;
+    column-gap: 1.5rem;  
+    grid-template-columns: repeat(2, 1fr);
+    grid-auto-rows: 1fr auto auto auto;
+  }
+
+  .page_articles article {
+    display: grid;
+    grid-row: span 4;
+    grid-template-rows: subgrid;
+
+  }
+}
+
+.h2:has(+ .timedate) {
+  margin-top: -1rem;
 }

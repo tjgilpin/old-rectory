@@ -6,13 +6,10 @@ layout: default.njk
 {{ page.date | postDate }}
 </p>
 
+
 posts navigation then content
 
 {{ content | safe }}
-
-
-tags: {{ tags }}
-list: {{ data.list }} 
 
 {%- if collections.posts %}
 {%- set previousPost = collections.posts | getPreviousCollectionItem %}

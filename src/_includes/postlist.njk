@@ -1,37 +1,25 @@
 {% set postslist = collections.posts %}
-{% if postslist | length > 0 %}
+{%- if postslist | length > 0 -%}
   <section>
-    {% for post in postslist | reverse %}
-      <article>
-        <h2>
-          <a href="{{ post.url | url }}">
-            {% if post.data.title %}
-              {{ post.data.title }}
-            {% else %}
-              Untitled
-            {% endif %}
-          </a>
-        </h2>
-        <p class="date-author">
-          <time datetime="{{ post.date  | postDate | slugify }}">
-            {{ post.date | postDate }}
-          </time>
-          by
-          <address>{{ post.data.author }}</address>
-
-        </p>
-        {% if post.data.description %}
-          <p>
-            {{ post.data.description }}
-          </p>
-        {% endif %}
-
-        <p>
-            <a href="{{ post.url | url }}">
-                Read more →
-            </a>
-        </p>
-      </article>
-    {% endfor %}
+    {%- for post in postslist | reverse %}<article>
+      <h2>
+        <a href="{{ post.url | url }}">
+          {%- if post.data.title %}
+            {{ post.data.title }}
+          {% else %}
+            Untitled
+          {% endif -%}
+        </a>
+      </h2>
+      <time datetime="{{ post.date  | postDate | slugify }}">
+        {{ post.date | postDate }}
+      </time>        
+      {%- if post.templateContent -%}<p><a href="{{ post.url | url }}">{{ post.templateContent | excerpt }}</a></p>{%- endif -%}
+      <p>
+        <a href="{{ post.url | url }}">
+            Read more →
+        </a>
+      </p>
+    </article>{%- endfor -%}
   </section>
-{% endif %}
+{%- endif -%}
