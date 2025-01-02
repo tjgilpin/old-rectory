@@ -51,7 +51,18 @@
   --secondary-dark-40: color-mix(in oklch, var(--secondary), oklch(0 0 0) 40%);
   --secondary-dark-60: color-mix(in oklch, var(--secondary), oklch(0 0 0) 60%);
   --secondary-dark-80: color-mix(in oklch, var(--secondary), oklch(0 0 0) 80%);
-}
+
+  /* light color dark variants */
+  --light_dark-20: color-mix(in oklch, var(--light), oklch(0 0 0) 20%);
+  --light_dark-40: color-mix(in oklch, var(--light), oklch(0 0 0) 40%);
+  --light_dark-60: color-mix(in oklch, var(--light), oklch(0 0 0) 60%);
+  --light_dark-80: color-mix(in oklch, var(--light), oklch(0 0 0) 80%);
+
+  /* dark color light variants */
+  --dark_light-20: color-mix(in oklch, var(--dark), oklch(1 0 0) 20%);
+  --dark_light-40: color-mix(in oklch, var(--dark), oklch(1 0 0) 40%);
+  --dark_light-60: color-mix(in oklch, var(--dark), oklch(1 0 0) 60%);
+  --dark_light-80: color-mix(in oklch, var(--dark), oklch(1 0 0) 80%);
 
 h1 {
   font-size: clamp(var(--hdg_min-fs-rem), var(--hdg_min-fs-rem) + var(--hdg_slope), var(--hdg_max-fs-rem));
