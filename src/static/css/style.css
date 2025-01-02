@@ -1,7 +1,8 @@
 :root {
-  --primary: blue;
-  --secondary: black;
-  --light: white;
+  --primary: oklch(51.47% 0.2812 261.53);
+  --secondary: oklch(76.76% 0.3281 145.06);
+  --light: oklch(1 0 0); /* white */
+  --dark: oklch(0 0 0); /* black */
 
   /* heading responsive text */
   --hdg_min-fs: 2.25;
@@ -32,8 +33,24 @@
   --copy_slope: (var(--copy_max-fs) - var(--copy_min-fs)) * (100vw - var(--copy_min-vw-rem)) / (var(--copy_max-vw) - var(--copy_min-vw));
 
   /* primary color variants */
-  --primary-lighter: color-mix(in srgb, var(--primary), white 20%);
-  --primary-darker: color-mix(in srgb, var(--primary), black 20%);
+  --primary-light-20: color-mix(in oklch, var(--primary), oklch(1 0 0) 20%);
+  --primary-light-40: color-mix(in oklch, var(--primary), oklch(1 0 0) 40%);
+  --primary-light-60: color-mix(in oklch, var(--primary), oklch(1 0 0) 60%);
+  --primary-light-80: color-mix(in oklch, var(--primary), oklch(1 0 0) 80%);
+  --primary-dark-20: color-mix(in oklch, var(--primary), oklch(0 0 0) 20%);
+  --primary-dark-40: color-mix(in oklch, var(--primary), oklch(0 0 0) 40%);
+  --primary-dark-60: color-mix(in oklch, var(--primary), oklch(0 0 0) 60%);
+  --primary-dark-80: color-mix(in oklch, var(--primary), oklch(0 0 0) 80%);
+
+  /* secondary color variants */
+  --secondary-light-20: color-mix(in oklch, var(--secondary), oklch(1 0 0) 20%);
+  --secondary-light-40: color-mix(in oklch, var(--secondary), oklch(1 0 0) 40%);
+  --secondary-light-60: color-mix(in oklch, var(--secondary), oklch(1 0 0) 60%);
+  --secondary-light-80: color-mix(in oklch, var(--secondary), oklch(1 0 0) 80%);
+  --secondary-dark-20: color-mix(in oklch, var(--secondary), oklch(0 0 0) 20%);
+  --secondary-dark-40: color-mix(in oklch, var(--secondary), oklch(0 0 0) 40%);
+  --secondary-dark-60: color-mix(in oklch, var(--secondary), oklch(0 0 0) 60%);
+  --secondary-dark-80: color-mix(in oklch, var(--secondary), oklch(0 0 0) 80%);
 }
 
 h1 {
@@ -97,10 +114,6 @@ header ul, footer ul {
   display: flex;
 }
 
-header ul li a {
-  padding: 1rem;
-}
-
 main {
   max-width: 130ch;
   width: 100%;
@@ -120,6 +133,15 @@ main a:hover {
   text-underline-offset: -0.85em;
   text-decoration-thickness: 1em;
   text-decoration-skip-ink: none;  
+}
+
+nav ul {
+  margin: 0;
+}
+
+nav ul li a {
+  display: inline-block;
+  padding: 0.5rem;
 }
 
 footer {
