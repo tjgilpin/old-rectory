@@ -1,6 +1,9 @@
 import { DateTime } from "luxon";
 import eleventyNavigationPlugin from "@11ty/eleventy-navigation";
 import yaml from "js-yaml";
+import markdownIt from "markdown-it";
+import markdownItAttrs from "markdown-it-attrs";
+
 
 export default async function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/static/");
@@ -12,6 +15,15 @@ export default async function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj).toLocaleString({ month: 'long', day: 'numeric', year: 'numeric' });
   });
 
+  const markdownOptions = {
+    html: true,
+    breaks: true,
+    linkify: true
+  };
+  const markdownRenderer = markdownIt(markdownOptions).use(markdownItAttrs);
+
+  eleventyConfig.setLibrary("md", markdownRenderer);
+
   eleventyConfig.addFilter("excerpt", (post) => {
     const content = post.replace(/(<([^>]+)>)/gi, "");
     if (content.length > 250) {
@@ -19,6 +31,13 @@ export default async function(eleventyConfig) {
     }
     return content;
   });
+
+  eleventyConfig.addPairedShortcode(
+    'element',
+    (content, el = 'div', className) => {
+      return `<${el}${className ? ` class="${className}"` : ''}>${content}</${el}>`
+    }
+  )
 };
 
 export const config = {
