@@ -209,7 +209,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1, h2, h3, h4 {
-  margin: 0 0 0.25rem 0;
+  /* margin: 0 0 0.25rem 0; */
   letter-spacing: -0.035em;
 }
 
@@ -259,7 +259,11 @@ input, textarea {
     grid-template-rows: subgrid;
   }
 }
- 
+
+.page_home h2 {
+  text-align: center;
+}
+
 .page_articles article p {
  margin: 0.5rem 0;
 }
