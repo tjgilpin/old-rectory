@@ -83,7 +83,7 @@ h4 {
 
 body:not(.page_articles) main {
   font-size: clamp(var(--copy_min-fs-rem), var(--copy_min-fs-rem) + var(--copy_slope), var(--copy_max-fs-rem));
-  max-width: 85ch;
+  /* max-width: 85ch; */
 }
 
 html {
@@ -154,8 +154,10 @@ main {
   justify-self: center;
 }
 
-main a {
+main a, summary::after {
   color: blue;
+  font-weight: normal;
+  text-decoration: underline;
   text-underline-offset: 0.15em;
   text-decoration-thickness: 0.15em;
   text-decoration-color: aqua;
@@ -225,13 +227,24 @@ input, textarea {
 
 .testimonials {
   text-align: center;
+  font-size: 0.9em;
 }
 
 .testimonials aside p:first-of-type {
   margin: 0;
 }
 
-.testimonials aside p:nth-child(2)::before {
+.testimonials p, .testimonials summary {
+  margin: 1rem 0;
+}
+
+.testimonials p:nth-child(1) {
+  margin: 0;
+}
+
+/* .testimonials aside p:nth-child(2)::before,  */
+
+details span {
   content: '“';
   font-size: 3em;
   font-family: Georgia, 'Times New Roman', Times, serif;
@@ -244,19 +257,58 @@ input, textarea {
   border-radius: 50%;
 }
 
+summary {
+  cursor: pointer;
+}
+
+summary::marker {
+  display: none;
+  content: "";
+}
+
+summary::after {
+  content: "...→"; 
+}
+
+details[open] summary::after {
+  content: "...←";
+  /* visibility: visible; */
+}
+
+.testimonials:has(details[open]) aside {
+  display: flex;
+  flex-direction: column;
+}
+
+/* details[open] summary {
+  width: 0;
+  height: 0;
+}
+
+details[open] summary {
+  visibility: hidden;
+} */
+
+/* details[open] summary::marker {
+  display: block;
+} */
+
 
 @media screen and (min-width: 39.5em) {
   .testimonials {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    grid-auto-rows: auto 1fr auto;
-    gap: 2rem;  
+    grid-auto-rows: auto;
+    column-gap: 2rem;
+    row-gap: 6rem;  
   }
   
   .testimonials aside {
     display: grid;
     grid-row: span 3;
     grid-template-rows: subgrid;
+    row-gap: 2rem;
+    margin-bottom: 4rem;
   }
 }
 
