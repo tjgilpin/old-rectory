@@ -225,24 +225,7 @@ input, textarea {
   display: block;
 }
 
-.testimonials {
-  text-align: center;
-  font-size: 0.9em;
-}
-
-.testimonials aside p:first-of-type {
-  margin: 0;
-}
-
-.testimonials p, .testimonials summary {
-  margin: 1rem 0;
-}
-
-.testimonials p:nth-child(1) {
-  margin: 0;
-}
-
-/* .testimonials aside p:nth-child(2)::before,  */
+/* .testimonials article p:nth-child(2)::before,  */
 
 details span {
   content: '“';
@@ -275,9 +258,30 @@ details[open] summary::after {
   /* visibility: visible; */
 }
 
-.testimonials aside:has(details[open]) {
+.testimonials {
+  text-align: center;
+  font-size: 0.9em;
+}
+
+/* .testimonials article p:first-of-type {
+  margin: 0;
+} */
+/* 
+.testimonials p, .testimonials summary {
+  margin: 1rem 0;
+}
+
+.testimonials p:nth-child(1) {
+  margin: 0;
+} */
+
+.testimonials article:has(details[open]) {
   display: flex;
   flex-direction: column;
+}
+
+article {
+  margin-bottom: 4rem;
 }
 
 /* details[open] summary {
@@ -285,7 +289,7 @@ details[open] summary::after {
   height: 0;
 }
 
-details[open] summary {
+details[open] summary {rticle
   visibility: hidden;
 } */
 
@@ -293,6 +297,9 @@ details[open] summary {
   display: block;
 } */
 
+.testimonials img {
+  margin: 0 auto;
+}
 
 @media screen and (min-width: 39.5em) {
   .testimonials {
@@ -301,23 +308,37 @@ details[open] summary {
     grid-template-rows: auto auto 1fr;    
     /* grid-auto-rows: auto; */
     column-gap: 2rem;
-    row-gap: 6rem;  
+    align-items: start;
   }
   
-  .testimonials aside {
+  .testimonials article {
     display: grid;
     grid-row: span 3;
     grid-template-rows: auto auto 1fr;         
-    row-gap: 2rem;
     margin-bottom: 4rem;
   }
 
   @supports (grid-template-rows: subgrid) {
-    .testimonials aside {
+    .testimonials article {
       grid-row: span 3;
       grid-template-rows: subgrid;
     }
   }
+}
+
+p.mono {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !important;
+  letter-spacing: -0.02em;
+}
+
+.small {
+  font-size: 0.7em;
+  /* line-height: 1.2; */
+}
+
+.small strong {
+  line-height: 1.85;
+}
 
 .page_home h2 {
   text-align: center;

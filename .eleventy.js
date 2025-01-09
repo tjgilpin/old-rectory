@@ -32,12 +32,12 @@ export default async function(eleventyConfig) {
     return content;
   });
 
-  eleventyConfig.addPairedShortcode(
-    'element',
-    (content, el = 'div', className) => {
-      return `<${el}${className ? ` class="${className}"` : ''}>${content}</${el}>`
-    }
-  )
+  // eleventyConfig.addPairedShortcode(
+  //   'element',
+  //   (content, el = 'div', className) => {
+  //     return `<${el}${className ? ` class="${className}"` : ''}>${content}</${el}>`
+  //   }
+  // )
 };
 
 export const config = {
