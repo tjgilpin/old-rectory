@@ -2,15 +2,30 @@
 layout: default.njk
 ---
 
-## Clients & Projects
+<section class="hello">
 
-* ![The Beatles Logo](/static/img/logo-beatles.svg)
-* ![The Rolling Stones Logo](/static/img/logo-stones.svg){.aspect-4-3}
-* ![Elton John Logo](/static/img/logo-elton.svg)
-* ![Sex Pistols Logo](/static/img/logo-sexpistols.svg)
-* ![Elton John Logo](/static/img/logo-rsno9.svg)
-{.client-logos}
+  # Hi I'm Tim,
 
+  I'm a senior UX/UI designer & developer. I've worked with business for analysis and delivery of e-commerce projects, applications and storefronts at scale for Universal Music, EMI, [The Rolling Stones](/rolling-stones), The Beatles, Elton John, Bob Marley, Queen, Taylor Swift, Abba, RS No. 9 Carnaby, [Recordstore.co.uk](https://recordstore.co.uk) and many more.
+
+</section>
+
+
+{% figure 'logo-umg.png', 'Universal Music', 'universal-music' %}
+
+<section class="clients">
+
+  ## Clients & Projects
+
+  * [![Universal Music Group](/static/img/logo-umg.png)](./universal-music)
+  * ![The Beatles Logo](/static/img/logo-beatles.svg)
+  * [![The Rolling Stones Logo](/static/img/logo-stones.svg)](/rolling-stones){.aspect-4-3}
+  * ![Elton John Logo](/static/img/logo-elton.svg)
+  * ![Sex Pistols Logo](/static/img/logo-sexpistols.svg)
+  * ![Elton John Logo](/static/img/logo-rsno9.svg)
+  {.client-logos}
+
+</section>
 
 ## Testimonials
 
@@ -76,4 +91,5 @@ layout: default.njk
       EMI  / Universal Music Group
     </p>
   </article>
+
 </section>

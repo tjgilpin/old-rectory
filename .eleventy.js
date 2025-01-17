@@ -38,6 +38,13 @@ export default async function(eleventyConfig) {
   //     return `<${el}${className ? ` class="${className}"` : ''}>${content}</${el}>`
   //   }
   // )
+
+  eleventyConfig.addShortcode("figure", function(image, caption, slug) { 
+    const className = image.substring(0, image.lastIndexOf('.'));
+    const figure = `<figure class="${className}"><img src="/static/img/${image}" alt="${caption}"><figcaption>${caption}</figcaption></figure>`;
+    return slug ? `<a href="./${slug}">${figure}</a>` : figure;
+  });
+
 };
 
 export const config = {
