@@ -88,7 +88,10 @@ body:not(.page_articles) main {
 
 html {
   box-sizing: border-box;
-  overflow-x: hidden;  
+  overflow-x: hidden;
+  background-image: linear-gradient(to right, #f9f9f9 1px, transparent 1px), linear-gradient(to bottom, #f9f9f9 1px, transparent 1px);
+  background-size: 20px 20px;
+  background-attachment: fixed;  
 }
 
 *, *:before, *:after {
@@ -118,8 +121,33 @@ h1 {
   margin: 2rem 0 0;
 }
 
-.hello {
+/* .hello {
   max-width: 70ch;
+} */
+
+
+.hello {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+}
+
+.hello h1 {
+  grid-column: 1/-1;
+}
+
+.hello ul {
+  grid-column-end: -1;
+  display: flex;
+  list-style-type: none;
+}
+
+@media screen and (min-width: 1200px) {
+  .hello p {
+
+  } 
+  .hello ul {
+    grid-column-start: 2;
+  }
 }
 
 .hello p {
@@ -161,39 +189,47 @@ header img {
   min-height: 40px; 
 }
 
-header ul, footer ul, .client-logos {
+header ul, footer ul, .clients ul {
   list-style-type: none;
   padding: 0;
   flex-wrap: wrap;
   display: flex;
 }
 
-.client-logos {
+.clients ul {
   column-gap: 4rem;
   justify-content: center;
   row-gap: 2rem;
 }
 
-.client-logos li {
+.clients figure {
   height: 4.25rem;
+  text-align: center;
+  font-size: 0.6em;
+  margin: 0;
 }
 
-.client-logos li a {
+.clients figure img {
+  position: relative;
+  z-index: 1;
+}
+
+.clients li a {
   position: relative;
 }
 
-li a:after {
+/* .clients li a:after {
   content: "→";
   position: absolute;
   top: -50%;
   transform: translate(-50%,-50%);
-}
+} */
 
-.client-logos img {
+.clients img {
   aspect-ratio: 16/9;
 }
 
-.client-logos .aspect-4-3 img {
+.clients .aspect-4-3 img {
   aspect-ratio: 4/3;
 }
 

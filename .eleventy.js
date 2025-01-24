@@ -17,7 +17,7 @@ export default async function(eleventyConfig) {
 
   const markdownOptions = {
     html: true,
-    breaks: true,
+    breaks: false,
     linkify: true
   };
   const markdownRenderer = markdownIt(markdownOptions).use(markdownItAttrs);
@@ -42,7 +42,7 @@ export default async function(eleventyConfig) {
   eleventyConfig.addShortcode("figure", function(image, caption, slug) { 
     const className = image.substring(0, image.lastIndexOf('.'));
     const figure = `<figure class="${className}"><img src="/static/img/${image}" alt="${caption}"><figcaption>${caption}</figcaption></figure>`;
-    return slug ? `<a href="./${slug}">${figure}</a>` : figure;
+    return slug ? `<a href="/${slug}">${figure}</a>` : figure;
   });
 
 };

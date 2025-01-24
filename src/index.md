@@ -8,23 +8,34 @@ layout: default.njk
 
   I'm a senior UX/UI designer & developer. I've worked with business for analysis and delivery of e-commerce projects, applications and storefronts at scale for Universal Music, EMI, [The Rolling Stones](/rolling-stones), The Beatles, Elton John, Bob Marley, Queen, Taylor Swift, Abba, RS No. 9 Carnaby, [Recordstore.co.uk](https://recordstore.co.uk) and many more.
 
+  * [![Screenshot of Rolling Stones Storefront Desktop](/static/img/store-stones-mobile.png)](/gallery)
+  * [![Screenshot of Rolling Stones Storefront Mobile](/static/img/store-stones-desktop.png)](/gallery)
+  * [![Screenshot of Bob Marley Storefront Desktop](/static/img/store-bobmarley-desktop.png)](/gallery)
+  * [![Screenshot of Bob Marley Storefront Mobile](/static/img/store-bobmarley-mobile.png)](/gallery)
+  * [![Screenshot of Elton John Storefront Desktop](/static/img/store-elton-desktop.png)](/gallery)
+  * [![Screenshot of Elton John Storefront Mobile](/static/img/store-elton-mobile.png)](/gallery)
+  * [![Screenshot of The Beatles Storefront Desktop](/static/img/store-beatles-desktop.png)](/gallery)
+  * [![Screenshot of The Beatles Storefront Mobile](/static/img/store-beatles-mobile.png)](/gallery)
+  * [![Screenshot of Queen Storefront Desktop](/static/img/store-queen-desktop.png)](/gallery)
+  * [![Screenshot of Queen Storefront Mobile](/static/img/store-queen-mobile.png)](/gallery)
+
+  </section>
+
 </section>
 
 
-{% figure 'logo-umg.png', 'Universal Music', 'universal-music' %}
 
 <section class="clients">
 
-  ## Clients & Projects
+## Clients & Projects
 
-  * [![Universal Music Group](/static/img/logo-umg.png)](./universal-music)
-  * ![The Beatles Logo](/static/img/logo-beatles.svg)
-  * [![The Rolling Stones Logo](/static/img/logo-stones.svg)](/rolling-stones){.aspect-4-3}
-  * ![Elton John Logo](/static/img/logo-elton.svg)
-  * ![Sex Pistols Logo](/static/img/logo-sexpistols.svg)
-  * ![Elton John Logo](/static/img/logo-rsno9.svg)
-  {.client-logos}
-
+  * {% figure 'logo-umg.png', 'Universal Music Group', 'universal-music' %}
+  * {% figure 'logo-beatles.svg', 'The Beatles' %}
+  * {% figure 'logo-stones.svg', 'The Rolling Stones', 'rolling-stones' %}
+  * {% figure 'logo-elton.svg', 'Elton John' %}
+  * {% figure 'logo-sexpistols.svg', 'Sex Pistols' %}
+  * {% figure 'logo-rsno9.svg', 'RS. No 9' %}
+  * {% figure 'logo-bravado.png', 'Bravado' %}
 </section>
 
 ## Testimonials
