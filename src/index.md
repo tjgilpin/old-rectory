@@ -8,22 +8,20 @@ layout: default.njk
 
   I'm a senior UX/UI designer & developer. I've worked with business for analysis and delivery of e-commerce projects, applications and storefronts at scale for Universal Music, EMI, [The Rolling Stones](/rolling-stones), The Beatles, Elton John, Bob Marley, Queen, Taylor Swift, Abba, RS No. 9 Carnaby, [Recordstore.co.uk](https://recordstore.co.uk) and many more.
 
-  * [![Screenshot of Rolling Stones Storefront Desktop](/static/img/store-stones-mobile.png)](/gallery)
-  * [![Screenshot of Rolling Stones Storefront Mobile](/static/img/store-stones-desktop.png)](/gallery)
-  * [![Screenshot of Bob Marley Storefront Desktop](/static/img/store-bobmarley-desktop.png)](/gallery)
-  * [![Screenshot of Bob Marley Storefront Mobile](/static/img/store-bobmarley-mobile.png)](/gallery)
-  * [![Screenshot of Elton John Storefront Desktop](/static/img/store-elton-desktop.png)](/gallery)
-  * [![Screenshot of Elton John Storefront Mobile](/static/img/store-elton-mobile.png)](/gallery)
-  * [![Screenshot of The Beatles Storefront Desktop](/static/img/store-beatles-desktop.png)](/gallery)
-  * [![Screenshot of The Beatles Storefront Mobile](/static/img/store-beatles-mobile.png)](/gallery)
-  * [![Screenshot of Queen Storefront Desktop](/static/img/store-queen-desktop.png)](/gallery)
-  * [![Screenshot of Queen Storefront Mobile](/static/img/store-queen-mobile.png)](/gallery)
+  I'm a senior UX/UI designer & developer. I've worked with business for analysis and delivery of e-commerce projects, applications and storefronts at scale for Universal Music, EMI, [The Rolling Stones](/rolling-stones), The Beatles, Elton John, Bob Marley, Queen, Taylor Swift, Abba, RS No. 9 Carnaby, [Recordstore.co.uk](https://recordstore.co.uk) and many more.  
 
-  </section>
+  * [![Screenshot of Queen Storefront Desktop](/static/img/store-queen-desktop.png)](/gallery) {.store-queen-desktop}
+  * [![Screenshot of Queen Storefront Mobile](/static/img/store-queen-mobile.png)](/gallery) {.store-queen-mobile}
+  * [![Screenshot of The Beatles Storefront Desktop](/static/img/store-beatles-desktop-crop.png)](/gallery) {.store-beatles-desktop}
+  * [![Screenshot of The Beatles Storefront Mobile](/static/img/store-beatles-mobile-crop.png)](/gallery) {.store-beatles-mobile}
+  * [![Screenshot of Bob Marley Storefront Desktop](/static/img/store-bobmarley-desktop.png)](/gallery) {.store-bobmarley-desktop}
+  * [![Screenshot of Elton John Storefront Mobile](/static/img/store-elton-mobile-crop.png)](/gallery) {.store-elton-mobile}
+  * [![Screenshot of Bob Marley Storefront Mobile](/static/img/store-bobmarley-mobile.png)](/gallery) {.store-bobmarley-mobile}
+  * [![Screenshot of Elton John Storefront Desktop](/static/img/store-elton-desktop-crop.png)](/gallery) {.store-elton-desktop}
+  * [![Screenshot of Rolling Stones Storefront Desktop](/static/img/store-stones-desktop.png)](/gallery) {.store-stones-desktop}
+  * [![Screenshot of Rolling Stones Storefront Mobile](/static/img/store-stones-mobile.png)](/gallery) {.store-stones-mobile}
 
 </section>
-
-
 
 <section class="clients">
 
