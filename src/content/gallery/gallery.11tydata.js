@@ -17,6 +17,7 @@ export default function() {
         };
       }
     },
-    layout: "post.njk", 
+    layout: "post.njk",
+    class: "gallery", 
   }
 }

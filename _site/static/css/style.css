@@ -3,6 +3,10 @@
   --secondary: oklch(76.76% 0.3281 145.06);
   --light: oklch(1 0 0); /* white */
   --dark: oklch(0 0 0); /* black */
+  --content-bg: maroon;
+
+
+
 
   /* heading responsive text */
   --hdg_min-fs: 2.75;
@@ -107,7 +111,7 @@ body {
   overflow-x: hidden;
 }
 
-header {
+body > header {
   padding: 1rem 2rem;
   column-gap: 2rem;
   background: var(--primary);
@@ -132,7 +136,6 @@ h1 {
     grid-template-columns: 2fr 3fr;
     grid-template-rows: auto auto 1fr;
   }
-
 }
 
 .hello ul {
@@ -271,11 +274,93 @@ header ul, footer ul, .clients ul {
   row-gap: 2rem;
 }
 
+main li:has(figure) {
+  list-style-type: none;
+  padding: 0;
+}
+
+.gallery-images {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.page_gallery main {
+  max-width: none;
+}
+
+.page_gallery figure {
+  margin-top: 1rem;
+}
+
+.page_gallery figure img {
+  margin-top: -3rem;
+}
+
+.page_gallery figcaption {
+  position: sticky;
+  top: 1rem;
+  margin: 0 0 0 1rem;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !important;
+  background: white;
+  display: inline-block;
+  font-size: 1rem;
+  color: black;
+  padding: 0.5rem;  
+}
+
+figure {
+  margin: 0;
+}
+
+
+
+
+@keyframes image-slide {
+  0% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  60% {
+    transform: translateY(-60%);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-100%);
+    opacity: 0.2;
+  }
+}
+
+/* @keyframes image-fade {
+  80% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.2;
+  }
+} */
+
+
+
+@media (prefers-reduced-motion: no-preference) {
+  @supports (animation-timeline: scroll()) {
+    .store-elton-desktop img {
+      /* animate */
+      /* animation: image-slide 2s ease-out infinite, image-fade 2s ease-out infinite; */
+      /* animation: image-slide 2s ease-out infinite; */
+      animation: image-slide ease-out forwards;
+      animation-timeline: scroll();
+    }
+  }
+}
+
 .clients figure {
-  height: 4.25rem;
+  height: 5.75rem;
   text-align: center;
   font-size: 0.6em;
   margin: 0;
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 1rem;
 }
 
 .clients figure img {

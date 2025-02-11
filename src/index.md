@@ -6,7 +6,7 @@ layout: default.njk
 
   # Hi I'm Tim,
 
-  I'm a senior UX/UI designer & developer. I've worked with business for analysis and delivery of e-commerce projects, applications and storefronts at scale for Universal Music, EMI, [The Rolling Stones](/rolling-stones), The Beatles, Elton John, Bob Marley, Queen, Taylor Swift, Abba, RS No. 9 Carnaby, [Recordstore.co.uk](https://recordstore.co.uk) and many more.
+  I'm a senior UX/UI designer & developer. I've worked with business for analysis and delivery of e-commerce projects, applications and storefronts at scale for [Universal Music](/universal-music), EMI, [The Rolling Stones](/rolling-stones), The Beatles, Elton John, Bob Marley, Queen, Taylor Swift, Abba, RS No. 9 Carnaby, [Recordstore.co.uk](https://recordstore.co.uk) and many more.
 
   I'm a senior UX/UI designer & developer. I've worked with business for analysis and delivery of e-commerce projects, applications and storefronts at scale for Universal Music, EMI, [The Rolling Stones](/rolling-stones), The Beatles, Elton John, Bob Marley, Queen, Taylor Swift, Abba, RS No. 9 Carnaby, [Recordstore.co.uk](https://recordstore.co.uk) and many more.  
 

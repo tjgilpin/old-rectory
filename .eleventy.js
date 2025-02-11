@@ -41,7 +41,7 @@ export default async function(eleventyConfig) {
 
   eleventyConfig.addShortcode("figure", function(image, caption, slug) { 
     const className = image.substring(0, image.lastIndexOf('.'));
-    const figure = `<figure class="${className}"><img src="/static/img/${image}" alt="${caption}"><figcaption>${caption}</figcaption></figure>`;
+    const figure = `<figure class="${className}"><figcaption>${caption}</figcaption><img src="/static/img/${image}" alt="${caption}"></figure>`;
     return slug ? `<a href="/${slug}">${figure}</a>` : figure;
   });
 
