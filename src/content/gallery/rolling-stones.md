@@ -7,7 +7,7 @@ order: 10
 ---
 
 
-<div>
+<div class="text-width">
 
 Some examples of work for The Rolling Stones UK/EU storefront 
 

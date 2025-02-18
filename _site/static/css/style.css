@@ -312,20 +312,17 @@ figure {
   margin: 0;
 }
 
-
-
-
 @keyframes image-slide {
   0% {
     transform: translateY(0);
     opacity: 1;
   }
-  60% {
-    transform: translateY(-60%);
+  30% {
+    transform: translateY(-45%);
     opacity: 1;
   }
   100% {
-    transform: translateY(-100%);
+    transform: translateY(-150%);
     opacity: 0.2;
   }
 }
@@ -341,9 +338,12 @@ figure {
 
 
 
-@media (prefers-reduced-motion: no-preference) {
+@media (prefers-reduced-motion: no-preference) and (min-width: 1200px) {
+  .hello ul img {
+    animation: image-slide 2s ease-out backwards;
+  }
   @supports (animation-timeline: scroll()) {
-    .store-elton-desktop img {
+    .hello ul img {
       /* animate */
       /* animation: image-slide 2s ease-out infinite, image-fade 2s ease-out infinite; */
       /* animation: image-slide 2s ease-out infinite; */
@@ -370,6 +370,26 @@ figure {
 
 .clients li a {
   position: relative;
+}
+
+.text-width, .page_gallery main header {
+  margin: auto;
+  width: 100%;
+  max-width: 1200px;
+}
+
+.gallery-images {
+  margin: 0 -2rem;
+  padding: 0;
+}
+
+.gallery-images figure {
+  display: flex;
+  flex-direction: column;
+}
+
+.store-stones-desktop img {
+  max-width: 1200px;
 }
 
 /* .clients li a:after {
