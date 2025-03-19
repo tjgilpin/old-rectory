@@ -1,16 +1,11 @@
 backend:
-  # Use netlify identity as backend
-  name: git-gateway
+  name: github
   branch: master
-  ### enable below lines for github integration ###
-  # name: github
-  # repo: tjgilpin/11ty-decap-netlify
+  repo: tjgilpin/old-rectory
+  
+publish_mode: editorial_workflow
 media_folder: "src/assets/img"
 public_folder: "/assets/img"
-
-# Please run "npx netlify-cms-proxy-server" for local backend
-local_backend: true
-# publish_mode: editorial_workflow
 collections:
   - label: "Pages"
     name: "pages"
