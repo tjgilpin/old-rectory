@@ -2,14 +2,14 @@ backend:
   name: github
   branch: master
   repo: tjgilpin/old-rectory
-  
+
 publish_mode: editorial_workflow
-media_folder: "src/assets/img"
-public_folder: "/assets/img"
+media_folder: src/assets/img
+public_folder: /assets/img
 collections:
-  - label: "Pages"
-    name: "pages"
-    folder: "src/content/pages"
+  - label: Pages
+    name: pages
+    folder: src/content/pages
     create: true
     editor:
       preview: false    
