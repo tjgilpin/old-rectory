@@ -6,7 +6,7 @@ import markdownItAttrs from "markdown-it-attrs";
 
 
 export default async function(eleventyConfig) {
-  eleventyConfig.addPassthroughCopy("./src/static/");
+  eleventyConfig.addPassthroughCopy("./src/assets/");
 
   eleventyConfig.addPlugin(eleventyNavigationPlugin);  
 	eleventyConfig.addDataExtension("yaml,yml", (contents) => yaml.load(contents));
@@ -41,7 +41,7 @@ export default async function(eleventyConfig) {
 
   eleventyConfig.addShortcode("figure", function(image, caption, slug) { 
     const className = image.substring(0, image.lastIndexOf('.'));
-    const figure = `<figure class="${className}"><figcaption>${caption}</figcaption><img src="/static/img/${image}" alt="${caption}"></figure>`;
+    const figure = `<figure class="${className}"><figcaption>${caption}</figcaption><img src="/assets/img/${image}" alt="${caption}"></figure>`;
     return slug ? `<a href="/${slug}">${figure}</a>` : figure;
   });
 
