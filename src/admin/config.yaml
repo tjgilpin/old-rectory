@@ -5,8 +5,8 @@ backend:
   ### enable below lines for github integration ###
   # name: github
   # repo: tjgilpin/11ty-decap-netlify
-media_folder: "src/static/img"
-public_folder: "/static/img"
+media_folder: "src/assets/img"
+public_folder: "/assets/img"
 
 # Please run "npx netlify-cms-proxy-server" for local backend
 local_backend: true
@@ -14,7 +14,7 @@ local_backend: true
 collections:
   - label: "Pages"
     name: "pages"
-    folder: "src/pages"
+    folder: "src/content/pages"
     create: true
     editor:
       preview: false    
@@ -26,7 +26,7 @@ collections:
       - { label: "Navigation Order", name: "order", widget: "number", default: 0 }
   - label: "Posts"
     name: "blog"
-    folder: "src/posts"
+    folder: "src/content/posts"
     create: true
     editor:
       preview: false
