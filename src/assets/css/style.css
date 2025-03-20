@@ -69,6 +69,17 @@
   --dark_light-80: color-mix(in oklch, var(--dark), oklch(1 0 0) 80%);
 }
 
+@font-face {
+  font-family: CenturyGothic;
+  src: url('/assets/fonts/CenturyGothic.ttf') format('ttf')
+}
+
+@font-face {
+  font-family: CenturyGothic;
+  src: url('/assets/fonts/CenturyGothicBold.ttf') format('ttf');
+  font-weight: 700;
+}
+
 h1 {
   font-size: clamp(var(--hdg_min-fs-rem), var(--hdg_min-fs-rem) + var(--hdg_slope), var(--hdg_max-fs-rem));
 }
@@ -107,7 +118,7 @@ body {
   grid-template-rows: auto 1fr auto;
   margin: 0;
   height: 100dvh;
-  font-family: "Helvetica Neue", Helvetica, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, Futura, sans-serif; 
   overflow-x: hidden;
 }
 
