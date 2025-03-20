@@ -24,6 +24,8 @@ export default async function(eleventyConfig) {
 
   eleventyConfig.setLibrary("md", markdownRenderer);
 
+  eleventyConfig.addPassthroughCopy("./src/admin/config.yml"); 
+
   eleventyConfig.addFilter("excerpt", (post) => {
     const content = post.replace(/(<([^>]+)>)/gi, "");
     if (content.length > 250) {
