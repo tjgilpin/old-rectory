@@ -20,7 +20,7 @@
   </head>
   <body class="page_{% if page.fileSlug %}{{ page.fileSlug }}{% else %}home{% endif %}{% if class %} page_{{ class }}{% endif %}">
     <header>
-      <a href="/">Tim Gilpin</a>
+      <a href="/"><img src="{{ settings.logo }}" alt="{{ settings.name }}" /></a>
       <nav aria-label="Main">
         <ul>
           {% for item in collections.all | eleventyNavigation %}
