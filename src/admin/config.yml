@@ -21,3 +21,34 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Featured Image", name: "image", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
+  - label: "Settings"
+    name: "settings"
+    editor:
+      preview: false
+    files:
+      - label: "Settings"
+        name: "settings"
+        file: "src/_data/settings.yaml"
+        fields:
+          - { label: "Logo", name: "logo", widget: "image", allow_multiple: false }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "URL", name: "url", widget: "string" }
+          - { label: "Name", name: "name", widget: "string" }
+          - { label: "Locale", name: "locale", widget: "string", default: "en_GB", hint: "To infinity and beyond!" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Image", name: "image", widget: "image", allow_multiple: false }
+          - { label: "Image width", name: "width", widget: "number", default: 1200 }          
+          - { label: "Image height", name: "height", widget: "number", default: 630 }          
+          - { label: "Image alt", name: "alt", widget: "string" }
+      - label: "Footer Links"
+        name: "footerlinks"
+        file: "src/_data/footerlinks.yaml"
+        fields:
+          - label: Footer Links
+            name: links
+            widget: list
+            collapsed: false
+            fields:
+              - { label: Title, name: title, widget: string }
+              - { label: URL, name: url, widget: string }
+              - { label: Description, name: desc, widget: string }
