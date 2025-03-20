@@ -1,20 +1,21 @@
 backend:
   name: github
   repo: tjgilpin/old-rectory
-  branch: main # Branch to update (optional; defaults to master)
+  branch: main
   site_domain: https://old-rectory.pages.dev
   base_url: https://old-rectory.pages.dev
   auth_endpoint: /api/auth
-media_folder: assets/img
-public_folder: /assets/img
+media_folder: assets/images
+public_folder: /assets/images
 collections:
-  - name: 'pages'
-    label: 'Pages'
-    folder: 'content/pages'
+  - name: "pages"
+    label: "Pages"
+    folder: "content/pages"
     create: true
-    slug: '{{slug}}'
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" 
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Featured Image", name: "image", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }
