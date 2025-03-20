@@ -2,17 +2,19 @@ backend:
   name: github
   repo: tjgilpin/old-rectory
   branch: main
-  site_domain: https://old-rectory.pages.dev
-  base_url: https://old-rectory.pages.dev
+  site_domain: https://dev.theoldrectoryhastings.co.uk
+  base_url: https://dev.theoldrectoryhastings.co.uk
   auth_endpoint: /api/auth
-media_folder: assets/images
-public_folder: /assets/images
+media_folder: assets/img
+public_folder: /img
 collections:
   - name: "pages"
     label: "Pages"
     folder: "content/pages"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" 
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor:
+      preview: false    
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - { label: "Title", name: "title", widget: "string" }
