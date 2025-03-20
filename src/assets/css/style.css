@@ -104,9 +104,6 @@ body:not(.page_articles) main {
 html {
   box-sizing: border-box;
   overflow-x: hidden;
-  background-image: linear-gradient(to right, #f9f9f9 1px, transparent 1px), linear-gradient(to bottom, #f9f9f9 1px, transparent 1px);
-  background-size: 20px 20px;
-  background-attachment: fixed;  
 }
 
 *, *:before, *:after {
@@ -125,10 +122,9 @@ body {
 body > header {
   padding: 1rem 2rem;
   column-gap: 2rem;
-  background: var(--primary);
+  background: var(--light);
   display: flex;
   flex-wrap: wrap;
-  align-items: baseline;
   column-gap: 1rem;
 }
 
@@ -447,6 +443,11 @@ main a:hover {
   white-space: nowrap;
 } */
 
+nav {
+  display: flex;
+  align-items: center;
+}
+
 nav ul {
   margin: 0;
   /* overflow-x: scroll;
@@ -464,8 +465,8 @@ nav ul li a {
 
 footer {
   padding: 1rem;
-  background: var(--secondary);
-  color: var(--light);
+  /* background: var(--secondary);
+  color: var(--light); */
 }
 
 footer ul {
