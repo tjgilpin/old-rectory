@@ -1,10 +1,15 @@
-title: Eleventy Simple Starter Template
-description: Minimal eleventy template with basic configuration for pages and posts
-author: Tim Gilpin
-locale: en_GB
-image: /assets/img/496404201.jpg
-imageWidth: 1280
 imageHeight: 630
+width: 500
+height: 200
+alt: Image Alt
+imageWidth: 1280
+author: Tim Gilpin
+logo: /img/logo.svg
+name: The Old Rectory
 imageAlt: Screenshot of website at https://timgilp.in
-#  overrides default `posts`
-# postsUrl: articles
+description: Yada yada yada Minimal eleventy template with basic configuration
+  for pages and posts oh yeah
+url: https://theoldrectoryhastings.co.uk
+locale: en_GB
+title: Eleventy Simple Starter Template
+image: /assets/img/496404201.jpg
