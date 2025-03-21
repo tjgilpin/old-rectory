@@ -1,6 +1,6 @@
 ---
 title: Our Rooms
 eleventyExcludeFromCollections: false
-order: 0
+order: 10
 ---
 Our Rooms
