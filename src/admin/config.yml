@@ -10,13 +10,13 @@ public_folder: /assets/img
 collections:
   - label: "Pages"
     name: "pages"
-    folder: "src/pages"
+    folder: "src/content/pages"
     create: true
     editor:
       preview: false    
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Author", name: "author", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string", required: false, hint: "Title is used for URL slug, use this to override" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Remove from Navigation", name: "eleventyExcludeFromCollections", widget: "boolean", default: false }
       - { label: "Navigation Order", name: "order", widget: "number", default: 0 }
@@ -33,7 +33,7 @@ collections:
           - { label: "Description", name: "description", widget: "string" }
           - { label: "URL", name: "url", widget: "string" }
           - { label: "Name", name: "name", widget: "string" }
-          - { label: "Locale", name: "locale", widget: "string", default: "en_GB", hint: "To infinity and beyond!" }
+          - { label: "Locale", name: "locale", widget: "string", default: "en_GB"}
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Image", name: "image", widget: "image", allow_multiple: false }
           - { label: "Image width", name: "width", widget: "number", default: 1200 }          

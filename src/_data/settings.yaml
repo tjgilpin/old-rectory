@@ -4,7 +4,7 @@ height: 200
 alt: Image Alt
 imageWidth: 1280
 author: Tim Gilpin
-logo: /img/logo.svg
+logo: /assets/img/logo.svg
 name: The Old Rectory
 imageAlt: Screenshot of website at https://timgilp.in
 description: Yada yada yada Minimal eleventy template with basic configuration
