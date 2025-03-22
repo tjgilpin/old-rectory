@@ -30,10 +30,10 @@ collections:
       - { label: "Page Type", name: "type", widget: "select", options: ["page", "subpage"] }
       - { label: "Page Title", name: "title", widget: "string", required: true }
       - { 
-          label: "Parent Category", 
-          name: "parent_category", 
+          label: "Parent Page", 
+          name: "parent_page", 
           widget: "relation",
-          collection: "categories", 
+          collection: "pages", 
           value_field: "title",  # Stores category name directly
           search_fields: ["title"],  # Searchable by title
           display_fields: ["title"]  # Display title in dropdown
