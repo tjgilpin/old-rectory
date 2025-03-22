@@ -1,4 +1,0 @@
----
-type: category
-title: Category
----

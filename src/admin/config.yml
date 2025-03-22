@@ -11,17 +11,18 @@ collections:
   # Categories Collection (Folder-Based)
   - name: "categories"
     label: "Categories"
-    folder: "content/pages"
+    folder: "src/content/pages"
     create: true  # Allow adding new categories
     slug: "{{slug}}"  # Generates slug from title
     filter: {field: "type", value: "category"}    
     fields:
       - { label: "Page Type", name: "type", widget: "select", options: ["category", "page"] }
       - { label: "Category Name", name: "title", widget: "string", required: true }
+      - { label: "Content", name: "body", widget: "markdown" }      
   # Pages Collection (Folder-Based)
   - name: "pages"
     label: "Pages"
-    folder: "content/pages"
+    folder: "src/content/pages"
     create: true  # Allow adding new pages
     slug: "{{slug}}"  # Generates slug from title
     filter: {field: "type", value: "page"}    
