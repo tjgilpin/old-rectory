@@ -21,6 +21,6 @@
     "markdown-it-attrs": "^4.3.1"
   },
   "devDependencies": {
-    "wrangler": "^4.2.0"
+    "wrangler": "^4.4.0"
   }
 }

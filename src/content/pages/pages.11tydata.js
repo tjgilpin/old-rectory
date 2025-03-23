@@ -7,7 +7,7 @@ export default function() {
     eleventyComputed: {
       eleventyNavigation: data => {
         // Check if the page has `eleventyNavigation.hide` set to `true`
-        if (data.hide) {
+        if (data.hide === true) {
           return undefined; // Exclude from navigation
         }
         // Include in navigation if no `hide` flag is set
