@@ -8,27 +8,27 @@ backend:
 media_folder: assets/img
 public_folder: /assets/img
 collections:
-  # Categories Collection (Folder-Based)
+  # Pages Collection (Folder-Based)
   - name: "pages"
     label: "Pages"
     folder: "src/content/pages"
     create: true  # Allow adding new categories
-    slug: "{{slug}}"  # Generates slug from title
     filter: {field: "type", value: "page"}    
     fields:
       - { label: "Page Type", name: "type", widget: "select", options: ["page", "subpage"] }
-      - { label: "Category Name", name: "title", widget: "string", required: true }
-      - { label: "Content", name: "body", widget: "markdown" }      
-  # Pages Collection (Folder-Based)
+      - { label: "Page Name", name: "title", widget: "string", required: true }
+      - { label: "Slug", name: "slug", widget: "string", required: false, hint: "Override title for URL slug" }
+      - { label: "Content", name: "body", widget: "markdown" }     
+      - { label: "Remove from Navigation", name: "hide", widget: "boolean", default: false }
+      - { label: "Navigation Order", name: "order", widget: "number", default: 10 }
+  # Sub Pages Collection (Folder-Based)
   - name: "subpages"
     label: "Sub Pages"
     folder: "src/content/pages"
     create: true  # Allow adding new pages
-    slug: "{{slug}}"  # Generates slug from title
     filter: {field: "type", value: "subpage"}    
     fields:
       - { label: "Page Type", name: "type", widget: "select", options: ["page", "subpage"] }
-      - { label: "Page Title", name: "title", widget: "string", required: true }
       - { 
           label: "Parent Page", 
           name: "parent_page", 
@@ -38,7 +38,11 @@ collections:
           search_fields: ["title"],  # Searchable by title
           display_fields: ["title"]  # Display title in dropdown
         }
+      - { label: "Page Title", name: "title", widget: "string", required: true }
+      - { label: "Slug", name: "slug", widget: "string", required: false, hint: "Override title for URL slug" }
       - { label: "Content", name: "body", widget: "markdown" }
+      - { label: "Remove from Navigation", name: "hide", widget: "boolean", default: false }
+      - { label: "Navigation Order", name: "order", widget: "number", default: 10 }
   - label: "Settings & Footer Content"
     name: "settings"
     editor:
