@@ -34,7 +34,7 @@ collections:
           name: "parent_page", 
           widget: "relation",
           collection: "pages", 
-          value_field: ["title", "slug"],  # Stores category name directly
+          value_field: "title",  # Stores category name directly
           search_fields: ["title"],  # Searchable by title
           display_fields: ["title"]  # Display title in dropdown
         }
