@@ -2,6 +2,6 @@
 type: page
 title: About
 hide: false
-order: 100
+order: 130
 ---
-Cafe content
+About content
