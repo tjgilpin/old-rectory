@@ -2,8 +2,8 @@ export default function() {
   return {
     permalink: function (data) {
       let slug = data.title
-      if (data.parent_path) {
-        slug = `${data.parent_path}/${slug}`;
+      if (data.parent_page) {
+        slug = `${data.parent_page}/${slug}`;
       }
       return `/${this.slugify(slug)}/index.html`; // Default permalink
     },
