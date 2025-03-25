@@ -2,6 +2,6 @@
 type: page
 title: Cafe
 hide: false
-order: 90
+order: 110
 ---
 Cafe content
