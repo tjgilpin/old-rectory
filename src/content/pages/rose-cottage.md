@@ -1,7 +1,7 @@
 ---
 type: page
 title: About
-hide: false
+hide: true
 order: 130
 ---
 About content
