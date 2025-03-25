@@ -1,7 +1,10 @@
 export default function() {
   return {
     permalink: function (data) {
-      const slug = data.slug || data.title
+      let slug = data.title
+      if (data.parent_path) {
+        slug = `${data.parent_path}/${slug}`;
+      }
       return `/${this.slugify(slug)}/index.html`; // Default permalink
     },
     eleventyComputed: {
