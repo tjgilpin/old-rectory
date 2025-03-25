@@ -3,9 +3,13 @@ export default function() {
     permalink: function (data) {
       let slug = data.title
       if (data.parent_page) {
-        slug = `${data.parent_page}/${slug}`;
+        const slugPage = this.slugify(data.parent_page);
+        const slugSub = this.slugify(data.title);
+        slug = `${slugPage}/${slugSub}`;
+      } else {
+        slug = this.slugify(slug);
       }
-      return `/${this.slugify(slug)}/index.html`; // Default permalink
+      return `/${slug}/index.html`; // Default permalink
     },
     eleventyComputed: {
       eleventyNavigation: data => {
