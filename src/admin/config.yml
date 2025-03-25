@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: tjgilpin/old-rectory
+  repo: tjgilpin/old-rectory  
   branch: main
   site_domain: https://dev.theoldrectoryhastings.co.uk
   base_url: https://dev.theoldrectoryhastings.co.uk
@@ -12,12 +12,11 @@ collections:
   - name: "pages"
     label: "Pages"
     folder: "src/content/pages"
-    create: true  # Allow adding new categories
+    create: true  # Allow adding new pages
     filter: {field: "type", value: "page"}    
     fields:
       - { label: "Page Type", name: "type", widget: "select", options: ["page", "subpage"] }
-      - { label: "Page Name", name: "title", widget: "string", required: true }
-      - { label: "Slug", name: "slug", widget: "string", required: false, hint: "Override title for URL slug" }
+      - { label: "Page Title", name: "title", widget: "string", required: true }
       - { label: "Content", name: "body", widget: "markdown" }     
       - { label: "Remove from Navigation", name: "hide", widget: "boolean", default: false }
       - { label: "Navigation Order", name: "order", widget: "number", default: 10 }
@@ -25,7 +24,7 @@ collections:
   - name: "subpages"
     label: "Sub Pages"
     folder: "src/content/pages"
-    create: true  # Allow adding new pages
+    create: true  # Allow adding new sub pages
     filter: {field: "type", value: "subpage"}    
     fields:
       - { label: "Page Type", name: "type", widget: "select", options: ["page", "subpage"] }
@@ -34,12 +33,11 @@ collections:
           name: "parent_page", 
           widget: "relation",
           collection: "pages", 
-          value_field: "title",  # Stores category name directly
+          value_field: "title",  # Stores parent page name directly
           search_fields: ["title"],  # Searchable by title
           display_fields: ["title"]  # Display title in dropdown
         }
       - { label: "Page Title", name: "title", widget: "string", required: true }
-      - { label: "Slug", name: "slug", widget: "string", required: false, hint: "Override title for URL slug" }
       - { label: "Content", name: "body", widget: "markdown" }
       - { label: "Remove from Navigation", name: "hide", widget: "boolean", default: false }
       - { label: "Navigation Order", name: "order", widget: "number", default: 10 }
