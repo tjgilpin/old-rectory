@@ -1,6 +1,6 @@
 ---
 type: page
-title: Rose Cottage
+title: About
 hide: false
 order: 100
 ---
