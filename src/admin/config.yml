@@ -39,8 +39,6 @@ collections:
         }
       - { label: "Page Title", name: "title", widget: "string", required: true }
       - { label: "Content", name: "body", widget: "markdown" }
-      - { label: "Remove from Navigation", name: "hide", widget: "boolean", default: false }
-      - { label: "Navigation Order", name: "order", widget: "number", default: 10 }
   - label: "Settings & Footer Content"
     name: "settings"
     editor:

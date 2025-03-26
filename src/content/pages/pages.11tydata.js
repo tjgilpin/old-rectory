@@ -2,6 +2,9 @@ export default function() {
   return {
     permalink: function (data) {
       let slug = data.title
+      if (slug === 'Home') {
+        return '/index.html'; // Home page
+      }
       if (data.parent_page) {
         const slugPage = this.slugify(data.parent_page);
         const slugSub = this.slugify(data.title);
