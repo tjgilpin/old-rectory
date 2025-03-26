@@ -6,6 +6,8 @@ order: 10
 ---
 ![Photo of luxurious bedroom](/assets/img/our-rooms-hero.jpg "Our Rooms")
 
+<div class="section-block">
+
 ## Our Rooms
 
 [Each of our rooms, named after streets of Hastings Old Town, are uniquely designed. Featuring works by local artists & designers, views of our stunning walled garden or the beautiful streets of Hastings & a mixture of wetrooms, walk-in showers & roll-top baths. Each room has been carefully curated to offer something to suit everyone.](/our-rooms)
@@ -16,7 +18,7 @@ order: 10
 
 ![](/assets/img/our-rooms-hero.jpg)
 
-<div>
+<div class="section-block">
 
 ## Food & Drink
 
