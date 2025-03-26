@@ -5,7 +5,7 @@ backend:
   site_domain: https://dev.theoldrectoryhastings.co.uk
   base_url: https://dev.theoldrectoryhastings.co.uk
   auth_endpoint: /api/auth
-media_folder: assets/img
+media_folder: src/assets/img
 public_folder: /assets/img
 collections:
   # Pages Collection (Folder-Based)
