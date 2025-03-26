@@ -4,7 +4,7 @@ title: Home
 hide: true
 order: 10
 ---
-![](/assets/img/cats-bed.png)
+![](/assets/img/our-rooms-hero.jpg)
 
 <div>
 
@@ -18,7 +18,7 @@ Each of our rooms, named after streets of Hastings Old Town, are uniquely design
 
 
 
-![](/assets/img/cats-bed.png)
+![](/assets/img/our-rooms-hero.jpg)
 
 <div>
 
