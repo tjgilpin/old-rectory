@@ -16,7 +16,7 @@ order: 10
 
 </div>
 
-![](/assets/img/our-rooms-hero.jpg)
+![Photo of roast lunch](/assets/img/hero-image-food-drink.jpg "Food & Drink")
 
 <div class="section-block">
 
