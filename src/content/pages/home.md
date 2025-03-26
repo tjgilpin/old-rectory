@@ -22,8 +22,8 @@ order: 10
 
 ## [Food & Drink](/food-drink)
 
-[Each of our rooms, named after streets of Hastings Old Town, are uniquely designed. Featuring works by local artists & designers, views of our stunning walled garden or the beautiful streets of Hastings & a mixture of wetrooms, walk-in showers & roll-top baths. Each room has been carefully curated to offer something to suit everyone.](/food-drink)
+[**Whether it’s an a la carte, two course breakfast, an Afternoon Tea or Sunday lunch with friends The Old Rectory is a hub for traditional English dishes.** With award winning marmalade, homemade sausages and black pudding, signature battenberg & house cocktails](/food-drink)
 
-[Click here to eat and drink](/food-drink)
+[View Menus and Book](/food-drink)[](/food-drink)
 
 </div>
