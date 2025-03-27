@@ -6,7 +6,7 @@ order: 10
 ---
 ![Photo of luxurious bedroom](/assets/img/our-rooms-hero.jpg "Our Rooms")
 
-<div class="section-block">
+<div class="section-block our-rooms">
 
 ## [Our Rooms](/our-rooms)
 
