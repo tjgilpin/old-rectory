@@ -10,11 +10,11 @@ public_folder: /assets/img
 collections:
   - label: "Home Pages"
     name: "homepages"
+    slug: "_site/index.html"
     files:
       - label: "Home Page"
         name: "home"
         file: "src/_data/home.yml"
-        slug: "_site/index.html"
         fields:
           - {label: "Header Image", name: headerimage, widget: image}
           - {label: "Header Logo", name: headerlogo, widget: image}            
