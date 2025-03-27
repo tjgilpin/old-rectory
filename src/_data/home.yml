@@ -1,5 +1,5 @@
 headerimage: /assets/img/hero-carousel.jpg
-headerlogo: /assets/img/logo.svg
+headerlogo: /assets/img/logo-reversed.svg
 sections:
   - url: /our-rooms
     sectionimage: /assets/img/our-rooms-hero.jpg
