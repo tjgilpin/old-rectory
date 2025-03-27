@@ -8,19 +8,23 @@ sections:
       stunning walled garden or the beautiful streets of Hastings & a mixture of
       wetrooms, walk-in showers & roll-top baths. Each room has been carefully
       curated to offer something to suit everyone.
+    title: Our Rooms
   - url: /food-drink
     sectionimage: /assets/img/hero-image-food-drink.jpg
     body: Whether it’s an a la carte, two course breakfast, an Afternoon Tea or
       Sunday lunch with friends The Old Rectory is a hub for traditional English
       dishes. With award winning marmalade, homemade sausages and black pudding,
       signature battenberg & house cocktails.
+    title: Food & Drink
   - url: /weddings
     sectionimage: /assets/img/hero-image-weddings.jpg
     body: Our Victorian walled garden is a glorious backdrop for your special day.
       From romantic micro-weddings to spectacular late night receptions The Old
       Rectory helps you create a bespoke experience for you & your guests.
+    title: Weddings
   - url: /treatment-rooms
     sectionimage: /assets/img/hero-image-treatments.jpg
     body: Established in 2017, the Treatment Rooms offer a range of wellness and
       beauty therapies in a calm and tranquil setting. Bookings are open to the
       public, as well as to guests of The Old Rectory.
+    title: Treatement Rooms
