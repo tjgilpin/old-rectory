@@ -1,0 +1,6 @@
+headerimage: /assets/img/hero-image-food-drink.jpg
+headerlogo: /assets/img/logo.svg
+sections:
+  - url: /our-rooms
+    sectionimage: /assets/img/our-rooms-hero.jpg
+    body: Our room content
