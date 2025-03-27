@@ -8,6 +8,23 @@ backend:
 media_folder: src/assets/img
 public_folder: /assets/img
 collections:
+  - label: "Home Pages"
+    name: "homepages"
+    files:
+      - label: "Home Page"
+        name: "home"
+        file: "src/_data/home.yml"
+        slug: "_site/iundex.html"
+        fields:
+          - {label: "Header Image", name: headerimage, widget: image}
+          - {label: "Header Logo", name: headerlogo, widget: image}            
+          - label: Sections
+            name: sections
+            widget: list
+            fields:
+              - {label: URL, name: url, widget: string}
+              - {label: "Section Image", name: sectionimage, widget: image}              
+              - { label: "Content", name: "body", widget: "markdown" }
   # Pages Collection (Folder-Based)
   - name: "pages"
     label: "Pages"
