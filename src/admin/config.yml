@@ -82,12 +82,19 @@ collections:
         fields:
           - { label: "Footer Logo", name: "logo", widget: "image", allow_multiple: false }
           - { label: Address, name: address, widget: text }
+          - label: Secondary Links
+            name: secondary
+            widget: list
+            collapsed: false
+            fields:
+              - { label: Title, name: title, widget: string }
+              - { label: URL, name: url, widget: string }
           - label: Social Links
             name: socials
             widget: list
             collapsed: false
             fields:
-              - { label: Title, name: title, widget: text }
+              - { label: Title, name: title, widget: string }
               - { label: SVG Icon, name: icon, widget: text }
               - { label: URL, name: url, widget: string }
           - { label: "Newsletter Embed", name: "newsletter", widget: "markdown" }     

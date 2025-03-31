@@ -50,11 +50,24 @@
         {{ footerlinks.address | safe }}
       </div>
       <div>
-        wtf: {{ footerlinks.socials }}
-        <ul>
+        <ul class="secondary">
+          {% for item in footerlinks.secondary %}
+            <li>
+              <a href="{{ item.url }}">{{ item.title }}</a>
+            </li>
+          {% endfor %}  
+        </ul>
+        <ul class="socials">
           {% for item in footerlinks.socials %}
             <li>
-              <a href="{{ item.url }}">{{ item.icon }}</a>
+              <a href="{{ item.url }}">{{ item.icon | safe }}</a>
+            </li>
+          {% endfor %}
+        </ul>              
+        <ul class="socials">
+          {% for item in footerlinks.socials %}
+            <li>
+              <a href="{{ item.url }}">{{ item.icon | safe }}</a>
             </li>
           {% endfor %}
         </ul>        

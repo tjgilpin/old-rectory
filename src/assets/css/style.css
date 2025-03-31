@@ -238,13 +238,13 @@ h1 {
   font-size: 1.5em;
 }
 
-a[href^="https://"]:after {
+/* a[href^="https://"]:after {
   content: "↗";
   display: inline-block;
   margin-left: 0.125em;
   font-size: 0.85em;
   font-weight: bold;
-}
+} */
 
 header > a {
   font-weight: bold;
@@ -475,6 +475,11 @@ footer {
   text-align: left;
   text-transform: uppercase;
 }
+
+.socials {
+  justify-content: center;
+}
+
 
 footer ul {
   column-gap: 1rem;
