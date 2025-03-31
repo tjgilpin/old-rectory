@@ -45,6 +45,20 @@
       {{ content | safe }}
     </main>
     <footer>
+      <div class="logo-address">
+        <img src="{{ footerlinks.logo }}" alt="The Old Rectory Cursive Logo" />
+        {{ footerlinks.address | safe }}
+      </div>
+      <div>
+        wtf: {{ footerlinks.socials }}
+        <ul>
+          {% for item in footerlinks.socials %}
+            <li>
+              <a href="{{ item.url }}">{{ item.icon }}</a>
+            </li>
+          {% endfor %}
+        </ul>        
+      </div>
       <p>
         &copy; {{ settings.author }} &amp; respective copyright holders
       </p>

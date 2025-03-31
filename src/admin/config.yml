@@ -78,13 +78,17 @@ collections:
           - { label: "Image alt", name: "alt", widget: "string" }
       - label: "Footer Content"
         name: "footerlinks"
-        file: "src/_data/footerlinks.yaml"
+        file: "src/_data/footerlinks.yml"
         fields:
-          - label: Footer Links
-            name: links
+          - { label: "Footer Logo", name: "logo", widget: "image", allow_multiple: false }
+          - { label: Address, name: address, widget: text }
+          - label: Social Links
+            name: socials
             widget: list
             collapsed: false
             fields:
-              - { label: Title, name: title, widget: string }
+              - { label: Title, name: title, widget: text }
+              - { label: SVG Icon, name: icon, widget: text }
               - { label: URL, name: url, widget: string }
-              - { label: Description, name: desc, widget: string }
+          - { label: "Newsletter Embed", name: "newsletter", widget: "markdown" }     
+          - { label: Copyright, name: copyright, widget: text }

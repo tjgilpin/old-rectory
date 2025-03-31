@@ -6,6 +6,11 @@
   --content-bg: maroon;
   --blue: rgba(37, 41, 68, 1);
 
+  --font-small: 0.85em;
+  --font-smaller: 0.7em;
+  --spacing-medium: 0.02em;
+  --spacing-large: 0.04em;
+
 
   /* heading responsive text */
   --hdg_min-fs: 2.75;
@@ -453,6 +458,22 @@ footer {
   padding: 1rem;
   /* background: var(--secondary);
   color: var(--light); */
+  text-align: center;
+  max-width: 130ch;
+  margin: 0 auto;  
+  font-weight: bold;
+  font-size: var(--font-small);
+  letter-spacing: var(--spacing-large);
+  text-transform: uppercase;
+}
+
+.logo-address {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  text-align: left;
+  text-transform: uppercase;
 }
 
 footer ul {
