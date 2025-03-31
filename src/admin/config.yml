@@ -10,7 +10,6 @@ public_folder: /assets/img
 collections:
   - label: "Home Pages"
     name: "homepages"
-    slug: "_site/index.html"
     files:
       - label: "Home Page"
         name: "home"
@@ -22,10 +21,11 @@ collections:
             name: sections
             widget: list
             fields:
-              - {label: Section Ttitle, name: title, widget: string}            
+              - {label: Section Title, name: title, widget: string}            
               - {label: URL, name: url, widget: string}
               - {label: "Section Image", name: sectionimage, widget: image}              
-              - { label: "Content", name: "body", widget: "markdown" }
+              - { label: Content, name: body, widget: markdown }
+              - { label: "Link Text", name: "cta", widget: string }
   # Pages Collection (Folder-Based)
   - name: "pages"
     label: "Pages"
