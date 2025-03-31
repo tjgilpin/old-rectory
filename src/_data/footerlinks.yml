@@ -22,6 +22,21 @@ links:
 
       </svg>
     url: https://theoldrectoryhastings.co.uk
+secondary:
+  - title: Vouchers
+    url: /vouchers
+  - title: Contact
+    url: /contact
+  - title: Find Us
+    url: /find-us
+  - title: FAQ
+    url: /faq
+  - title: Press
+    url: /press
+  - title: Privacy Policy
+    url: /privacy
+  - title: Terms &amp; Conditions
+    url: /terms
 socials:
   - title: Facebook
     url: https://facebook.com
