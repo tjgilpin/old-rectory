@@ -1,24 +1,4 @@
 logo: /assets/img/logo-r.svg
-address: |-
-  The Old Rectory<br/>
-  2 Harold Rd<br/>
-  Hastings, TN35 5ND
-url: https://maps.app.goo.gl/ZUKK95RXDoqBGPN6A
-secondary:
-  - title: Vouchers
-    url: /vouchers
-  - title: Contact
-    url: /contact
-  - title: Find Us
-    url: /find-us
-  - title: FAQ
-    url: /faq
-  - title: Press
-    url: /press
-  - title: Privacy Policy
-    url: /privacy
-  - title: Terms &amp; Conditions
-    url: /terms
 socials:
   - title: Facebook
     url: https://facebook.com
@@ -45,7 +25,32 @@ newsletter: |-
 
   <input type="text" placeholder="Enter your email address">\
   <button>Subscribe</button>
+certimage: /assets/img/michelin-2024.png
 copyright: "&copy; The Old Rectory. All rights reserved."
+url: https://maps.app.goo.gl/ZUKK95RXDoqBGPN6A
+address: |-
+  The Old Rectory<br/>
+  2 Harold Rd<br/>
+  Hastings, TN35 5ND
+mapurl: https://maps.app.goo.gl/ZUKK95RXDoqBGPN6A
+secondary:
+  - title: Vouchers
+    url: /vouchers
+  - title: Contact
+    url: /contact
+  - title: Find Us
+    url: /find-us
+  - title: FAQ
+    url: /faq
+  - title: Press
+    url: /press
+  - title: Privacy Policy
+    url: /privacy
+  - title: Terms &amp; Conditions
+    url: /terms
+certtitle: |-
+  **One MICHELIN Key**\
+  A very special stay
 links:
   - icon: >
       <svg width="32" height="32" viewBox="0 0 32 32" fill="none"
