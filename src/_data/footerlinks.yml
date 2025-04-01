@@ -41,7 +41,8 @@ socials:
       </svg>
     url: https://instagram.com
 newsletter: |-
-  <h4>Signup for news, special deals &amp; more</h4>\
+  #### Signup for news, special deals &amp; more
+
   <input type="text" placeholder="Enter your email address">\
   <button>Subscribe</button>
 copyright: "&copy; The Old Rectory. All rights reserved."
