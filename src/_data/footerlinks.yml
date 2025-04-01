@@ -21,7 +21,7 @@ socials:
       </svg>
     url: https://instagram.com
 newsletter: |-
-  # Signup for news, special deals &amp; more
+  <h4>Signup for news, special deals &amp; more</h4>
 
   <input type="text" placeholder="Enter your email address">\
   <button>Subscribe</button>
