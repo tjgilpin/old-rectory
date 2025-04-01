@@ -6,6 +6,7 @@
   --content-bg: maroon;
   --blue: rgba(37, 41, 68, 1);
   --blue-tint: rgba(37, 41, 68, 0.1);
+  --michelin-red: rgba(189, 35, 52, 1);
 
   --font-small: 0.85em;
   --font-smaller: 0.7em;
@@ -27,7 +28,7 @@
 
   --h2: 0.6;
   --h3: 0.4;
-  --h4: 0.3;
+  --h4: 0.1625;
 
   /* copy responsive text */
   --copy_min-fs: 1;
@@ -435,25 +436,6 @@ a {
   white-space: nowrap;
 } */
 
-nav {
-  display: flex;
-  align-items: center;
-}
-
-nav ul {
-  margin: 0;
-  /* overflow-x: scroll;
-  flex-wrap: nowrap;   */
-}
-
-nav ul li {
-  flex-shrink: 0;
-}
-
-nav ul li a {
-  display: inline-block;
-  padding: 0.375rem 0.75rem;
-}
 
 footer {
   padding: 1rem;
@@ -483,6 +465,32 @@ footer {
   border-top: double 7px var(--blue-tint);
   display: inline-flex;
   padding: 1rem 3vw;  
+}
+
+.copyright a {
+  text-decoration: underline;
+}
+
+.certification {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--michelin-red);
+  font-weight: normal;
+  margin-bottom: 1em;
+}
+
+.certification p {
+  text-align: left;
+  margin-left: 0.5em;
+}
+
+.certification strong {
+  display: block;
+}
+
+.certification img {
+  max-height: 65px;
 }
 
 behold-widget {
@@ -844,15 +852,6 @@ body > header {
   position: relative;
 }
 
-.michelin {
-  transform: rotate(4deg);
-  max-height: 90px;
-  position: absolute;
-  right: 0;
-  bottom: -1.5rem;
-  z-index: 1;
-}
-
 @media screen and (min-width: 50em) {
   .page_home .section-panel {
     display: grid;
@@ -915,3 +914,125 @@ h2 {
   margin: 0;
 }
 
+/* navaroonie */
+
+
+.michelin {
+  transform: rotate(4deg);
+  max-height: 90px;
+  position: absolute;
+  right: 0;
+  bottom: -1.5rem;
+  z-index: 1;
+  display: none;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+}
+
+nav ul {
+  margin: 0;
+  flex-direction: column;  
+  /* overflow-x: scroll;
+  flex-wrap: nowrap;   */
+}
+
+nav ul li {
+  flex-shrink: 0;
+}
+
+nav ul li a {
+  display: inline-block;
+  padding: 0.375rem 0.75rem;
+  padding: 1rem 2rem;
+}
+
+
+/* HAMBURGER MENU (for mobile) */
+.hamburger {
+  position: absolute;
+  top: 32px;
+  right: 10px;
+  background: none;
+  border: none;
+  outline: none;
+  display: none;
+  flex-direction: column;
+  gap: 6px;
+  cursor: pointer;
+  z-index: 1002;
+}
+
+.hamburger div {
+  width: 30px;
+  height: 3px;
+  background: var(--blue);
+  transition: 0.3s;
+}
+
+.close-btn {
+  position: absolute;
+  top: 13px;
+  right: 0; 
+  z-index: 1002;
+  display: none;
+  font-size: 2rem;
+  cursor: pointer;
+  padding: 0 1rem;
+}  
+
+.active {
+  display: flex;
+}
+
+nav {
+  position: absolute;
+  top: 32px;
+  right: 10px;  
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: var(--light);
+  z-index: 1000;
+  transition: 0.5s;
+  flex-direction: column;
+}
+
+nav a {
+  width: 100%;
+}
+
+nav ul {
+  width: 100%;
+}
+
+@media screen and (min-width: 900px) {
+  .hamburger {
+    display: none;
+  }
+  .michelin {
+    display: block;
+  }
+  nav {
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    width: auto;
+  }
+  nav ul {
+    flex-direction: row;  
+  }
+  nav ul li a {
+    display: inline-block;
+    width: auto;
+    padding: 0.375rem 0.75rem;
+  }
+    .close-btn {
+    display: none;
+  }  
+}
