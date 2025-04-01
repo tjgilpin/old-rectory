@@ -45,29 +45,45 @@
       {{ content | safe }}
     </main>
     <footer>
+      <behold-widget feed-id="LuryILy9SycrrOzuBkBm"></behold-widget>
+      <script>
+        (() => {
+          const d=document,s=d.createElement("script");s.type="module";
+          s.src="https://w.behold.so/widget.js";d.head.append(s);
+        })();
+      </script>      
       <div class="logo-address">
         <img src="{{ footerlinks.logo }}" alt="The Old Rectory Cursive Logo" />
         {{ footerlinks.address | safe }}
       </div>
+      <ul class="secondary">
+        {% for item in footerlinks.secondary %}
+          <li>
+            <a href="{{ item.url }}">{{ item.title | safe }}</a>
+          </li>
+        {% endfor %}  
+      </ul>           
+      <ul class="socials">
+        {% for item in footerlinks.socials %}
+          <li>
+            <a href="{{ item.url }}">{{ item.icon | safe }}</a>
+          </li>
+        {% endfor %}
+      </ul>
       <div>
-        <ul class="secondary">
-          {% for item in footerlinks.secondary %}
-            <li>
-              <a href="{{ item.url }}">{{ item.title | safe }}</a>
-            </li>
-          {% endfor %}  
-        </ul>             
-        <ul class="socials">
-          {% for item in footerlinks.socials %}
-            <li>
-              <a href="{{ item.url }}">{{ item.icon | safe }}</a>
-            </li>
-          {% endfor %}
-        </ul>        
+        {{ fooerlinks.newsletter }}
       </div>
-      <p>
-        &copy; {{ settings.author }} &amp; respective copyright holders
-      </p>
+      <div>
+        <img src="{{ footerlinks.badge }}" alt="{{ footerlinks.certification }}" />
+        <p>
+          {{ footerlinks.certification }}
+        </p>
+      </div>
+      <div class="copyright">
+        <p>
+          &copy; {{ settings.author }} &amp; respective copyright holders
+        </p>
+      </div>
     </footer>
   </body>
 </html>

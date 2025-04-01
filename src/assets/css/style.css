@@ -5,6 +5,7 @@
   --dark: oklch(0 0 0); /* black */
   --content-bg: maroon;
   --blue: rgba(37, 41, 68, 1);
+  --blue-tint: rgba(37, 41, 68, 0.1);
 
   --font-small: 0.85em;
   --font-smaller: 0.7em;
@@ -474,11 +475,21 @@ footer {
   gap: 1rem;
   text-align: left;
   text-transform: uppercase;
-  border-top: double 9px var(--blue);
+  border-top: double 7px var(--blue-tint);
   padding: 1rem 3vw;
 }
 
-.socials {
+.copyright {
+  border-top: double 7px var(--blue-tint);
+  display: inline-flex;
+  padding: 1rem 3vw;  
+}
+
+behold-widget {
+  margin: 2rem 0;
+}
+
+.socials, .secondary {
   justify-content: center;
 }
 
