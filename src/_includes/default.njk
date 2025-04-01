@@ -64,7 +64,7 @@
         {% endfor %}
       </ul>
       <div>
-        {{ footerlinks.newsletter }}
+        {{ footerlinks.newsletter | safe }}
       </div>
       <div>
         <img src="{{ footerlinks.certimage }}" alt="Certification" />
@@ -74,7 +74,7 @@
       </div>
       <div class="copyright">
         <p>
-          &copy; {{ settings.author }} &amp; respective copyright holders
+          {{ footerlinks.copyright | safe }} &ndash; Site by <a href="https://timgilp.in">Tim Gilpin</a>
         </p>
       </div>
     </footer>
