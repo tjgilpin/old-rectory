@@ -47,7 +47,7 @@
     <footer>     
       <div class="logo-address">
         <img src="{{ footerlinks.logo }}" alt="The Old Rectory Cursive Logo" />
-        {{ footerlinks.address | safe }}
+        <a href="{{ mapurl | safe }}">{{ footerlinks.address | safe }}</a>
       </div>
       <ul class="secondary">
         {% for item in footerlinks.secondary %}
@@ -67,9 +67,9 @@
         {{ footerlinks.newsletter }}
       </div>
       <div>
-        <img src="{{ footerlinks.certification.badge }}" alt="{{ footerlinks.certification }}" />
+        <img src="{{ footerlinks.certimage }}" alt="Certification" />
         <p>
-          {{ footerlinks.certification.title }}
+          {{ footerlinks.certtitle }}
         </p>
       </div>
       <div class="copyright">
