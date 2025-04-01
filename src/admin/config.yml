@@ -76,13 +76,13 @@ collections:
           - { label: "Image width", name: "width", widget: "number", default: 1200 }          
           - { label: "Image height", name: "height", widget: "number", default: 630 }          
           - { label: "Image alt", name: "alt", widget: "string" }
-      - label: "Footer Content"
-        name: "footerlinks"
+      - label: Footer Content
+        name: footerlinks
         file: "src/_data/footerlinks.yml"
         fields:
-          - { label: "Footer Logo", name: "logo", widget: "image", allow_multiple: false }
+          - { label: Footer Logo, name: logo, widget: image, allow_multiple: false }
           - { label: Address, name: address, widget: markdown }
-          - { label: URL, name: url, widget: string }
+          - { label: Map URL, name: mapurl, widget: string }
           - label: Secondary Links
             name: secondary
             widget: list
@@ -98,10 +98,7 @@ collections:
               - { label: Title, name: title, widget: string }
               - { label: SVG Icon, name: icon, widget: text }
               - { label: URL, name: url, widget: string }
-          - { label: "Newsletter Embed", name: newsletter, widget: markdown, minimal: true }
-          - label: Certification
-            name: certification
-            fields:
-              - { label: Title, name: title, widget: string }
-              - { label: Image, name: image, widget: image, allow_multiple: false }
+          - { label: Newsletter Embed, name: newsletter, widget: markdown, minimal: true }
+          - { label: Certification Title, name: certtitle, widget: markdown, minimal: true }
+          - { label: Certification Image, name: certimage, widget: image, allow_multiple: false }
           - { label: Copyright, name: copyright, widget: text }
