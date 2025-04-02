@@ -18,7 +18,7 @@
     <meta property="og:image:alt" content="{{ settings.imageAlt }}">
     <link rel="stylesheet" href="/assets/css/style.css">
   </head>
-  <body class="page_{% if page.fileSlug %}{{ page.fileSlug }}{% else %}home{% endif %}{% if class %} page_{{ class }}{% endif %}">
+  <body class="page_{{ title | slugify }}{% if parent_page %} subpage_{{ parent_page | slugify }}{% endif %}">
     <header>
       <a href="/"><img src="{{ settings.logo }}" alt="{{ settings.name }}" /></a>
       <button class="hamburger active" aria-label="Open menu">
@@ -30,11 +30,9 @@
       <nav aria-label="Main">
         <ul>
           {% for entry in collections.all | eleventyNavigation %}
-            {% if entry.url != '/' %}  {# Exclude home page #}
-              <li>
+              <li class="{% if entry.url == page.url %}active{% endif %} {{ entry.title | slugify }}">
                 <a href="{{ entry.url }}">{{ entry.title }}</a>
               </li>
-            {% endif %}
           {% endfor %}
         </ul>
       </nav>

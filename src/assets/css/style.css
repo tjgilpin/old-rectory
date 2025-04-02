@@ -102,10 +102,10 @@ h4 {
   font-size: clamp(calc(var(--hdg_min-fs-rem) * var(--h4)), calc((var(--hdg_min-fs-rem) + var(--hdg_slope)) * var(--h4)), (calc(var(--hdg_max-fs-rem) * var(--h4))));
 }
 
-body:not(.page_articles) main {
+/* body:not(.page_articles) main {
   font-size: clamp(var(--copy_min-fs-rem), var(--copy_min-fs-rem) + var(--copy_slope), var(--copy_max-fs-rem));
   /* max-width: 85ch; */
-}
+} */
 
 html {
   box-sizing: border-box;
@@ -852,7 +852,7 @@ body > header {
   position: relative;
 }
 
-@media screen and (min-width: 50em) {
+@media screen and (min-width: 1000px) {
   .page_home .section-panel {
     display: grid;
     grid-template-columns: 1fr 1fr;

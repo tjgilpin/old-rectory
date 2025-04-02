@@ -23,7 +23,7 @@ export default function() {
         // Include in navigation if no `hide` flag is set
         return {
           key: data.title,
-          order: data.order
+          order: data.order || 0,
         };
       }
     },
