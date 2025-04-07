@@ -41,6 +41,9 @@
     <main>
       {% if title and title != 'Home'  %}
         <header>
+          {% if type == 'page' or type == "subpage" %}
+            <img src="{{ headerimage }}" alt="{{ title }}" class="hero" />
+          {% endif %}          
           <h1>
             {{ title }}
           </h1>

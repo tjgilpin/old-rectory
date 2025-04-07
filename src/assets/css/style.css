@@ -838,9 +838,27 @@ main header {
   margin-right: -50vw;
   max-width: 100vw;
   width: 100vw;  
-  max-height: 20em;
   overflow-y: clip;
   margin-bottom: 1rem;
+}
+
+.page_home main header {
+  max-height: 20em;
+}
+/* 
+.hero {
+  transform: translateY(-25%);
+} */
+
+header h1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-top: 0;
+  text-transform: uppercase;
+  color: var(--white);
+  font-size: clamp(1.5em, 8vw, 12.5em);
 }
 
 .logo {
