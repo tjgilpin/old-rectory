@@ -96,13 +96,13 @@ h1 {
   font-size: clamp(calc(var(--hdg_min-fs-rem) * var(--h2)), calc((var(--hdg_min-fs-rem) + var(--hdg_slope)) * var(--h2)), (calc(var(--hdg_max-fs-rem) * var(--h2))));
 } */
 
-h3 {
+/* h3 {
   font-size: clamp(calc(var(--hdg_min-fs-rem) * var(--h3)), calc((var(--hdg_min-fs-rem) + var(--hdg_slope)) * var(--h3)), (calc(var(--hdg_max-fs-rem) * var(--h3))));
 }
 
 h4 {
   font-size: clamp(calc(var(--hdg_min-fs-rem) * var(--h4)), calc((var(--hdg_min-fs-rem) + var(--hdg_slope)) * var(--h4)), (calc(var(--hdg_max-fs-rem) * var(--h4))));
-}
+} */
 
 /* body:not(.page_articles) main {
   font-size: clamp(var(--copy_min-fs-rem), var(--copy_min-fs-rem) + var(--copy_slope), var(--copy_max-fs-rem));
@@ -404,7 +404,7 @@ figure {
 }
 
 main {
-  max-width: 130ch;
+  max-width: 90em;
   /* width: 100%; */
   padding: 0 1rem 1rem 1rem;
   margin: 0 auto;
@@ -467,7 +467,8 @@ footer {
 .copyright {
   border-top: double 7px var(--blue-tint);
   display: inline-flex;
-  padding: 1rem 3vw;  
+  padding: 1rem 3vw;
+  justify-content: center;  
 }
 
 .copyright a {
@@ -531,6 +532,10 @@ img {
   max-width: 100%;
   height: 100%;
   object-fit: cover;
+}
+
+img[src$=".svg"] {
+  object-fit: contain;
 }
 
 input, textarea {
@@ -861,6 +866,50 @@ body > header {
   margin-bottom: 2em;
 }
 
+.page_home .content {
+  display: grid;
+  grid-auto-rows: 1fr;
+  row-gap: 1rem;
+}
+
+body > footer {
+  letter-spacing: var(--spacing-larger);
+  display: grid;
+  row-gap: 0.5rem;  
+}
+
+.newsletter {
+  display: inline-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.newsletter h4 {
+  flex-basis: 100%;
+}
+
+.newsletter input, .newsletter button {
+  flex-basis: clamp(4em, 30%, 12em);
+}
+
+input {
+  background: var(--blue-tint);
+  border: 0;
+  padding: 1em;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, Futura, sans-serif;   
+}
+
+button {
+  background: var(--blue);
+  border: 0;
+  padding: 1em 2em;
+  color: var(--white);
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, Futura, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: var(--spacing-larger);
+  cursor: pointer;
+}
+
 .section-panel p {
   letter-spacing: var(--spacing-medium);
   text-align: justify;
@@ -903,6 +952,11 @@ body > header {
   position: relative;
   text-align: center;
   font-size: clamp(1.5em, 8vw, 5em);
+}
+
+h4 {
+  font-size: 1.25em;
+  letter-spacing: var(--spacing-larger);  
 }
 
 @media screen and (min-width: 900px) {
