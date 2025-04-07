@@ -468,7 +468,8 @@ footer {
   border-top: double 7px var(--blue-tint);
   display: inline-flex;
   padding: 1rem 3vw;
-  justify-content: center;  
+  justify-content: center;
+  font-weight: normal;
 }
 
 .copyright a {
@@ -481,7 +482,7 @@ footer {
   align-items: center;
   color: var(--michelin-red);
   font-weight: normal;
-  margin-bottom: 1em;
+  margin: 1rem 0;
 }
 
 .certification p {
@@ -850,6 +851,7 @@ main header {
   top: 50%;
   filter:  brightness(0) invert(1);
   max-height: 12em;
+  height: 80%;
 }
 
 .hero {
@@ -875,13 +877,14 @@ body > header {
 body > footer {
   letter-spacing: var(--spacing-larger);
   display: grid;
-  row-gap: 0.5rem;  
+  row-gap: 1rem;
 }
 
 .newsletter {
   display: inline-flex;
   flex-wrap: wrap;
   justify-content: center;
+  column-gap: 1rem;
 }
 
 .newsletter h4 {
