@@ -2,6 +2,12 @@
 type: page
 title: Our Rooms
 headerimage: /assets/img/our-rooms-hero.jpg
+sections:
+  - title: Crown Room
+    url: the-crown
+    sectionimage: /assets/img/36-dsc00377.jpg
+    body: This is the crown text
+    cta: CTA
 hide: false
 order: 10
 ---
