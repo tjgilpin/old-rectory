@@ -1,7 +1,7 @@
 ---
 type: page
 title: Our Rooms
-headerimage: /assets/img/36-dsc00377.jpg
+headerimage: /assets/img/our-rooms-hero.jpg
 hide: false
 order: 10
 ---
