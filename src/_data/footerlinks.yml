@@ -23,7 +23,7 @@ socials:
 newsletter: |-
   <h4>Signup for news, special deals &amp; more</h4>
 
-  <input type="text" placeholder="Enter your email address">\
+  <input type="text" placeholder="Enter your email address">
   <button>Subscribe</button>
 certimage: /assets/img/michelin-2024.png
 copyright: "&copy; The Old Rectory. All rights reserved."
