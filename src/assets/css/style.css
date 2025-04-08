@@ -1265,6 +1265,20 @@ body.subpage_our-rooms footer img[src$=".svg"] {
   filter: brightness(0) invert(1);
 }
 
+body.subpage_our-rooms .logo-address, body.subpage_our-rooms .copyright {
+  border-color: rgba(255,255,255,0.1);
+}
+
+body.subpage_our-rooms button {
+  background: var(--white);
+  color: var(--blue);  
+}
+
+body.subpage_our-rooms input {
+  background: rgba(255,255,255,0.3);  
+}
+
+
 @media screen and (min-width: 900px) {
   .hamburger {
     display: none;
