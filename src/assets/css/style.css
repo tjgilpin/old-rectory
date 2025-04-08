@@ -840,6 +840,10 @@ main header {
   width: 100vw;  
   overflow-y: clip;
   margin-bottom: 1rem;
+  background: var(--blue);
+  color: var(--white);
+  aspect-ratio: 16 / 9;
+  max-height: 450px;  
 }
 
 .page_home main header {
