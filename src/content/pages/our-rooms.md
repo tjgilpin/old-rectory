@@ -3,7 +3,7 @@ type: page
 title: Our Rooms
 headerimage: /assets/img/our-rooms-hero.jpg
 sections:
-  - title: Crown Room
+  - title: The Crown
     url: the-crown
     sectionimage: /assets/img/36-dsc00377.jpg
     body: Large, grand and opulent, with a bathtub in the center of the room & a
