@@ -76,9 +76,11 @@
         </section>{% endfor %}
       </div>
       {% elseif sections %}
-      {{ content | safe }}    
+      <div class="page_copy">
+        {{ content | safe }}
+      </div>
       <div class="content">{% for section in sections %}
-        <section class="section-panel">
+        <section class="page-panel">
           <div class="image">
             <a href="{{ section.url }}">
               <img src="{{ section.sectionimage }}" alt="{{ section.title }}">
