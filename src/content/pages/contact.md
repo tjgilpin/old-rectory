@@ -1,7 +1,7 @@
 ---
 type: page
 title: Contact
-hide: false
+hide: true
 order: 10
 ---
 Contact Pages go here
