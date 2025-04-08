@@ -935,7 +935,7 @@ button {
   cursor: pointer;
 }
 
-.section-panel p {
+.section-panel p, .page-panel p {
   letter-spacing: var(--spacing-medium);
   text-align: justify;
   text-align-last: center;  
@@ -944,6 +944,16 @@ button {
   font-weight: bold;
   text-transform: uppercase;  
   font-size: clamp(0.9em, 2.5vw, 1.25em);  
+}
+
+.page-panel p {
+  font-size: clamp(1em, 2.5vw, 1.25em);
+  max-width: 55ch;
+  margin: 1em 3em;
+}
+
+.page-panel h2 {
+  border-bottom: double 7px var(--white);
 }
 
 .section-panel img {
@@ -985,7 +995,7 @@ h4 {
 }
 
 .page-panel {
-  aspect-ratio: 16 / 9;
+  aspect-ratio: 4 / 3;  
   max-height: 450px;
   width: 100%;
   overflow: hidden;
@@ -994,6 +1004,12 @@ h4 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+@media screen and (min-width: 800px) {
+  .page-panel {
+    aspect-ratio: 16 / 9;
+  }
 }
 
 .page-panel .image {
@@ -1020,7 +1036,7 @@ h4 {
 
 .page-panel .image img {
   width: 100%;
-  mask-image: linear-gradient(to bottom, rgb(0, 0, 0) 20%, rgba(0,0,0,0.3));
+  mask-image: linear-gradient(to top, rgba(0,0,0,0.4) 20%, rgb(0, 0, 0));
 }
 
 .page-panel .text {
@@ -1133,7 +1149,7 @@ h2 {
   font-weight: bold;
   text-transform: uppercase;
   font-size: clamp(0.9em, 2.5vw, 1.25em);
-  margin: auto;
+  margin: 3em auto;
 }
 
 
