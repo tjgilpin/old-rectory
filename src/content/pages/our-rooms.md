@@ -6,8 +6,9 @@ sections:
   - title: Crown Room
     url: the-crown
     sectionimage: /assets/img/36-dsc00377.jpg
-    body: This is the crown text
-    cta: CTA
+    body: Large, grand and opulent, with a bathtub in the center of the room & a
+      toilet in the bookcase. Our ‘honeymoon’ room. From £180 for two
+    cta: Click here to book
 hide: false
 order: 10
 ---
