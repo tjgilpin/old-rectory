@@ -3,10 +3,6 @@ layout: default.njk
 title: Home
 ---
 
-<header>
-  <img src="{{ home.headerlogo }}" class="logo">
-  <img src="{{ home.headerimage }}" class="hero">
-</header>
 <div class="content">{% for section in home.sections %}
   <section class="section-panel">
     <div class="image">

@@ -48,6 +48,11 @@
             {{ title }}
           </h1>
         </header>
+      {% else %}
+      <header>
+        <img src="{{ home.headerlogo }}" class="logo">
+        <img src="{{ home.headerimage }}" class="hero">
+      </header>
       {% endif %}
       {{ content | safe }}
     </main>
