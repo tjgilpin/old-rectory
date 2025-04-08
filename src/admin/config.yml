@@ -35,11 +35,12 @@ collections:
     fields:
       - { label: "Page Type", name: "type", widget: "select", options: ["page", "subpage"] }
       - { label: "Page Title", name: "title", widget: "string", required: true }
-      - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true }
+      - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
       - { label: "Content", name: "body", widget: "markdown" }
       - label: Sections
         name: sections
         widget: list
+        required: false
         fields:
           - { label: Section Title, name: title, widget: string }            
           - { label: URL, name: url, widget: string }
