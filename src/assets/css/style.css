@@ -115,7 +115,7 @@ html {
 }
 
 *, *:before, *:after {
-  box-sizing: inherit;
+  box-sizing: border-box;
 }
 
 body {
@@ -949,7 +949,7 @@ button {
 .page-panel p {
   font-size: clamp(1em, 2.5vw, 1.25em);
   max-width: 55ch;
-  margin: 1em 3em;
+  margin: 1em;
 }
 
 .page-panel h2 {
@@ -995,7 +995,6 @@ h4 {
 }
 
 .page-panel {
-  aspect-ratio: 4 / 3;  
   max-height: 450px;
   width: 100%;
   overflow: hidden;
@@ -1004,11 +1003,13 @@ h4 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding: 5vw;
 }
 
 @media screen and (min-width: 800px) {
   .page-panel {
     aspect-ratio: 16 / 9;
+    min-height: none;
   }
 }
 
@@ -1149,7 +1150,8 @@ h2 {
   font-weight: bold;
   text-transform: uppercase;
   font-size: clamp(0.9em, 2.5vw, 1.25em);
-  margin: 3em auto;
+  margin: 0 auto;
+  padding: 3em 2em;
 }
 
 
@@ -1249,6 +1251,18 @@ nav a {
 
 nav ul {
   width: 100%;
+}
+
+body.subpage_our-rooms  {
+  background: var(--blue);
+}
+
+body.subpage_our-rooms footer, body.subpage_our-rooms footer a {
+  color: var(--white);
+}
+
+body.subpage_our-rooms footer img[src$=".svg"] {
+  filter: brightness(0) invert(1);
 }
 
 @media screen and (min-width: 900px) {
