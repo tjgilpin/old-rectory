@@ -19,4 +19,13 @@ This room features;
 * Portable fan, heaters & hot water bottle
 * Hypoallergenic bedding available on request
 * This room can be set as a twin room on request
-* From £190, including breakfast 
+* From £190, including breakfast
+
+The additional room features;
+
+* A double bed with feather bedding & high quality cotton sheets
+* Tea & Coffee from Ringtons & homemade biscuits 
+* Clock radio, smart Tv, unlimited Wi-Fi
+* Portable fan, heaters 
+* Hypoallergenic bedding available on request
+* From £210, including breakfast
