@@ -10,8 +10,8 @@ sections:
       luxurious and spacious bedroom with its stunning hand printed Deborah
       Bowness floral wallpaper and hand painted headboard. From £190 for two.
     cta: Click here to book
-  - title: The Crown
-    url: the-crown
+  - title: Crown
+    url: crown
     sectionimage: /assets/img/our-rooms-hero.jpg
     body: Large, grand and opulent, with a bathtub in the center of the room & a
       toilet in the bookcase. Our ‘honeymoon’ room. From £180 for two
