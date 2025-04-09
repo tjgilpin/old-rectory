@@ -70,7 +70,8 @@ collections:
       - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true }
       - { label: "Content", name: "body", widget: "markdown" }
       - { label: URL, name: url, widget: string }
-      - { label: "Link Text", name: "cta", widget: string }      
+      - { label: "Link Text", name: "cta", widget: string }
+      - { label: "Navigation Order", name: "hide", widget: "hidden", default: true
   - label: "Settings & Footer Content"
     name: "settings"
     editor:
