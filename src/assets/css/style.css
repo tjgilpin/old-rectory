@@ -11,10 +11,10 @@
 
   --font-smaller: 0.7em;
   --font-small: 0.85em;
-  --spacing-medium: 0.02em;
-  --spacing-large: 0.04em;
-  --spacing-larger: 0.06em;
-
+  --spacing-medium: 0.025em;
+  --spacing-large: 0.05em;
+  --spacing-larger: 0.075em;
+  --spacing-largest: 0.1em;
 
   /* heading responsive text */
   --hdg_min-fs: 2.75;
@@ -1255,6 +1255,7 @@ nav ul {
 
 body.subpage_our-rooms  {
   background: var(--blue);
+  color: var(--white);
 }
 
 body.subpage_our-rooms footer, body.subpage_our-rooms footer a {
@@ -1278,6 +1279,36 @@ body.subpage_our-rooms input {
   background: rgba(255,255,255,0.3);  
 }
 
+body.subpage_our-rooms main {
+  padding: 0 1rem;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: var(--spacing-larger);
+  line-height: 1.85;
+}
+
+body.subpage_our-rooms main p {
+  font-size: clamp(1em, 2.5vw, 1.55em);  
+  max-width: 65rem;
+  margin: 0 auto 1em;
+}
+
+body.subpage_our-rooms main ul {
+  max-width: 40em;
+  margin: auto;
+  text-align: left;
+}
+
+body.subpage_our-rooms main li {
+  line-height: 1.75;
+  margin-bottom: 1em;
+}
+
+body.subpage_our-rooms h2 {
+  font-size: clamp(1.75em, 4vw, 2.85em);
+  margin: 2em 0 1.5em 0;
+  letter-spacing: var(--spacing-largest);
+}
 
 @media screen and (min-width: 900px) {
   .hamburger {
