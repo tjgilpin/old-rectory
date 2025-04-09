@@ -1,10 +1,12 @@
 ---
-type: subpage
-parent_page: Our Rooms
-title: Crown
 hide: false
-order: 10
+parent_page: Our Rooms
 headerimage: /assets/img/our-rooms-hero.jpg
+order: 10
+type: subpage
+title: Crown
+url: http://secure.hotels.uk.com/webbookings/?HotelID=12288
+cta: Click here to book
 ---
 One for the romantics. Large, grand and opulent, Crown is decorated in pale grey with rich burgundy accents and hand finished portrait panels. A free standing bath big enough for two, sits within the room, whilst the bookcase hides its own secret toilet. A beautiful smoked grey glass chandelier completes the look.
 
