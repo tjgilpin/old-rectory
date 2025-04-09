@@ -4,7 +4,7 @@ parent_page: Our Rooms
 title: All Saints
 headerimage: /assets/img/37-dsc06751.jpg
 url: http://secure.hotels.uk.com/webbookings/?HotelID=12288
-cta: Book from £210
+cta: Book now from £210
 ---
 ## Perfect for two, three or four to share   
 A private corridor leads you past the sumptuous hand marbled bathroom and wet room;  to two light, luxurious and spacious bedrooms. The main bedroom is painted in muted greens, with its stunning hand printed Deborah Bowness floral wallpaper and hand painted headboard. The additional bedroom is painted in relaxing muted greens and overlooking our garden, this second bedroom has a stunning vintage French bed.
