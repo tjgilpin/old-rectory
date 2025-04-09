@@ -1331,6 +1331,31 @@ body.subpage_our-rooms h2 {
   text-shadow: var(--shadow-medium);
 }
 
+body.subpage_our-rooms a {
+  color: var(--white);
+}
+
+.breadcrumbs {
+  max-width: none;
+  list-style-type: none;
+  text-transform: capitalize;
+}
+
+.breadcrumbs li {
+  display: inline;
+  font-size: 1rem;
+  margin-bottom: 0 !important;
+}
+
+.breadcrumbs li:last-of-type::before {
+  content: '> ';
+  font-size: 0.9rem;
+} 
+
+.breadcrumbs a {
+  text-decoration: underline;
+}
+
 @media screen and (min-width: 900px) {
   .hamburger {
     display: none;
