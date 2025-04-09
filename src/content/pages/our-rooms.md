@@ -39,7 +39,7 @@ sections:
       decorated in original 1970s Sanderson wallpaper. A huge Carrara marble
       shower room  completes the look. From £150 for two.
   - title: Sinnock
-    url: /sinnock
+    url: sinnock
     sectionimage: /assets/img/16-dsc00302.jpg
     body: Being Georgian in origin, this room is light and airy with high ceilings
       and a beautiful chandelier. With hand painted panelled wallpaper designed
