@@ -4,7 +4,7 @@ parent_page: Our Rooms
 title: Ebenezer
 headerimage: /assets/img/30-dsc00357.jpg
 url: http://secure.hotels.uk.com/webbookings/?HotelID=12288
-cta: Book from £175 including breakfast
+cta: Book now from £175
 ---
 ## Elegant & Beautiful
 Decorated in shades of grey with its wall of Wedgwood calendar plates and elegant furniture; this beautifully light and airy room at the front of the house, has Old town views from its Georgian sash window. 
