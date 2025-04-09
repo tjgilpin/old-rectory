@@ -20,7 +20,7 @@ sections:
     body: This extensive suite is perfect for two, three or four to share. Enjoy a
       cosy night in the private lounge with an equipped kitchen and dining
       space. From £180 for two.
-    url: /bourne
+    url: bourne
     sectionimage: /assets/img/bournesuite-krp-07.jpg
     cta: Click here to book
   - body: >
