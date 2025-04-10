@@ -115,12 +115,12 @@
       </div>
       {% else %}
       <div class="page_copy">
-        Gallery is:
         {% if gallery %}
-          {{ gallery | log }}
-          {% for galleryimage in galleryimages %}
-            {{ galleryimage | safe }}
+        <ul>
+          {% for item in gallery %}
+          <li><img src="{{ item.image }}" alt="{{title}} Gallery Image"></li>
           {% endfor %}
+        </ul> 
         {% endif %}
         {{ content | safe }}
       </div>        
