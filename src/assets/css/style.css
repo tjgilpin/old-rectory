@@ -767,6 +767,7 @@ header h1 {
   text-align: center;
   color: var(--white);
   font-size: clamp(1.85em, 6vw, 5em);
+  width: 100%;
 }
 
 .logo {

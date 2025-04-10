@@ -84,8 +84,11 @@
             </a>
             <a href="{{ section.url }}" class="cta">{{section.cta}}</a>
           </div>
-        </section>{% endfor %}
+        </section>{% endfor %}        
       </div>
+      <div class="instagram">
+        {{ content | safe }}
+      </div>        
       {% elseif sections %}
       <div class="page_copy">
         {{ content | safe }}
@@ -111,7 +114,9 @@
         </section>{% endfor %}
       </div>
       {% else %}
-        {{ content | safe }}      
+      <div class="page_copy">
+        {{ content | safe }}
+      </div>        
       {% endif %}
     </main>
     <footer>     
