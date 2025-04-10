@@ -9,34 +9,24 @@ hide: true
 ---
 In keeping with our home-from-home, welcoming atmosphere Sunday Lunches at The Old Rectory are hosted in our hand-painted dining room and our cosy lounge. Served over two or three courses our dedication to traditional Sunday Lunch is reflected in our ever-changing menu and focus on seasonal, locally sourced produce. Enjoy a cocktail by the fire before taking your seat & catching up with family and friends.
 
-Starter
+### Starter
 
-\* Duck and chicken liver parfait filled profiterole, rhubarb and ginger jam, herb salad
+\* Duck and chicken liver parfait filled profiterole, rhubarb and ginger jam, herb salad\
+* Beetroot risotto, Rectory hot smoked salmon, pickled mussels\
+* Creamed spring vegetable soup, wild garlic crème fraiche, garlic croutons
 
-\* Beetroot risotto, Rectory hot smoked salmon, pickled mussels
+### Main
 
-\* Creamed spring vegetable soup, wild garlic crème fraiche, garlic croutons
-
-
-
-Main
-
-\* Roasted chicken, ramson and lemon pork stuffing, chicken skin crackling
-
-\* Roast pork loin, crackling, parsnip and apple fritter, apple puree
-
-\* Vegetable and nut roast loaf, creamed mushroom palmier, battered spring onion
+\* Roasted chicken, ramson and lemon pork stuffing, chicken skin crackling\
+* Roast pork loin, crackling, parsnip and apple fritter, apple puree\
+* Vegetable and nut roast loaf, creamed mushroom palmier, battered spring onion
 
 Sides: Roasted potatoes, seasonal vegetables, cauliflower cheese & Yorkshire puddings
 
+### Dessert
 
-
-Dessert
-
-\* Rhubarb bread and butter pudding
-
-\* Banana tiramisu, cinnamon caramel and fried plantain
-
-\* Selection of local cheeses, kiwi and fennel chutney, house water biscuits
+\* Rhubarb bread and butter pudding\
+* Banana tiramisu, cinnamon caramel and fried plantain\
+* Selection of local cheeses, kiwi and fennel chutney, house water biscuits
 
 (+£3 supplement)
