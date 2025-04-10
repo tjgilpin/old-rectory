@@ -8,7 +8,7 @@ gallery:
   - galleryimage: /assets/img/all-saints-2.jpg
   - galleryimage: /assets/img/all-saints-3.jpg
 url: http://secure.hotels.uk.com/webbookings/?HotelID=12288
-cta: Book now from £210
+cta: Book now from £190
 hide: true
 ---
 ## Perfect for two, three or four to share   
