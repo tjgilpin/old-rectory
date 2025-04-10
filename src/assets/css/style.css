@@ -134,6 +134,7 @@ body > header {
   padding: 0.5rem 1rem;
   column-gap: 2rem;
   background: var(--light);
+  color: var(--blue);
   display: flex;
   flex-wrap: wrap;
   column-gap: 1rem;
@@ -142,115 +143,6 @@ body > header {
 h1 {
   margin: 2rem 0 0;
 }
-
-/* .hello {
-  max-width: 70ch;
-} */
-
-
-@media screen and (min-width: 1200px) {
-  .hello {
-    display: grid;
-    grid-template-columns: 2fr 3fr;
-    grid-template-rows: auto auto 1fr;
-  }
-}
-
-.hello ul {
-  display: grid;
-  list-style-type: none;
-  grid-template-columns: repeat(30, 1fr);
-  grid-template-rows: repeat(20, 2vw);
-  align-items: start;
-  grid-area: 2 / 2 / 4 / 3;
-}
-
-.hello h1 {
-  grid-column: 1/-1;
-}
-
-.hello li img {
-  object-position: left top;
-}
-
-.hello li.store-beatles-desktop {
-  grid-column: 1 / span 8;
-  grid-row: 4 / span 12;  
-}
-
-.hello li.store-beatles-mobile {
-  grid-column: 7 / span 4;
-  grid-row: 3 / span 20;  
-}
-
-.hello li.store-queen-desktop {
-  grid-column: 20 / span 8;
-  grid-row: 2 / span 12;  
-}
-
-.hello li.store-queen-mobile {
-  grid-column: 27 / span 4;
-  grid-row: 3 / span 20;  
-}
-
-.hello li.store-stones-mobile {
-  grid-column: 20 / span 4;
-  grid-row: 8 / span 12;  
-}
-
-.hello li.store-stones-desktop {
-  grid-column: 22 / span 8;
-  grid-row: 9 / span 20;  
-}
-
-
-.hello li.store-bobmarley-desktop {
-  grid-column: 10 / span 8;
-  grid-row: 2 / span 12;  
-}
-
-.hello li.store-elton-mobile {
-  grid-column: 17 / span 4;
-  grid-row: 1 / span 20;  
-}
-
-.hello li.store-elton-desktop {
-  grid-column: 9 / span 8;
-  grid-row: 6 / span 12;  
-}
-
-.hello li.store-bobmarley-mobile {
-  grid-column: 14 / span 4;
-  grid-row: 4 / span 20;  
-}
-
-
-/* .hello li[class$="mobile"] {
-  grid-column: span 4;
-  grid-row: span 16; 
-}
-
-.hello li[class$="desktop"] {
-  grid-column: span 8;
-  grid-row: span 3; 
-} */
-
-
-.hello ul img {
-  filter: drop-shadow(0 0.2em 0.25em rgba(0, 0, 0, 0.3));
-}
-
-.hello p {
-  font-size: 1.5em;
-}
-
-/* a[href^="https://"]:after {
-  content: "↗";
-  display: inline-block;
-  margin-left: 0.125em;
-  font-size: 0.85em;
-  font-weight: bold;
-} */
 
 header > a {
   font-weight: bold;
@@ -277,6 +169,10 @@ body > header img {
   max-height: 65px;
   padding: 0.25rem;
   min-height: 40px; 
+}
+
+body > header a {
+  color: var(--blue) !important;
 }
 
 header ul, footer ul, .clients ul {
