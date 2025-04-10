@@ -18,7 +18,7 @@
     <meta property="og:image:alt" content="{{ settings.imageAlt }}">
     <link rel="stylesheet" href="/assets/css/style.css">
   </head>
-  <body class="page_{{ title | slugify }}{% if parent_page %} subpage_{{ parent_page | slugify }}{% endif %}">
+  <body class="page_{{ title | slugify }}{% if parent_page %} subpage subpage_{{ parent_page | slugify }}{% endif %}">
     <header>
       <a href="/"><img src="{{ settings.logo }}" alt="{{ settings.name }}" /></a>
       <button class="hamburger active" aria-label="Open menu">
