@@ -69,7 +69,12 @@ collections:
       - { label: "Page Title", name: "title", widget: "string", required: true }
       - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true }
       - { label: "Content", name: "body", widget: "markdown" }
-      - { label: "Gallery Images", name: galleryimage, widget: image, allow_multiple: true, required: false }
+      - label: Gallery Images
+        name: gallery
+        widget: list
+        required: false
+        fields:
+          - { label: "Gallery Image", name: galleryimages, widget: image } 
       - { label: URL, name: url, widget: string }
       - { label: "Link Text", name: "cta", widget: string }
       - { label: "Navigation Order", name: "hide", widget: "hidden", default: true }
