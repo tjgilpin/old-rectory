@@ -5,6 +5,7 @@ title: Rock-a-Nore
 headerimage: /assets/img/rock-a-nore-room-by-georgina-piper-5.jpg
 url: http://secure.hotels.uk.com/webbookings/?HotelID=12288
 cta: Book now from £140
+hide: true
 ---
 ## Our Cosiest Room
 

@@ -5,6 +5,7 @@ title: Sinnock
 headerimage: /assets/img/23-dsc00318.jpg
 url: http://secure.hotels.uk.com/webbookings/?HotelID=12288
 cta: Book now from £190
+hide: true
 ---
 ## Calm & Majestic
 Being Georgian in origin, this room is light and airy with high ceilings and a beautiful chandelier. Decorated in calming muted greys and blues with hand painted panelled wallpaper designed by Deborah Bowness. This room has a calm, yet majestic feel.

@@ -5,6 +5,7 @@ title: Croft
 headerimage: /assets/img/5-dsc00271.jpg
 url: http://secure.hotels.uk.com/webbookings/?HotelID=12288
 cta: Book now from £165
+hide: true
 ---
 ## Bright & Tranquil
 

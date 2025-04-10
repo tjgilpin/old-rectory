@@ -5,6 +5,7 @@ title: Tackleway
 headerimage: /assets/img/or-24th-may-by-georgina-piper-58.jpg
 url: http://secure.hotels.uk.com/webbookings/?HotelID=12288
 cta: Book now from £150
+hide: true
 ---
 ## Cosy & Stylish
 With its picture window overlooking the garden, this cosy, stylish room is decorated in original 1970s Sanderson wallpaper. A huge Carrara marble shower room completes the look.

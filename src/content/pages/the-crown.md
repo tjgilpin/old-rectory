@@ -1,5 +1,5 @@
 ---
-hide: false
+hide: true
 parent_page: Our Rooms
 headerimage: /assets/img/our-rooms-hero.jpg
 order: 10

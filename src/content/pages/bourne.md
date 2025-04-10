@@ -5,6 +5,7 @@ title: Bourne
 headerimage: /assets/img/bournesuite-krp-29.jpg
 url: http://secure.hotels.uk.com/webbookings/?HotelID=12288
 cta: Book now from £180
+hide: true
 ---
 ## Cosy & Private
 Enjoy a cosy night in the private lounge with an equipped kitchen and dining space. Decorated throughout with wallpaper by Deborah Bowness each room is unique, creating a home away from home. This apartment space can sleep up to four guests and has views of both the garden & the churchyard.
