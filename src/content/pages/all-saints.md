@@ -3,6 +3,10 @@ type: subpage
 parent_page: Our Rooms
 title: All Saints
 headerimage: /assets/img/37-dsc06751.jpg
+gallery:
+  - galleryimage: /assets/img/all-saints-1.jpg
+  - galleryimage: /assets/img/all-saints-2.jpg
+  - galleryimage: /assets/img/all-saints-3.jpg
 url: http://secure.hotels.uk.com/webbookings/?HotelID=12288
 cta: Book now from £210
 hide: true
