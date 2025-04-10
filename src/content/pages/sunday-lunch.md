@@ -11,22 +11,22 @@ In keeping with our home-from-home, welcoming atmosphere Sunday Lunches at The O
 
 ### Starter
 
-\* Duck and chicken liver parfait filled profiterole, rhubarb and ginger jam, herb salad\
-* Beetroot risotto, Rectory hot smoked salmon, pickled mussels\
+* Duck and chicken liver parfait filled profiterole, rhubarb and ginger jam, herb salad
+* Beetroot risotto, Rectory hot smoked salmon, pickled mussels
 * Creamed spring vegetable soup, wild garlic crème fraiche, garlic croutons
+
 
 ### Main
 
-\* Roasted chicken, ramson and lemon pork stuffing, chicken skin crackling\
-* Roast pork loin, crackling, parsnip and apple fritter, apple puree\
+* Roasted chicken, ramson and lemon pork stuffing, chicken skin crackling
+* Roast pork loin, crackling, parsnip and apple fritter, apple puree
 * Vegetable and nut roast loaf, creamed mushroom palmier, battered spring onion
 
 Sides: Roasted potatoes, seasonal vegetables, cauliflower cheese & Yorkshire puddings
 
 ### Dessert
 
-\* Rhubarb bread and butter pudding\
-* Banana tiramisu, cinnamon caramel and fried plantain\
+* Rhubarb bread and butter pudding
+* Banana tiramisu, cinnamon caramel and fried plantain
 * Selection of local cheeses, kiwi and fennel chutney, house water biscuits
-
 (+£3 supplement)
