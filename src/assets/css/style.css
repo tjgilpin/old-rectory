@@ -1264,6 +1264,10 @@ body.subpage a {
   text-decoration: underline;
 }
 
+.swiper-wrapper {
+  padding: 0;
+}
+
 @media screen and (min-width: 900px) {
   .hamburger {
     display: none;
