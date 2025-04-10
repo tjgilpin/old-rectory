@@ -3,12 +3,12 @@ type: page
 title: Food & Drink
 headerimage: /assets/img/hero-image-food-drink.jpg
 sections:
-  - title: Sunday Lunches
+  - title: Sunday Lunch
     sectionimage: /assets/img/29-dsc06565.jpg
     body: The Old Rectory Traditional Sunday Lunches focus on seasonal, locally
       sourced produce. In keeping with our home-from-home, welcoming atmosphere
       are hearty & homely.
-    url: sunday-lunches
+    url: sunday-lunch
     cta: View Menus & Book
   - title: Teas
     url: teas
