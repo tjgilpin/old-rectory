@@ -1,6 +1,6 @@
 ---
 type: subpage
-parent_page: Our Rooms
+parent_page: Food & Drink
 title: Sunday Lunch
 headerimage: /assets/img/29-dsc06565.jpg
 url: mailto:natalie@theoldrectoryhastings.co.uk
