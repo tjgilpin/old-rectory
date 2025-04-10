@@ -1243,7 +1243,7 @@ body.subpage_our-rooms a {
   margin-bottom: 0 !important;
 }
 
-.breadcrumbs li:last-of-type::before {
+.breadcrumbs li:not(:first-child)::before {
   content: '> ';
   font-size: 0.9rem;
 } 

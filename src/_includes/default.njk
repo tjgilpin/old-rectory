@@ -37,7 +37,7 @@
         </ul>
       </nav>
       <img src="/assets/img/michelin-2024.png" alt="Michelin 2024" class="michelin">
-    </header>    
+    </header>
     <main>
       {% if title and title != 'Home'  %}
         <header>
@@ -59,6 +59,7 @@
         {% set navPages = collections.all | eleventyNavigationBreadcrumb(parent_page, { includeSelf: true }) %}
         <ul class="breadcrumbs">
         {% for entry in navPages %}
+          <li><a href="/">Home</a></li>
           <li><a href="{{ entry.url }}">{{ entry.title }}</a></li>
           <li>{{ title }}</li>
         {% endfor %}
