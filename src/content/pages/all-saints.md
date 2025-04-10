@@ -6,7 +6,6 @@ headerimage: /assets/img/37-dsc06751.jpg
 gallery:
   - galleryimage: /assets/img/all-saints-1.jpg
     galleryimages: /assets/img/all-saints-1.jpg
-  - galleryimages: /assets/img/all-saints-1.jpg
   - galleryimages: /assets/img/all-saints-2.jpg
 url: http://secure.hotels.uk.com/webbookings/?HotelID=12288
 cta: Book now from £190
