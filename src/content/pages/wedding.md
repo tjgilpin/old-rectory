@@ -1,6 +1,6 @@
 ---
 type: page
-title: Wedding
+title: Weddings
 headerimage: /assets/img/hero-image-weddings.jpg
 hide: false
 order: 50
