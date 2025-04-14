@@ -1202,7 +1202,7 @@ body.subpage main {
   flex-direction: column;
 }
 
-.content_primary .intro {
+/* .content_primary .intro {
   order: 1;
 }
 
@@ -1212,7 +1212,7 @@ body.subpage main {
 
 .content_primary .list {
   order: 3;
-}
+} */
 
 .content_primary p, .content_secondary p {
   font-size: clamp(1em, 2vw, 1.25em);     
@@ -1227,12 +1227,21 @@ body.subpage main {
   text-transform: uppercase;
 }
 
+.swiper-wrapper {
+  padding-left: 0;
+}
+
+.swiper img {
+  height: unset;
+  width: 100%;
+}
+
 body.subpage main ul {
   max-width: 40em;
   margin: auto;
   text-align: left;
   font-size: clamp(1em, 2vw, 1.25em);
-  padding-left: 1em; 
+  /* padding-left: 1em;  */
 }
 
 body.subpage main li {

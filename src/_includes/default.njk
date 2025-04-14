@@ -17,13 +17,13 @@
     <meta property="og:image:height" content="{{ settings.imageHeight }}">
     <meta property="og:image:alt" content="{{ settings.imageAlt }}">
     <link rel="stylesheet" href="/assets/css/style.css">
+    {% if gallery %}
     <link
     rel="stylesheet"
     href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
-  />
-  
-  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-  
+    />
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+  {% endif %}         
   </head>
   <body class="page_{{ title | slugify }}{% if parent_page %} subpage subpage_{{ parent_page | slugify }}{% endif %}">
     <header>
@@ -122,39 +122,8 @@
       </div>
       {% else %}
       <div class="page_copy content_primary">
-        {{ content | safe }}        
-        {% if gallery %}
-          <div class="swiper">
-            <ul class="swiper-wrapper">
-              {% for item in gallery %}
-              <li class="swiper-slide"><img src="{{ item.image }}" alt="{{title}} Gallery Image"></li>
-              {% endfor %}
-            </ul> 
-            <div class="swiper-pagination"></div>
-
-            <!-- If we need navigation buttons -->
-            <div class="swiper-button-prev"></div>
-            <div class="swiper-button-next"></div>          
-          </div>
-          <script>
-          const swiper = new Swiper('.swiper', {
-            // Optional parameters
-            // direction: 'vertical',
-            loop: true,
-            // Navigation arrows
-            navigation: {
-              nextEl: '.swiper-button-next',
-              prevEl: '.swiper-button-prev',
-            },
-          });
-          </script>                                                                    
-        {% endif %}         
+        {{ content | safe }}
       </div>
-        <!-- {% if secondary %}
-          <div class="content_secondary">
-            {{ secondary }}
-          </div>
-        {% endif %} -->
       {% endif %}
     </main>
     <footer>     
@@ -215,6 +184,20 @@
           closeBtn.classList.remove('active');
         }
       });
-    </script>    
+    </script> 
+    {% if gallery %}
+      <script>
+      const swiper = new Swiper('.swiper', {
+        // Optional parameters
+        // direction: 'vertical',
+        loop: true,
+        // Navigation arrows
+        navigation: {
+          nextEl: '.swiper-button-next',
+          prevEl: '.swiper-button-prev',
+        },
+      });
+      </script>                                                                    
+    {% endif %}
   </body>
 </html>

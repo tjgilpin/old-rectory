@@ -47,21 +47,34 @@ export default async function(eleventyConfig) {
     return slug ? `<a href="/${slug}">${figure}</a>` : figure;
   });
 
-  eleventyConfig.addShortcode("gallery", function() { 
-    console.log("gallery shortcode running")
+  eleventyConfig.addShortcode("gallery", function(gallery, title) { 
+    // Check if gallery exists and ensure it's an array
+    if (!gallery || !Array.isArray(gallery)) {
+      console.warn(`Gallery shortcode received invalid input for "${title}"`);
+      return '';
+    }
+  
+    const slides = gallery.map(item => {
+      // Check if item.image exists
+      if (!item || !item.image) {
+        console.warn(`Invalid gallery item in "${title}"`);
+        return '';
+      }
+      return `<li class="swiper-slide"><img src="${item.image}" alt="${title} Gallery Image"></li>`;
+    }).filter(Boolean).join('');
+  
+    // Only return markup if we have slides
+    if (!slides) return '';
+  
     return `
-        <div class="swiper">
-          <ul class="swiper-wrapper">
-            {% for item in gallery %}
-            <li class="swiper-slide"><img src="{{ item.image }}" alt="{{title}} Gallery Image"></li>
-            {% endfor %}
-          </ul> 
-          <div class="swiper-pagination"></div>
-
-          <!-- If we need navigation buttons -->
-          <div class="swiper-button-prev"></div>
-          <div class="swiper-button-next"></div>          
-        </div>`;
+      <div class="swiper">
+        <ul class="swiper-wrapper">
+          ${slides}
+        </ul>
+        <div class="swiper-pagination"></div>
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+      </div>`;
   });
 };
 
