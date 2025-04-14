@@ -1197,6 +1197,23 @@ body.subpage main {
   padding: 3em 2em;
 }
 
+.content_primary {
+  display: flex;
+  flex-direction: column;
+}
+
+.content_primary .intro {
+  order: 1;
+}
+
+.content_primary .swiper {
+  order: 2;
+}
+
+.content_primary .list {
+  order: 3;
+}
+
 .content_primary p, .content_secondary p {
   font-size: clamp(1em, 2vw, 1.25em);     
   text-align: justify;
