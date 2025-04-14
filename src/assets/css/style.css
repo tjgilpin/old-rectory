@@ -1191,15 +1191,16 @@ body.subpage main {
   justify-self: center;
 }
 
-.content_primary, .content_secondary {
+/* .content_primary, .content_secondary {
   max-width: 60rem;
   margin: 0 auto;
   padding: 3em 2em;
-}
+} */
 
 .content_primary {
   display: flex;
   flex-direction: column;
+  margin: 1rem;
 }
 
 /* .content_primary .intro {
@@ -1252,9 +1253,10 @@ body.subpage main li {
 
 body.subpage h2 {
   font-size: clamp(1.75em, 4vw, 2.85em);
-  margin: 1em 0 1.5em 0;
   letter-spacing: var(--spacing-largest);
   text-shadow: var(--shadow-medium);
+  margin: 1em auto 1.5em auto;
+  max-width: 40ch;
 }
 
 body.subpage a {
