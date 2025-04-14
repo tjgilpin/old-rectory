@@ -56,14 +56,15 @@ secondary: >
 title: All Saints
 ---
 <div class="intro">
+
 ## Perfect for two, three or four to share   
+
+
 A private corridor leads you past the sumptuous hand marbled bathroom and wet room;  to two light, luxurious and spacious bedrooms. The main bedroom is painted in muted greens, with its stunning hand printed Deborah Bowness floral wallpaper and hand painted headboard. The additional bedroom is painted in relaxing muted greens and overlooking our garden, this second bedroom has a stunning vintage French bed.
 </div>
 <div class="list">
 
 This room features; 
-
-
 
 \* A Super-King size bed with feather bedding & high quality cotton sheets
 
@@ -83,11 +84,7 @@ This room features;
 
 \* From £190, including breakfast
 
-
-
 The additional room features;
-
-
 
 \* A double bed with feather bedding & high quality cotton sheets
 
