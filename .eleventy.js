@@ -47,6 +47,22 @@ export default async function(eleventyConfig) {
     return slug ? `<a href="/${slug}">${figure}</a>` : figure;
   });
 
+  eleventyConfig.addShortcode("gallery", function() { 
+    console.log("gallery shortcode running")
+    return `
+        <div class="swiper">
+          <ul class="swiper-wrapper">
+            {% for item in gallery %}
+            <li class="swiper-slide"><img src="{{ item.image }}" alt="{{title}} Gallery Image"></li>
+            {% endfor %}
+          </ul> 
+          <div class="swiper-pagination"></div>
+
+          <!-- If we need navigation buttons -->
+          <div class="swiper-button-prev"></div>
+          <div class="swiper-button-next"></div>          
+        </div>`;
+  });
 };
 
 export const config = {
