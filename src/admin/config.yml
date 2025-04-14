@@ -75,7 +75,6 @@ collections:
         required: false
         fields:
           - { label: "Gallery Image", name: image, widget: image } 
-      - { label: "Secondary Content", name: "secondary", widget: "markdown" }          
       - { label: URL, name: url, widget: string }
       - { label: "Link Text", name: "cta", widget: string }
       - { label: "Navigation Order", name: "hide", widget: "hidden", default: true }

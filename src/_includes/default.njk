@@ -121,9 +121,8 @@
         </section>{% endfor %}
       </div>
       {% else %}
-      <div class="page_copy">
+      <div class="page_copy content_primary">
         {{ content | safe }}        
-      </div>
         {% if gallery %}
           <div class="swiper">
             <ul class="swiper-wrapper">
@@ -149,12 +148,13 @@
             },
           });
           </script>                                                                    
-        {% endif %} 
-        {% if secondary %}
-          <div class="secondary">
-            {{ secondary | safe }}   
+        {% endif %}         
+      </div>
+        <!-- {% if secondary %}
+          <div class="content_secondary">
+            {{ secondary }}
           </div>
-        {% endif %}
+        {% endif %} -->
       {% endif %}
     </main>
     <footer>     
