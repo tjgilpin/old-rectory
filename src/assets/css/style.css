@@ -1197,9 +1197,6 @@ body.subpage input {
 }
 
 body.subpage main {
-  padding: 0 1rem;
-  text-transform: uppercase;
-  text-align: center;
   letter-spacing: var(--spacing-larger);
   line-height: 1.85;
 }
