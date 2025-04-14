@@ -59,7 +59,7 @@ title: All Saints
 
 A private corridor leads you past the sumptuous hand marbled bathroom and wet room;  to two light, luxurious and spacious bedrooms. The main bedroom is painted in muted greens, with its stunning hand printed Deborah Bowness floral wallpaper and hand painted headboard. The additional bedroom is painted in relaxing muted greens and overlooking our garden, this second bedroom has a stunning vintage French bed.
 
-{% gallery %}
+{% gallery gallery, "Photo of All Saints Room" %}
 
 * A Super-King size bed with feather bedding & high quality cotton sheets
 * Claw-foot, roll-top bath with a hand-held shower & speciality Oast & Rye toiletries 
