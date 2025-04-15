@@ -1264,12 +1264,8 @@ body.subpage main ul:not(.swiper-wrapper) {
 }
 
 body.subpage main ul.swiper-wrapper {
-  max-width: 100%;
+  max-width: 1200px;
   width: 100vw;
-}
-
-.swiper {
-  margin-left: -1rem !important;
 }
 
 body.subpage main li {
