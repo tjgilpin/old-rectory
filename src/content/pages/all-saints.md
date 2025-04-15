@@ -61,6 +61,8 @@ A private corridor leads you past the sumptuous hand marbled bathroom and wet ro
 
 {% gallery gallery, "Photo of All Saints Room" %}
 
+This room features;
+
 * A Super-King size bed with feather bedding & high quality cotton sheets
 * Claw-foot, roll-top bath with a hand-held shower & speciality Oast & Rye toiletries 
 * A walk-in wetroom with rainfall shower
