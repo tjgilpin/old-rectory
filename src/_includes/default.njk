@@ -123,6 +123,13 @@
       {% else %}
       <div class="page_copy content_primary">
         {{ content | safe }}
+        {% if cta and url %}
+          <a href="{{ url }}">
+            <button>
+              {{ cta }}
+            </button>            
+          </a>
+        {% endif %}
       </div>
       {% endif %}
     </main>

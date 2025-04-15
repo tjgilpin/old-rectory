@@ -1236,6 +1236,16 @@ body.subpage main {
   text-transform: uppercase;
 }
 
+.subpage button {
+  font-size: 1em;
+  padding: 1em;
+}
+
+.subpage a:has(> button) {
+  align-self: center;
+  padding: 2rem;
+}
+
 .swiper-wrapper {
   padding-left: 0;
 }
