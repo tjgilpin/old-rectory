@@ -1222,6 +1222,8 @@ body.subpage main {
   text-justify: inter-character;
   text-wrap: pretty;
   margin: 1.5rem;  
+  max-width: 80ch;
+  align-self: center;  
 }
 
 .content_primary p:first-of-type {
