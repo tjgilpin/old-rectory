@@ -1200,7 +1200,7 @@ body.subpage main {
 .content_primary {
   display: flex;
   flex-direction: column;
-  margin: 1rem;
+  /* margin: 1rem; */
 }
 
 /* .content_primary .intro {
@@ -1221,6 +1221,7 @@ body.subpage main {
   text-align-last: center;  
   text-justify: inter-character;
   text-wrap: pretty;
+  margin: 1.5rem;  
 }
 
 .content_primary p:first-of-type {
@@ -1237,12 +1238,21 @@ body.subpage main {
   width: 100%;
 }
 
-body.subpage main ul {
+body.subpage main ul:not(.swiper-wrapper) {
   max-width: 40em;
   margin: auto;
   text-align: left;
   font-size: clamp(1em, 2vw, 1.25em);
   /* padding-left: 1em;  */
+}
+
+body.subpage main ul.swiper-wrapper {
+  max-width: 100%;
+  width: 100vw;
+}
+
+.swiper {
+  margin-left: -1rem !important;
 }
 
 body.subpage main li {
