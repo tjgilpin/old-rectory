@@ -67,7 +67,7 @@ export default async function(eleventyConfig) {
     if (!slides) return '';
   
     return `
-      <div style="--swiper-navigation-color: #fff; --swiper-pagination-color: #fff" class="swiper mySwiper2">
+      <div style="--swiper-navigation-color: #fff; --swiper-pagination-color: #fff; --swiper-navigation-size: 120px;" class="swiper mySwiper2">
         <ul class="swiper-wrapper">
           ${slides}
         </ul>

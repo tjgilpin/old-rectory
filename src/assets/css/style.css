@@ -842,13 +842,6 @@ button {
   padding-right: clamp(1em,5vw,4em);
 }
 
-button::after{
-  content: '→';
-  margin-left: 0.5em;
-  font-size: 1.25em;
-  transition: all 0.1s ease-out;
-}
-
 .section-panel p, .page-panel p {
   letter-spacing: var(--spacing-medium);
   text-align: justify;
@@ -1269,6 +1262,21 @@ body.subpage main {
   border: 2px solid var(--white);
 }
 
+.swiper-button-prev::after, .swiper-button-next::after{
+  content: "←" !important;
+  font-size: clamp(1em,5vw,4em) !important;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, Futura, sans-serif !important;
+}
+
+.swiper-button-next::after{
+  content: "→" !important;
+}
+
+.subpage button::after{
+  content: "→" !important;
+  margin-left: 0.2em;
+}
+
 body.subpage main ul:not(.swiper-wrapper) {
   max-width: 40em;
   margin: auto;
@@ -1313,7 +1321,7 @@ body.subpage a {
   display: inline;
   font-size: 1rem;
   margin-bottom: 0 !important;
-  font-size: 0.8em;  
+  font-size: 0.8rem;  
   text-transform: uppercase;
 }
 
