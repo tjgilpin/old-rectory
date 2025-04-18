@@ -67,14 +67,19 @@ export default async function(eleventyConfig) {
     if (!slides) return '';
   
     return `
-      <div class="swiper">
+      <div style="--swiper-navigation-color: #fff; --swiper-pagination-color: #fff" class="swiper mySwiper2">
         <ul class="swiper-wrapper">
           ${slides}
         </ul>
-        <div class="swiper-pagination"></div>
         <div class="swiper-button-prev"></div>
         <div class="swiper-button-next"></div>
-      </div>`;
+      </div>
+      <div thumbsSlider="" class="swiper mySwiper">
+        <ul class="swiper-wrapper">
+          ${slides}
+        </ul>      
+      </div>
+      `;
   });
 };
 

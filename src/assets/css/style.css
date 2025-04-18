@@ -834,8 +834,19 @@ button {
   color: var(--white);
   font-family: "Century Gothic", CenturyGothic, AppleGothic, Futura, sans-serif;
   text-transform: uppercase;
-  letter-spacing: var(--spacing-larger);
+  letter-spacing: var(--spacing-largest);
   cursor: pointer;
+  font-weight: bold;
+  transition: all 0.1s ease-out;
+  padding-left: clamp(1em,5vw,4em);
+  padding-right: clamp(1em,5vw,4em);
+}
+
+button::after{
+  content: '→';
+  margin-left: 0.5em;
+  font-size: 1.25em;
+  transition: all 0.1s ease-out;
 }
 
 .section-panel p, .page-panel p {
@@ -1238,7 +1249,6 @@ body.subpage main {
 
 .subpage button {
   font-size: 1em;
-  padding: 1em;
 }
 
 .subpage a:has(> button) {
@@ -1253,6 +1263,10 @@ body.subpage main {
 .swiper img {
   height: unset;
   width: 100%;
+}
+
+.swiper-slide-thumb-active img {
+  border: 2px solid var(--white);
 }
 
 body.subpage main ul:not(.swiper-wrapper) {
@@ -1299,6 +1313,12 @@ body.subpage a {
   display: inline;
   font-size: 1rem;
   margin-bottom: 0 !important;
+  font-size: 0.8em;  
+  text-transform: uppercase;
+}
+
+.breadcrumbs li a {
+  text-underline-offset: 0.3em;
 }
 
 .breadcrumbs li:not(:first-child)::before {
