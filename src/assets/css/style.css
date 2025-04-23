@@ -1272,7 +1272,7 @@ body.subpage main {
   content: "→" !important;
 }
 
-.subpage button::after{
+.subpage button:not(.hamburger)::after{
   content: "→" !important;
   margin-left: 0.2em;
 }
