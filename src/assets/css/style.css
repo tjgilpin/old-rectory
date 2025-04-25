@@ -141,6 +141,100 @@ body > header {
   column-gap: 1rem;
 }
 
+body > main {
+  display: grid;
+  grid-template-columns:
+  1fr
+  min(90rem, 100%)
+  1fr;
+}
+
+.content, .content_primary {
+  padding: 1.5rem;
+  overflow: hidden;
+}
+
+body > main > * {
+  grid-column: 2;
+}
+
+.full-bleed, body > main > header {
+  width: 100%;
+  grid-column: 1 / -1;
+}
+
+body > main > header {
+  aspect-ratio: 16 / 9;
+  max-height: 450px;
+  position: relative;
+}
+
+body > main .swiper {
+  margin-left: unset;
+  margin-right: unset;
+}
+
+.page_home main header {
+  max-height: 20em;
+}
+
+
+.breadcrumbs {
+  list-style-type: none;
+  text-transform: capitalize;
+  padding: 0;
+  margin: 0;
+}
+
+.breadcrumbs li {
+  display: inline;
+  font-size: 1rem;
+  margin-bottom: 0 !important;
+  font-size: 0.8rem;  
+  text-transform: uppercase;
+}
+
+.breadcrumbs li a {
+  text-underline-offset: 0.3em;
+}
+
+.breadcrumbs li:not(:first-child)::before {
+  content: '> ';
+  font-size: 0.9rem;
+} 
+
+.breadcrumbs a {
+  text-decoration: underline;
+}
+
+body.subpage h2 {
+  font-size: clamp(1.75em, 4vw, 2.85em);
+  letter-spacing: var(--spacing-largest);
+  text-shadow: var(--shadow-medium);
+  margin: 1em auto 0.75em auto;
+  max-width: 40ch;
+}
+
+/* main header {
+  /* margin-left: -1rem;
+  margin-right: -1rem;
+  position: relative; */
+  /* background: #252944; */
+  /* position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  max-width: 100vw;
+  width: 100vw;  
+  overflow-y: clip;
+  margin-bottom: 1rem;
+  background: var(--blue);
+  color: var(--white);
+  aspect-ratio: 16 / 9;
+  max-height: 450px;  
+} */
+
 h1 {
   margin: 2rem 0 0;
 }
@@ -303,15 +397,6 @@ figure {
 
 .clients .aspect-4-3 img {
   aspect-ratio: 4/3;
-}
-
-.page_home main {
-  max-width: 90em;
-  /* width: 100%; */
-  padding: 0 1rem 1rem 1rem;
-  margin-left: auto;
-  margin-right: auto;
-  justify-self: center;
 }
 
 a {
@@ -727,29 +812,6 @@ time {
   }
 } */
 
-main header {
-  /* margin-left: -1rem;
-  margin-right: -1rem;
-  position: relative; */
-  /* background: #252944; */
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  max-width: 100vw;
-  width: 100vw;  
-  overflow-y: clip;
-  margin-bottom: 1rem;
-  background: var(--blue);
-  color: var(--white);
-  aspect-ratio: 16 / 9;
-  max-height: 450px;  
-}
-
-.page_home main header {
-  max-height: 20em;
-}
 /* 
 .hero {
   transform: translateY(-25%);
@@ -1192,7 +1254,6 @@ h2 {
 body.subpage main {
   letter-spacing: var(--spacing-larger);
   line-height: 1.85;
-  justify-self: center;
 }
 
 /* .content_primary, .content_secondary {
@@ -1225,7 +1286,7 @@ body.subpage main {
   text-align-last: center;  
   text-justify: inter-character;
   text-wrap: pretty;
-  margin: 1.5rem;  
+  /* margin: 1.5rem;   */
   max-width: 80ch;
   align-self: center;  
 }
@@ -1251,6 +1312,7 @@ body.subpage main {
 
 .swiper-wrapper {
   padding-left: 0;
+  margin: 0 !important;
 }
 
 .swiper img {
@@ -1277,8 +1339,8 @@ body.subpage main {
   margin-left: 0.2em;
 }
 
-body.subpage main ul:not(.swiper-wrapper) {
-  max-width: 40em;
+body.subpage main ul:not(.swiper-wrapper, .breadcrumbs) {
+  width: min(50rem, 100%);
   margin: auto;
   text-align: left;
   font-size: clamp(1em, 2vw, 1.25em);
@@ -1296,47 +1358,12 @@ body.subpage main li {
   text-align-last: left;
 }
 
-body.subpage h2 {
-  font-size: clamp(1.75em, 4vw, 2.85em);
-  letter-spacing: var(--spacing-largest);
-  text-shadow: var(--shadow-medium);
-  margin: 1em auto 1.5em auto;
-  max-width: 40ch;
-}
-
 body.subpage a {
   color: var(--white);
 }
 
 /* End Content page layout and text */
 
-
-.breadcrumbs {
-  max-width: none !important;
-  list-style-type: none;
-  text-transform: capitalize;
-}
-
-.breadcrumbs li {
-  display: inline;
-  font-size: 1rem;
-  margin-bottom: 0 !important;
-  font-size: 0.8rem;  
-  text-transform: uppercase;
-}
-
-.breadcrumbs li a {
-  text-underline-offset: 0.3em;
-}
-
-.breadcrumbs li:not(:first-child)::before {
-  content: '> ';
-  font-size: 0.9rem;
-} 
-
-.breadcrumbs a {
-  text-decoration: underline;
-}
 
 .swiper-wrapper {
   padding: 0;

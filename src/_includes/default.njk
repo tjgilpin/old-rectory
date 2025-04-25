@@ -62,16 +62,6 @@
       </header>
       {% endif %}
 
-      {% if parent_page %}
-        {% set navPages = collections.all | eleventyNavigationBreadcrumb(parent_page, { includeSelf: true }) %}
-        <ul class="breadcrumbs">
-        {% for entry in navPages %}
-          <li><a href="/">Home</a></li>
-          <li><a href="{{ entry.url }}">{{ entry.title }}</a></li>
-          <li>{{ title }}</li>
-        {% endfor %}
-      </ul>
-      {% endif %}
       {% if title == 'Home'  %}
       <div class="content">{% for section in home.sections %}
         <section class="section-panel">
@@ -122,6 +112,16 @@
       </div>
       {% else %}
       <div class="page_copy content_primary">
+        {% if parent_page %}
+          {% set navPages = collections.all | eleventyNavigationBreadcrumb(parent_page, { includeSelf: true }) %}
+          <ul class="breadcrumbs">
+          {% for entry in navPages %}
+            <li><a href="/">Home</a></li>
+            <li><a href="{{ entry.url }}">{{ entry.title }}</a></li>
+            <li>{{ title }}</li>
+          {% endfor %}
+          </ul>
+        {% endif %}
         {{ content | safe }}
         {% if cta and url %}
           <a href="{{ url }}">
