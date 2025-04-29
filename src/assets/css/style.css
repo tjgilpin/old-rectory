@@ -164,7 +164,6 @@ body > main > * {
 }
 
 body > main > header {
-  aspect-ratio: 16 / 9;
   max-height: 450px;
   position: relative;
 }
@@ -172,6 +171,8 @@ body > main > header {
 body > main .swiper {
   margin-left: unset;
   margin-right: unset;
+  margin-top: 1rem;
+  margin-bottom: 1rem;  
 }
 
 .page_home main header {
@@ -184,6 +185,7 @@ body > main .swiper {
   text-transform: capitalize;
   padding: 0;
   margin: 0;
+  line-height: 1;
 }
 
 .breadcrumbs li {
@@ -211,8 +213,27 @@ body.subpage h2 {
   font-size: clamp(1.75em, 4vw, 2.85em);
   letter-spacing: var(--spacing-largest);
   text-shadow: var(--shadow-medium);
-  margin: 1em auto 0.75em auto;
+  margin: 1em auto 0.25em auto;
   max-width: 40ch;
+}
+
+
+body.subpage main ul:not(.swiper-wrapper, .breadcrumbs) {
+  width: min(50rem, 100%);
+  margin: auto;
+  text-align: left;
+  font-size: clamp(1em, 2vw, 1.25em);
+  /* padding-left: 1em;  */
+}
+
+body.subpage main ul:not(.breadcrumbs) li {
+  line-height: 1.5;
+  margin-bottom: 1em;
+  text-align-last: left;
+}
+
+body.subpage a {
+  color: var(--white);
 }
 
 .section-content {
@@ -226,12 +247,11 @@ body.subpage h2 {
   text-align-last: center;  
   text-justify: inter-character;
   text-wrap: pretty;
-  margin: auto;  
   max-width: 80ch;
   align-self: center;
 }
 
-.content_primary p:has(+ ul) {
+.content_primary p:has(+ ul), .subpage h4 {
   text-transform: uppercase;
   letter-spacing: var(--spacing-largest);
 }
@@ -239,10 +259,6 @@ body.subpage h2 {
 .content_primary p:first-of-type, .page_copy p:first-of-type {
   font-size: clamp(1em, 2.5vw, 1.55em);
   text-transform: uppercase;
-}
-
-.page_copy {
-  margin: 2rem;
 }
 
 /* main header {
@@ -1324,11 +1340,6 @@ body.subpage main {
   margin: 0 !important;
 }
 
-.swiper img {
-  height: unset;
-  width: 100%;
-}
-
 .swiper-slide-thumb-active img {
   border: 2px solid var(--white);
 }
@@ -1348,28 +1359,6 @@ body.subpage main {
   margin-left: 0.2em;
 }
 
-body.subpage main ul:not(.swiper-wrapper, .breadcrumbs) {
-  width: min(50rem, 100%);
-  margin: auto;
-  text-align: left;
-  font-size: clamp(1em, 2vw, 1.25em);
-  /* padding-left: 1em;  */
-}
-
-body.subpage main ul.swiper-wrapper {
-  max-width: 1200px;
-  width: 100vw;
-}
-
-body.subpage main li {
-  line-height: 1.5;
-  margin-bottom: 1em;
-  text-align-last: left;
-}
-
-body.subpage a {
-  color: var(--white);
-}
 
 /* End Content page layout and text */
 
