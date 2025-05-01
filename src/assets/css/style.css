@@ -240,6 +240,21 @@ body.subpage a {
   color: var(--white);
 }
 
+/* main content structure */
+
+
+.page_home .section-panel {
+  display: grid;
+  grid-template-columns: 1fr;
+  margin-bottom: 2em;
+}
+
+.page_home .content, .page .content {
+  display: grid;
+  grid-auto-rows: 1fr;
+  row-gap: 1rem;
+}
+
 /* older content */
 
 .section-content {
@@ -899,18 +914,6 @@ header h1 {
 
 body > header {
   position: relative;
-}
-
-.page_home .section-panel {
-  display: grid;
-  grid-template-columns: 1fr;
-  margin-bottom: 2em;
-}
-
-.page_home .content {
-  display: grid;
-  grid-auto-rows: 1fr;
-  row-gap: 1rem;
 }
 
 body > footer {

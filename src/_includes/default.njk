@@ -25,7 +25,7 @@
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
   {% endif %}         
   </head>
-  <body class="page_{{ title | slugify }}{% if parent_page %} subpage subpage_{{ parent_page | slugify }}{% endif %}">
+  <body class="page_{{ title | slugify }}{% if type == 'page' %} page{% endif %}{% if parent_page %} subpage subpage_{{ parent_page | slugify }}{% endif %}">
     <header>
       <a href="/"><img src="{{ settings.logo }}" alt="{{ settings.name }}" /></a>
       <button class="hamburger active" aria-label="Open menu">
@@ -136,7 +136,7 @@
     <footer>     
       <div class="logo-address">
         <img src="{{ footerlinks.logo }}" alt="The Old Rectory Cursive Logo" />
-        <a href="{{ mapurl | safe }}">{{ footerlinks.address | safe }}</a>
+        <a href="{{ footerlinks.mapurl | safe }}">{{ footerlinks.address | safe }}</a>
       </div>
       <ul class="secondary">
         {% for item in footerlinks.secondary %}
