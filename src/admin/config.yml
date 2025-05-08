@@ -45,8 +45,8 @@ collections:
           - { label: Section Title, name: title, widget: string }            
           - { label: "Section Image", name: sectionimage, widget: image }              
           - { label: Content, name: body, widget: markdown }
-          - { label: URL, name: url, widget: string }
-          - { label: "Link Text", name: "cta", widget: string }      
+          - { label: URL, name: url, widget: string, required: false }
+          - { label: "Link Text", name: "cta", widget: string, required: false }      
       - { label: "Remove from Navigation", name: "hide", widget: "boolean", default: false }
       - { label: "Navigation Order", name: "order", widget: "number", default: 10 }
   # Sub Pages Collection (Folder-Based)
