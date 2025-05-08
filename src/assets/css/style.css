@@ -264,6 +264,16 @@ body > header {
 body > main > header {
   max-height: 450px;
   position: relative;
+  background: var(--blue);
+}
+
+body > main > header:not(:has(img)) {
+  aspect-ratio: 16/9;
+}
+
+h3, h4 {
+  text-align: center;
+  font-size: 1.75em;
 }
 
 /* section panels */
@@ -480,7 +490,7 @@ img[width][height] {
   max-width: 80ch;
   align-self: center;
 }
-.content_primary p:first-of-type, .page_copy p:first-of-type {
+.subpage_our-rooms .content_primary p:first-of-type, .subpage_our-rooms .page_copy p:first-of-type {
   font-size: clamp(1em, 2.5vw, 1.55em);
   text-transform: uppercase;
 }
@@ -496,7 +506,7 @@ img[width][height] {
   justify-self: center;
 }
 
-.content_primary p:has(+ ul), .subpage h4 {
+.subpage h4 {
   text-transform: uppercase;
   letter-spacing: var(--spacing-largest);
 }
@@ -512,20 +522,10 @@ img[width][height] {
   max-width: 80ch;
   align-self: center;
 }
-.content_primary p:first-of-type, .page_copy p:first-of-type {
-  font-size: clamp(1em, 2.5vw, 1.55em);
-  text-transform: uppercase;
-}
 
 body.subpage main {
   letter-spacing: var(--spacing-larger);
   line-height: 1.85;
-}
-
-
-.content_primary p:has(+ ul), .subpage h4 {
-  text-transform: uppercase;
-  letter-spacing: var(--spacing-largest);
 }
 
 /* main header {
