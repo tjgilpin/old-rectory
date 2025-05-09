@@ -111,7 +111,7 @@
         </section>{% endfor %}
       </div>
       {% else %}
-      <div class="page_copy content_primary">
+      <div class="page_copy content_primary main_content">
         {% if parent_page %}
           {% set navPages = collections.all | eleventyNavigationBreadcrumb(parent_page, { includeSelf: true }) %}
           <ul class="breadcrumbs">
