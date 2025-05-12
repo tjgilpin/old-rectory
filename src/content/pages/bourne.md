@@ -10,7 +10,7 @@ hide: true
 ## Cosy & Private
 Enjoy a cosy night in the private lounge with an equipped kitchen and dining space. Decorated throughout with wallpaper by Deborah Bowness each room is unique, creating a home away from home. This apartment space can sleep up to four guests and has views of both the garden & the churchyard.
 
-This room features; 
+#### This room features; 
 
 * A double bed with feather bedding & high quality cotton sheets facing the garden
 * A double bed with feather bedding & high quality cotton sheets facing the church-yard 
