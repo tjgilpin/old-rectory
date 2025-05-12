@@ -10,7 +10,7 @@ hide: true
 ## Elegant & Beautiful
 Decorated in shades of grey with its wall of Wedgwood calendar plates and elegant furniture; this beautifully light and airy room at the front of the house, has Old town views from its Georgian sash window. 
 
-This room features; 
+#### This room features; 
 
 * A king size bed with feather bedding & high quality cotton sheets
 * A sizeable bathroom with a bath, overhead shower & speciality Oast & Rye toiletries 
