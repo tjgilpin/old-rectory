@@ -11,7 +11,7 @@ hide: true
 
 Our cosiest room, with its sloping ceiling. Rock a Nore is hidden away on the second floor at the top of the house. Decorated in muted greys, with lovely attention to detail around the woodwork.  A Carrara marble ensuite completes the setting. 
 
-This room features; 
+#### This room features; 
 
 * A double bed with feather bedding & high quality cotton sheets
 * An en-suite with a walk-in, waterfall shower & speciality Oast & Rye toiletries 
