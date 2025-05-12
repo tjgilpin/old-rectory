@@ -1,6 +1,7 @@
 ---
 type: subpage
 parent_page: Our Rooms
+title: All Saints
 headerimage: /assets/img/37-dsc06751.jpg
 gallery:
   - galleryimage: /assets/img/all-saints-1.jpg
@@ -15,7 +16,6 @@ gallery:
 url: http://secure.hotels.uk.com/webbookings/?HotelID=12288
 cta: Book now from £190
 hide: true
-title: All Saints
 ---
 ## Perfect for two, three or four to share
 
@@ -23,7 +23,7 @@ A private corridor leads you past the sumptuous hand marbled bathroom and wet ro
 
 {% gallery gallery, "Photo of All Saints Room" %}
 
-This room features;
+#### This room features;
 
 * A Super-King size bed with feather bedding & high quality cotton sheets
 * Claw-foot, roll-top bath with a hand-held shower & speciality Oast & Rye toiletries 
@@ -35,7 +35,7 @@ This room features;
 * This room can be set as a twin room on request
 * From £190, including breakfast
 
-The additional room features;
+#### The additional room features;
 
 * A double bed with feather bedding & high quality cotton sheets
 * Tea & Coffee from Ringtons & homemade biscuits 
