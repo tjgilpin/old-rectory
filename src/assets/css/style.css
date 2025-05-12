@@ -151,6 +151,13 @@ footer {
   row-gap: 1rem;
 }
 
+.content_primary {
+  display: flex;
+  flex-direction: column;
+  justify-self: center;
+  /* margin: 1rem; */
+}
+
 .section-panel {
   display: grid;
   grid-template-columns: 1fr;
@@ -226,7 +233,7 @@ footer ul li p {
 
 /* typography */
 
-main p, main li {
+main p {
   font-size: clamp(1em, 2vw, 1.25em);
   line-height: 1.65;
   letter-spacing: var(--spacing-large);
@@ -544,7 +551,14 @@ h3, h4 {
     left: 0;
     top: 0;
     width: 100%; 
-  }  
+  }
+
+  .page .section-panel .image img {
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    opacity: 80%;
+  }
   
   .page_home .section-panel .title {
     grid-row: 1 / 2;
@@ -652,6 +666,8 @@ h3, h4 {
 .subpage_our-rooms .content_primary p:first-of-type, .subpage_our-rooms .page_copy p:first-of-type {
   font-size: clamp(1em, 2.5vw, 1.55em);
   text-transform: uppercase;
+  text-align: justify;
+  text-align-last: center;
 }
 
 .subpage main, .page main {
@@ -663,6 +679,12 @@ h3, h4 {
   padding: 1.5rem;
   display: flex;
   justify-self: center;
+}
+
+.page_copy > p {
+  max-width: 80ch;
+  text-align: center;
+  text-wrap: balance;
 }
 
 .subpage h4 {
@@ -1416,7 +1438,7 @@ body.subpage footer img[src$=".svg"] {
   filter: brightness(0) invert(1);
 }
 
-body.subpage .logo-address, body.subpage .copyright {
+body.subpage footer, body.subpage .copyright {
   border-color: rgba(255,255,255,0.1);
 }
 
@@ -1441,12 +1463,6 @@ h2 {
   margin: 0 auto;
   padding: 3em 2em;
 } */
-
-.content_primary {
-  display: flex;
-  flex-direction: column;
-  /* margin: 1rem; */
-}
 
 /* .content_primary .intro {
   order: 1;
