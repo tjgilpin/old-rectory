@@ -10,7 +10,7 @@ hide: true
 ## Calm & Majestic
 Being Georgian in origin, this room is light and airy with high ceilings and a beautiful chandelier. Decorated in calming muted greys and blues with hand painted panelled wallpaper designed by Deborah Bowness. This room has a calm, yet majestic feel.
 
-This room features; 
+#### This room features; 
 
 * A Super-king bed with feather bedding & high quality cotton sheets
 * An en-suite with a bath, hand held shower & speciality Oast & Rye toiletries 
