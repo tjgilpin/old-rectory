@@ -11,7 +11,7 @@ hide: true
 
 Our bright and airy large second floor room overlooks our tranquil garden.Painted in a warm cream regency colour, this room has beautiful hand printed floral picture panels, specifically designed by Deborah Bowness. 
 
-This room features; 
+#### This room features; 
 
 * A queen size bed with feather bedding & high quality cotton sheets
 * An en-suite with a walk-in, waterfall shower & speciality Oast & Rye toiletries 
