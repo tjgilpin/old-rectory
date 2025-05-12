@@ -10,7 +10,7 @@ hide: true
 ## Tranquil & Relaxing
 On the first floor, this elegant tranquil room faces our fabulous garden. Painted in muted greens and cream, with its wall sconces and vintage paintings; the handmade blind and cushions using stunning Louise Body fabric add to the relaxing feel.
 
-This room features; 
+#### This room features; 
 
 * A double bed with feather bedding & high quality cotton sheets
 * An en-suite with a bath, overhead waterfall shower & speciality Oast & Rye toiletries 
