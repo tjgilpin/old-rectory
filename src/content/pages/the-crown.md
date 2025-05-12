@@ -1,7 +1,7 @@
 ---
-hide: true
 parent_page: Our Rooms
 headerimage: /assets/img/our-rooms-hero.jpg
+hide: true
 order: 10
 type: subpage
 title: Crown
@@ -12,7 +12,7 @@ cta: Book now from £180
 
 Large, grand and opulent, Crown is decorated in pale grey with rich burgundy accents and hand finished portrait panels. A free standing bath big enough for two, sits within the room, whilst the bookcase hides its own secret toilet. A beautiful smoked grey glass chandelier completes the look.
 
-This room features; 
+#### This room features; 
 
 * A king size bed with feather bedding & high quality cotton sheets
 * Free-standing bath with a hand-held shower & speciality Oast & Rye toiletries 
