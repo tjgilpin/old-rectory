@@ -255,6 +255,7 @@ nav a {
 
 nav li {
   font-size: 1em;
+  letter-spacing: var(--spacing-medium);
 }
 
 a {
