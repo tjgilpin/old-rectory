@@ -543,7 +543,10 @@ h3, h4 {
 
   .page .content {
     padding: 0;
-    row-gap: 0 !important;
+    row-gap: 2rem !important;
+    max-width: 1400px;
+    justify-self: center;
+    width: 100%
   }
 
   .page .section-panel .image, .page .section-panel .image img {
