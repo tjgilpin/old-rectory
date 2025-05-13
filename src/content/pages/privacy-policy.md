@@ -1,7 +1,7 @@
 ---
 type: page
 title: Privacy Policy
-hide: false
+hide: true
 order: 10
 ---
 ### Privacy Policy
