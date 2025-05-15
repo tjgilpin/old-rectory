@@ -393,6 +393,16 @@ body.subpage h2 {
   text-shadow: var(--shadow-medium);
   margin: 1em auto 0.25em auto;
   max-width: 40ch;
+  display: flex;
+  align-items: center;
+}
+
+
+body.subpage h2::before, body.subpage h2::after {
+  background: rgba(255,255,255,0.5);
+  height: 2px;
+  flex: 1;
+  content: '';
 }
 
 
@@ -694,7 +704,13 @@ h3, h4 {
   padding: 1.5rem;
   display: flex;
   justify-self: center;
+  flex-direction: column;
 }
+
+#qbg_booking_date_number_from_front, .submitbtn input[type="submit"].qbg_options_customizer_forms, .qbg_options_second_font, .qbg_options_customizer_fonts.qbg_options_second_font, .qbg_options_customizer_fonts label, .qbg_options_customizer_fonts input {
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, Futura, sans-serif !important;
+}
+ 
 
 /* older content */
 
