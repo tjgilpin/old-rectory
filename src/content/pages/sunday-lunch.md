@@ -9,6 +9,8 @@ hide: true
 ---
 In keeping with our home-from-home, welcoming atmosphere Sunday Lunches at The Old Rectory are hosted in our hand-painted dining room and our cosy lounge. Served over two or three courses our dedication to traditional Sunday Lunch is reflected in our ever-changing menu and focus on seasonal, locally sourced produce. Enjoy a cocktail by the fire before taking your seat & catching up with family and friends.
 
+## Menu
+
 ### Starter
 
 * Duck and chicken liver parfait filled profiterole, rhubarb and ginger jam, herb salad
