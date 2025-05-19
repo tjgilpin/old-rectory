@@ -9,7 +9,7 @@ sections:
       wetrooms, walk-in showers & roll-top baths. Each room has been carefully
       curated to offer something to suit everyone....
     title: Our Rooms
-    cta: Click here to book
+    cta: View Rooms
   - url: /food-and-drink
     sectionimage: /assets/img/hero-image-food-drink.jpg
     body: Whether it’s an a la carte, two course breakfast, an Afternoon Tea or
@@ -17,7 +17,7 @@ sections:
       dishes. With award winning marmalade, homemade sausages and black pudding,
       signature battenberg & house cocktails.
     title: Food & Drink
-    cta: Click here to book
+    cta: View Menus
   - url: /weddings
     sectionimage: /assets/img/hero-image-weddings.jpg
     body: Nestled in a picturesque location, our wedding venue offers a stunning
@@ -29,11 +29,11 @@ sections:
       memories with the ones you love in a setting that’s as beautiful as your
       love story.
     title: Weddings
-    cta: Click here to book
+    cta: View Wedding Packages
   - url: /treatment-rooms
     sectionimage: /assets/img/hero-image-treatments.jpg
     body: Established in 2017, the Treatment Rooms offer a range of wellness and
       beauty therapies in a calm and tranquil setting. Bookings are open to the
       public, as well as to guests of The Old Rectory.
     title: Treatment Rooms
-    cta: Click here to book
+    cta: View Wellness & Beauty Therapies
