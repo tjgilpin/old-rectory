@@ -321,7 +321,7 @@ body > main > *, .main_content > *  {
   grid-column: 2;
 }
 
-body.subpage .main_content {
+.main_content {
   display: grid;
   grid-template-columns:
   1fr
@@ -593,8 +593,52 @@ h3, h4 {
 
 /* secondary content pages */
 
-.page_privacy-policy
+.page_privacy-policy {
 
+}
+
+/* menu sections */
+
+.menu {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  column-gap: 2rem;
+  grid-column: 1 / -1;
+  margin: 2rem 0;
+}
+
+.menu ul {
+  padding-left: 0;
+  line-height: 1.2;
+  list-style-type: none;
+}
+.menu ul li {
+  position: relative;
+  padding-right: 4em;
+  margin: 1rem 0;
+  font-size: 0.8em;
+}
+
+.menu strong {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.menu h2, .menu h3 {
+  text-transform: capitalize;
+  text-align: left;
+  margin-top: 0;
+} 
+
+.page_cafe h2 {
+  margin: 1rem 0;
+}
+
+.menu h3 {
+  margin-top: 1rem;
+  font-size: 1rem;
+}
 
 
 /* section panels */
