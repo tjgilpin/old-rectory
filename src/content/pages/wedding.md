@@ -3,13 +3,19 @@ type: page
 title: Weddings
 headerimage: /assets/img/hero-image-weddings.jpg
 sections:
-  - title: Ceremony Only Package
+  - title: Ceremony Only
     body: Perfect for intimate gatherings, our Garden Wedding Ceremony package
       accommodates up to 78 guests, plus the couple, offering an elegant and
       relaxed outdoor celebration.
     url: ceremony-package
-    cta: View Package
+    cta: View Wedding Package
     sectionimage: /assets/img/weddings-ceremony-only-package.jpg
+  - title: Wedding Extravaganza
+    sectionimage: /assets/img/weddings-complete-package.jpg
+    body: For a truly unforgettable celebration, our Wedding Extravaganza package
+      offers exclusive hire of The Old Rectory for two nights
+    url: extravaganza-package
+    cta: View Wedding Package
 hide: false
 order: 50
 ---
