@@ -3,7 +3,7 @@ type: page
 title: Weddings
 headerimage: /assets/img/hero-image-weddings.jpg
 sections:
-  - title: Ceremony Only
+  - title: Wedding Ceremony
     body: Perfect for intimate gatherings, our Garden Wedding Ceremony package
       accommodates up to 78 guests, plus the couple, offering an elegant and
       relaxed outdoor celebration.
