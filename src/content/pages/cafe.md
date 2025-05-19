@@ -1,6 +1,6 @@
 ---
 type: page
-title: Cafe
+title: Café
 headerimage: /assets/img/hero-cafe.jpg
 hide: false
 order: 110
