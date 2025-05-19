@@ -394,7 +394,6 @@ footer p, footer li {
 }
 
 .page_our-rooms .page_copy > p, .page_food-and-drink .page_copy > p {
-  max-width: 80ch;
   text-align: center;
   text-wrap: balance;
 }
@@ -692,15 +691,13 @@ h3, h4 {
 
   .page .section-panel .image, .page .section-panel .image img {
     position: absolute;
-    left: 0;
-    top: 0;
-    width: 100%; 
-  }
-
-  .page .section-panel .image img {
+    width: 100%;
     left: 50%;
     top: 50%;
     transform: translate(-50%,-50%);
+  }
+
+  .page .section-panel .image img {
     opacity: 80%;
   }
   
@@ -821,6 +818,7 @@ h3, h4 {
   display: flex;
   justify-self: center;
   flex-direction: column;
+  width: min(100%, 70em);  
 }
 
 #qbg_booking_date_number_from_front, .submitbtn input[type="submit"].qbg_options_customizer_forms, .qbg_options_second_font, .qbg_options_customizer_fonts.qbg_options_second_font, .qbg_options_customizer_fonts label, .qbg_options_customizer_fonts input {
