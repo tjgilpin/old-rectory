@@ -46,21 +46,16 @@
       <img src="/assets/img/michelin-2024.png" alt="Michelin 2024" class="michelin">
     </header>
     <main>
-      {% if title and title != 'Home'  %}
         <header>
-          {% if headerimage %}
-            <img src="{{ headerimage }}" alt="{{ title }}" class="hero" />
-          {% endif %}          
+          <img src="{{ headerimage | default(home.headerimage) }}" alt="{{ title }}" class="hero" />
+          {% if title == 'Home'  %}
+            <img src="{{ home.headerlogo }}" class="logo">
+          {% else %}
           <h1>
-            {{ title }}
+            {{ title }} yeah yeah
           </h1>
-        </header>
-      {% else %}
-      <header>
-        <img src="{{ home.headerlogo }}" class="logo">
-        <img src="{{ home.headerimage }}" class="hero">
+          {% endif %}
       </header>
-      {% endif %}
 
       {% if title == 'Home'  %}
       <div class="content">{% for section in home.sections %}

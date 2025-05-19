@@ -6,6 +6,10 @@
   --michelin-red: rgba(189, 35, 52, 1);
   --white: rgba(255, 255, 255, 1);
   --orange: rgba(162, 62, 26, 1);
+  --lightblue: rgba(101, 131, 155, 1);
+  --beige: rgba(223, 201, 116, 1);
+  --green: rgba(120, 134, 108, 1);
+
 
   --font-smaller: 0.7em;
   --font-small: 0.85em;
@@ -62,6 +66,45 @@ img[width][height] {
 
 input, button, textarea, select {
   font: inherit;
+}
+
+/* themed sections  */
+
+body.subpage_our-rooms {
+  background: var(--blue);
+}
+
+body.subpage_food-and-drink {
+  background: var(--orange);
+}
+
+body.subpage_food-and-drink {
+  background: var(--orange);
+}
+
+body.subpage {
+  color: var(--white);
+}
+
+body.subpage footer, body.subpage footer a {
+  color: var(--white);
+}
+
+body.subpage footer img[src$=".svg"] {
+  filter: brightness(0) invert(1);
+}
+
+body.subpage footer, body.subpage .copyright {
+  border-color: rgba(255,255,255,0.1);
+}
+
+body.subpage button {
+  background: var(--white);
+  color: var(--blue);  
+}
+
+body.subpage input {
+  background: rgba(255,255,255,0.3);  
 }
 
 /* header */
@@ -274,6 +317,23 @@ body > main {
   1fr;
 }
 
+body > main > *, .main_content > *  {
+  grid-column: 2;
+}
+
+body.subpage .main_content {
+  display: grid;
+  grid-template-columns:
+  1fr
+  min(50rem, 100%)
+  1fr;
+}
+
+.full-bleed, body > main > header, body.subpage > main > header, .breadcrumbs {
+  width: 100%;
+  grid-column: 1 / -1;
+}
+
 footer {
   display: grid;
   row-gap: 1rem;  
@@ -406,14 +466,6 @@ a {
   max-width: 50rem;
 }
 
-body > main > * {
-  grid-column: 2;
-}
-
-.full-bleed, body > main > header {
-  width: 100%;
-  grid-column: 1 / -1;
-}
 
 body > main .swiper {
   margin-left: unset;
@@ -1399,38 +1451,6 @@ main {
   margin-bottom: 4em;
 }
 
-body.subpage_our-rooms {
-  background: var(--blue);
-}
-
-body.subpage_food-and-drink {
-  background: var(--orange);
-}
-
-body.subpage {
-  color: var(--white);
-}
-
-body.subpage footer, body.subpage footer a {
-  color: var(--white);
-}
-
-body.subpage footer img[src$=".svg"] {
-  filter: brightness(0) invert(1);
-}
-
-body.subpage footer, body.subpage .copyright {
-  border-color: rgba(255,255,255,0.1);
-}
-
-body.subpage button {
-  background: var(--white);
-  color: var(--blue);  
-}
-
-body.subpage input {
-  background: rgba(255,255,255,0.3);  
-}
 
 /* Start Content page layout and text */
 
