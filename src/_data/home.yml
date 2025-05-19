@@ -20,9 +20,14 @@ sections:
     cta: Click here to book
   - url: /weddings
     sectionimage: /assets/img/hero-image-weddings.jpg
-    body: Our Victorian walled garden is a glorious backdrop for your special day.
-      From romantic micro-weddings to spectacular late night receptions The Old
-      Rectory helps you create a bespoke experience for you & your guests.
+    body: Nestled in a picturesque location, our wedding venue offers a stunning
+      backdrop for your special day. Whether you envision an intimate ceremony
+      or a grand celebration, our versatile spaces can be tailored to suit your
+      unique style. From the moment you arrive, you'll be surrounded by
+      breathtaking views, elegant décor, and exceptional service that ensures
+      every detail is taken care of. Let us help you create unforgettable
+      memories with the ones you love in a setting that’s as beautiful as your
+      love story.
     title: Weddings
     cta: Click here to book
   - url: /treatment-rooms
