@@ -167,8 +167,8 @@ Decaf tea & coffee available on request
 * Oakwood Apple Juice **£3.00**
 * Gusto Organic Soft Drinks\
   Cola, Slim Cola, Cherry Cola,Ginger & Jalapeno, Lemon & Yuzu,Blood Orange **£3.50**
-  Small Sparkling Water **£2.50**
-  Large Sparkling Water **£5.00**
+* Small Sparkling Water **£2.50**
+* Large Sparkling Water **£5.00**
 
 ### Prosecco
 
