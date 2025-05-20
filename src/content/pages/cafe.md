@@ -24,8 +24,8 @@ Every cake and dessert is baked in-house by Hattie and our signature marmalade i
 <div class="menu">
 <div class="menu-col">
 
-* Two sourdough crumpets with whipped butter, add jam, marmalade, Marmite butter or honey butter £5.00
-* Maple roasted granola, Greek / plant based yoghurt, seasonal compote £6.50
+* Two sourdough crumpets with whipped butter, add jam, marmalade, Marmite butter or honey butter £5.00\
+  Maple roasted granola, Greek / plant based yoghurt, seasonal compote £6.50
 * Plant based French toast, Chantilly cream, seasonal compote £8.50
 * Bacon bap, walnut ketchup £7.50
 * Sausage patty, fried egg, Mayfield Swiss cheese, English muffin £8.50
@@ -35,12 +35,7 @@ Every cake and dessert is baked in-house by Hattie and our signature marmalade i
 * Seasonal soup, Pan Gallego, whipped butter £7.00
 * Pork and apple sausage roll, bacon jam £5.50
 * Sussex made Manchego cheese and olive scone, chorizo jam and whipped butter £6.50
-
-  </div>
-  <div class="menu-col">
-
-### Salads
-
+* ### Salads
 * Charred purple sprouting broccoli, courgettes, crumbled medita, pine nuts, leaves, couscous, lemon & thyme dressing £11.50
 * Smoked chicken, bitter leaves, sourdough croutons, bacon lardons, charred spring onions, cream dressing £11.50
 * Smoked mackerel, Jersey royals, horseradish, watercress, leaves, herb dressing £11.50
