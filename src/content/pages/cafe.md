@@ -9,6 +9,8 @@ Café at The Old Rectory is an elegantly designed space that offers all the impo
 
 ## Menu
 
+**Tuesday - Thursday**
+
 We take pride in using the best local and seasonal ingredients, where possible.
 
 Our smoked meats and fish are prepared in our very own garden smokery by Janek, who also makes our sausages and cures our bacon.
