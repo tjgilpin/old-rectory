@@ -2,6 +2,11 @@
 type: page
 title: Café
 headerimage: /assets/img/cafe-latest-hero.jpg
+gallery:
+  - image: /assets/img/dsc00893.jpg
+  - image: /assets/img/dsc01042.jpg
+  - image: /assets/img/dsc01053.jpg
+  - image: /assets/img/dsc01111.jpg
 hide: false
 order: 110
 ---
