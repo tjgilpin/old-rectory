@@ -185,10 +185,10 @@ Decaf tea & coffee available on request
 * Brewing Brothers Reforestation Pale Ale (GF) **£7.00**
 
 </div>
+</div>
 
 <div class="menu-text">
 
 All of our wines are served in a 125ml measure as standard. 175ml & 250ml glasses are available on request. Service charge is not included.
 
-</div>
 </div>
