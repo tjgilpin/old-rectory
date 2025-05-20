@@ -154,8 +154,6 @@ Decaf tea & coffee available on request
 </div>
 <div class="menu-col">
 
-
-
 ### Iced Drinks
 
 * Iced Latte **£3.80**
@@ -166,7 +164,7 @@ Decaf tea & coffee available on request
 
 ### Soft Drinks
 
-Oakwood Apple Juice £3.00
+* Oakwood Apple Juice £3.00
 * Gusto Organic Soft Drinks   
 Cola, Slim Cola, Cherry Cola,Ginger & Jalapeno, Lemon & Yuzu,Blood Orange £3.50
 Small Sparkling Water £2.50
