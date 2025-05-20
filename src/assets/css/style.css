@@ -49,7 +49,7 @@ body {
   height: 100dvh;
   font-family: "Century Gothic", CenturyGothic, AppleGothic, Futura, sans-serif; 
   font-size: 1rem;
-  line-height: 1.65;
+  line-height: 1.8;
   letter-spacing: var(--spacing-large);
   background: var(--light);
   color: var(--blue);
@@ -380,11 +380,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 main p, main ul {
-  font-size: clamp(1em, 2vw, 1.25em);
+  font-size: clamp(1em, 2vw, 1.125em);
 }
 
 footer p, footer li {
   line-height: 1.25;
+}
+
+hr {
+  border: 1px solid var(--blue-tint);
+  margin: 1.5rem 0;
 }
 
 .section-panel p {
@@ -616,13 +621,21 @@ h3, h4 {
   position: relative;
   padding-right: 4em;
   margin: 1rem 0;
-  font-size: 0.8em;
+  font-size: 0.8rem;
 }
 
-.menu strong {
+.menu p {
+  font-size: 0.8rem;
+}
+
+.menu li strong {
   position: absolute;
   right: 0;
   top: 0;
+}
+
+.menu-intro {
+  text-align: center;
 }
 
 .menu h2, .menu h3 {
