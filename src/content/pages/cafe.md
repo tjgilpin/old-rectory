@@ -164,20 +164,20 @@ Decaf tea & coffee available on request
 
 ### Soft Drinks
 
-* Oakwood Apple Juice £3.00
-* Gusto Organic Soft Drinks   
-Cola, Slim Cola, Cherry Cola,Ginger & Jalapeno, Lemon & Yuzu,Blood Orange £3.50
-Small Sparkling Water £2.50
-Large Sparkling Water £5.00
+* Oakwood Apple Juice **£3.00**
+* Gusto Organic Soft Drinks\
+  Cola, Slim Cola, Cherry Cola,Ginger & Jalapeno, Lemon & Yuzu,Blood Orange **£3.50**
+  Small Sparkling Water **£2.50**
+  Large Sparkling Water **£5.00**
 
 ### Prosecco
 
-* Small Bottle £7.00
-* Large Bottle £23.00
+* Small Bottle **£7.00**
+* Large Bottle **£23.00**
 
 ### Beer
 
-* Brewing Brothers Reforestation Pale Ale (GF)£7
+* Brewing Brothers Reforestation Pale Ale (GF) **£7.00**
 
 All of our wines are served in a 125ml measure as standard. 175ml & 250ml glasses are available on request. Service charge is not included.
 
