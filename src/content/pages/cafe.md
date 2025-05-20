@@ -26,7 +26,7 @@ Our mushrooms are grown just a stone's throw away by Robbie at Basil's Fungi Far
 
 Every cake and dessert is baked in-house by Hattie and our signature marmalade is not only homemade by Christine, it's award-winning.
 
-## Tuesday - Saturday
+<hr/>
 
 <div class="menu">
 <div class="menu-col">
