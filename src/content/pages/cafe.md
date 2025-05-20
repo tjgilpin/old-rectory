@@ -12,10 +12,6 @@ order: 110
 ---
 Café at The Old Rectory is an elegantly designed space that offers all the important things in life: good coffee, good food, and good vibes. Our carefully planned seasonal menu features ingredients from trusted local suppliers, enhanced by in-house expertise—from our expert cake baker to our on-site garden smokers. Open seven days a week from 10 am to 4 pm, Café at The Old Rectory is the perfect place to catch up with old friends, relax after a walk with the dog, or enjoy some solo time with a cup of tea and a good book.
 
-
-
-<div class="menu-text">
-
 **We take pride** in using the best local and seasonal ingredients, where possible.
 
 **Our smoked meats and fish** are prepared in our very own garden smokery by Janek, who also makes our sausages and cures our bacon.
@@ -27,8 +23,6 @@ Café at The Old Rectory is an elegantly designed space that offers all the impo
 **Our mushrooms** are grown just a stone's throw away by Robbie at Basil's Fungi Farm in Hastings, less than a mile from our door.
 
 **Every cake and dessert** is baked in-house by Hattie and our signature marmalade is not only homemade by Christine, it's award-winning.
-
-</div>
 
 <hr/>
 
