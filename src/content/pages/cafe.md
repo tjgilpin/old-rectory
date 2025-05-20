@@ -35,7 +35,12 @@ Every cake and dessert is baked in-house by Hattie and our signature marmalade i
 * Seasonal soup, Pan Gallego, whipped butter £7.00
 * Pork and apple sausage roll, bacon jam £5.50
 * Sussex made Manchego cheese and olive scone, chorizo jam and whipped butter £6.50
-* ### Salads
+
+</div>\
+<div class="menu-col">
+
+### Salads
+
 * Charred purple sprouting broccoli, courgettes, crumbled medita, pine nuts, leaves, couscous, lemon & thyme dressing £11.50
 * Smoked chicken, bitter leaves, sourdough croutons, bacon lardons, charred spring onions, cream dressing £11.50
 * Smoked mackerel, Jersey royals, horseradish, watercress, leaves, herb dressing £11.50
