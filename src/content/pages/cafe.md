@@ -91,10 +91,6 @@ Every cake and dessert is baked in-house by Hattie and our signature marmalade i
 </div>
 </div>
 
-
-
-
-
 ## Drinks
 
 <div class="menu">
@@ -121,19 +117,19 @@ Decaf tea & coffee available on request
 
 ### Wines
 
-El Copero White
+**El Copero White**
 
 * Glass **£6.00**
 * Half Carafe **£13.00**
 * Full Carafe **£23.00**
 
-El Copero Red
+**El Copero Red**
 
 * Glass **£6.00**
 * Half Carafe **£13.00**
 * Full Carafe **£23.00**
 
-Les Oliviers Rose
+**Les Oliviers Rose**
 
 * Glass **£6.00**
 * Half Carafe **£13.00**
@@ -141,26 +137,22 @@ Les Oliviers Rose
 
 ### Cocktails
 
-Bloody Mary
+**Bloody Mary**
 
 * Glass **£8.00**
 * Pitcher **£20.00**
 
-Pimms
+**Pimms**
 
 * Glass **£8.00**
 * Pitcher **£20.00**
 
-Mimosa
+**Mimosa**
 
 * Glass **£8.00**
 
 </div>
 <div class="menu-col">
-
-
-
-
 
 </div>
 </div>
