@@ -90,3 +90,77 @@ Every cake and dessert is baked in-house by Hattie and our signature marmalade i
 
 </div>
 </div>
+
+
+
+
+
+## Drinks
+
+<div class="menu">
+<div class="menu-col">
+
+### Hot Drinks
+
+* Espresso **£2.50**
+* Double Espresso **£3.00**
+* Americano **£3.20**
+* Latte **£3.50**
+* Flat White **£3.20**
+* Cappuccino **£3.50**
+* Babycino **£3.00**
+* Mocha **£4.50**
+* Hot Chocolate **£3.00**
+* Chai Latte **£3.00**
+* Dirty Chai **£4.50**
+* Ringtons Tea
+* English Breakfast, Earl Grey,Lemon & Ginger, Chamomile,Peppermint & GreenTea for One **£2.50**
+* Tea for Two **£4.00**
+
+Decaf tea & coffee available on request
+
+### Wines
+
+El Copero White
+
+* Glass **£6.00**
+* Half Carafe **£13.00**
+* Full Carafe **£23.00**
+
+El Copero Red
+
+* Glass **£6.00**
+* Half Carafe **£13.00**
+* Full Carafe **£23.00**
+
+Les Oliviers Rose
+
+* Glass **£6.00**
+* Half Carafe **£13.00**
+* Full Carafe **£23.00**
+
+### Cocktails
+
+Bloody Mary
+
+* Glass **£8.00**
+* Pitcher **£20.00**
+
+Pimms
+
+* Glass **£8.00**
+* Pitcher **£20.00**
+
+Mimosa
+
+* Glass **£8.00**
+
+</div>
+<div class="menu-col">
+
+
+
+
+
+</div>
+</div>
