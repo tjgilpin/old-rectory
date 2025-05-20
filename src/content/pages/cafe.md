@@ -154,5 +154,34 @@ Decaf tea & coffee available on request
 </div>
 <div class="menu-col">
 
+
+
+### Iced Drinks
+
+* Iced Latte **£3.80**
+* Iced Mocha **£4.00**
+* Iced Chai Latte **£3.80**
+* Iced Dirty Chai **£4.00**
+* Iced Americano **£3.50**
+
+### Soft Drinks
+
+Oakwood Apple Juice £3.00
+* Gusto Organic Soft Drinks   
+Cola, Slim Cola, Cherry Cola,Ginger & Jalapeno, Lemon & Yuzu,Blood Orange £3.50
+Small Sparkling Water £2.50
+Large Sparkling Water £5.00
+
+Prosecco
+
+* Small Bottle £7.00
+* Large Bottle £23.00
+
+Beer
+
+* Brewing Brothers Reforestation Pale Ale (GF)£7
+
+All of our wines are served in a 125ml measure as standard. 175ml & 250ml glasses are available on request. Service charge is not included.
+
 </div>
 </div>
