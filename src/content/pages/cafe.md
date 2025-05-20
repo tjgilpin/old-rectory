@@ -12,6 +12,10 @@ order: 110
 ---
 Café at The Old Rectory is an elegantly designed space that offers all the important things in life: good coffee, good food, and good vibes. Our carefully planned seasonal menu features ingredients from trusted local suppliers, enhanced by in-house expertise—from our expert cake baker to our on-site garden smokers. Open seven days a week from 10 am to 4 pm, Café at The Old Rectory is the perfect place to catch up with old friends, relax after a walk with the dog, or enjoy some solo time with a cup of tea and a good book.
 
+<hr/>
+
+<div class="menu-text">
+
 ## Menu
 
 We take pride in using the best local and seasonal ingredients, where possible.
@@ -26,7 +30,7 @@ Our mushrooms are grown just a stone's throw away by Robbie at Basil's Fungi Far
 
 Every cake and dessert is baked in-house by Hattie and our signature marmalade is not only homemade by Christine, it's award-winning.
 
-<hr/>
+</div>
 
 <div class="menu">
 <div class="menu-col">
