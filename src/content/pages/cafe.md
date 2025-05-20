@@ -24,6 +24,8 @@ Café at The Old Rectory is an elegantly designed space that offers all the impo
 
 **Every cake and dessert** is baked in-house by Hattie and our signature marmalade is not only homemade by Christine, it's award-winning.
 
+{% gallery gallery, "Cafe Photos" %}
+
 <hr/>
 
 ## Menu
