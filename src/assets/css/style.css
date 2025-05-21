@@ -410,6 +410,10 @@ hr {
   text-wrap: pretty;
 }
 
+.section-panel h2 {
+  margin: 0;
+}
+
 .page_our-rooms .page_copy > p, .page_food-and-drink .page_copy > p {
   text-align: center;
   text-wrap: balance;
