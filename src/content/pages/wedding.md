@@ -7,7 +7,7 @@ sections:
     body: Perfect for intimate gatherings, our Garden Wedding Ceremony package
       accommodates up to 78 guests, plus the couple, offering an elegant and
       relaxed outdoor celebration.
-    url: ceremony-package
+    url: wedding-cermony
     cta: View Wedding Package
     sectionimage: /assets/img/weddings-ceremony-only-package.jpg
   - title: Wedding Extravaganza
