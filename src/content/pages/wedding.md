@@ -13,10 +13,10 @@ sections:
   - title: Wedding Extravaganza
     sectionimage: /assets/img/weddings-complete-package.jpg
     body: >-
-      Say “I do” in the romantic setting of The Rectory’s beautifully manicured
-      garden, available exclusively for your ceremony. Perfect for intimate
-      gatherings, our Garden Wedding Ceremony package accommodates up to 78
-      guests, plus the couple, offering an elegant and relaxed outdoor
+      Say *“I do”* in the romantic setting of The Rectory’s beautifully
+      manicured garden, available exclusively for your ceremony. Perfect for
+      intimate gatherings, our Garden Wedding Ceremony package accommodates up
+      to 78 guests, plus the couple, offering an elegant and relaxed outdoor
       celebration.
 
 
@@ -39,13 +39,11 @@ sections:
       Looking to elevate your celebration? We offer a selection of optional upgrades, including:
 
 
-      Additional drinks and premium beverage options
+      * Additional drinks and premium beverage options
 
+      * Extra canapés and bespoke menu enhancements
 
-      Extra canapés and bespoke menu enhancements
-
-
-      Extended stays at The Rectory for the couple or wedding party
+      * Extended stays at The Rectory for the couple or wedding party
 
 
       Create unforgettable memories in a setting that blends timeless charm with countryside elegance. Contact us to begin planning your perfect day.
