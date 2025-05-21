@@ -1,7 +1,7 @@
 ---
 type: page
 title: Café
-headerimage: /assets/img/dsc01239.jpg
+headerimage: /assets/img/hero-cafe-room-dont-use.jpg
 gallery:
   - image: /assets/img/dsc00893.jpg
   - image: /assets/img/dsc01042.jpg
