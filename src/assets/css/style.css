@@ -13,6 +13,8 @@
 
   --font-smaller: 0.7em;
   --font-small: 0.85em;
+  --font-resp-small: clamp(0.95em, 1.9vw, 1em);
+  --font-resp-medium: clamp(1em, 2vw, 1.125em);
   --spacing-medium: 0.025em;
   --spacing-large: 0.05em;
   --spacing-larger: 0.075em;
@@ -375,12 +377,22 @@ footer {
 /* typography */
 
 h1, h2, h3, h4, h5, h6 {
-  text-transform: uppercase;
   letter-spacing: var(--spacing-largest);
+  line-height: 1.2;
+  text-wrap: balance;  
 }
 
+h1, h2 {
+  text-transform: uppercase;
+}
+
+/* h2 {
+  text-transform: uppercase;
+  margin: 0;
+} */
+
 main p, main ul {
-  font-size: clamp(1em, 2vw, 1.125em);
+  font-size: var(--font-resp-medium);
 }
 
 footer p, footer li {
@@ -388,7 +400,7 @@ footer p, footer li {
 }
 
 hr {
-  border: 1px solid var(--blue-tint);
+  border: 3px solid #65839b;
   margin: 1.5rem 0;
 }
 
@@ -475,7 +487,8 @@ body > main .swiper {
   margin-left: unset;
   margin-right: unset;
   margin-top: 1rem;
-  margin-bottom: 1rem;  
+  margin-bottom: 1rem; 
+  /* grid-column: 1/-1; */
 }
 
 .breadcrumbs {
@@ -620,13 +633,30 @@ h3, h4 {
 .menu ul li {
   position: relative;
   padding-right: 4em;
-  margin: 1rem 0;
-  font-size: 0.8rem;
+  margin: 0.75rem 0;
+  font-size: 0.95rem;
+  letter-spacing: var(--spacing-medium);
 }
 
 .menu p {
-  font-size: 0.8rem;
+  font-size: 0.95rem;
+  letter-spacing: normal;
+  letter-spacing: var(--spacing-medium);
 }
+
+.menu h3 {
+  letter-spacing: var(--spacing-medium);  
+}
+
+.menu-text p {
+  font-size: 0.95rem;
+  text-align: center;
+  letter-spacing: normal;
+}
+/* 
+.menu-text {
+  text-align: center;
+} */
 
 .menu li strong {
   position: absolute;
@@ -875,7 +905,7 @@ h3, h4 {
   display: flex;
   justify-self: center;
   flex-direction: column;
-  width: min(100%, 70em);  
+  width: min(100%, 50em);  
 }
 
 #qbg_booking_date_number_from_front, .submitbtn input[type="submit"].qbg_options_customizer_forms, .qbg_options_second_font, .qbg_options_customizer_fonts.qbg_options_second_font, .qbg_options_customizer_fonts label, .qbg_options_customizer_fonts input {
@@ -1098,14 +1128,6 @@ figure {
 /* header > a {
   white-space: nowrap;
 } */
-
-h1, h2, h3, h4, h5, h6 {
-    /* font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif; */
-    /* font-weight: 500; */
-    line-height: 1.2;
-    text-wrap: balance;
-    text-transform: uppercase;
-}
 
 /* h1, h2, h3, h4 {
   margin: 0 0 0.25rem 0;
@@ -1406,7 +1428,6 @@ header h1 {
   left: 50%;
   transform: translate(-50%, -50%);
   margin-top: 0;
-  text-transform: uppercase;
   text-align: center;
   color: var(--white);
   font-size: clamp(1.85em, 6vw, 5em);
@@ -1450,17 +1471,6 @@ button {
   padding-right: clamp(1em,5vw,4em);
 }
 
-/* .section-panel p, .page-panel p {
-  letter-spacing: var(--spacing-medium);
-  text-align: justify;
-  text-align-last: center;  
-  text-justify: inter-character;
-  text-wrap: pretty;
-  font-weight: bold;
-  text-transform: uppercase;  
-  font-size: clamp(0.9em, 2.5vw, 1.25em);  
-} */
-
 .page-panel p {
   font-size: clamp(1em, 2.5vw, 1.25em);
   max-width: 55ch;
@@ -1493,11 +1503,6 @@ h4 {
   text-justify: inter-word;
   line-height: 1.1;
   letter-spacing: 0.02em;
-}
-
-h2 {
-  text-transform: uppercase;
-  margin: 0;
 }
 
 /* navaroonie */
@@ -1548,6 +1553,10 @@ h2 {
 
 .swiper-slide-thumb-active img {
   border: 2px solid var(--white);
+}
+
+.page_cafe .swiper-slide-thumb-active img {
+  border: 4px solid #65839b;
 }
 
 .swiper-button-prev::after, .swiper-button-next::after{
