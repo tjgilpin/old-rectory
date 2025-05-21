@@ -7,6 +7,15 @@ gallery:
   - image: /assets/img/dsc01042.jpg
   - image: /assets/img/dsc01053.jpg
   - image: /assets/img/dsc01111.jpg
+  - image: /assets/img/dsc01201.jpg
+  - image: /assets/img/dsc01238.jpg
+  - image: /assets/img/dsc01239.jpg
+  - image: /assets/img/dsc01249.jpg
+  - image: /assets/img/dsc01252.jpg
+  - image: /assets/img/dsc01290.jpg
+  - image: /assets/img/dsc01304.jpg
+  - image: /assets/img/dsc01347.jpg
+  - image: /assets/img/dsc01367.jpg
 hide: false
 order: 110
 ---
@@ -22,7 +31,7 @@ Café at The Old Rectory is an elegantly designed space that offers all the impo
 
 **Our mushrooms** are grown just a stone's throw away by Robbie at Basil's Fungi Farm in Hastings, less than a mile from our door.
 
-**Every cake and dessert** is baked in-house by Hattie and our signature marmalade is not only homemade by Christine, it's award-winning.
+**Every cake and dessert** is baked in-house by Hattie and our signature **marmalade** is not only homemade by Christine, it's award-winning.
 
 {% gallery gallery, "Cafe Photos" %}
 
@@ -191,6 +200,12 @@ Decaf tea & coffee available on request
 
 <div class="menu-text">
 
-All of our wines are served in a 125ml measure as standard. 175ml & 250ml glasses are available on request. Service charge is not included.
+**Allergies & Dietary Requirements**
+
+Many of our dishes can be made to suit a vegetarian, vegan or gluten free diet. We also stock a selection of dairy alternatives. Should you have any allergies or dietary requirements please speak to us about how we can accommodate this.
+
+All of our wines are served in a 125ml measure as standard. 175ml & 250ml glasses are available on request. 
+
+Service charge is not included.
 
 </div>
