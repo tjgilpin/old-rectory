@@ -13,7 +13,7 @@ sections:
   - title: Wedding Extravaganza
     sectionimage: /assets/img/weddings-complete-package.jpg
     body: For a truly unforgettable celebration, our Wedding Extravaganza package
-      offers exclusive hire of The Old Rectory for two nights
+      offers exclusive hire of The Old Rectory for two nights.
     url: extravaganza-package
     cta: View Wedding Package
 hide: false
