@@ -87,10 +87,10 @@ Café at The Old Rectory is an elegantly designed space that offers all the impo
 <div class="menu-col">
 
 * Pork and apple sausage roll, bacon jam **£5.50**
-* Sussex made Manchego cheese and olive scone, chorizo jam and whipped butter **£6.50**
-* Sussex Charmer and tomato quiche, green salad
-* Kent asparagus, soft boiled egg & grated Twineham Grange
-* Crab sandwich on malted loaf, watercress & cornichons
+* Sussex made Manchego cheese and olive scone, chorizo jam and whipped butter (different price?) **£5.00**
+* Sussex Charmer and tomato quiche, green salad **11.00**
+* Kent asparagus, soft boiled egg & grated Twineham Grange **£8.00**
+* Crab sandwich on malted loaf, watercress & cornichons **£8.50**
 
 </div>
 </div>
