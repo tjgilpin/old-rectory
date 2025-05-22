@@ -35,7 +35,7 @@ In keeping with our home-from-home, welcoming atmosphere Sunday Lunches at The O
 
 Sides: Roasted potatoes, seasonal vegetables, cauliflower cheese & Yorkshire puddings
 
-</div>\
+</div>
 <div class="menu-col">
 
 ### Dessert
@@ -45,4 +45,5 @@ Sides: Roasted potatoes, seasonal vegetables, cauliflower cheese & Yorkshire pud
 * Selection of local cheeses, kiwi and fennel chutney, house water biscuits
   (+£3 supplement)
 
+</div>\
 </div>
