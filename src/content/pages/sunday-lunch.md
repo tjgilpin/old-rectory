@@ -17,7 +17,7 @@ In keeping with our home-from-home, welcoming atmosphere Sunday Lunches at The O
 
 2 courses **£23** - 3 courses **£27**
 
-</div>\
+</div>
 <div class="menu">
 <div class="menu-col">
 
