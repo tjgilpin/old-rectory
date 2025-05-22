@@ -13,7 +13,9 @@ sections:
   - title: Wedding Extravaganza
     sectionimage: /assets/img/weddings-complete-package.jpg
     body: For a truly unforgettable celebration, our Wedding Extravaganza package
-      offers exclusive hire of The Old Rectory for two nights.
+      offers exclusive hire of The Old Rectory for two nights. Bed and
+      breakfast, full marquee hire, staffing, furniture, crockery, silverware
+      and glassware included.
     url: wedding-extravaganza
     cta: View Wedding Package
 hide: false
