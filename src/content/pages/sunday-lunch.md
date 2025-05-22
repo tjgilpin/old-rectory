@@ -45,5 +45,5 @@ Sides: Roasted potatoes, seasonal vegetables, cauliflower cheese & Yorkshire pud
 * Selection of local cheeses, kiwi and fennel chutney, house water biscuits
   (+£3 supplement)
 
-</div>\
+</div>
 </div>
