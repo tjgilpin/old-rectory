@@ -9,14 +9,23 @@ hide: true
 ---
 In keeping with our home-from-home, welcoming atmosphere Sunday Lunches at The Old Rectory are hosted in our hand-painted dining room and our cosy lounge. Served over two or three courses our dedication to traditional Sunday Lunch is reflected in our ever-changing menu and focus on seasonal, locally sourced produce. Enjoy a cocktail by the fire before taking your seat & catching up with family and friends.
 
+<hr/>
+
 ## Menu
+
+<div class="menu-text">
+
+2 courses **£23** - 3 courses **£27**
+
+</div>\
+<div class="menu">
+<div class="menu-col">
 
 ### Starter
 
 * Duck and chicken liver parfait filled profiterole, rhubarb and ginger jam, herb salad
 * Beetroot risotto, Rectory hot smoked salmon, pickled mussels
 * Creamed spring vegetable soup, wild garlic crème fraiche, garlic croutons
-
 
 ### Main
 
@@ -26,9 +35,14 @@ In keeping with our home-from-home, welcoming atmosphere Sunday Lunches at The O
 
 Sides: Roasted potatoes, seasonal vegetables, cauliflower cheese & Yorkshire puddings
 
+</div>\
+<div class="menu-col">
+
 ### Dessert
 
 * Rhubarb bread and butter pudding
 * Banana tiramisu, cinnamon caramel and fried plantain
 * Selection of local cheeses, kiwi and fennel chutney, house water biscuits
-(+£3 supplement)
+  (+£3 supplement)
+
+</div>
