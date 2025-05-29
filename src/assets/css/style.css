@@ -49,6 +49,7 @@ body {
   grid-template-rows: auto 1fr auto;
   margin: 0;
   height: 100dvh;
+  overflow-x: hidden;
   font-family: "Century Gothic", CenturyGothic, AppleGothic, Futura, sans-serif; 
   font-size: 1rem;
   line-height: 1.8;
@@ -71,6 +72,10 @@ input, button, textarea, select {
 }
 
 /* themed sections  */
+
+.subpage_food-and-drink hr {
+  border-color: rgba(255,255,255,0.2);
+}
 
 body.subpage_our-rooms {
   background: var(--blue);
@@ -107,6 +112,11 @@ body.subpage button {
 
 body.subpage input {
   background: rgba(255,255,255,0.3);  
+}
+
+body.subpage_weddings {
+  background: var(--light);
+  color: var(--dark)
 }
 
 /* header */
@@ -331,7 +341,7 @@ body > main > *, .main_content > *  {
   1fr;
 }
 
-.full-bleed, body > main > header, body.subpage > main > header, .breadcrumbs {
+.full-bleed, body > main > header, body.subpage > main > header {
   width: 100%;
   grid-column: 1 / -1;
 }
@@ -501,6 +511,8 @@ body > main .swiper {
   padding: 0;
   margin: 0;
   line-height: 1;
+  margin-bottom: 1.5rem;
+  grid-column: 2;  
 }
 
 .breadcrumbs li {
@@ -524,7 +536,7 @@ body > main .swiper {
   text-decoration: underline;
 }
 
-body.subpage h2 {
+/* body.subpage h2 {
   font-size: clamp(1.75em, 4vw, 2.85em);
   letter-spacing: var(--spacing-largest);
   text-shadow: var(--shadow-medium);
@@ -540,7 +552,7 @@ body.subpage h2::before, body.subpage h2::after {
   height: 2px;
   flex: 1;
   content: '';
-}
+} */
 
 
 body.subpage main ul:not(.swiper-wrapper, .breadcrumbs) {
@@ -640,6 +652,10 @@ h3, h4 {
   margin: 0.75rem 0;
   font-size: 0.95rem;
   letter-spacing: var(--spacing-medium);
+}
+
+.subpage_food-and-drink .menu ul li {
+  padding-right: 0;
 }
 
 .menu p {
