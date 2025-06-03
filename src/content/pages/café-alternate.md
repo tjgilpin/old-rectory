@@ -200,14 +200,14 @@ Service charge is not included.
 </div><div class="content_gallery">
 
 <ul>
-<li><img src="/assets/img/dsc00893.jpg" alt="Cafe Photos Gallery Image"></li>
 <li><img src="/assets/img/dsc01042.jpg" alt="Cafe Photos Gallery Image"></li>
 <li><img src="/assets/img/dsc01053.jpg" alt="Cafe Photos Gallery Image"></li>
+<li><img src="/assets/img/dsc01238.jpg" alt="Cafe Photos Gallery Image"></li>
+<li><img src="/assets/img/dsc01249.jpg" alt="Cafe Photos Gallery Image"></li>
+<li><img src="/assets/img/dsc00893.jpg" alt="Cafe Photos Gallery Image"></li>
 <li><img src="/assets/img/dsc01111.jpg" alt="Cafe Photos Gallery Image"></li>
 <li><img src="/assets/img/dsc01201.jpg" alt="Cafe Photos Gallery Image"></li>
-<li><img src="/assets/img/dsc01238.jpg" alt="Cafe Photos Gallery Image"></li>
 <li><img src="/assets/img/dsc01239.jpg" alt="Cafe Photos Gallery Image"></li>
-<li><img src="/assets/img/dsc01249.jpg" alt="Cafe Photos Gallery Image"></li>
 <li><img src="/assets/img/dsc01252.jpg" alt="Cafe Photos Gallery Image"></li>
 <li><img src="/assets/img/dsc01290.jpg" alt="Cafe Photos Gallery Image"></li>
 <li><img src="/assets/img/dsc01304.jpg" alt="Cafe Photos Gallery Image"></li>
