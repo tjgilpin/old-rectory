@@ -197,8 +197,7 @@ All of our wines are served in a 125ml measure as standard. 175ml & 250ml glasse
 Service charge is not included.
 
 </div>
-</div>
-<div>
+</div><div>
 
 <ul>
 
