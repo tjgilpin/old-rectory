@@ -215,4 +215,8 @@ Service charge is not included.
 <li><img src="/assets/img/dsc01252.jpg" alt="Cafe Photos Gallery Image"></li>
 </ul>
 
+Gallery Shortcode
+
+{% gallery gallery, "Cafe Photos" %}
+
 </div>
