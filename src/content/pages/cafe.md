@@ -3,19 +3,19 @@ type: page
 title: Café
 headerimage: /assets/img/hero-cafe-room-dont-use.jpg
 gallery:
-  - image: /assets/img/dsc00893.jpg
   - image: /assets/img/dsc01042.jpg
   - image: /assets/img/dsc01053.jpg
+  - image: /assets/img/dsc01249.jpg
+  - image: /assets/img/dsc01347.jpg
+  - image: /assets/img/dsc01238.jpg
+  - image: /assets/img/dsc01304.jpg
+  - image: /assets/img/dsc01290.jpg
+  - image: /assets/img/dsc01367.jpg
+  - image: /assets/img/dsc00893.jpg
   - image: /assets/img/dsc01111.jpg
   - image: /assets/img/dsc01201.jpg
-  - image: /assets/img/dsc01238.jpg
   - image: /assets/img/dsc01239.jpg
-  - image: /assets/img/dsc01249.jpg
   - image: /assets/img/dsc01252.jpg
-  - image: /assets/img/dsc01290.jpg
-  - image: /assets/img/dsc01304.jpg
-  - image: /assets/img/dsc01347.jpg
-  - image: /assets/img/dsc01367.jpg
 hide: false
 order: 110
 ---
