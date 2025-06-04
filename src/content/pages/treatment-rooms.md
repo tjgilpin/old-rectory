@@ -13,7 +13,7 @@ sections:
     sectionimage: /assets/img/krp05834.jpg
     cta: Prices & Booking
   - title: Specialised Treatments
-    sectionimage: /assets/img/krp06073.jpg
+    sectionimage: /assets/img/treatment-rooms-specialised-1400x790.jpg
     body: Sculpted Facial, Oriental Classic Massage, Foot revive, Sports & Remedial
       Massage and Postural Realignment.
     cta: Prices & Booking
