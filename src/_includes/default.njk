@@ -17,15 +17,8 @@
     <meta property="og:image:height" content="{{ settings.imageHeight }}">
     <meta property="og:image:alt" content="{{ settings.imageAlt }}">
     <link rel="stylesheet" href="/assets/css/style.css">
-    {% if gallery %}
-    <link
-    rel="stylesheet"
-    href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
-    />
-    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-  {% endif %}         
   </head>
-  <body class="page_{{ title | slugify }}{% if type == 'page' %} page{% endif %}{% if parent_page %} subpage subpage_{{ parent_page | slugify }}{% endif %}">
+  <body class="page_{{ title | slugify }}{% if type == 'page' %} page{% endif %}{% if parent_page %} subpage subpage_{{ parent_page | slugify }}{% endif %}  {% if gallery %}page_gallery{% endif %}">
     <header>
       <a href="/"><img src="{{ settings.logo }}" alt="{{ settings.name }}" /></a>
       <button class="hamburger active" aria-label="Open menu">
@@ -187,27 +180,5 @@
         }
       });
     </script> 
-    {% if gallery %}
-      <script>
-        var swiper = new Swiper(".mySwiper", {
-          loop: true,
-          spaceBetween: 32,
-          slidesPerView: 4,
-          freeMode: true,
-          watchSlidesProgress: true,
-        });
-        var swiper2 = new Swiper(".mySwiper2", {
-          loop: true,
-          spaceBetween: 10,
-          navigation: {
-            nextEl: ".swiper-button-next",
-            prevEl: ".swiper-button-prev",
-          },
-          thumbs: {
-            swiper: swiper,
-          },
-        });
-      </script>                                                                    
-    {% endif %}
   </body>
 </html>

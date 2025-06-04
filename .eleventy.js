@@ -60,24 +60,17 @@ export default async function(eleventyConfig) {
         console.warn(`Invalid gallery item in "${title}"`);
         return '';
       }
-      return `<li class="swiper-slide"><img src="${item.image}" alt="${title} Gallery Image"></li>`;
+      return `<li><img src="${item.image}" alt="${title} Gallery Image"></li>`;
     }).filter(Boolean).join('');
   
     // Only return markup if we have slides
     if (!slides) return '';
   
     return `
-      <div style="--swiper-navigation-color: #fff; --swiper-pagination-color: #fff; --swiper-navigation-size: 120px;" class="swiper mySwiper2">
-        <ul class="swiper-wrapper">
+      <div class="gallery">
+        <ul>
           ${slides}
         </ul>
-        <div class="swiper-button-prev"></div>
-        <div class="swiper-button-next"></div>
-      </div>
-      <div thumbsSlider="" class="swiper mySwiper">
-        <ul class="swiper-wrapper">
-          ${slides}
-        </ul>      
       </div>
       `;
   });
