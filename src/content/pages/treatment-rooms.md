@@ -34,6 +34,10 @@ sections:
     body: Relax, Renew, Lunch, Treatments & Teas, English Country Garden and Bridal
       Makeup, Hair & Treatment Packages
     cta: Prices & Booking
+  - title: Body Treatments
+    sectionimage: /assets/img/treatement-rooms-body-1400x790.jpg
+    body: Body Treatments very short blurb!
+    cta: Prices & Booking
 hide: false
 order: 100
 ---
