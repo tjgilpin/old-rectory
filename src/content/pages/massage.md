@@ -19,10 +19,10 @@ Upgrade to our Rock Rose warm candle massage. Containing rock rose, chamomile, l
 
 **Hot Stone Massage**
 
-30 mins £40\
-45 mins £60\
-60 mins £75\
-75 mins £90
+**30 mins £40**\
+**45 mins £60**\
+**60 mins £75**\
+**75 mins £90**
 
 **Oncology Massage**
 
