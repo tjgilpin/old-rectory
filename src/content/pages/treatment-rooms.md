@@ -17,6 +17,10 @@ sections:
     body: Sculpted Facial, Oriental Classic Massage, Foot Revive, Sports & Remedial
       Massage and Postural Realignment.
     cta: Prices & Booking
+  - title: Body Treatments
+    sectionimage: /assets/img/treatement-rooms-body-1400x790.jpg
+    body: Body Treatments very short blurb!
+    cta: Prices & Booking
   - title: Pregnancy Treatments
     sectionimage: /assets/img/treatment-rooms-specialised-1400x790.jpg
     body: Safe and gentle treatments for pregnancies over 12 weeks.
@@ -33,10 +37,6 @@ sections:
     sectionimage: /assets/img/treatement-rooms-packages-1400x790.jpg
     body: Relax, Renew, Lunch, Treatments & Teas, English Country Garden and Bridal
       Makeup, Hair & Treatment Packages
-    cta: Prices & Booking
-  - title: Body Treatments
-    sectionimage: /assets/img/treatement-rooms-body-1400x790.jpg
-    body: Body Treatments very short blurb!
     cta: Prices & Booking
 hide: false
 order: 100
