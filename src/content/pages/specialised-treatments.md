@@ -9,7 +9,7 @@ hide: true
 ---
 ### The Sculpted Facial with Charlotte Connoley
 
-*"a seriously strong face massage with results that truly last...you'll see why she's considered the queen of facial massage."* Harper's Bazaar UK. Concentrating on sculpting and lifting, with the option for intra-oral work if wanted. Available on selected Fridays and Saturdays.
+*"A seriously strong face massage with results that truly last...you'll see why she's considered the queen of facial massage."* Harper's Bazaar UK. Concentrating on sculpting and lifting, with the option for intra-oral work if wanted. Available on selected Fridays and Saturdays.
 
 **60 mins £130**
 
