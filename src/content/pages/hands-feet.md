@@ -7,64 +7,52 @@ url: https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-ro
 cta: Book Hands & Feet Treatment
 hide: true
 ---
-
-
-With No Polish
-
-
+### With No Polish
 
 Signature Manicure (filing, cuticles, exfoliation & massage)
 
-30 mins £30
+**30 mins £30**
 
 Signature Pedicure (filing, cuticles, rasping, exfoliation & massage)
 
-45 mins £35
+**45 mins £35**
 
-
-
-With Normal Polish
-
-
+### With Normal Polish
 
 File & Paint (hands or feet)
 
-20 mins £20
+**20 mins £20**
 
 Signature Manicure (filing, cuticles, exfoliation & massage)
 
-60 mins £35
+**60 mins £35**
 
 Signature Pedicure (filing, cuticles, rasping, exfoliation & massage)
 
-60 mins £40
+**60 mins £40**
 
 Pamper Pedicure (as above, plus a hydrating foot mask)
 
-65 mins £45
+**65 mins £45**
 
-
-
-With Gel Polish
-
-
+### With Gel Polish
 
 Simple Manicure or Pedicure (filing & cuticles)
 
-45 mins £35
+**45 mins £35**
 
 Signature Manicure (filing, cuticles, exfoliation & massage)
 
-60 mins £40
+**60 mins £40**
 
 Signature Pedicure (filing, cuticles, rasping, exfoliation & massage)
 
-60 mins £45
+**60 mins £45**
 
 Pamper Pedicure (as above, plus a hydrating foot mask)
 
-75 mins £50
+**75 mins £50**
 
 Gel Polish Removal
 
-from £7.50
+**from £7.50**
