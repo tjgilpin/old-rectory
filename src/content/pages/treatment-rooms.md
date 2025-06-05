@@ -17,6 +17,17 @@ sections:
     body: Sculpted Facial, Oriental Classic Massage, Foot Revive, Sports & Remedial
       Massage and Postural Realignment.
     cta: Prices & Booking
+  - title: Preganancy
+    sectionimage: /assets/img/treatment-rooms-specialised-1400x790.jpg
+    body: Safe and gentle treatments for pregnancies over 12 weeks.
+    cta: Prices & Booking
+  - title: Hands & Feet
+    sectionimage: /assets/img/treatment-rooms-hands-1400x790.jpg
+    body: Manicures & Pedicures
+    cta: Prices & Booking
+  - title: Waxing, Threading & Eyes
+    body: Female & Male Waxing, Threading & Eye Enhancements
+    sectionimage: /assets/img/treatement-rooms-waxing-1400x790.jpg
 hide: false
 order: 100
 ---
