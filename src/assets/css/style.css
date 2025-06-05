@@ -638,6 +638,10 @@ h3, h4 {
   padding: 0;
 }
 
+.gallery li {
+  flex-basis: 100%;
+}
+
 @media screen and (min-width: 900px) {
   .page_gallery .main_content {
     display: grid;
@@ -657,8 +661,8 @@ h3, h4 {
     flex-wrap: wrap;
   }
 
-  .content_gallery li:nth-child(3n+2), .content_gallery li:nth-child(3n+3) {
-    width: 50%;
+  .gallery li:nth-child(3n+2), .gallery li:nth-child(3n+3) {
+    flex-basis: 50%;
   }
 
   .page_gallery .content_gallery {
