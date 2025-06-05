@@ -62,3 +62,31 @@ Buttocks, sac & crack 60 mins £55
 Boyzilian/Hollywood 75 mins £65
 
 Back, sac & crack 75 mins £70
+
+### Threading
+
+Brow/chin/lip (each) £12
+
+Any two of the above £20
+
+Sides of face £14
+
+Full face £20
+
+Brow thread and tint £20
+
+### Eye Enhancements
+
+Lash Lift & Tint 60 mins £45
+
+Lash Tint 30 mins £20
+
+Brow Tint 15 mins £12
+
+Brow & Lash Tint 30 mins £28
+
+Brow Wax & Tint 20 mins £20
+
+Eye Duo - Lash Lift & Tint with Brow Wax & Tint **75mins £60**
+
+\*Skin tests needed for tinting & lifting treatments at least 48 hours in advance.\*
