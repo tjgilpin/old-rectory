@@ -11,7 +11,7 @@ hide: true
 
 Tailored to your skin's needs on the day, your skin therapist will design your treatment to target your main skin concerns and include wellness touches to aid in relaxation and stress relief. Professional-grade formulas that deliver superior skin results.
 
-30 mins £45
+30 mins £45\
 60 mins £80
 
 ### Dermalogica Pro Power Peel
