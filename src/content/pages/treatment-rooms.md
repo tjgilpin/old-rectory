@@ -1,6 +1,7 @@
 ---
 type: page
 title: Treatment Rooms
+headerimage: /assets/img/hero-image-treatments.jpg
 sections:
   - title: Facials
     body: Treatments include Sculpted Facial with Charlotte Connoley, Dermalogica
