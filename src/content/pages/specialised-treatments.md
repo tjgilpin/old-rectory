@@ -2,7 +2,7 @@
 type: subpage
 parent_page: Treatment Rooms
 title: Specialised Treatments
-headerimage: /assets/img/krp06073.jpg
+headerimage: /assets/img/treatement-specialised-1200x720.jpg
 url: https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052
 cta: Book Treatment
 hide: true
