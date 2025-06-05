@@ -39,4 +39,4 @@ This powerful soft tissue treatment seeks to re-structure your body by releasing
 
 **90 mins £120
 6 treatments for the price of 5 £600**\
-*Must be booked and paid for in advance*
+Must be booked and paid for in advance
