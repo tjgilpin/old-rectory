@@ -9,11 +9,11 @@ hide: true
 ---
 Relaxation for muscles and mind. Choose a pre-blended essential oil, choose the pressure, and choose the areas that need work.
 
-30 mins £35\
-45 mins £55\
-60 mins £70\
-75 mins £85\
-90 mins £100
+**30 mins £35**\
+**45 mins £55**\
+**60 mins £70**\
+**75 mins £85**\
+**90 mins £100**
 
 Upgrade to our Rock Rose warm candle massage. Containing rock rose, chamomile, lavender & organic shea butter, it leaves your skin sumptuously soft & hydrated. + £5
 
