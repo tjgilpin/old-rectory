@@ -96,7 +96,6 @@ Café at The Old Rectory is an elegantly designed space that offers all the impo
 ## Drinks
 
 <div class="menu">
-<div class="menu-col">
 
 ### Hot Drinks
 
@@ -153,9 +152,6 @@ Decaf tea & coffee available on request
 
 * Glass **£8.00**
 
-</div>
-<div class="menu-col">
-
 ### Iced Drinks
 
 * Iced Latte **£3.80**
@@ -181,7 +177,6 @@ Decaf tea & coffee available on request
 
 * Brewing Brothers Reforestation Pale Ale (GF) **£7.00**
 
-</div>
 </div>
 
 <div class="menu-text">
