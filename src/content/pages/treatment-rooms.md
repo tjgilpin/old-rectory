@@ -47,6 +47,14 @@ sections:
       Makeup, Hair & Treatment Packages
     cta: Prices & Booking
     url: packages
+gallery:
+  - image: /assets/img/treatement-rooms-facials-1200x720.jpg
+  - image: /assets/img/treatement-rooms-waxing-1400x790.jpg
+  - image: /assets/img/treatement-rooms-body-1400x790.jpg
+  - image: /assets/img/treatement-specialised-1200x720.jpg
+  - image: /assets/img/treatment-rooms-hands-1400x790.jpg
+  - image: /assets/img/treatement-rooms-packages-1400x790.jpg
+  - image: /assets/img/hero-image-treatments.jpg
 hide: false
 order: 100
 ---
