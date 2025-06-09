@@ -14,11 +14,10 @@ hide: true
 
 Tailored to your skin's needs on the day, your skin therapist will design your treatment to target your main skin concerns and include wellness touches to aid in relaxation and stress relief. Professional-grade formulas that deliver superior skin results.
 
-<a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052">
+* <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052">
   <button>30 mins £45</button>
 </a>
-
-<a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052">
+* <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052">
   <button>60 mins £80</button>
 </a>
 
