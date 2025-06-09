@@ -3,6 +3,9 @@ type: subpage
 parent_page: Treatment Rooms
 title: Facials
 headerimage: /assets/img/treatement-rooms-facials-1200x720.jpg
+gallery:
+  - image: /assets/img/treatement-rooms-facials-1200x720.jpg
+  - image: /assets/img/treatment-rooms-specialised-1400x790.jpg
 url: https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052
 cta: Book Facial
 hide: true
