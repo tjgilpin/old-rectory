@@ -46,34 +46,6 @@ export default async function(eleventyConfig) {
     const figure = `<figure class="${className}"><figcaption>${caption}</figcaption><img src="/assets/img/${image}" alt="${caption}"></figure>`;
     return slug ? `<a href="/${slug}">${figure}</a>` : figure;
   });
-
-  eleventyConfig.addShortcode("gallery", function(gallery, title) { 
-    // Check if gallery exists and ensure it's an array
-    if (!gallery || !Array.isArray(gallery)) {
-      console.warn(`Gallery shortcode received invalid input for "${title}"`);
-      return '';
-    }
-  
-    const slides = gallery.map(item => {
-      // Check if item.image exists
-      if (!item || !item.image) {
-        console.warn(`Invalid gallery item in "${title}"`);
-        return '';
-      }
-      return `<li><img src="${item.image}" alt="${title} Gallery Image"></li>`;
-    }).filter(Boolean).join('');
-  
-    // Only return markup if we have slides
-    if (!slides) return '';
-  
-    return `
-      <div class="gallery">
-        <ul>
-          ${slides}
-        </ul>
-      </div>
-      `;
-  });
 };
 
 export const config = {

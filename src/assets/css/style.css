@@ -7,9 +7,11 @@
   --white: rgba(255, 255, 255, 1);
   --orange: rgba(162, 62, 26, 1);
   --lightblue: rgba(101, 131, 155, 1);
-  --beige: rgba(223, 201, 116, 1);
+  --mustard: rgba(223, 201, 116, 1);
   --green: rgba(120, 134, 108, 1);
 
+
+  #dfc974
 
   --font-smaller: 0.7em;
   --font-small: 0.85em;
@@ -72,6 +74,10 @@ input, button, textarea, select {
 }
 
 /* themed sections  */
+
+.subpage_treatment-rooms {
+  background: var(--mustard);
+}
 
 .subpage_food-and-drink hr {
   border-color: rgba(255,255,255,0.2);

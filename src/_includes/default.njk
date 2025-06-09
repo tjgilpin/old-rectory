@@ -110,7 +110,20 @@
           {% endfor %}
           </ul>
         {% endif %}
+
         {{ content | safe }}
+        {% if gallery %}
+        <div class="content_gallery">
+          <div class="gallery">
+            <ul>
+              {% for item in gallery %}
+                <li><img src="{{ item.image }}" alt="{{ title }} Gallery Photo"></li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+        {% endif %}
+                
         {% if cta and url %}
           <a href="{{ url }}">
             <button>
