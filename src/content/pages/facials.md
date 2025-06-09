@@ -18,8 +18,9 @@ Tailored to your skin's needs on the day, your skin therapist will design your t
   <button>30 mins £45</button>
 </a>
 
-
-**60 mins £80**
+<a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052">
+  <button>60 mins £80</button>
+</a>
 
 ### Dermalogica Pro Power Peel
 
