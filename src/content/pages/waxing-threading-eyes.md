@@ -3,8 +3,10 @@ type: subpage
 parent_page: Treatment Rooms
 title: Waxing, Threading & Eyes
 headerimage: /assets/img/treatement-rooms-waxing-1200x720.jpg
-url: https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052
-cta: Book Treatment Now
+gallery:
+  - image: /assets/img/treatment-rooms-waxing-1200x1800.jpg
+url: ""
+cta: ""
 hide: true
 ---
 ### Female Waxing
