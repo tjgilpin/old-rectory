@@ -14,13 +14,12 @@ hide: true
 
 Relaxation for muscles and mind. Choose a pre-blended essential oil, choose the pressure, and choose the areas that need work.
 
-* <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>30 mins £35</button></a>
-* <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>45 mins £55</button></a>
-* <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>60 mins £70</button></a>
-* <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>75 mins £85</button></a>
-* <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>90 mins £100</button></a>
+30 mins £35 / 45 mins £55 / 60 mins £70 / 75 mins £85 / 90 mins £100
+
+<a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>30 mins £35</button></a>
 
 *Upgrade to our Rock Rose warm candle massage. Containing rock rose, chamomile, lavender & organic shea butter, it leaves your skin sumptuously soft & hydrated. + £5*
+
 
 ### Hot Stone Massage
 
