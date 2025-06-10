@@ -3,6 +3,9 @@ type: subpage
 parent_page: Treatment Rooms
 title: Massage
 headerimage: /assets/img/krp05834.jpg
+gallery:
+  - image: /assets/img/hero-image-treatments.jpg
+  - image: /assets/img/treatement-rooms-body-1400x790.jpg
 url: Book Massage Now
 cta: https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052
 hide: true
