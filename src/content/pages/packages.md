@@ -5,8 +5,8 @@ title: Packages
 headerimage: /assets/img/treatement-rooms-packages-1200x720.jpg
 gallery:
   - image: /assets/img/treatement-rooms-packages-1400x790.jpg
-url: https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052
-cta: Book Package Now
+url: ""
+cta: ""
 hide: true
 ---
 ### Relax
