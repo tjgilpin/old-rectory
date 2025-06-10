@@ -14,47 +14,53 @@ hide: true
 
 Signature Manicure (filing, cuticles, exfoliation & massage)
 
-* <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>30 mins £30</button></a>
+30 mins **£30**
 
 Signature Pedicure (filing, cuticles, rasping, exfoliation & massage)
 
-* <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>45 mins £35</button></a>
+45 mins **£35**
+
+* <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book manicure or pedicure</button></a>
 
 ### With Normal Polish
 
 File & Paint (hands or feet)
 
-* <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>20 mins £20</button></a>
+20 mins **£20**
 
 Signature Manicure (filing, cuticles, exfoliation & massage)
 
-* <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>60 mins £35</button></a>
+60 mins **£35**
 
 Signature Pedicure (filing, cuticles, rasping, exfoliation & massage)
 
-* <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>60 mins £40</button></a>
+60 mins **£40**
 
 Pamper Pedicure (as above, plus a hydrating foot mask)
 
-* <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>60 mins £45</button></a>
+60 mins **£45**
+
+* <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book manicure or pedicure</button></a>
 
 ### With Gel Polish
 
 Simple Manicure or Pedicure (filing & cuticles)
 
-* <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>45 mins £35</button></a>
+45 mins **£35**
 
 Signature Manicure (filing, cuticles, exfoliation & massage)
 
-* <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>60 mins £40</button></a>
+60 mins **£40**
 
 Signature Pedicure (filing, cuticles, rasping, exfoliation & massage)
 
-* <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>60 mins £45</button></a>
+60 mins **£45**
 
 Pamper Pedicure (as above, plus a hydrating foot mask)
 
-* <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>75 mins £50</button></a>
+75 mins **£50**
+
+* <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book manicure or pedicure</button></a>
 
 Gel Polish Removal
 
