@@ -46,6 +46,7 @@ A relaxing foot treatment in which pressure points are stimulated, with the aim 
 Inspired by traditional Indian head massage, this treatment uses a combination of pressure points, stimulating massage and relaxing strokes, to relive tension in the neck, shoulders, face & head.
 
 * <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>45 mins £45</button></a>
+
 *Mini treatment added to any other massage 20 mins £20*
 
 ### Garden Massage
