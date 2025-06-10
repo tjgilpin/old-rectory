@@ -29,6 +29,8 @@ Brazilian (hot wax available) **£30**
 
 Hollywood (hot wax available) **£32**
 
+* <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book female waxing</button></a>
+
 ### Male Waxing
 
 Brow / nose / ear (each)  **£12**
@@ -46,6 +48,8 @@ Underarm **£15**
 Half leg **£24**
 
 Full leg **£30**
+
+* <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book male waxing</button></a>
 
 ### Male Intimate Waxing
 
@@ -65,6 +69,8 @@ Boyzilian/Hollywood 75 mins **£65**
 
 Back, sac & crack 75 mins **£70**
 
+* <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book male intimate waxing</button></a>
+
 ### Threading
 
 Brow/chin/lip (each) **£12**
@@ -76,6 +82,8 @@ Sides of face **£14**
 Full face **£20**
 
 Brow thread and tint **£20**
+
+* <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book threading</button></a>
 
 ### Eye Enhancements
 
@@ -91,4 +99,6 @@ Brow Wax & Tint 20 mins **£20**
 
 Eye Duo - Lash Lift & Tint with Brow Wax & Tint **75 mins £60**
 
-\*Skin tests needed for tinting & lifting treatments at least 48 hours in advance.\*
+*Skin tests needed for tinting & lifting treatments at least 48 hours in advance.*
+
+* <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book eye enhancements</button></a>
