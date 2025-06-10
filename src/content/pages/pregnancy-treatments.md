@@ -3,8 +3,8 @@ type: subpage
 parent_page: Treatment Rooms
 title: Pregnancy Treatments
 headerimage: /assets/img/treatement-rooms-facials-1200x720.jpg
-url: https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052
-cta: Book Pregnancy Treatment
+url: ""
+cta: ""
 hide: true
 ---
 ### Baby On Board: Total Relaxation
