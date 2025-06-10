@@ -6,8 +6,8 @@ headerimage: /assets/img/krp05834.jpg
 gallery:
   - image: /assets/img/hero-image-treatments.jpg
   - image: /assets/img/treatement-rooms-body-1400x790.jpg
-url: Book Massage Now
-cta: https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052
+url: ""
+cta: ""
 hide: true
 ---
 Relaxation for muscles and mind. Choose a pre-blended essential oil, choose the pressure, and choose the areas that need work.
