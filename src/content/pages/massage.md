@@ -10,6 +10,8 @@ url: ""
 cta: ""
 hide: true
 ---
+### Massage
+
 Relaxation for muscles and mind. Choose a pre-blended essential oil, choose the pressure, and choose the areas that need work.
 
 * <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>30 mins £35</button></a>
@@ -20,14 +22,14 @@ Relaxation for muscles and mind. Choose a pre-blended essential oil, choose the 
 
 Upgrade to our Rock Rose warm candle massage. Containing rock rose, chamomile, lavender & organic shea butter, it leaves your skin sumptuously soft & hydrated. + £5
 
-**Hot Stone Massage**
+### Hot Stone Massage
 
 * <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>30 mins £40</button></a>
 * <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>45 mins £60</button></a>
 * <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>60 mins £75</button></a>
 * <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>75 mins £90</button></a>
 
-**Oncology Massage**
+### Oncology Massage
 
 A gentle, supportive and holistic massage treatment that is safe to be carried out on people with a current or historic cancer diagnosis and/or those undergoing cancer treatment. Carried out with Rock Rose body & facial products.
 
