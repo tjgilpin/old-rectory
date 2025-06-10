@@ -42,7 +42,7 @@ Made in Hastings from 100% natural ingredients, this range of expertly crafted b
 
 ### The Sculpted Facial with Charlotte Connoley
 
-"a seriously strong face massage with results that truly last...you'll see why she's considered the queen of facial massage." Harper's Bazaar UK. Concentrating on sculpting and lifting, with the option for intra-oral work if wanted. Available on selected Fridays and Saturdays.
+*"A seriously strong face massage with results that truly last...you'll see why she's considered the queen of facial massage."* Harper's Bazaar UK. Concentrating on sculpting and lifting, with the option for intra-oral work if wanted. Available on selected Fridays and Saturdays.
 
 * <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>60 mins £130</button></a>
 
