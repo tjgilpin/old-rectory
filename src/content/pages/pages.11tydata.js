@@ -2,12 +2,13 @@ export default function() {
   return {
     permalink: function (data) {
       let slug = data.title
+      slug.replace("and-", "")
       if (slug === 'Home') {
         return '/index.html'; // Home page
       }
       if (data.parent_page) {
         const slugPage = this.slugify(data.parent_page);
-        const slugSub = this.slugify(data.title);
+        const slugSub = this.slugify(data.title).replace("and-", "");
         slug = `${slugPage}/${slugSub}`;
       } else {
         slug = this.slugify(slug);

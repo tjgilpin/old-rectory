@@ -73,6 +73,7 @@ collections:
           display_fields: ["title"]  # Display title in dropdown
         }
       - { label: "Page Title", name: "title", widget: "string", required: true }
+      - { label: "Page Subheading", name: "subhead", widget: "string", required: false }
       - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true }
       - { label: "Content", name: "body", widget: "markdown" }
       - label: Gallery Images
@@ -81,8 +82,8 @@ collections:
         required: false
         fields:
           - { label: "Gallery Image", name: image, widget: image } 
-      - { label: URL, name: url, widget: string }
-      - { label: "Link Text", name: "cta", widget: string }
+      - { label: URL, name: url, widget: string, required: false }
+      - { label: "Link Text", name: "cta", widget: string, required: false }
       - { label: "Navigation Order", name: "hide", widget: "hidden", default: true }
   - label: "Settings & Footer Content"
     name: "settings"

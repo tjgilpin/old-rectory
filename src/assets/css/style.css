@@ -79,6 +79,10 @@ input, button, textarea, select {
   background: var(--mustard);
 }
 
+.subpage_treatment-rooms hr {
+  border-color: rgba(255,255,255,0.3);
+}
+
 .subpage_food-and-drink hr {
   border-color: rgba(255,255,255,0.2);
 }
@@ -111,7 +115,7 @@ body.subpage footer, body.subpage .copyright {
   border-color: rgba(255,255,255,0.1);
 }
 
-body.subpage button {
+body.subpage:not(.subpage_treatment-rooms) button {
   background: var(--white);
   color: var(--blue);  
 }
@@ -375,10 +379,25 @@ footer {
   justify-self: center;
 } */
 
+
+
 .subpage main button {
-  margin: auto;
+  /* margin: auto; */
+  width: 100%;
   display: block;
+  font-size: 0.85em; 
 }
+
+@media screen and (min-width: 700px) {
+  .subpage main button  {
+    width: auto;
+  }
+}
+
+button a {
+  text-decoration: none;
+}
+
 
 .section-panel {
   display: grid;
@@ -416,7 +435,7 @@ footer p, footer li {
 }
 
 hr {
-  border: 3px solid #65839b;
+  border: 3px solid #fff;
   margin: 1.5rem 0;
 }
 
@@ -516,9 +535,10 @@ body > main .swiper {
   text-transform: capitalize;
   padding: 0;
   margin: 0;
-  line-height: 1;
+  line-height: 1.4;
   margin-bottom: 1.5rem;
-  grid-column: 2;  
+  order: -3;
+  grid-column: 1 / -1 !important;
 }
 
 .breadcrumbs li {
@@ -565,18 +585,21 @@ body.subpage main ul:not(.swiper-wrapper, .breadcrumbs) {
   width: min(50rem, 100%);
   margin: auto;
   text-align: left;
-  font-size: clamp(1em, 2vw, 1.25em);
+  /* font-size: clamp(1em, 2vw, 1.25em); */
   /* padding-left: 1em;  */
 }
 
 body.subpage main ul:not(.breadcrumbs) li {
   line-height: 1.5;
-  margin-bottom: 1em;
   text-align-last: left;
 }
 
 body.subpage a {
   color: var(--white);
+}
+
+body.subpage ul a:has(button) {
+  text-decoration: none;
 }
 
 .subpage .certification p {
@@ -644,8 +667,63 @@ h3, h4 {
   padding: 0;
 }
 
+.gallery-wrapper ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+  max-width: 1400px;
+  margin: 2rem auto;
+}
+
+.gallery-wrapper img {
+  width: 100%;
+}
+
+.content_sub {
+  order: -2;
+  grid-column: 1 / -1 !important;
+}
+
 .gallery li {
   flex-basis: 100%;
+}
+
+.subpage h3 {
+  text-align: left;
+  text-transform: uppercase;
+  letter-spacing: var(--spacing-large);
+}
+
+.subpage h3:first-child {
+  margin-top: 0;
+}
+
+/* .content_text ul {
+  display: inline-flex;
+  padding: 0;
+  list-style-type: none;
+  column-gap: 1rem;
+  font-size: 0.85em;
+  flex-wrap: wrap;
+} */
+
+.content_text ul {
+  list-style-position: inside;
+  padding: 0;
+}
+
+p:has(button) a {
+  text-decoration: none;
+}
+
+.content-text ul li a {
+  text-decoration: none !important;
+}
+
+.content-text ul li a button {
+  font-size: 0.9rem !important;
+  text-decoration: none;
 }
 
 @media screen and (min-width: 900px) {
@@ -657,7 +735,11 @@ h3, h4 {
     padding-left: 0;
   }
 
-  .page_gallery .content_text {
+  .subpage.page_gallery .breadcrumbs {
+    margin-left: 1.5rem;
+  }
+
+  .page_gallery .content_text, .page_gallery .content_gallery {
     position: sticky;
     top: 0;
   }
@@ -670,6 +752,13 @@ h3, h4 {
   .gallery li:nth-child(3n+2), .gallery li:nth-child(3n+3) {
     flex-basis: 50%;
   }
+
+  .gallery li:nth-child(3n+2):last-child {
+    flex-basis: 100%;
+  }
+
+
+
 
   .page_gallery .content_gallery {
     order: -1;
@@ -956,7 +1045,7 @@ h3, h4 {
   max-width: 80ch;
   align-self: center;
 } */
-
+/* 
 .subpage_our-rooms .content_primary p:first-of-type, .subpage_our-rooms .page_copy p:first-of-type {
   font-size: clamp(1em, 2.5vw, 1.55em);
   text-transform: uppercase;
@@ -964,7 +1053,7 @@ h3, h4 {
   text-align-last: center;
   max-width: 70rem;
   margin: 3rem auto;  
-}
+} */
 
 .page .page_copy {
   padding: 1.5rem;
@@ -1231,147 +1320,12 @@ details span {
 
 summary {
   cursor: pointer;
+  text-decoration: underline;
 }
 
 summary::marker, ::-webkit-details-marker {
   display: none;
   content: "";
-}
-
-/* summary::after {
-  content: ""; 
-  border: solid black;
-  border-width: 0 3px 3px 0;
-  display: inline-block;
-  padding: 3px;  
-  transform: rotate(-45deg);
-} */
-
-summary::after {
-  content: "show more↓";
-  font-size: 0.75em;
-  display: block;
-  line-height: 2;
-  /* position: relative;
-  left: -0.275em;   */
-}
-
-details[open] summary::after {
-  content: "show less↑";
-    position: absolute;
-    bottom: -0.75rem;
-    left: 50%;
-    transform: translateX(-50%);
-}
-
-details[open] + p {
-  margin-top: 3rem;
-}
-
-.testimonials {
-  text-align: center;
-  font-size: 0.9em;
-}
-
-/* .testimonials article p:first-of-type {
-  margin: 0;
-} */
-/* 
-.testimonials p, .testimonials summary {
-  margin: 1rem 0;
-}
-
-.testimonials p:nth-child(1) {
-  margin: 0;
-} */
-
-.testimonials article:has(details[open]) {
-  display: flex;
-  flex-direction: column;
-}
-
-article {
-  margin-bottom: 4rem;
-}
-
-/* details[open] summary {
-  width: 0;
-  height: 0;
-}
-
-details[open] summary {rticle
-  visibility: hidden;
-} */
-
-/* details[open] summary::marker {
-  display: block;
-} */
-
-.testimonials img {
-  margin: 0 auto;
-}
-
-@media screen and (min-width: 39.5em) {
-  .testimonials {
-    display: grid;
-    grid-template-columns: repeat(12, 1fr);
-    grid-template-rows: auto auto 1fr;    
-    /* grid-auto-rows: auto; */
-    column-gap: 2rem;
-    align-items: start;
-  }
-  
-  .testimonials article {
-    display: grid;
-    grid-column: span 6;    
-    grid-row: span 3;
-    grid-template-rows: auto auto 1fr;         
-    margin-bottom: 4rem;
-  }
-
-  /* 2 column layout */
-  /* Dealing with single orphan */
-  article:last-child:nth-child(2n + 1) {
-    grid-column-end: 10;
-  }
-
-
-  @supports (grid-template-rows: subgrid) {
-    .testimonials article {
-      grid-row: span 3;
-      grid-template-rows: subgrid;
-    }
-  }
-}
-
-@media screen and (min-width: 60em) {
-  .testimonials article {
-    grid-column: span 4;   
-  }
-
-  /* 3 column layout */
-  /* Dealing with 2 orphan items */
-  article:last-child:nth-child(3n - 1) {
-    grid-column-end: -3;
-  }
-
-  article:nth-last-child(2):nth-child(3n + 1) {
-    grid-column-end: 7;
-  }
-
-  /* Dealing with single orphan */
-  article:last-child:nth-child(3n - 2) {
-    grid-column-end: 9;
-  }  
-
-  /* hmmmmm... */
-  article:last-child:nth-child(2n + 1) {
-    grid-column-end: -1;
-  }  
-
-  article:last-child:nth-child(3n + 2) {
-    grid-column-end: 11;
-  } 
 }
 
 p.mono {
@@ -1533,8 +1487,9 @@ button {
   cursor: pointer;
   font-weight: bold;
   transition: all 0.1s ease-out;
-  padding-left: clamp(1em,5vw,4em);
-  padding-right: clamp(1em,5vw,4em);
+  padding-left: clamp(0.2em,3vw,4em);
+  padding-right: clamp(0.2em,3vw,4em);
+  line-height: 1.25;
 }
 
 .page-panel p {
@@ -1558,7 +1513,7 @@ h4 {
 
 .copy {
   display: grid;
-  align-content: center;  
+  align-content: center;
   text-align: center;
 }
 

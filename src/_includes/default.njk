@@ -39,15 +39,15 @@
       <img src="/assets/img/michelin-2024.png" alt="Michelin 2024" class="michelin">
     </header>
     <main>
-        <header>
-          <img src="{{ headerimage | default(home.headerimage) }}" alt="{{ title }}" class="hero" />
-          {% if title == 'Home'  %}
-            <img src="{{ home.headerlogo }}" class="logo">
-          {% else %}
-          <h1>
-            {{ title }}
-          </h1>
-          {% endif %}
+      <header>
+        <img src="{{ headerimage | default(home.headerimage) }}" alt="{{ title }}" class="hero" />
+        {% if title == 'Home'  %}
+          <img src="{{ home.headerlogo }}" class="logo">
+        {% else %}
+        <h1>
+          {{ title }}
+        </h1>
+        {% endif %}
       </header>
 
       {% if title == 'Home'  %}
@@ -98,6 +98,17 @@
           </div>
         </section>{% endfor %}
       </div>
+      {% if gallery %}
+      <div class="gallery-wrapper">
+        <div class="gallery">
+          <ul>
+            {% for item in gallery %}
+              <li><img src="{{ item.image }}" alt="{{ title }} Gallery Photo"></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      {% endif %}
       {% else %}
       <div class="content_primary main_content">
         {% if parent_page %}
@@ -110,8 +121,14 @@
           {% endfor %}
           </ul>
         {% endif %}
-
-        {{ content | safe }}
+        {% if subhead %}
+        <div class="content_sub">        
+          <h2>{{ subhead | safe }}</h2>
+        </div>
+        {% endif %}
+        <div class="content_text">        
+          {{ content | safe }}
+        </div>
         {% if gallery %}
         <div class="content_gallery">
           <div class="gallery">
@@ -123,7 +140,6 @@
           </div>
         </div>
         {% endif %}
-                
         {% if cta and url %}
           <a href="{{ url }}">
             <button>
