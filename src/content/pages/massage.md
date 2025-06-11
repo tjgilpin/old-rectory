@@ -20,7 +20,7 @@ Relaxation for muscles and mind. Choose a pre-blended essential oil, choose the 
 * 75 mins **£85**
 * 90 mins **£100**
 
-*Upgrade to our Rock Rose warm candle massage. Containing rock rose, chamomile, lavender & organic shea butter, it leaves your skin sumptuously soft & hydrated. **+ £5***
+\*Upgrade to our Rock Rose warm candle massage. Containing rock rose, chamomile, lavender & organic shea butter, it leaves your skin sumptuously soft & hydrated. **+ £5***
 
 <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book Massage</button></a>
 
@@ -57,7 +57,7 @@ Inspired by traditional Indian head massage, this treatment uses a combination o
 
 * 45 mins **£45**
 
-*Mini treatment added to any other massage 20 mins **£20***
+\*Mini treatment added to any other massage 20 mins **£20***
 
 <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book Tension Release Head Massage</button></a>
 
@@ -105,3 +105,13 @@ Our gift vouchers are valid for a year from the purchase date. Please remember t
 </details>
 
 </div>
+
+<hr/>
+
+### Gift Vouchers
+
+**E-Vouchers**\
+E-vouchers can be [purchased here](https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw/gift-cards?pId=86052&menu=true)
+
+**Paper Voucher**\
+Presented with a treatment menu and envelope, please [call ](tel:0782781101)or [email](mailto:treatmentrooms@theoldrectoryhastings.co.uk)
