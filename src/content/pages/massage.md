@@ -115,3 +115,7 @@ E-vouchers can be [purchased here](https://www.fresha.com/a/treatment-rooms-hast
 
 **Paper Voucher**\
 Presented with a treatment menu and envelope, please [call ](tel:0782781101)or [email](mailto:treatmentrooms@theoldrectoryhastings.co.uk)
+
+**Postal Voucher**\
+Postal vouchers can be supplied, please [call ](tel:0782781101)or [email](mailto:treatmentrooms@theoldrectoryhastings.co.uk)
+
