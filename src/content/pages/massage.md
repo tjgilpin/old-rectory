@@ -37,15 +37,21 @@ Relaxation for muscles and mind. Choose a pre-blended essential oil, choose the 
 
 A gentle, supportive and holistic massage treatment that is safe to be carried out on people with a current or historic cancer diagnosis and/or those undergoing cancer treatment. Carried out with Rock Rose body & facial products.
 
-* <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>30 mins £35</button></a>
-* <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>60 mins £70</button></a>
-* <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>30 mins massage + 30 mins facial £70</button></a>
+* 30 mins £35
+* 60 mins £70
+* 30 mins massage + 30 mins facial £70
+
+<a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book Oncology Massage</button></a>
 
 ### Reflexology
 
 A relaxing foot treatment in which pressure points are stimulated, with the aim of balancing healthcare concerns throughout the whole body.
 
-* <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>60 mins £65</button></a>
+* 60 mins £65
+
+<a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book Now</button></a>
+
+
 
 ### Tension Release Head Massage
 
