@@ -20,9 +20,11 @@ Relaxation for muscles and mind. Choose a pre-blended essential oil, choose the 
 * 75 mins **£85**
 * 90 mins **£100**
 
+\* Upgrade to our Rock Rose warm candle massage. Containing rock rose, chamomile, lavender & organic shea butter, it leaves your skin sumptuously soft & hydrated. + £5
+
 <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>30 mins £35</button></a>
 
-*Upgrade to our Rock Rose warm candle massage. Containing rock rose, chamomile, lavender & organic shea butter, it leaves your skin sumptuously soft & hydrated. + £5*
+Upgrade to our Rock Rose warm candle massage. Containing rock rose, chamomile, lavender & organic shea butter, it leaves your skin sumptuously soft & hydrated. + £5
 
 ### Hot Stone Massage
 
