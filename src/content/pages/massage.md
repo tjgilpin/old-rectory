@@ -84,10 +84,6 @@ Enjoy a relaxing massage in our beautiful walled garden. You'll be sheltered und
 The Treatment Rooms are accessed via the door situated to the top right of the driveway, not via the main door to The Old Rectory. If you are a guest at the B&B, you can access the Treatment Rooms through the internal hallway.
 </details>
 <details>
-<summary>Entrance</summary>
-The Treatment Rooms are accessed via the door situated to the top right of the driveway, not via the main door to The Old Rectory. If you are a guest at the B&B, you can access the Treatment Rooms through the internal hallway.
-</details>
-<details>
 <summary>Cancellations</summary>
 We require 24 hours for any cancellations or amendments Cancellation within 24 hours of your appointment, where we are unable to fill your time slot, will incur a charge of 50% of the treatment cost (where paying with a gift voucher, 50% of the treatment cost will be deducted from its balance). No shows will be charged at 100%.
 </details>
