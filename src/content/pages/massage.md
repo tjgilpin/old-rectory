@@ -2,7 +2,7 @@
 type: subpage
 parent_page: Treatment Rooms
 title: Massage
-headerimage: /assets/img/krp05834.jpg
+headerimage: /assets/img/treatement-rooms-massage-1200x720.jpg
 gallery:
   - image: /assets/img/hero-image-treatments.jpg
   - image: /assets/img/treatement-rooms-body-1400x790.jpg
