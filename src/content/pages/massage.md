@@ -79,6 +79,14 @@ Enjoy a relaxing massage in our beautiful walled garden. You'll be sheltered und
 
 ### Terms & Conditions
 
+<details>
+
+  <summary>Entrance</summary>
+
+The Treatment Rooms are accessed via the door situated to the top right of the driveway, not via the main door to The Old Rectory. If you are a guest at the B&B, you can access the Treatment Rooms through the internal hallway.
+
+</details>
+
 **Entrance**
 
 The Treatment Rooms are accessed via the door situated to the top right of the driveway, not via the main door to The Old Rectory. If you are a guest at the B&B, you can access the Treatment Rooms through the internal hallway.
