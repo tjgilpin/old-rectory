@@ -111,8 +111,8 @@ body.subpage footer img[src$=".svg"] {
   filter: brightness(0) invert(1);
 }
 
-body.subpage footer, body.subpage .copyright {
-  border-color: rgba(255,255,255,0.1);
+body.subpage footer, body.subpage footer::before, body.subpage .copyright {
+  border-color: rgba(255,255,255,1);
 }
 
 body.subpage:not(.subpage_treatment-rooms) button {
@@ -125,8 +125,8 @@ body.subpage input {
 }
 
 body.subpage_weddings {
-  background: var(--light);
-  color: var(--dark)
+  background: var(--lightblue);
+  color: var(--light)
 }
 
 /* header */
@@ -364,7 +364,17 @@ footer {
   justify-items: center;
   justify-self: center;
   font-size: var(--font-small);
-  border-top: double 7px var(--blue-tint);
+  border-top: solid 4px var(--blue);
+  position: relative;
+}
+
+footer::before {
+  content: "";
+  position: absolute;
+  top: -16px;
+  border-top: solid 4px var(--blue);
+  left: 0;
+  right: 0;
 }
 
 .page_home .content, .page .content {
