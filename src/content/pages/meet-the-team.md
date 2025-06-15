@@ -1,7 +1,7 @@
 ---
 type: page
 title: Meet The Team
-hide: false
+hide: true
 order: 10
 ---
 Say hello to the dream team behind your stay!
