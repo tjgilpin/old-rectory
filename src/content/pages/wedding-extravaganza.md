@@ -3,8 +3,13 @@ type: subpage
 parent_page: Weddings
 title: Wedding Extravaganza
 headerimage: /assets/img/our-wedding-day-420.jpg
-url: Wedding Extravaganza
-cta: Link text
+gallery:
+  - image: /assets/img/our-wedding-day-6.jpg
+  - image: /assets/img/our-wedding-day-56.jpg
+  - image: /assets/img/your-wedding-day-345-copy.jpg
+  - image: /assets/img/phoebe-charlie-old-rectory-brewing-brothers-32.jpg
+url: ""
+cta: ""
 hide: true
 ---
 For a truly unforgettable celebration, our **Wedding Extravaganza** package offers **exclusive hire of The Old Rectory for two nights**, giving you the freedom and time to enjoy every moment of your wedding experience in a private, idyllic setting.
