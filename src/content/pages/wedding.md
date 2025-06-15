@@ -18,10 +18,7 @@ sections:
       and glassware included.
     url: wedding-extravaganza
     cta: View Wedding Package
-gallery:
-  - image: /assets/img/our-wedding-day-100.jpg
-  - image: /assets/img/our-wedding-day-187.jpg
-  - image: /assets/img/our-wedding-day-420.jpg
+gallery: []
 hide: false
 order: 50
 ---
