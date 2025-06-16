@@ -10,7 +10,7 @@ At The Old Rectory, we believe that great service starts with great people – a
 
 ## Lionel Copley – Owner &amp; Creative Magician
 
-![](/assets/img/krp06327.jpg)
+![](/assets/img/treatment-rooms-staff-1600x900.jpg)
 
 Meet Lionel, the man who made The Old Rectory what it is today. With a background in fashion &amp; a flair for interior design, Lionel is the brains (and the eye) behind our beautiful spaces – from the handpicked artwork to the custom-made cushions you won’t want to get up from.
 
@@ -18,7 +18,7 @@ He’s been with the Rectory since day one and is never far from the action – 
 
 ## Natalie &amp; The House Team – Smiles, Secrets &amp; Service
 
-![](/assets/img/krp06327.jpg)
+![](/assets/img/treatment-rooms-staff-1600x900.jpg)
 
 Running the main house like a well-oiled (and very stylish) machine is Natalie, along with her brilliant team of hospitality heroes. They’ve got hearts of gold, years of experience, and more tips on Hastings that a local tour guide.
 
@@ -26,7 +26,7 @@ From greeting you with a grin to delivering breakfasts, weddings &amp; afternoon
 
 ## Lucy &amp; The Treatment Rooms Team – Calm in Human Form
 
-![](/assets/img/krp06327.jpg)
+![](/assets/img/treatment-rooms-staff-1600x900.jpg)
 
 Over in our little sanctuary of serenity, Lucy leads our Treatment Rooms team – a group of calm, kind and wonderfully skilled therapists. They’re up to date with all the latest techniques and tailor every treatment to you.
 
@@ -34,7 +34,7 @@ From oncology &amp; pregnancy massage to glowing facials, perfectly polished ped
 
 ## Hattie, Lindsey &amp; Tom – Coffee, Cake &amp; Cheer
 
-![](/assets/img/krp06327.jpg)
+![](/assets/img/treatment-rooms-staff-1600x900.jpg)
 
 Down in the Café, things are brewing – literally. Hattie, Lindsey and Tom are the smiling trio behind every silky flat white &amp; freshly baked slice of heaven.
 
@@ -42,7 +42,7 @@ Whether you’re after a lazy brunch, a speedy espresso, or just an excuse to ea
 
 ## Our Chefs – Flavour Makers &amp; Foodie Wizards
 
-![](/assets/img/krp06327.jpg)
+![](/assets/img/treatment-rooms-staff-1600x900.jpg)
 
 Here at The Old Rectory, we don’t mess around when it comes to food. Our chefs are passionate about every bite, using seasonal, local ingredients to create dishes that feel both comforting and a little bit special.
 
@@ -54,7 +54,7 @@ And then there’s Hattie, again! She rules the café kitchen, curating a day to
 
 ## Zeline &amp; Marcus – Green-Fingered Geniuses
 
-![](/assets/img/krp06327.jpg)
+![](/assets/img/treatment-rooms-staff-1600x900.jpg)
 
 Rarely spotted but never unnoticed, Zeline and Marcus manage and maintain our beautiful walled garden. From tiny seedlings to a sprawling grapevine, these two strike the perfect balance between creating an ecological haven for birds, bees, and guests. They’re an iconic duo who take the time to ensure that, no matter the season, our gardens always have the wow factor.
 
@@ -62,6 +62,6 @@ They also tend to the indoor plants—truly the safest pair of hands to bring a 
 
 ## Shaun –
 
-![](/assets/img/krp06327.jpg)
+![](/assets/img/treatment-rooms-staff-1600x900.jpg)
 
 Sculptor, explorer, and silent partner, Shaun is Lionel’s right-hand man. Long-time friend and Old Rectory alumnus, Shaun has several art installations throughout the Rectory, café, and garden. When he’s not off exploring the globe, you’ll often find him sampling delights and chatting with friends in the café.
