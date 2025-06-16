@@ -34,6 +34,8 @@ address: |-
   Hastings, TN35 5ND
 mapurl: https://maps.app.goo.gl/ZUKK95RXDoqBGPN6A
 secondary:
+  - title: Meet the Team
+    url: /meet-the-team
   - title: Vouchers
     url: /vouchers
   - title: Contact
@@ -48,8 +50,6 @@ secondary:
     url: /privacy-policy
   - title: Terms &amp; Conditions
     url: /terms
-  - title: Meet the Team
-    url: /meet-the-team
 certtitle: <strong>One MICHELIN Key</strong> A very special stay
 links:
   - icon: >
