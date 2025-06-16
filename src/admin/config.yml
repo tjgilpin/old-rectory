@@ -110,7 +110,6 @@ collections:
         fields:
           - { label: Footer Logo, name: logo, widget: image, allow_multiple: false }
           - { label: Address, name: address, widget: markdown }
-          - { label: Map URL, name: mapurl, widget: string }
           - label: Secondary Links
             name: secondary
             widget: list

@@ -153,7 +153,7 @@
     <footer>     
       <div class="logo-address">
         <img src="{{ footerlinks.logo }}" alt="The Old Rectory Cursive Logo" />
-        <a href="{{ footerlinks.mapurl | safe }}"><p>{{ footerlinks.address | safe }}</p></a>
+        <p>{{ footerlinks.address | safe }}</p>
       </div>
       <ul class="secondary">
         {% for item in footerlinks.secondary %}
