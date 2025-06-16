@@ -28,11 +28,12 @@ newsletter: |-
 certimage: /assets/img/michelin-2024.png
 copyright: "&copy; The Old Rectory. All rights reserved."
 url: https://maps.app.goo.gl/ZUKK95RXDoqBGPN6A
-address: |-
-  The Old Rectory<br/>
-  2 Harold Rd<br/>
-  Hastings, TN35 5ND
 mapurl: https://maps.app.goo.gl/ZUKK95RXDoqBGPN6A
+address: |-
+  [The Old Rectory  
+  2 Harold Rd  
+  Hastings, TN35 5ND](https://maps.app.goo.gl/ZUKK95RXDoqBGPN6A)  
+  [01424422410](tel:01424422410)
 secondary:
   - title: Meet the Team
     url: /meet-the-team
