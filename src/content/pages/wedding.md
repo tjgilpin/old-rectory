@@ -27,3 +27,5 @@ A relaxed and stylish venue awaits you at The Old Rectory. We offer you a bespok
 We work closely with you throughout the planning process to help bring your dream day to life.
 
 To view our beautiful house and garden and arrange an informal friendly chat please call us on [01424 422410](tel:01424422410) or email [natalie@theoldrectoryhastings.co.uk](natalie@theoldrectoryhastings.co.uk)
+
+[View Wedding Brochure](/assets/img/wedding-brochure.pdf)
