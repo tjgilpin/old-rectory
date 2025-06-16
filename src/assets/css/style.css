@@ -431,6 +431,15 @@ h1, h2 {
   text-transform: uppercase;
 }
 
+.page .content_text h2 {
+  margin: 3em 0 1em 0;
+  text-wrap: unset;  
+}
+
+.subpage h2 {
+  text-align: center;
+}
+
 /* h2 {
   text-transform: uppercase;
   margin: 0;
@@ -445,7 +454,7 @@ footer p, footer li {
 }
 
 hr {
-  border: 3px solid #fff;
+  border: 3px solid var(--blue-tint);
   margin: 1.5rem 0;
 }
 
@@ -1544,11 +1553,6 @@ main {
 
 
 /* Start Content page layout and text */
-
-h2 {
-  text-align: center;
-}
-
 
 /* .content_primary, .content_secondary {
   max-width: 60rem;
