@@ -30,11 +30,18 @@ copyright: "&copy; The Old Rectory. All rights reserved."
 url: https://maps.app.goo.gl/ZUKK95RXDoqBGPN6A
 mapurl: https://maps.app.goo.gl/ZUKK95RXDoqBGPN6A
 address: |-
-  [The Old Rectory\
-  2 Harold Rd\
-  Hastings, TN35 5ND](https://maps.app.goo.gl/15JqmSQ38KjVxnjaA)
-
-  [01424422410](tel:01424422410)
+  <p>
+  <a href="https://maps.app.goo.gl/15JqmSQ38KjVxnjaA">
+  The Old Rectory
+  2 Harold Rd
+  Hastings, TN35 5ND
+  </a>
+  <p>
+  <p>
+  <a href="tel:01424422410">
+  01424422410
+  </a>
+  </p>
 secondary:
   - title: Meet the Team
     url: /meet-the-team
