@@ -433,6 +433,14 @@ button a {
   overflow: hidden;
 }
 
+.page_meet-the-team .section-panel .image {
+  grid-row: 2 / 3;
+}
+
+.page_meet-the-team .section-panel .text {
+  grid-row: 3 / 4;
+}
+
 .page .section-panel .image {
   aspect-ratio: 16/9;
   display: flex;
@@ -465,6 +473,12 @@ button a {
   position: relative;
   text-align: center;
   font-size: clamp(1.5em, 8vw, 5em);
+}
+
+.page_meet-the-team .section-panel h2 {
+  color: var(--blue);
+  font-size: 1.5em;
+  text-shadow: none;
 }
 
 @media screen and (min-width: 900px) {
@@ -557,6 +571,11 @@ button a {
 .section-content {
   grid-column: 1 / -1;
 }
+
+/* meet the team panels */
+
+
+
 
 /* typography */
 
