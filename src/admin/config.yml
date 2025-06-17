@@ -55,6 +55,12 @@ collections:
           - { label: "Gallery Image", name: image, widget: image } 
       - { label: "Remove from Navigation", name: "hide", widget: "boolean", default: false }
       - { label: "Navigation Order", name: "order", widget: "number", default: 10 }
+      - label: "Template"
+        name: "template-type"
+        widget: "select"
+        options:
+          - { label: "Panel Image Background", value: "_panel_img" }
+          - { label: "Panel Standard", value: "_panel" }
   # Sub Pages Collection (Folder-Based)
   - name: "subpages"
     label: "Sub Pages"
