@@ -56,11 +56,11 @@ collections:
       - { label: "Remove from Navigation", name: "hide", widget: "boolean", default: false }
       - { label: "Navigation Order", name: "order", widget: "number", default: 10 }
       - label: "Template"
-        name: "template-type"
+        name: "template"
         widget: "select"
         multiple: false
-        options: ["panel-image-background", "panel-stacked"]
-        default: ["panel-image-background"]
+        options: ["Panel Image Background", "Panel Stacked"]
+        default: ["Panel Image Background"]
   # Sub Pages Collection (Folder-Based)
   - name: "subpages"
     label: "Sub Pages"
@@ -91,6 +91,12 @@ collections:
       - { label: URL, name: url, widget: string, required: false }
       - { label: "Link Text", name: "cta", widget: string, required: false }
       - { label: "Navigation Order", name: "hide", widget: "hidden", default: true }
+      - label: "Template"
+        name: "template"
+        widget: "select"
+        multiple: false
+        options: ["Panel Image Background", "Panel Stacked"]
+        default: ["Panel Image Background"]
   - label: "Settings & Footer Content"
     name: "settings"
     editor:
