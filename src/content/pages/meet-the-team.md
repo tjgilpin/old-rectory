@@ -24,6 +24,7 @@ sections:
       From greeting you with a grin to delivering breakfasts, weddings &amp; afternoon teas worthy of a Michelin Key, they’ve mastered the art of making every guest feel like royalty – with a cuppa always close by.
 hide: true
 order: 10
+template-type: panel-stacked
 ---
 Say hello to the dream team behind your stay!
 
