@@ -58,9 +58,9 @@ collections:
       - label: "Template"
         name: "template-type"
         widget: "select"
-        options:
-          - { label: "Panel Image Background", value: "_panel_img" }
-          - { label: "Panel Standard", value: "_panel" }
+        multiple: false
+        options: ["panel-image-background", "panel-stacked"]
+        default: ["panel-image-background"]
   # Sub Pages Collection (Folder-Based)
   - name: "subpages"
     label: "Sub Pages"
