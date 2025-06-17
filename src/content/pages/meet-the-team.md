@@ -1,6 +1,27 @@
 ---
 type: page
 title: Meet The Team
+sections:
+  - body: >-
+      Meet Lionel, the man who made The Old Rectory what it is today. With a
+      background in fashion &amp; a flair for interior design, Lionel is the
+      brains (and the eye) behind our beautiful spaces – from the handpicked
+      artwork to the custom-made cushions you won’t want to get up from.
+
+
+      He’s been with the Rectory since day one and is never far from the action – whether he’s redesigning a room, pottering in the garden, or sneaking a slice of cake (we see you Lionel!).
+    title: Lionel Copley – Owner &amp; Creative Magician
+    sectionimage: /assets/img/treatment-rooms-staff-1200x1800.jpg
+  - title: Natalie &amp; The House Team – Smiles, Secrets &amp; Service
+    sectionimage: /assets/img/treatment-rooms-staff-1200x1800.jpg
+    body: >-
+      Running the main house like a well-oiled (and very stylish) machine is
+      Natalie, along with her brilliant team of hospitality heroes. They’ve got
+      hearts of gold, years of experience, and more tips on Hastings that a
+      local tour guide.
+
+
+      From greeting you with a grin to delivering breakfasts, weddings &amp; afternoon teas worthy of a Michelin Key, they’ve mastered the art of making every guest feel like royalty – with a cuppa always close by.
 hide: true
 order: 10
 ---
