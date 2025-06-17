@@ -25,6 +25,7 @@ sections:
 hide: true
 order: 10
 template-type: panel-stacked
+template: Panel Stacked
 ---
 Say hello to the dream team behind your stay!
 
