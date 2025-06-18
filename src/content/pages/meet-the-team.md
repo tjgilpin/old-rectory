@@ -3,13 +3,17 @@ type: page
 title: Meet The Team
 sections:
   - body: >-
-      Meet Lionel, the man who made The Old Rectory what it is today. With a
-      background in fashion &amp; a flair for interior design, Lionel is the
-      brains (and the eye) behind our beautiful spaces – from the handpicked
-      artwork to the custom-made cushions you won’t want to get up from.
+      <p>
 
+      Meet Lionel, the man who made The Old Rectory what it is today. With a background in fashion &amp; a flair for interior design, Lionel is the brains (and the eye) behind our beautiful spaces – from the handpicked artwork to the custom-made cushions you won’t want to get up from.
+
+      </p>
+
+      <p>
 
       He’s been with the Rectory since day one and is never far from the action – whether he’s redesigning a room, pottering in the garden, or sneaking a slice of cake (we see you Lionel!).
+
+      </p>
     title: Lionel Copley – Owner & Creative Magician
     sectionimage: /assets/img/treatment-rooms-staff-1200x1800.jpg
   - title: Natalie & The House Team – Smiles, Secrets & Service
