@@ -58,8 +58,12 @@ sections:
     sectionimage: /assets/img/treatment-rooms-staff-1200x1800.jpg
   - title: Zeline & Marcus – Green-Fingered Geniuses
     body: >
-      
-      Rarely spotted but never unnoticed, Zeline and Marcus manage and maintain our beautiful walled garden. From tiny seedlings to a sprawling grapevine, these two strike the perfect balance between creating an ecological haven for birds, bees, and guests. They’re an iconic duo who take the time to ensure that, no matter the season, our gardens always have the wow factor.
+      Rarely spotted but never unnoticed, Zeline and Marcus manage and maintain
+      our beautiful walled garden. From tiny seedlings to a sprawling grapevine,
+      these two strike the perfect balance between creating an ecological haven
+      for birds, bees, and guests. They’re an iconic duo who take the time to
+      ensure that, no matter the season, our gardens always have the wow factor.
+
 
 
       They also tend to the indoor plants—truly the safest pair of hands to bring a touch of green to our communal spaces, dining room tables, and each guest room.
