@@ -19,28 +19,28 @@ sections:
   - title: Natalie & The House Team – Smiles, Secrets & Service
     sectionimage: /assets/img/treatment-rooms-staff-1200x1800.jpg
     body: >-
-      <p>\
+      <p>
 
-      Running the main house like a well-oiled (and very stylish) machine is Natalie, along with her brilliant team of hospitality heroes. They’ve got hearts of gold, years of experience, and more tips on Hastings that a local tour guide.\
-
-      </p>
-
-      <p>\
-
-      From greeting you with a grin to delivering breakfasts, weddings &amp; afternoon teas worthy of a Michelin Key, they’ve mastered the art of making every guest feel like royalty – with a cuppa always close by.\
-
-      </p>
-  - title: Lucy & The Treatment Rooms Team – Calm in Human Form
-    body: >-
-      <p>\
-
-      Over in our little sanctuary of serenity, Lucy leads our Treatment Rooms team – a group of calm, kind and wonderfully skilled therapists. They’re up to date with all the latest techniques and tailor every treatment to you.\
+      Running the main house like a well-oiled (and very stylish) machine is Natalie, along with her brilliant team of hospitality heroes. They’ve got hearts of gold, years of experience, and more tips on Hastings that a local tour guide.
 
       </p>
 
       <p>
 
-      From oncology &amp; pregnancy massage to glowing facials, perfectly polished pedicures, and everything in between, this team is here to help you float out feeling like your very best self.\
+      From greeting you with a grin to delivering breakfasts, weddings &amp; afternoon teas worthy of a Michelin Key, they’ve mastered the art of making every guest feel like royalty – with a cuppa always close by.
+
+      </p>
+  - title: Lucy & The Treatment Rooms Team – Calm in Human Form
+    body: >-
+      <p>
+
+      Over in our little sanctuary of serenity, Lucy leads our Treatment Rooms team – a group of calm, kind and wonderfully skilled therapists. They’re up to date with all the latest techniques and tailor every treatment to you.
+
+      </p>
+
+      <p>
+
+      From oncology &amp; pregnancy massage to glowing facials, perfectly polished pedicures, and everything in between, this team is here to help you float out feeling like your very best self.
 
       </p>
     sectionimage: /assets/img/treatment-rooms-staff-1200x1800.jpg
@@ -48,61 +48,61 @@ sections:
     body: >-
       <p>
 
-      Down in the Café, things are brewing – literally. Hattie, Lindsey and Tom are the smiling trio behind every silky flat white &amp; freshly baked slice of heaven.\
+      Down in the Café, things are brewing – literally. Hattie, Lindsey and Tom are the smiling trio behind every silky flat white &amp; freshly baked slice of heaven.
 
       </p>
 
       <p>
 
-      Whether you’re after a lazy brunch, a speedy espresso, or just an excuse to eat cake (no judgement here), they’re the ones making it happen – with good vibes and great tunes guaranteed.\
+      Whether you’re after a lazy brunch, a speedy espresso, or just an excuse to eat cake (no judgement here), they’re the ones making it happen – with good vibes and great tunes guaranteed.
 
       </p>
     sectionimage: /assets/img/treatment-rooms-staff-1200x1800.jpg
   - title: Our Chefs – Flavour Makers & Foodie Wizards
     body: >-
-      <p>\
+      <p>
 
-      Here at The Old Rectory, we don’t mess around when it comes to food. Our chefs are passionate about every bite, using seasonal, local ingredients to create dishes that feel both comforting and a little bit special.\
-
-      </p>
-
-      <p>\
-
-      Let’s talk Janek, our resident smokehouse sorcerer. He’s the genius behind our hot smoked salmon &amp; kippers, and the hands behind our home-cured bacon, handmade sausages and indulgent black pudding. When he’s not manning the BBQ at a wedding, you’ll find him tending our edible garden – or giving some TLC to our fish pond. Yes, really.\
+      Here at The Old Rectory, we don’t mess around when it comes to food. Our chefs are passionate about every bite, using seasonal, local ingredients to create dishes that feel both comforting and a little bit special.
 
       </p>
 
-      <p>\
+      <p>
 
-      Matthew is king of canapes and the master of Sunday roasts. His seasonal menus are all about honest, hearty food done right – with a little flair thrown in for good measure. From delicate bites to full-on feasts, he makes sure every meal tells a story (and ends with a clean plate).\
+      Let’s talk Janek, our resident smokehouse sorcerer. He’s the genius behind our hot smoked salmon &amp; kippers, and the hands behind our home-cured bacon, handmade sausages and indulgent black pudding. When he’s not manning the BBQ at a wedding, you’ll find him tending our edible garden – or giving some TLC to our fish pond. Yes, really.
 
       </p>
 
-      <p>\
+      <p>
 
-      And then there’s Hattie, again! She rules the café kitchen, curating a day to day menu that hits the sweet spot for breakfast, brunch and lunch. All our cakes? Her handiwork. All the “mmm” sounds coming from the café? Also her fault. You’ve been warned.\
+      Matthew is king of canapes and the master of Sunday roasts. His seasonal menus are all about honest, hearty food done right – with a little flair thrown in for good measure. From delicate bites to full-on feasts, he makes sure every meal tells a story (and ends with a clean plate).
+
+      </p>
+
+      <p>
+
+      And then there’s Hattie, again! She rules the café kitchen, curating a day to day menu that hits the sweet spot for breakfast, brunch and lunch. All our cakes? Her handiwork. All the “mmm” sounds coming from the café? Also her fault. You’ve been warned.
 
       </p>
     sectionimage: /assets/img/treatment-rooms-staff-1200x1800.jpg
   - title: Zeline & Marcus – Green-Fingered Geniuses
     body: >-
-      <p>\
+      <p>
 
-      Rarely spotted but never unnoticed, Zeline and Marcus manage and maintain our beautiful walled garden. From tiny seedlings to a sprawling grapevine, these two strike the perfect balance between creating an ecological haven for birds, bees, and guests. They’re an iconic duo who take the time to ensure that, no matter the season, our gardens always have the wow factor.\
+      Rarely spotted but never unnoticed, Zeline and Marcus manage and maintain our beautiful walled garden. From tiny seedlings to a sprawling grapevine, these two strike the perfect balance between creating an ecological haven for birds, bees, and guests. They’re an iconic duo who take the time to ensure that, no matter the season, our gardens always have the wow factor.
 
       </p>
 
-      <p>\
+      <p>
 
-      They also tend to the indoor plants—truly the safest pair of hands to bring a touch of green to our communal spaces, dining room tables, and each guest room.\
+      They also tend to the indoor plants—truly the safest pair of hands to bring a touch of green to our communal spaces, dining room tables, and each guest room.
 
       </p>
     sectionimage: /assets/img/treatment-rooms-staff-1200x1800.jpg
   - title: Shaun – Sculptor & Explorer
     body: >-
-      <p>\
+      <p>
 
-      Sculptor, explorer, and silent partner, Shaun is Lionel’s right-hand man. Long-time friend and Old Rectory alumnus, Shaun has several art installations throughout the Rectory, café, and garden. When he’s not off exploring the globe, you’ll often find him sampling delights and chatting with friends in the café.\
+      Sculptor, explorer, and silent partner, Shaun is Lionel’s right-hand man. Long-time friend and Old Rectory alumnus, Shaun has several art installations throughout the Rectory, café, and garden. When he’s not off exploring the globe, you’ll often find him sampling delights and chatting with friends in the café.
 
       </p>
     sectionimage: /assets/img/treatment-rooms-staff-1200x1800.jpg
