@@ -1,7 +1,7 @@
 ---
 type: page
 title: Weddings
-headerimage: /assets/img/hero-image-weddings.jpg
+headerimage: /assets/img/weddings-1600x900.jpg
 sections:
   - title: Wedding Ceremony
     body: Perfect for intimate gatherings, our Garden Wedding Ceremony package
