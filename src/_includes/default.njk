@@ -83,19 +83,19 @@
       <div class="content section-content">{% for section in sections %}
         <section class="section-panel">
           <div class="image">
-            <a href="{{ section.url }}">
+            {% if section.url %}<a href="{{ section.url }}">{% endif %}
               <img src="{{ section.sectionimage }}" alt="{{ section.title }}">
-            </a>
+            {% if section.url %}</a>{% endif %}
           </div>
           <div class="title">
-            <a href="{{ section.url }}">
+            {% if section.url %}<a href="{{ section.url }}">{% endif %}
               <h2>{{ section.title }}</h2>
-            </a>
+            {% if section.url %}</a>{% endif %}
           </div>
           <div class="text">
-            <a href="{{ section.url }}">
-              <p>{{ section.body }}</p>
-            </a>
+            {% if section.url %}<a href="{{ section.url }}">{% endif %}
+              {{ section.body | safe }}
+            {% if section.url %}</a>{% endif %}
             {% if section.cta and section.url %}
             <a href="{{ section.url }}" class="cta">{{section.cta}}</a>
             {% endif %}

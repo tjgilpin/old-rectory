@@ -402,7 +402,7 @@ button a {
   margin-bottom: 2em;
 }
 
-.section-panel p {
+.template_panel-image-background .section-panel p {
   text-align: justify;
   text-align-last: center;
   text-wrap: pretty;
@@ -412,15 +412,19 @@ button a {
   margin: 0;
 }
 
+.template_panel-stacked .section-panel p {
+  font-size: 1rem;
+}
+
 @media screen and (min-width: 900px) {
-  .section-panel p {
+  .template_panel-image-background .section-panel p {
     font-size: clamp(1em, 1.5vw, 1.25em);    
   }
 }
 
 /* section panels */
 
-.section-panel img {
+.template_panel-image-background .section-panel img {
   filter: opacity(80%);
   height: 100%;
   object-fit: cover;
@@ -441,7 +445,7 @@ button a {
   grid-row: 3 / 4;
 }
 
-.page .section-panel .image {
+.template_panel-image-background .section-panel .image {
   aspect-ratio: 16/9;
   display: flex;
   place-items: center;  
@@ -459,6 +463,10 @@ button a {
   grid-column: 1/2;
   text-align: center;
   z-index: 2;
+}
+
+.template_panel-stacked .section-panel .text {
+  text-align: left;
 }
 
 .section-panel .text a, .section-panel .title a {
@@ -482,12 +490,15 @@ button a {
 }
 
 @media screen and (min-width: 900px) {
-  .page_home .section-panel {
+  .page_home .section-panel,
+  .template_panel-stacked .section-content {
     grid-template-columns: 1fr 1fr;
     margin-bottom: 0;
+    gap: 2rem;
+    align-items: start;
   }  
 
-  .page .section-panel {
+  .template_panel-image-background .section-panel {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -500,7 +511,7 @@ button a {
     margin: 0;   
   }  
 
-  .page .section-panel h2, .page .section-panel a {
+  .template_panel-image-background .section-panel h2, .template_panel-image-background .section-panel a {
     color: var(--white);
     text-shadow: var(--shadow-heavy);
   }
@@ -518,7 +529,8 @@ button a {
     width: 100%
   }
 
-  .page .section-panel .image, .page .section-panel .image img {
+  .template_panel-image-background .section-panel .image,
+  .template_panel-image-background .section-panel .image img {
     position: absolute;
     width: 100%;
     left: 50%;
@@ -526,7 +538,16 @@ button a {
     transform: translate(-50%,-50%);
   }
 
-  .page .section-panel .image img {
+  .template_panel-stacked.section-panel .image,
+  .template_panel-stacked .section-panel .image img {
+    position: relative;
+    width: 100%;
+    left: unset;
+    top: unset;
+    transform: unset;
+  }
+
+  .template_panel-image-background .section-panel .image img {
     opacity: 80%;
   }
   
