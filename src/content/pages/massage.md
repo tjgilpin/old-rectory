@@ -2,13 +2,16 @@
 type: subpage
 parent_page: Treatment Rooms
 title: Massage
-headerimage: /assets/img/treatement-rooms-massage-1200x720.jpg
+headerimage: /assets/img/treatment-rooms-massage-1600x900.jpg
 gallery:
-  - image: /assets/img/hero-image-treatments.jpg
-  - image: /assets/img/treatement-rooms-body-1400x790.jpg
+  - image: /assets/img/treatment-rooms-massage-1600x900-1.jpg
+  - image: /assets/img/treatment-rooms-massage-1600x900-2.jpg
+  - image: /assets/img/treatment-rooms-massage-1600x900-3.jpg
+  - image: /assets/img/treatment-rooms-massage-1600x900-4.jpg
 url: ""
 cta: ""
 hide: true
+template: Panel Image Background
 ---
 ### Massage
 
