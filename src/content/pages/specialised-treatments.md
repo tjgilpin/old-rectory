@@ -1,7 +1,7 @@
 ---
 type: subpage
 parent_page: Treatment Rooms
-title: Specialised Treatments
+title: Independent Therapists
 headerimage: /assets/img/treatement-specialised-1200x720.jpg
 gallery:
   - image: /assets/img/treatment-rooms-oriental-1200x1800.jpg
@@ -9,6 +9,7 @@ gallery:
 url: https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052
 cta: Book Treatment
 hide: true
+template: Panel Image Background
 ---
 ### The Sculpted Facial with Charlotte Connoley
 
