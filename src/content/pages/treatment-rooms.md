@@ -3,22 +3,25 @@ type: page
 title: Treatment Rooms
 headerimage: /assets/img/hero-image-treatments.jpg
 sections:
+  - title: Gift Vouchers
+    sectionimage: /assets/img/treatment-rooms-vouchers-1600x900.jpg
+    body: E-Voucher, Paper Voucher, Postal Voucher - A perfect gift for any occasion
   - title: Facials
-    body: Treatments include Sculpted Facial with Charlotte Connoley, Dermalogica
-      Pro Skin Facial, Dermalogica Power Peel and Rock Rose
-    sectionimage: /assets/img/krp06025.jpg
+    body: Treatments include Dermalogica Pro Skin Facials & Peels, Natural Rock Rose
+      Facials & the Sculpted Facial with Charlotte Connoley
+    sectionimage: /assets/img/treatment-rooms-facials-1600x900.jpg
     cta: Prices & Booking
     url: facials
   - title: Massage
-    body: Relaxation for muscles & mind. Choose a pre-blended oil, choose the
-      pressure and the areas that need work.
-    sectionimage: /assets/img/treatement-rooms-body-1400x790.jpg
+    body: Relaxation for muscles & mind. Includes aromatherapy, hot stone,
+      reflexology, head massage & oncology treatments
+    sectionimage: /assets/img/treatment-rooms-massage-1600x900.jpg
     cta: Prices & Booking
     url: massage
-  - title: Specialised Treatments
-    sectionimage: /assets/img/treatment-rooms-specialised-1400x790.jpg
-    body: Sculpted Facial, Oriental Classic Massage, Foot Revive, Sports & Remedial
-      Massage and Postural Realignment.
+  - title: Independent Therapists
+    sectionimage: /assets/img/treatment-rooms-specialised-1600x900.jpg
+    body: The Sculpted Facial with Charlotte Connoley, Oriental Massage with Roldan
+      and Sports, Remedial & Postural therapies with Julie
     cta: Prices & Booking
     url: specialised-treatments
   - title: Body Treatments
@@ -27,24 +30,24 @@ sections:
     cta: Prices & Booking
     url: body-treatments
   - title: Pregnancy Treatments
-    sectionimage: /assets/img/treatment-rooms-specialised-1400x790.jpg
-    body: Safe and gentle treatments for pregnancies over 12 weeks.
+    sectionimage: /assets/img/treatment-rooms-pregnancy-1600x900.jpg
+    body: Safe & gentle treatments for pregnancies over 12 weeks
     cta: Prices & Booking
     url: pregnancy-treatments
   - title: Hands & Feet
-    sectionimage: /assets/img/treatment-rooms-hands-1400x790.jpg
-    body: Manicures & Pedicures
+    sectionimage: /assets/img/treatment-rooms-hands-1600x900.jpg
+    body: Manicures & pedicures with normal, gel or builder polishes
     cta: Prices & Booking
     url: hands-feet
   - title: Waxing, Threading & Eyes
     body: Female & Male Waxing, Threading & Eye Enhancements
-    sectionimage: /assets/img/treatement-rooms-waxing-1400x790.jpg
+    sectionimage: /assets/img/treatment-rooms-waxing-1600x900.jpg
     cta: Prices & Booking
     url: waxing-threading-eyes
   - title: Packages
-    sectionimage: /assets/img/treatement-rooms-packages-1400x790.jpg
-    body: Relax, Renew, Lunch, Treatments & Teas, English Country Garden and Bridal
-      Makeup, Hair & Treatment Packages
+    sectionimage: /assets/img/treatment-rooms-packages-1600x900.jpg
+    body: Our most popular treatments packaged together, including food add-ons &
+      Bridal packages
     cta: Prices & Booking
     url: packages
 gallery: []
