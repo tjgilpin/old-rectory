@@ -12,7 +12,7 @@ sections:
   - title: Massage
     body: Relaxation for muscles & mind. Choose a pre-blended oil, choose the
       pressure and the areas that need work.
-    sectionimage: /assets/img/krp05834.jpg
+    sectionimage: /assets/img/treatement-rooms-body-1400x790.jpg
     cta: Prices & Booking
     url: massage
   - title: Specialised Treatments
@@ -22,8 +22,8 @@ sections:
     cta: Prices & Booking
     url: specialised-treatments
   - title: Body Treatments
-    sectionimage: /assets/img/treatement-rooms-body-1400x790.jpg
-    body: Body Treatments very short blurb!
+    sectionimage: /assets/img/treatment-rooms-body-1600x900.jpg
+    body: A deep cleansing back ritual
     cta: Prices & Booking
     url: body-treatments
   - title: Pregnancy Treatments
