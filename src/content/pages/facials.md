@@ -4,11 +4,14 @@ parent_page: Treatment Rooms
 title: Facials
 headerimage: /assets/img/treatement-rooms-facials-1200x720.jpg
 gallery:
-  - image: /assets/img/treatement-rooms-facials-1200x720.jpg
-  - image: /assets/img/treatment-rooms-specialised-1400x790.jpg
+  - image: /assets/img/treatment-rooms-facials-1600x900-1.jpg
+  - image: /assets/img/treatment-rooms-facials-1600x900-2.jpg
+  - image: /assets/img/treatment-rooms-facials-1600x900-3.jpg
+  - image: /assets/img/treatment-rooms-facials-1600x900-4.jpg
 url: ""
 cta: ""
 hide: true
+template: Panel Image Background
 ---
 ### Dermalogica Pro Skin Facial
 
