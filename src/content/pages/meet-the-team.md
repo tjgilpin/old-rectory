@@ -15,9 +15,9 @@ sections:
 
       </p>
     title: Lionel Copley – Owner & Creative Magician
-    sectionimage: /assets/img/treatment-rooms-staff-1200x1800.jpg
+    sectionimage: /assets/img/lionel-800x1200.jpg
   - title: Natalie & The House Team – Smiles, Secrets & Service
-    sectionimage: /assets/img/treatment-rooms-staff-1200x1800.jpg
+    sectionimage: /assets/img/nat-team-800x1200.jpg
     body: >-
       <p>
 
@@ -43,7 +43,7 @@ sections:
       From oncology &amp; pregnancy massage to glowing facials, perfectly polished pedicures, and everything in between, this team is here to help you float out feeling like your very best self.
 
       </p>
-    sectionimage: /assets/img/treatment-rooms-staff-1200x1800.jpg
+    sectionimage: /assets/img/treatment-team-800x1200.jpg
   - title: Hattie, Lindsey & Tom – Coffee, Cake & Cheer
     body: >-
       <p>
@@ -57,7 +57,7 @@ sections:
       Whether you’re after a lazy brunch, a speedy espresso, or just an excuse to eat cake (no judgement here), they’re the ones making it happen – with good vibes and great tunes guaranteed.
 
       </p>
-    sectionimage: /assets/img/treatment-rooms-staff-1200x1800.jpg
+    sectionimage: /assets/img/hattie-cafe-800x1200.jpg
   - title: Our Chefs – Flavour Makers & Foodie Wizards
     body: >-
       <p>
@@ -83,7 +83,7 @@ sections:
       And then there’s Hattie, again! She rules the café kitchen, curating a day to day menu that hits the sweet spot for breakfast, brunch and lunch. All our cakes? Her handiwork. All the “mmm” sounds coming from the café? Also her fault. You’ve been warned.
 
       </p>
-    sectionimage: /assets/img/treatment-rooms-staff-1200x1800.jpg
+    sectionimage: /assets/img/janek-800x1200.jpg
   - title: Zeline & Marcus – Green-Fingered Geniuses
     body: >-
       <p>
@@ -97,7 +97,7 @@ sections:
       They also tend to the indoor plants—truly the safest pair of hands to bring a touch of green to our communal spaces, dining room tables, and each guest room.
 
       </p>
-    sectionimage: /assets/img/treatment-rooms-staff-1200x1800.jpg
+    sectionimage: /assets/img/zeline-800x1200.jpg
   - title: Shaun – Sculptor & Explorer
     body: >-
       <p>
@@ -105,7 +105,7 @@ sections:
       Sculptor, explorer, and silent partner, Shaun is Lionel’s right-hand man. Long-time friend and Old Rectory alumnus, Shaun has several art installations throughout the Rectory, café, and garden. When he’s not off exploring the globe, you’ll often find him sampling delights and chatting with friends in the café.
 
       </p>
-    sectionimage: /assets/img/treatment-rooms-staff-1200x1800.jpg
+    sectionimage: /assets/img/shaun-800x1200.jpg
 hide: true
 order: 10
 template: Panel Stacked
