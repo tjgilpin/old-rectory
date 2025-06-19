@@ -2,10 +2,11 @@
 type: subpage
 parent_page: Treatment Rooms
 title: Body Treatments
-headerimage: /assets/img/treatement-rooms-body-1200x720.jpg
+headerimage: /assets/img/treatment-rooms-body-1600x900.jpg
 url: https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052
 cta: Book Body Treatment Now
 hide: true
+template: Panel Image Background
 ---
 ### Body Treatments
 
