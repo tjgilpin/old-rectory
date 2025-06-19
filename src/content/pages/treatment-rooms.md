@@ -1,7 +1,7 @@
 ---
 type: page
 title: Treatment Rooms
-headerimage: /assets/img/hero-image-treatments.jpg
+headerimage: /assets/img/treatment-rooms-header-1600x900.jpg
 sections:
   - title: Gift Vouchers
     sectionimage: /assets/img/treatment-rooms-vouchers-1600x900.jpg
