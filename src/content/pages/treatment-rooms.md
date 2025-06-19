@@ -25,7 +25,7 @@ sections:
     body: The Sculpted Facial with Charlotte Connoley, Oriental Massage with Roldan
       and Sports, Remedial & Postural therapies with Julie
     cta: Prices & Booking
-    url: specialised-treatments
+    url: independent-therapists
   - title: Body Treatments
     sectionimage: /assets/img/treatment-rooms-body-1600x900.jpg
     body: A deep cleansing back ritual
