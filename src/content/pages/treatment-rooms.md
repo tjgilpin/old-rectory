@@ -6,6 +6,8 @@ sections:
   - title: Gift Vouchers
     sectionimage: /assets/img/treatment-rooms-vouchers-1600x900.jpg
     body: E-Voucher, Paper Voucher, Postal Voucher - A perfect gift for any occasion
+    url: gift-vouchers
+    cta: Prices & Booking
   - title: Facials
     body: Treatments include Dermalogica Pro Skin Facials & Peels, Natural Rock Rose
       Facials & the Sculpted Facial with Charlotte Connoley
