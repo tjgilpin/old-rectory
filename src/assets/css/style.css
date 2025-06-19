@@ -495,13 +495,28 @@ button a {
 }
 
 @media screen and (min-width: 900px) {
-  .page_home .section-panel,
-  .template_panel-stacked .section-content {
+  .page_home .section-panel {
     grid-template-columns: 1fr 1fr;
     margin-bottom: 0;
     gap: 2rem;
-    align-items: start;
+    /* align-items: start; */
   }  
+  .template_panel-stacked .section-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto auto;
+    gap: 2rem;
+    padding: 0 2rem !important;
+  }
+  .template_panel-stacked .section-panel {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: subgrid;
+    grid-row: span 3;
+    gap: 20px;
+    }
+
+
 
   .template_panel-image-background .section-panel {
     display: flex;
