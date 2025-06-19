@@ -2,10 +2,12 @@
 type: subpage
 parent_page: Treatment Rooms
 title: Independent Therapists
-headerimage: /assets/img/treatement-specialised-1200x720.jpg
+headerimage: /assets/img/treatment-rooms-specialised-1600x900.jpg
 gallery:
-  - image: /assets/img/treatment-rooms-oriental-1200x1800.jpg
-  - image: /assets/img/treatment-rooms-sculpted-1200x1800.jpg
+  - image: /assets/img/treatment-rooms-independent-1600x900-1.jpg
+  - image: /assets/img/treatment-rooms-independent-1600x900-2.jpg
+  - image: /assets/img/treatment-rooms-independent-1600x900-3.jpg
+  - image: /assets/img/treatment-rooms-independent-1600x900-4.jpg
 url: https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052
 cta: Book Treatment
 hide: true
