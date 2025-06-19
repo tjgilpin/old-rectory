@@ -469,6 +469,11 @@ button a {
   text-align: left;
 }
 
+.template_panel-image-background .section-panel .text {
+  display: flex;
+  flex-direction: column;
+}
+
 .section-panel .text a, .section-panel .title a {
   text-decoration: none;
 }
@@ -667,6 +672,7 @@ a {
   letter-spacing: 0.25em;
   text-transform: uppercase;
   display: inline-block;
+  margin: auto;
 }
 
 .cta::after {
