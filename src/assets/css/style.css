@@ -492,6 +492,7 @@ button a {
   color: var(--blue);
   font-size: 1.5em;
   text-shadow: none;
+  text-align: center;
 }
 
 @media screen and (min-width: 900px) {
