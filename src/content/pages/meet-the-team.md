@@ -15,7 +15,7 @@ sections:
 
       </p>
     title: Lionel Copley – Owner & Creative Magician
-    sectionimage: /assets/img/lionel-800x1200.jpg
+    sectionimage: /assets/img/lionel.jpg
   - title: Natalie & The House Team – Smiles, Secrets & Service
     sectionimage: /assets/img/nat-team-800x1200.jpg
     body: >-
@@ -105,7 +105,7 @@ sections:
       Sculptor, explorer, and silent partner, Shaun is Lionel’s right-hand man. Long-time friend and Old Rectory alumnus, Shaun has several art installations throughout the Rectory, café, and garden. When he’s not off exploring the globe, you’ll often find him sampling delights and chatting with friends in the café.
 
       </p>
-    sectionimage: /assets/img/shaun-800x1200.jpg
+    sectionimage: /assets/img/shaun.jpg
 hide: true
 order: 10
 template: Panel Stacked
