@@ -106,6 +106,14 @@ sections:
 
       </p>
     sectionimage: /assets/img/shaun.jpg
+  - title: "Our Chefs - Flavour Makers & Foodie Wizards - Matthew "
+    body: >-
+      <p>
+
+      Matthew is king of canapes and the master of Sunday roasts. His seasonal menus are all about honest, hearty food done right – with a little flair thrown in for good measure. From delicate bites to full-on feasts, he makes sure every meal tells a story (and ends with a clean plate).
+
+      </p>
+    sectionimage: /assets/img/matthew.jpg
 hide: true
 order: 10
 template: Panel Stacked
