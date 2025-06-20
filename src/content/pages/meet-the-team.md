@@ -58,7 +58,7 @@ sections:
 
       </p>
     sectionimage: /assets/img/hattie-cafe-800x1200.jpg
-  - title: Our Chefs – Flavour Makers & Foodie Wizards
+  - title: Our Chefs – Flavour Makers & Foodie Wizards - Janek
     body: >-
       <p>
 
@@ -74,16 +74,18 @@ sections:
 
       <p>
 
-      Matthew is king of canapes and the master of Sunday roasts. His seasonal menus are all about honest, hearty food done right – with a little flair thrown in for good measure. From delicate bites to full-on feasts, he makes sure every meal tells a story (and ends with a clean plate).
-
-      </p>
-
-      <p>
-
       And then there’s Hattie, again! She rules the café kitchen, curating a day to day menu that hits the sweet spot for breakfast, brunch and lunch. All our cakes? Her handiwork. All the “mmm” sounds coming from the café? Also her fault. You’ve been warned.
 
       </p>
-    sectionimage: /assets/img/janek-800x1200.jpg
+    sectionimage: /assets/img/janek.jpg
+  - title: "Our Chefs - Flavour Makers & Foodie Wizards - Matthew "
+    body: >-
+      <p>
+
+      Matthew is king of canapes and the master of Sunday roasts. His seasonal menus are all about honest, hearty food done right – with a little flair thrown in for good measure. From delicate bites to full-on feasts, he makes sure every meal tells a story (and ends with a clean plate).
+
+      </p>
+    sectionimage: /assets/img/matthew.jpg
   - title: Zeline & Marcus – Green-Fingered Geniuses
     body: >-
       <p>
@@ -106,14 +108,6 @@ sections:
 
       </p>
     sectionimage: /assets/img/shaun.jpg
-  - title: "Our Chefs - Flavour Makers & Foodie Wizards - Matthew "
-    body: >-
-      <p>
-
-      Matthew is king of canapes and the master of Sunday roasts. His seasonal menus are all about honest, hearty food done right – with a little flair thrown in for good measure. From delicate bites to full-on feasts, he makes sure every meal tells a story (and ends with a clean plate).
-
-      </p>
-    sectionimage: /assets/img/matthew.jpg
 hide: true
 order: 10
 template: Panel Stacked
