@@ -6,8 +6,8 @@ headerimage: /assets/img/treatment-rooms-waxing-1600x900.jpg
 gallery:
   - image: /assets/img/treatment-rooms-waxing-1600x900-4.jpg
   - image: /assets/img/treatment-rooms-waxing-1600x900-2.jpg
-  - image: /assets/img/treatment-rooms-waxing-1600x900-3.jpg
   - image: /assets/img/treatment-rooms-waxing-1600x900-1.jpg
+  - image: /assets/img/treatment-rooms-waxing-1600x900-3.jpg
 url: ""
 cta: ""
 hide: true
