@@ -34,9 +34,20 @@ Trained in a huge range of massage therapies, Roldan uses his intuition to creat
 A unique treatment for the feet that incorporates acupressure points & reflexology with the use of finger pressures and hand tools. This ancient and highly regarded technique benefits the whole body through corresponding pressure points in the feet.
 
 * 60 mins £65
-* Upgrade to hot stones with Roldan, on either of the above + **£10**
 
 <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book Foot Revive</button></a>
+
+### Massage with Roldan
+
+* 30 mins £38
+* 45 mins £58
+* 60 mins £75
+* 75 mins £88
+* 90 mins £100
+
+*Upgrade to hot stones with Roldan, on either of the above* **+ £10**
+
+<a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book Massage with Roldan</button></a>
 
 ### Sports & Remedial Massage with Julie Nixey
 
@@ -52,8 +63,6 @@ A targeted treatment to relieve specific muscle tension, aches and pains incorpo
 This powerful soft tissue treatment seeks to re-structure your body by releasing the fascia (the network of connective tissue) and in turn bring your body back into better alignment. Ideal if you have chronic and recurring aches and pains, you feel unbalanced from your sport, your job or just life's repetitive activities. It can be particularly effective after pregnancy and knee/hip surgeries to ease out postural compensations. Carried out over an optimal 6 sessions, this treatment commences with a full postural assessment.
 
 * 90 mins **£120**
-
-*6 treatments for the price of 5 £600*  
-**Must be booked and paid for in advance**
+* 6 treatments for the price of 5 **£600**
 
 <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book Postural Realignment</button></a>
