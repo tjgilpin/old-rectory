@@ -3,9 +3,15 @@ type: subpage
 parent_page: Treatment Rooms
 title: Pregnancy Treatments
 headerimage: /assets/img/treatement-rooms-facials-1200x720.jpg
+gallery:
+  - image: /assets/img/treatment-rooms-pregnancy-1600x900-4.jpg
+  - image: /assets/img/treatment-rooms-pregnancy-1600x900-3.jpg
+  - image: /assets/img/treatment-rooms-pregnancy-1600x900-1.jpg
+  - image: /assets/img/treatment-rooms-pregnancy-1600x900-2.jpg
 url: ""
 cta: ""
 hide: true
+template: Panel Image Background
 ---
 ### Baby On Board: Total Relaxation
 
