@@ -1,8 +1,9 @@
 ---
 type: page
 title: FAQs
-hide: false
+hide: true
 order: 10
+template: Panel Image Background
 ---
 ## Is there parking at The Old Rectory?
 
