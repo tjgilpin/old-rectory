@@ -22,6 +22,14 @@ Tailored to your skin's needs on the day, your skin therapist will design your t
 
 <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book Pro Skin Facial</button></a>
 
+### Dermalogica Pro Teen Facial
+
+Includes a deep cleanse, skin resurfacing and extractions, which helps to calm active breakouts and leaves the skin glowing. Perfect for teens & young adults.
+
+* 45 mins **£50**
+
+<a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book Pro Power Peel</button></a>
+
 ### Dermalogica Pro Power Peel
 
 Targeting skin texture, tone, wrinkles and breakouts. Using AHAs and BHAs, lactic acid, salicylic acid and glycolic acid to provide a totally customisable deep exfoliation with little down time. Perfect for those who want to target lines and wrinkles, uneven pigmentation and acne breakouts. A patch test is required 24-48 hours prior to your treatment. We also recommend a skin consultation or proskin facial before your peel to ensure you leave with the best results possible after your Pro Power Peel.
