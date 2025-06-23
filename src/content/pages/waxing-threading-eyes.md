@@ -2,12 +2,16 @@
 type: subpage
 parent_page: Treatment Rooms
 title: Waxing, Threading & Eyes
-headerimage: /assets/img/treatement-rooms-waxing-1200x720.jpg
+headerimage: /assets/img/treatment-rooms-waxing-1600x900.jpg
 gallery:
-  - image: /assets/img/treatment-rooms-waxing-1200x1800.jpg
+  - image: /assets/img/treatment-rooms-waxing-1600x900-4.jpg
+  - image: /assets/img/treatment-rooms-waxing-1600x900-2.jpg
+  - image: /assets/img/treatment-rooms-waxing-1600x900-3.jpg
+  - image: /assets/img/treatment-rooms-waxing-1600x900-1.jpg
 url: ""
 cta: ""
 hide: true
+template: Panel Image Background
 ---
 ### Female Waxing
 
