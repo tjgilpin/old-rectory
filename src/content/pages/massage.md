@@ -68,7 +68,6 @@ Inspired by traditional Indian head massage, this treatment uses a combination o
 
 Enjoy a relaxing massage in our beautiful walled garden. You'll be sheltered under the pergola, surrounded by the sounds and scents of nature. A serene treat for one, or two at the same time. **Subject to availability. Advance booking is essential.**
 
-* 30 mins **£45**
 * 45 mins **£65**
 * 60 mins **£80**
 * 75 mins **£95**
