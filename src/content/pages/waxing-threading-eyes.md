@@ -17,21 +17,21 @@ template: Panel Image Background
 
 Brow / lip / chin (each) **£12**
 
-Any two of the above **£20**
+Any two of the above **£22**
 
-Half leg **£24**
+Half leg **£26**
 
-Full leg **£30**
+Full leg **£32**
 
-Underarm (hot wax available) **£15**
+Underarm (hot wax available) **£16**
 
-Regular bikini (hot wax available) **£15**
+Regular bikini (hot wax available) **£16**
 
-High bikini (hot wax available) **£20**
+High bikini (hot wax available) **£22**
 
-Brazilian (hot wax available) **£30**
+Brazilian (hot wax available) **£32**
 
-Hollywood (hot wax available) **£32**
+Hollywood (hot wax available) **£34**
 
 <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book female waxing</button></a>
 
@@ -39,19 +39,19 @@ Hollywood (hot wax available) **£32**
 
 Brow / nose / ear (each)  **£12**
 
-Any two of the above **£20**
+Any two of the above **£22**
 
-Back or chest **£25**
+Back or chest **£26**
 
-Back & chest **£40**
+Back & chest **£42**
 
 Full arm **£25**
 
-Underarm **£15**
+Underarm **£16**
 
-Half leg **£24**
+Half leg **£26**
 
-Full leg **£30**
+Full leg **£32**
 
 <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book male waxing</button></a>
 
@@ -79,13 +79,13 @@ Back, sac & crack 75 mins **£70**
 
 Brow/chin/lip (each) **£12**
 
-Any two of the above **£20**
+Any two of the above **£22**
 
 Sides of face **£14**
 
 Full face **£20**
 
-Brow thread and tint **£20**
+Brow thread and tint **£22**
 
 <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book threading</button></a>
 
@@ -99,9 +99,9 @@ Brow Tint 15 mins **£12**
 
 Brow & Lash Tint 30 mins **£28**
 
-Brow Wax & Tint 20 mins **£20**
+Brow Wax & Tint 20 mins **£22**
 
-Eye Duo - Lash Lift & Tint with Brow Wax & Tint **75 mins £60**
+Eye Duo - Lash Lift & Tint with Brow Wax & Tint 75 mins **£60**
 
 *Skin tests needed for tinting & lifting treatments at least 48 hours in advance.*
 
