@@ -13,4 +13,10 @@ template: Panel Image Background
 ---
 ### Body Treatments
 
-This powerful soft tissue treatment seeks to re-structure your body by releasing the fascia (the network of connective tissue) and in turn bring your body back into better alignment. Ideal if you have chronic and recurring aches and pains, you feel unbalanced from your sport, your job or just life's repetitive activities. It can be particularly effective after pregnancy and knee/hip surgeries to ease out postural compensations. Carried out over an optimal 6 sessions, this treatment commences with a full postural assessment.
+**Exfoliating Back Facial**
+
+A thorough cleanse, exfoliation and steam of your back, to include extractions if needed. To finish, a soothing massage to relax your mind and nourish your skin.
+
+* 45mins **£60**
+
+<a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book Body Treatment</button></a>
