@@ -132,6 +132,15 @@
         {% endif %}
         <div class="content_text">        
           {{ content | safe }}
+
+          text here 
+
+          {{ treatment.terms }}
+
+          {% if treatment.terms %}
+            <h3>Treatment Terms here</h3>
+          {% endif %}
+
         </div>
         {% if gallery %}
         <div class="content_gallery">
