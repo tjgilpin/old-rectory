@@ -27,14 +27,15 @@ This package includes a 30 minute massage, a 30 minute facial, both tailored to 
 
 * 2 hours **£115**
 
+<a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book Renew Package</button></a>
+
 ### Hands & Feet Gel Package
 
 Our Signature Gel Pedicure for your feet, plus our Simple Gel Manicure for your hands. 
 
 * 2 hours **£78**
 
-
-<a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book Renew Package</button></a>
+<a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book Hands & Feet Gel Package</button></a>
 
 ### For those who lunch
 
