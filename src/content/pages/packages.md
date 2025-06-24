@@ -39,11 +39,11 @@ Our Signature Gel Pedicure for your feet, plus our Simple Gel Manicure for your 
 
 ### For those who lunch
 
-A whole day of pampering, starting with our Signature Manicure & Pamper Pedicure. Break for a quintessentially English Old Rectory Afternoon Tea. Your day continues with a full body massage, mini tension release scalp massage and a skin brightening facial. You'll leave in a state of total calm. 5.5 hours (4.5 hours of treatments). For 2-3 people. 
+A whole day of pampering, starting with our Signature Manicure & Pamper Pedicure. Break for a quintessentially English Old Rectory Afternoon Tea. Your day continues with a full body massage, mini tension release scalp massage and a skin brightening facial. You'll leave in a state of total calm. 5.5 hours (4.5 hours of treatments). For 2-3 people. **Advance booking is essential.** 
 
 * £265 pp
 
-**Advance booking is essential. Not available to book online. (Call to book and link phone number?)**
+Not available to book online. (Call to book and link phone number?)**
 
 ### Treatments & Teas
 
