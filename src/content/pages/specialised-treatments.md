@@ -8,8 +8,8 @@ gallery:
   - image: /assets/img/treatment-rooms-independent-1600x900-2.jpg
   - image: /assets/img/treatment-rooms-independent-1600x900-3.jpg
   - image: /assets/img/treatment-rooms-independent-1600x900-4.jpg
-url: https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052
-cta: Book Treatment
+url: ""
+cta: ""
 hide: true
 template: Panel Image Background
 ---
