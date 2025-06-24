@@ -17,7 +17,7 @@ template: Panel Image Background
 
 This package includes a 30 minute massage and a 30 minute facial. Designed for total relaxation and tailored to your needs.
 
-* 60 mins **£70**
+* 60 mins **£75**
 
 <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book Relax Package</button></a>
 
@@ -25,7 +25,14 @@ This package includes a 30 minute massage and a 30 minute facial. Designed for t
 
 This package includes a 30 minute massage, a 30 minute facial, both tailored to your specific needs. To finish, an OPI Signature Pedicure. (Pedicure can be swapped to our Signature Manicure with Lacquer or Gel for the same price).
 
-* 2 hours **£110**
+* 2 hours **£115**
+
+### Hands & Feet Gel Package
+
+Our Signature Gel Pedicure for your feet, plus our Simple Gel Manicure for your hands. 
+
+* 2 hours **£78**
+
 
 <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book Renew Package</button></a>
 
@@ -44,14 +51,6 @@ Stay for longer after your treatments and indulge in your choice of Tea. Deliver
 * Afternoon Tea 27 pp
 * Savoury Tea 17 pp
 * Cream Tea 15 pp
-
-### English Country Garden
-
-Stay for longer after your garden massage to indulge in an Old Rectory Afternoon Tea, complete with sandwiches, home made cakes & scones, tea & coffee. Advance booking is essential. Not available to book online.
-
-* 60 minute massage with afternoon tea £100pp
-* 75 minute massage with afternoon tea £115pp
-* 90 minute massage with afternoon tea £130pp
 
 ### Bridal Make Up, Hair & Treatment Packages Available
 
