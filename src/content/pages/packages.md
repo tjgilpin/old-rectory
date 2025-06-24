@@ -43,7 +43,7 @@ A whole day of pampering, starting with our Signature Manicure & Pamper Pedicure
 
 * £265 pp
 
-Not available to book online. (Call to book and link phone number?)**
+<a href="tel:0782781101"><button>Call 0782781101 to Book</button></a>
 
 ### Treatments & Teas
 
@@ -53,6 +53,8 @@ Stay for longer after your treatments and indulge in your choice of Tea. Deliver
 * Savoury Tea 17 pp
 * Cream Tea 15 pp
 
+<a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book Treatments & Teas</button></a>
+
 ### Bridal Make Up, Hair & Treatment Packages Available
 
-Please see our website for more information. (?)
+<a href="tel:0782781101"><button>Call 0782781101 for more information</button></a>
