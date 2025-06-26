@@ -49,19 +49,7 @@ sections:
     body: >-
       <p>
 
-      Down in the café, things are brewing — literally. Hattie, Lindsey, and Tom are the smiling trio behind every silky flat white and freshly baked slice of heaven. Hattie rules the café kitchen, curating a day-to-day menu that hits the sweet spot for breakfast, brunch, and lunch. All our cakes? Her handiwork. All the “mmm” sounds coming from the café? Also her fault. You’ve been warned.
-
-      </p>
-
-      <p>
-
-      Out front, Tom and Lindsey are on the grind — making coffees, serving guests, and keeping the good energy flowing with the support of our team of dedicated porters, Jemima, Sam, Sid, Tilly & Cicely . 
-
-      </p>
-
-      <p>
-
-      Whether you’re after a lazy brunch, a speedy espresso, or just an excuse to eat cake (no judgment here), they’re the ones making it happen — with good vibes and great tunes guaranteed.
+      Matthew is king of canapes and the master of Sunday roasts. His seasonal menus are all about honest, hearty food done right – with a little flair thrown in for good measure. From delicate bites to full-on feasts, he makes sure every meal tells a story (and ends with a clean plate).
 
       </p>
     sectionimage: /assets/img/matthew.jpg
