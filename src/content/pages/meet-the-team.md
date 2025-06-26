@@ -66,12 +66,6 @@ sections:
       Let’s talk Janek, our resident smokehouse sorcerer. He’s the genius behind our hot smoked salmon &amp; kippers, and the hands behind our home-cured bacon, handmade sausages and indulgent black pudding. When he’s not manning the BBQ at a wedding, you’ll find him tending our edible garden – or giving some TLC to our fish pond. Yes, really.
 
       </p>
-
-      <p>
-
-      And then there’s Hattie, again! She rules the café kitchen, curating a day to day menu that hits the sweet spot for breakfast, brunch and lunch. All our cakes? Her handiwork. All the “mmm” sounds coming from the café? Also her fault. You’ve been warned.
-
-      </p>
     sectionimage: /assets/img/janek.jpg
   - title: Hattie, Lindsey & Tom – Coffee, Cake & Cheer
     body: >-
