@@ -132,15 +132,12 @@
         {% endif %}
         <div class="content_text">        
           {{ content | safe }}
-
-          text here 
-
-          {{ treatment.terms }}
-
-          {% if treatment.terms %}
-            <h3>Treatment Terms here</h3>
+          {% if treatment.terms and parent_page == "Treatment Rooms" %}
+            {{ treatment.terms | markdownify | safe }}
           {% endif %}
-
+          {% if treatment.vouchers and parent_page == "Treatment Rooms" and title != "Gift Vouchers" %}
+            {{ treatment.vouchers | markdownify | safe }}
+          {% endif %}
         </div>
         {% if gallery %}
         <div class="content_gallery">

@@ -121,6 +121,7 @@ collections:
         file: "src/_data/treatment.yaml"
         fields:
           - { label: "Terms", name: "terms", widget: "markdown" }
+          - { label: "Vouchers", name: "vouchers", widget: "markdown" }
       - label: Footer Content
         name: footerlinks
         file: "src/_data/footerlinks.yml"
