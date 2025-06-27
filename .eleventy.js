@@ -7,6 +7,8 @@ import markdownItAttrs from "markdown-it-attrs";
 
 export default async function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/assets/");
+  eleventyConfig.addPassthroughCopy("./src/assets/img/");
+  eleventyConfig.addPassthroughCopy("./src/admin/config.yml"); 
 
   eleventyConfig.addPlugin(eleventyNavigationPlugin);  
 	eleventyConfig.addDataExtension("yaml,yml", (contents) => yaml.load(contents));
@@ -23,8 +25,6 @@ export default async function(eleventyConfig) {
   const markdownRenderer = markdownIt(markdownOptions).use(markdownItAttrs);
 
   eleventyConfig.setLibrary("md", markdownRenderer);
-
-  eleventyConfig.addPassthroughCopy("./src/admin/config.yml"); 
 
   // Add the markdownify filter
   eleventyConfig.addFilter("markdownify", (content) => {
