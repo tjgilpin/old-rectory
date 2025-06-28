@@ -1,4 +1,3 @@
-import { DateTime } from "luxon";
 import eleventyNavigationPlugin from "@11ty/eleventy-navigation";
 import yaml from "js-yaml";
 import markdownIt from "markdown-it";
