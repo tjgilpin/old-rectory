@@ -13,10 +13,6 @@ export default async function(eleventyConfig) {
   eleventyConfig.addPlugin(eleventyNavigationPlugin);  
 	eleventyConfig.addDataExtension("yaml,yml", (contents) => yaml.load(contents));
 
-  eleventyConfig.addFilter("postDate", (dateObj) => {
-    return DateTime.fromJSDate(dateObj).toLocaleString({ month: 'long', day: 'numeric', year: 'numeric' });
-  });
-
   const markdownOptions = {
     html: true,
     breaks: false,
@@ -30,27 +26,6 @@ export default async function(eleventyConfig) {
   eleventyConfig.addFilter("markdownify", (content) => {
     if (!content) return "";
     return markdownRenderer.render(content);
-  });
-
-  eleventyConfig.addFilter("excerpt", (post) => {
-    const content = post.replace(/(<([^>]+)>)/gi, "");
-    if (content.length > 250) {
-      return content.substr(0, content.lastIndexOf(" ", 200)) + "...";
-    }
-    return content;
-  });
-
-  // eleventyConfig.addPairedShortcode(
-  //   'element',
-  //   (content, el = 'div', className) => {
-  //     return `<${el}${className ? ` class="${className}"` : ''}>${content}</${el}>`
-  //   }
-  // )
-
-  eleventyConfig.addShortcode("figure", function(image, caption, slug) { 
-    const className = image.substring(0, image.lastIndexOf('.'));
-    const figure = `<figure class="${className}"><figcaption>${caption}</figcaption><img src="/assets/img/${image}" alt="${caption}"></figure>`;
-    return slug ? `<a href="/${slug}">${figure}</a>` : figure;
   });
 };
 
