@@ -17,7 +17,7 @@ template: Panel Image Background
 [natalie@theoldrectoryhastings.co.uk]
 (mailto:natalie@theoldrectoryhastings.co.uk)
 
-####  For the Treatment Rooms
+### For the Treatment Rooms
 
 [07827 811011](tel:07827811011)  
 [treatmentrooms@theoldrectoryhastings.co.uk](mailto:treatmentrooms@theoldrectoryhastings.co.uk)
