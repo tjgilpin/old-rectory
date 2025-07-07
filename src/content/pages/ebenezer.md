@@ -6,8 +6,8 @@ headerimage: /assets/img/30-dsc00357.jpg
 gallery:
   - image: /assets/img/our-rooms-ebenezer-01.jpg
   - image: /assets/img/our-rooms-ebenezer-02.jpg
-  - image: /assets/img/our-rooms-ebenezer-03.jpg
   - image: /assets/img/our-rooms-ebenezer-04.jpg
+  - image: /assets/img/our-rooms-ebenezer-03.jpg
   - image: /assets/img/our-rooms-ebenezer-05.jpg
   - image: /assets/img/our-rooms-ebenezer-06.jpg
 url: http://secure.hotels.uk.com/webbookings/?HotelID=12288
