@@ -138,6 +138,11 @@
           {% if treatment.vouchers and parent_page == "Treatment Rooms" and title != "Gift Vouchers" %}
             {{ treatment.vouchers | markdownify | safe }}
           {% endif %}
+          {% if cta and url %}
+            <a href="{{ url }}" class="cta">
+              {{ cta }}
+            </a>
+          {% endif %}
         </div>
         {% if gallery %}
         <div class="content_gallery">
@@ -149,13 +154,6 @@
             </ul>
           </div>
         </div>
-        {% endif %}
-        {% if cta and url %}
-          <a href="{{ url }}">
-            <button>
-              {{ cta }}
-            </button>            
-          </a>
         {% endif %}
       </div>
       {% endif %}

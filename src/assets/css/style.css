@@ -688,7 +688,9 @@ a {
   letter-spacing: 0.25em;
   text-transform: uppercase;
   display: inline-block;
-  margin: auto;
+  margin: 1rem 0;
+  text-align: center;
+  margin: 1rem auto;
 }
 
 .cta::after {
@@ -700,6 +702,16 @@ a {
 
 .cta:hover::after {
   margin-left: 0.75em;
+}
+
+.subpage .cta {
+  background: var(--white);
+  color: var(--blue);
+  text-decoration: none;
+  font-weight: bold;
+  margin: 2rem 0;
+  width: 100%;
+  line-height: 1.2;  
 }
 
 .content {
@@ -908,8 +920,8 @@ h3, h4 {
 } */
 
 .content_text ul {
-  list-style-position: inside;
-  padding: 0;
+  list-style-position: outside;
+  padding: 0 0 0 1rem;
 }
 
 p:has(button) a {
