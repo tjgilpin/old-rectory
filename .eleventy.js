@@ -6,8 +6,9 @@ import markdownItAttrs from "markdown-it-attrs";
 
 export default async function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/assets/");
-  eleventyConfig.addPassthroughCopy("./src/assets/img/");
-  eleventyConfig.addPassthroughCopy("./src/admin/config.yml"); 
+  eleventyConfig.addPassthroughCopy("./src/admin/"); 
+  eleventyConfig.addPassthroughCopy("./favicon.svg"); 
+  eleventyConfig.addPassthroughCopy("./favicon.ico"); 
 
   eleventyConfig.addPlugin(eleventyNavigationPlugin);  
 	eleventyConfig.addDataExtension("yaml,yml", (contents) => yaml.load(contents));
