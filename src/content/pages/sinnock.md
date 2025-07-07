@@ -3,9 +3,17 @@ type: subpage
 parent_page: Our Rooms
 title: Sinnock
 headerimage: /assets/img/23-dsc00318.jpg
+gallery:
+  - image: /assets/img/our-rooms-sinnock-01.jpg
+  - image: /assets/img/our-rooms-sinnock-02.jpg
+  - image: /assets/img/our-rooms-sinnock-03.jpg
+  - image: /assets/img/our-rooms-sinnock-04.jpg
+  - image: /assets/img/our-rooms-sinnock-05.jpg
+  - image: /assets/img/our-rooms-sinnock-06.jpg
 url: http://secure.hotels.uk.com/webbookings/?HotelID=12288
 cta: Book now from £190
 hide: true
+template: Panel Image Background
 ---
 ## Calm & Majestic
 Being Georgian in origin, this room is light and airy with high ceilings and a beautiful chandelier. Decorated in calming muted greys and blues with hand painted panelled wallpaper designed by Deborah Bowness. This room has a calm, yet majestic feel.
