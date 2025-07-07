@@ -1,12 +1,17 @@
 ---
+type: subpage
 parent_page: Our Rooms
 headerimage: /assets/img/our-rooms-hero.jpg
 hide: true
 order: 10
-type: subpage
 title: Crown
+gallery:
+  - image: /assets/img/our-rooms-crown-01.jpg
+  - image: /assets/img/our-rooms-crown-02.jpg
+  - image: /assets/img/our-rooms-crown-03.jpg
 url: http://secure.hotels.uk.com/webbookings/?HotelID=12288
 cta: Book now from £180
+template: Panel Image Background
 ---
 ## One for the romantics
 
