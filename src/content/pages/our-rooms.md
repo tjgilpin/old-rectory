@@ -50,9 +50,9 @@ sections:
     body: Painted in muted greens and cream, with its wall sconces and vintage
       paintings, this room is bright and airy and looks over the garden. From
       £160 for two
-    url: coburg
+    url: cobourg
     cta: Click here to book
-    title: Coburg
+    title: Cobourg
   - body: Our cosiest room, with its sloping ceiling. Rock a Nore is hidden away on
       the second floor at the top of the house; perfect for a little getaway.
       From £140 for two
