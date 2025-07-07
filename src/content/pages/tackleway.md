@@ -3,9 +3,17 @@ type: subpage
 parent_page: Our Rooms
 title: Tackleway
 headerimage: /assets/img/or-24th-may-by-georgina-piper-58.jpg
+gallery:
+  - image: /assets/img/our-rooms-tackleway-01.jpg
+  - image: /assets/img/our-rooms-tackleway-02.jpg
+  - image: /assets/img/our-rooms-tackleway-03.jpg
+  - image: /assets/img/our-rooms-tackleway-04.jpg
+  - image: /assets/img/our-rooms-tackleway-05.jpg
+  - image: /assets/img/our-rooms-tackleway-06.jpg
 url: http://secure.hotels.uk.com/webbookings/?HotelID=12288
 cta: Book now from £150
 hide: true
+template: Panel Image Background
 ---
 ## Cosy & Stylish
 With its picture window overlooking the garden, this cosy, stylish room is decorated in original 1970s Sanderson wallpaper. A huge Carrara marble shower room completes the look.
