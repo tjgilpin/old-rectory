@@ -3,9 +3,17 @@ type: subpage
 parent_page: Our Rooms
 title: Rock-a-Nore
 headerimage: /assets/img/rock-a-nore-room-by-georgina-piper-5.jpg
+gallery:
+  - image: /assets/img/our-rooms-rockanore-01.jpg
+  - image: /assets/img/our-rooms-rockanore-02.jpg
+  - image: /assets/img/our-rooms-rockanore-03.jpg
+  - image: /assets/img/our-rooms-rockanore-04.jpg
+  - image: /assets/img/our-rooms-rockanore-05.jpg
+  - image: /assets/img/our-rooms-rockanore-06.jpg
 url: http://secure.hotels.uk.com/webbookings/?HotelID=12288
 cta: Book now from £140
 hide: true
+template: Panel Image Background
 ---
 ## Our Cosiest Room
 
