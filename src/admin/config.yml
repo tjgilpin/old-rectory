@@ -61,6 +61,7 @@ collections:
         multiple: false
         options: ["Panel Image Background", "Panel Stacked"]
         default: ["Panel Image Background"]
+        required: false
   # Sub Pages Collection (Folder-Based)
   - name: "subpages"
     label: "Sub Pages"
@@ -97,6 +98,7 @@ collections:
         multiple: false
         options: ["Panel Image Background", "Panel Stacked"]
         default: ["Panel Image Background"]
+        required: false
   - label: "Settings & Footer Content"
     name: "settings"
     editor:
