@@ -1,7 +1,7 @@
 ---
 type: subpage
 parent_page: Food & Drink
-title: Alternatives
+title: Seasonal Events
 headerimage: /assets/img/10-dsc06655.jpg
 url: "mailto:natalie@theoldrectoryhastings.co.uk "
 cta: Book Now
