@@ -25,11 +25,11 @@ sections:
       delicious two-course, a la carte breakfast that is freshly cooked to
       order.
     sectionimage: /assets/img/old-rectory-krp006.jpg
-  - title: Alternatives
+  - title: Seasonal Events
     sectionimage: /assets/img/10-dsc06655.jpg
     body: The Hastings calendar is jam packed with exciting events that we love to
       reflect in our food offering.
-    url: alternatives
+    url: seasonal-events
     cta: View Menus & Book
 hide: false
 order: 30
