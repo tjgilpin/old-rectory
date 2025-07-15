@@ -11,7 +11,7 @@ We have a small driveway with space for up to three cars. We allocate these spac
 
 ## Do you have any twin rooms?
 
-We have two rooms that can be set up as Twin rooms. Sinnock & All Saints both have the capacity to be set as twin rooms. All Saints can be upgraded to a suite that gives guests two separate rooms rather than two separate beds.
+We have two rooms that can be set up as Twin rooms. [Sinnock](/our-rooms/sinnock/) & [All Saints](/our-rooms/all-saints/) both have the capacity to be set as twin rooms. [All Saints](/our-rooms/all-saints/) can be upgraded to a suite that gives guests two separate rooms rather than two separate beds.
 
 ## Are there hairdryers/robes/slippers in the rooms?
 
@@ -21,11 +21,11 @@ All our rooms have hairdryers, robes & our very own Copley Body Wash & Copley Sh
 
 We are an adult-only hotel and can only host children over 10. In some circumstances, this policy can be amended for events but please ask us first. Our new additional property, Rose Cottage, is a self-contained family-friendly space that sleeps up to four. 
 
-##  How close is the Old Town/Beach?
+## How close is the Old Town/Beach?
 
 We are situated on the peripheral of Hastings Old Town; the high street is opposite our front door & historic All Saints Church is right next door. The beach is a five-minute stroll away.
 
-##  How accessible is The Old Rectory?
+## How accessible is The Old Rectory?
 
 As a listed building there are limitations to our accessibility. The front door is raised and there a numerous steps in the garden. We unfortunately do not have any ground floor rooms. We host Sunday Lunches & our Afternoon Teas on the ground floor which is accessible to those with low mobility. All our rooms can be equipped with non-slip mats, moveable handrails & shower-safe stools. We aim to make everyone welcome at The Old Rectory, if you have accessibility queries, please don’t hesitate to give us a call and help us find a way to accommodate your needs.
 
@@ -35,7 +35,7 @@ Yes! Breakfast is served everyday and is open to non-residents, as long as they 
 
 ## Which rooms are garden-facing?
 
-Croft, Cobourg and Tackleway all face the garden. Bourne has a garden-facing room & a churchyard view from the other bedroom.
+[Croft](/our-rooms/croft/), [Cobourg](/our-rooms/cobourg/) and [Tackleway](/our-rooms/tackleway/) all face the garden. [Bourne](/our-rooms/bourne/) has a garden-facing room & a churchyard view from the other bedroom.
 
 ## Can you cater to a gluten-free diet?
 
