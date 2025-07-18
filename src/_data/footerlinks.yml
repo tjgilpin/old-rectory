@@ -23,14 +23,6 @@ socials:
 newsletter: >+
   <h4>Signup for news, special deals &amp; more</h4>
 
-  <input type="text" placeholder="Enter your email address">
-
-  <button>Subscribe</button>
-
-
-
-  <h4>Signup for news, special deals &amp; more</h4>
-
 
   <form action="https://theoldrectoryhastings.us12.list-manage.com/subscribe/post?u=54f162aeb1a7b8cc93d4e2f5a&amp;id=15ec6e1eec&amp;f_id=001809e9f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
     <label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label>
