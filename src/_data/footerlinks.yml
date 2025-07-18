@@ -20,7 +20,7 @@ socials:
 
       </svg>
     url: https://www.instagram.com/theoldrectoryhastings/
-newsletter: >
+newsletter: >+
   <h4>Signup for news, special deals &amp; more</h4>
 
   <input type="text" placeholder="Enter your email address">
@@ -38,7 +38,6 @@ newsletter: >
     </label>
     <input type="text" name="b_54f162aeb1a7b8cc93d4e2f5a_15ec6e1eec" tabindex="-1" value="" style="position: absolute; left: -5000px;" aria-hidden="true">
     <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button cta" value="Subscribe">
-    <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button cta" value="Subscribe">
   </form>
 
   <div id="mce-responses" class="clear foot">
@@ -47,6 +46,7 @@ newsletter: >
   </div>
 
   <script type="text/javascript" src="https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='MMERGE3';ftypes[3]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>
+
 certimage: /assets/img/michelin-2024.png
 copyright: "&copy; The Old Rectory. All rights reserved."
 url: https://maps.app.goo.gl/ZUKK95RXDoqBGPN6A
