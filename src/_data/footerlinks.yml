@@ -23,6 +23,15 @@ socials:
 newsletter: >
   <h4>Signup for news, special deals &amp; more</h4>
 
+  <input type="text" placeholder="Enter your email address">
+
+  <button>Subscribe</button>
+
+
+
+
+  <h4>Signup for news, special deals &amp; more</h4>
+
 
   <div id="mc_embed_shell">
 
