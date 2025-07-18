@@ -1182,6 +1182,16 @@ header h1 {
   flex-wrap: wrap;
   justify-content: center;
   column-gap: 1rem;
+  position: relative;
+}
+
+.newsletter form {
+  display: flex;
+  position: relative;
+  margin-top: 40px;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;  
 }
 
 .newsletter h4 {
@@ -1190,6 +1200,16 @@ header h1 {
 
 .newsletter input, .newsletter button {
   flex-basis: clamp(4em, 30%, 12em);
+}
+
+.newsletter input[type="submit"] {
+  margin: 0;
+}
+
+.newsletter label {
+  position: absolute;
+  top: -30px;
+  left: 0;
 }
 
 input {
