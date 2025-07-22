@@ -1199,7 +1199,8 @@ header h1 {
 }
 
 .newsletter input, .newsletter button {
-  flex-basis: clamp(4em, 30%, 12em);
+  /* flex-basis: clamp(4em, 30%, 12em); */
+  width: 100%;
 }
 
 .newsletter input[type="submit"] {
