@@ -1184,7 +1184,7 @@ header h1 {
   column-gap: 1rem;
   position: relative;
 }
-
+/* 
 .newsletter form {
   display: flex;
   position: relative;
@@ -1192,10 +1192,15 @@ header h1 {
   gap: 1rem;
   flex-wrap: wrap;
   justify-content: center;  
-}
+} */
 
 .newsletter h4 {
   flex-basis: 100%;
+}
+
+#mc-embedded-subscribe.cta {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 .newsletter input, .newsletter button {
@@ -1206,12 +1211,12 @@ header h1 {
 .newsletter input[type="submit"] {
   margin: 0;
 }
-
+/* 
 .newsletter label {
   position: absolute;
   top: -30px;
   left: 0;
-}
+} */
 
 input {
   background: var(--blue-tint);
