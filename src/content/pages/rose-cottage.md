@@ -9,7 +9,7 @@ gallery:
   - image: /assets/img/rose-cottage-5.jpg
   - image: /assets/img/rose-cottage-6.jpg
 hide: false
-order: 50
+order: 20
 template:
   - Panel Image Background
 ---
