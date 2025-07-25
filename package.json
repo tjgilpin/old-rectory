@@ -24,6 +24,6 @@
     "resend": "^4.7.0"
   },
   "devDependencies": {
-    "wrangler": "^4.4.0"
+    "wrangler": "^4.26.0"
   }
 }

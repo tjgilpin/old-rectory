@@ -223,7 +223,14 @@
       const form = document.getElementById('contact-form');
       form.addEventListener('submit', function(event) {
         event.preventDefault();
-        form.submit();
+
+        let formSubmitted = false;
+        function submitForm() {
+          if (!formSubmitted) {
+            formSubmitted = true;
+            form.submit();
+          }
+        }
       });
 
 
