@@ -223,23 +223,7 @@
       const form = document.getElementById('contact-form');
       form.addEventListener('submit', function(event) {
         event.preventDefault();
-
-        // Creates a timeout to call submitForm after one second in case gtag doesn't load.
-        setTimeout(submitForm, 1000);
-
-        // Monitors whether or not the form has been submitted.
-        // This prevents the form from being submitted twice in cases
-        // where the event callback function fires normally.
-        let formSubmitted = false;
-
-        function submitForm() {
-          if (!formSubmitted) {
-            formSubmitted = true;
-            form.submit();
-          }
-        }
-
-        // Send to GA and resubmit the form once the hit is done.
+        form.submit();
       });
 
 
