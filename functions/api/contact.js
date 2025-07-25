@@ -23,7 +23,7 @@ export async function onRequestPost(context) {
     const honeypot = output["contact-name"];
     // Return early with pretend confirmation if bot hit honeypot
     if (honeypot !== "") {
-      return Response.redirect("https://theoldrectoryhastings.co.uk/thank-you", 303);
+      return Response.redirect("https://dev.theoldrectoryhastings.co.uk/thank-you", 303);
     }
     // Using text instead of email so that I don't need to sanitize it
     const resend = new Resend(context.env.RESEND_API_KEY);
@@ -36,11 +36,11 @@ export async function onRequestPost(context) {
     });
     console.log({ data, error });
     if (error) {
-      return Response.redirect("https://theoldrectoryhastings.co.uk/404", 303);
+      return Response.redirect("https://dev.theoldrectoryhastings.co.uk/404", 303);
     } else {
-      return Response.redirect("https://theoldrectoryhastings.co.uk/thank-you", 303);
+      return Response.redirect("https://dev.theoldrectoryhastings.co.uk/thank-you", 303);
     }
   } catch (err) {
-    return Response.redirect("https://theoldrectoryhastings.co.uk/404?error=json_parsing", 303);
+    return Response.redirect("https://dev.theoldrectoryhastings.co.uk/404?error=json_parsing", 303);
   }
 }
