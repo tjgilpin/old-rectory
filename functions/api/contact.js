@@ -1,7 +1,6 @@
 /**
- * POST functions/api/contact
+ * POST /api/submit-contact-form
  */
-import { Resend } from "resend";
 export async function onRequestPost(context) {
   try {
     let input = await context.request.formData();
@@ -16,31 +15,13 @@ export async function onRequestPost(context) {
         output[key] = [].concat(tmp, value);
       }
     }
-    // output: {
-    //   name: 'Jane Doe',
-    //   email: 'jane@doe.com',
-    //   message: 'this is my message'
-    const honeypot = output["contact-name"];
-    // Return early with pretend confirmation if bot hit honeypot
-    if (honeypot !== "") {
-      return Response.redirect("https://dev.theoldrectoryhastings.co.uk/thank-you", 303);
-    }
-    // Using text instead of email so that I don't need to sanitize it
-    const resend = new Resend(context.env.RESEND_API_KEY);
-    const { data, error } = await resend.emails.send({
-      from: context.env.SENDER_EMAIL,
-      reply_to: output.email,
-      to: context.env.RECIPIENT_EMAIL,
-      subject: `[THE OLD RECTORY] Contact form submission from ${output.name}`,
-      text: output.message,
+    let pretty = JSON.stringify(output, null, 2);
+    return new Response(pretty, {
+      headers: {
+        'Content-Type': 'application/json;charset=utf-8',
+      },
     });
-    console.log({ data, error });
-    if (error) {
-      return Response.redirect("https://dev.theoldrectoryhastings.co.uk/404", 303);
-    } else {
-      return Response.redirect("https://dev.theoldrectoryhastings.co.uk/thank-you", 303);
-    }
   } catch (err) {
-    return Response.redirect("https://dev.theoldrectoryhastings.co.uk/404?error=json_parsing", 303);
+    return new Response('Error parsing JSON content', { status: 400 });
   }
 }
