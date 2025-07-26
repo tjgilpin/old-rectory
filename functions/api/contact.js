@@ -31,7 +31,7 @@ export async function onRequestPost(context) {
       from: context.env.SENDER_EMAIL,
       reply_to: output.email,
       to: context.env.RECIPIENT_EMAIL,
-      subject: `[THE OLD RECTORY] Contact form submission from ${output.name}: ${output.subject}`,
+      subject: `[THE OLD RECTORY] Contact form submission from ${output.name}`,
       text: output.message,
     });
     console.log({ data, error });
