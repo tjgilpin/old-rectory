@@ -1292,7 +1292,7 @@ main {
 }
 
 /* contact form */
-
+/* 
 .contact-form {
   max-width: 600px;
   margin: 2rem auto;
@@ -1330,4 +1330,8 @@ main {
   font-size: 1rem;
   text-transform: uppercase;
   cursor: pointer;
+} */
+
+input[id="contact-name"] {
+  display: none;
 }
