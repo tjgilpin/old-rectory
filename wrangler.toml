@@ -1,0 +1,10 @@
+name = "old-rectory-worker"
+account_id = "f44092bb0038d24d28e786ed84ee1d4b"
+compatibility_date = "2025-07-26"
+
+[env.production]
+route = "dev.theoldrectoryhastings.co.uk/*"
+zone_id = "f44092bb0038d24d28e786ed84ee1d4b"
+
+[env.development]
+workers_dev = true
