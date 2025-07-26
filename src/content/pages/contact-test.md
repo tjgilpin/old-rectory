@@ -6,7 +6,7 @@ hide: true
 
 <section class="contact-form">
   <h1>Contact Us</h1>
-  <form class="form" name="contact" method="POST" id="contact-form" action="/functions/api/submit-contact-form">
+  <form class="form" name="contact" method="POST" id="contact-form" action="/api/submit-contact-form">
     <label for="name">Name</label>
     <input type="text" id="name" name="name" required>
     <input type="text" id="contact-name" name="contact-name">
