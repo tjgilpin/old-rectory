@@ -34,7 +34,7 @@ export async function onRequestPost(context) {
       reply_to: output.email,
       to: context.env.RECIPIENT_EMAIL,
       subject: `[Old Rectory] Contact form general enquiry from ${output.name} ${output.email}`,
-      text: output.message,
+      text: `Name: ${output.name}\r\n Email: ${output.email}\r\n ${output.phone ? `Phone: (${output.phone})` : ''}\r\n\r\n output.message`,
     });
     console.log({data, error});
     if (error) {
