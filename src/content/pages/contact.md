@@ -24,7 +24,8 @@ template: Panel Image Background
 
 The Old Rectory\
 Harold Road, Hastings\
-East Sussex, TN35 5ND
+East Sussex, TN35 5ND\
+[find us →](/find-us)
 
 ## General Enquiries
 
