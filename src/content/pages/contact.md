@@ -5,7 +5,7 @@ hide: true
 order: 10
 template: Panel Image Background
 ---
-Planning a stay, booking a treatment, or simply have a question? Just drop us a message below and we’ll get back to you shortly. We're always happy to help.
+Planning a stay, booking a treatment, or simply have a question? Please contact us directly or use the form below – we’ll be delighted to assist. We're always happy to help.
 
 ## Rooms
 
@@ -31,7 +31,7 @@ East Sussex, TN35 5ND\
 
 ## General Enquiries
 
-Fields marked with <span class="asterisk">*</span> are required.
+*Fields marked with* <span class="asterisk">*</span> *are required*
 
 <section class="contact-form">
   <form class="form" name="contact" method="POST" id="contact-form" action="/api/submit-contact-form">
