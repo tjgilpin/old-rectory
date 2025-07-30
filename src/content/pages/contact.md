@@ -5,7 +5,7 @@ hide: true
 order: 10
 template: Panel Image Background
 ---
-Planning a stay, booking a treatment, or simply have a question? Please contact us directly or use the form below – we’ll be delighted to assist. We're always happy to help.
+Planning a stay, arranging a wedding, booking a treatment, or simply have a question? Please contact us directly or use the form below – we’ll be delighted to assist. We're always happy to help.
 
 ## Rooms
 
@@ -22,7 +22,7 @@ Call us on [07827 811 011](tel:07827811011) or email [treatmentrooms@theoldrecto
 ## Address
 
 The Old Rectory\
-Harold Road, Hastings\
+2 Harold Road, Hastings\
 East Sussex, TN35 5ND\
 [find us →](/find-us)
 
