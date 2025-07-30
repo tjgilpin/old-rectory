@@ -9,18 +9,15 @@ Planning a stay, booking a treatment, or simply have a question? Please contact 
 
 ## Rooms
 
-Call us on [01424 422410](tel:01424422410) or\
-email [info@theoldrectoryhastings.co.uk](mailto:info@theoldrectoryhastings.co.uk?subject=Rooms)
+Call us on [01424 422410](tel:01424422410) or email [info@theoldrectoryhastings.co.uk](mailto:info@theoldrectoryhastings.co.uk?subject=Rooms)
 
 ## Weddings & Events
 
-Call us on [01424 422410](tel:01424422410) or\
-email [natalie@theoldrectoryhastings.co.uk](mailto:natalie@theoldrectoryhastings.co.uk)
+Call us on [01424 422410](tel:01424422410) or email [natalie@theoldrectoryhastings.co.uk](mailto:natalie@theoldrectoryhastings.co.uk)
 
 ## Treatment Rooms
 
-Call us on [07827 811011](tel:07827811011) or\
-email [treatmentrooms@theoldrectoryhastings.co.uk](mailto:treatmentrooms@theoldrectoryhastings.co.uk)
+Call us on [07827 811011](tel:07827811011) or email [treatmentrooms@theoldrectoryhastings.co.uk](mailto:treatmentrooms@theoldrectoryhastings.co.uk)
 
 ## Address
 
@@ -31,7 +28,7 @@ East Sussex, TN35 5ND\
 
 ## General Enquiries
 
-*Fields marked with* <span class="asterisk">*</span> *are required*
+*Fields marked with* <span class="asterisk">*</span>* are required*
 
 <section class="contact-form">
   <form class="form" name="contact" method="POST" id="contact-form" action="/api/submit-contact-form">
