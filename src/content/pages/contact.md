@@ -28,7 +28,7 @@ East Sussex, TN35 5ND\
 
 ## General Enquiries
 
-*Fields marked with* <span class="asterisk">*</span>* are required*
+*Fields marked with* <span class="asterisk">*</span> *are required*
 
 <section class="contact-form">
   <form class="form" name="contact" method="POST" id="contact-form" action="/api/submit-contact-form">
