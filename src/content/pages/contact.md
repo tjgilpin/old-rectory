@@ -5,25 +5,28 @@ hide: true
 order: 10
 template: Panel Image Background
 ---
-### For Rooms
+## Rooms
 
 [01424 422410](tel:01424422410)\
 [info@theoldrectoryhastings.co.uk](mailto:info@theoldrectoryhastings.co.uk?subject=Rooms)
 
-### For Weddings & Events
+## Weddings & Events
 
 [01424 422410](tel:01424422410)\
 [natalie@theoldrectoryhastings.co.uk](mailto:natalie@theoldrectoryhastings.co.uk)
 
-### For the Treatment Rooms
+## Treatment Rooms
 
 [07827 811011](tel:07827811011)\
 [treatmentrooms@theoldrectoryhastings.co.uk](mailto:treatmentrooms@theoldrectoryhastings.co.uk)
+
+## Address
 
 The Old Rectory\
 Harold Road, Hastings\
 East Sussex, TN35 5ND
 
+## General Enquiries
 
 <section class="contact-form">
   <form class="form" name="contact" method="POST" id="contact-form" action="/api/submit-contact-form">
