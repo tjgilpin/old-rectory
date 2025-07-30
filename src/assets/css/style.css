@@ -19,6 +19,7 @@
   --spacing-largest: 0.1em;
   --shadow-medium: 1px 1px 8px rgba(0,0,0,0.35);
   --shadow-heavy: 1px 1px 32px rgba(0,0,0,0.85), 1px 1px 48px rgba(0,0,0,0.35);  
+  --error: rgb(255,0,0);
 }
 
 *, *:before, *:after {
@@ -51,7 +52,7 @@ body {
   font-family: "Century Gothic", CenturyGothic, AppleGothic, Futura, sans-serif; 
   font-size: 1rem;
   line-height: 1.8;
-  letter-spacing: var(--spacing-large);
+  letter-spacing: var(--spacing-medium);
   background: var(--light);
   color: var(--blue);
 }
@@ -646,6 +647,7 @@ h1, h2 {
 
 main p, main ul {
   font-size: var(--font-resp-medium);
+  word-break: break-word;
 }
 
 footer p, footer li {
@@ -1187,6 +1189,7 @@ header h1 {
   justify-content: center;
   column-gap: 1rem;
   position: relative;
+  text-align: center;
 }
 /* 
 .newsletter form {
@@ -1222,11 +1225,21 @@ header h1 {
   left: 0;
 } */
 
-input {
+input, textarea {
   background: var(--blue-tint);
   border: 0;
-  padding: 1em;
-  font-family: "Century Gothic", CenturyGothic, AppleGothic, Futura, sans-serif;   
+  padding: 0.75em;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, Futura, sans-serif;
+  width: min(25rem, 100%);
+}
+
+.asterisk {
+  color: var(--error);
+}
+
+label {
+  margin-top: 1em;
+  display: inline-block;
 }
 
 button {
