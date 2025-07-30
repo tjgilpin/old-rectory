@@ -29,16 +29,18 @@ East Sussex, TN35 5ND\
 
 ## General Enquiries
 
+Fields marked with <span class="asterisk">*</span> are required.
+
 <section class="contact-form">
   <form class="form" name="contact" method="POST" id="contact-form" action="/api/submit-contact-form">
-    <label for="name">Name *</label>
+    <label for="name">Name<span class="asterisk">*</span></label>
     <input type="text" id="name" name="name" required>
     <input type="text" id="contact-name" name="contact-name">
-    <label for="email">Email *</label>
+    <label for="email">Email<span class="asterisk">*</span></label>
     <input type="email" id="email" name="email" required />
     <label for="phone">Phone</label>
     <input type="tel" id="phone" name="phone" />
-    <label for="message">Message *</label>
+    <label for="message">Message<span class="asterisk">*</span></label>
     <textarea id="message" name="message" rows="5" required></textarea>
     <button type="submit" class="cta">Send</button>
   </form>
