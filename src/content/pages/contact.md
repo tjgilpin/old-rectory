@@ -5,20 +5,22 @@ hide: true
 order: 10
 template: Panel Image Background
 ---
+Planning a stay, booking a treatment, or simply have a question? Just drop us a message below and we’ll get back to you shortly. We're always happy to help.
+
 ## Rooms
 
-[01424 422410](tel:01424422410)\
-[info@theoldrectoryhastings.co.uk](mailto:info@theoldrectoryhastings.co.uk?subject=Rooms)
+Call us on [01424 422410](tel:01424422410) or\
+email [info@theoldrectoryhastings.co.uk](mailto:info@theoldrectoryhastings.co.uk?subject=Rooms)
 
 ## Weddings & Events
 
-[01424 422410](tel:01424422410)\
-[natalie@theoldrectoryhastings.co.uk](mailto:natalie@theoldrectoryhastings.co.uk)
+Call us on [01424 422410](tel:01424422410) or\
+email [natalie@theoldrectoryhastings.co.uk](mailto:natalie@theoldrectoryhastings.co.uk)
 
 ## Treatment Rooms
 
-[07827 811011](tel:07827811011)\
-[treatmentrooms@theoldrectoryhastings.co.uk](mailto:treatmentrooms@theoldrectoryhastings.co.uk)
+Call us on [07827 811011](tel:07827811011) or\
+email [treatmentrooms@theoldrectoryhastings.co.uk](mailto:treatmentrooms@theoldrectoryhastings.co.uk)
 
 ## Address
 
