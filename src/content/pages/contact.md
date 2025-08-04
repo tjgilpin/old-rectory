@@ -19,16 +19,9 @@ Call us on [01424 422 410](tel:01424422410) or email [natalie@theoldrectoryhasti
 
 Call us on [07827 811 011](tel:07827811011) or email [treatmentrooms@theoldrectoryhastings.co.uk](mailto:treatmentrooms@theoldrectoryhastings.co.uk)
 
-## Address
-
-The Old Rectory\
-2 Harold Road, Hastings\
-East Sussex, TN35 5ND\
-[find us →](/find-us)
-
 ## General Enquiries
 
-*Fields marked with* <span class="asterisk">*</span> *are required*
+*Fields marked with* <span class="asterisk">*</span>* are required*
 
 <section class="contact-form">
   <form class="form" name="contact" method="POST" id="contact-form" action="/api/submit-contact-form">
@@ -44,3 +37,10 @@ East Sussex, TN35 5ND\
     <button type="submit" class="cta">Send</button>
   </form>
 </section>
+
+## Address
+
+The Old Rectory
+2 Harold Road, Hastings
+East Sussex, TN35 5ND
+[find us →](<>)
