@@ -1,7 +1,6 @@
 ---
 type: page
 title: Find Us
-headerimage: ""
 sections: []
 hide: true
 order: 10
