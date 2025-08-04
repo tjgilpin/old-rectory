@@ -40,7 +40,7 @@ Call us on [07827 811 011](tel:07827811011) or email [treatmentrooms@theoldrecto
 
 ## Address
 
-The Old Rectory
-2 Harold Road, Hastings
-East Sussex, TN35 5ND
+The Old Rectory  
+2 Harold Road, Hastings  
+East Sussex, TN35 5ND  
 [find us →](<>)
