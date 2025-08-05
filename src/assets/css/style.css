@@ -318,6 +318,10 @@ behold-widget {
   justify-content: center;
 }
 
+.secondary li {
+  line-height: 2;
+}
+
 footer ul {
   column-gap: 1rem;
 }
