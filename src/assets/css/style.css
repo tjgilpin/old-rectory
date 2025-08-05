@@ -1352,3 +1352,7 @@ main {
 input[id="contact-name"] {
   display: none;
 }
+
+.page_find-us .section-panel {
+  grid-column: -1/1;
+}
