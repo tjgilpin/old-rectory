@@ -4,7 +4,7 @@ title: Find Us
 sections:
   - sectionimage: /assets/img/find-us-map.jpg
     url: https://maps.app.goo.gl/15JqmSQ38KjVxnjaA
-    body: "[](https://maps.app.goo.gl/15JqmSQ38KjVxnjaA)"
+    body: ""
 hide: true
 order: 10
 template: Panel Stacked
