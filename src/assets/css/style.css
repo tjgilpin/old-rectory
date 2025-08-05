@@ -1360,3 +1360,7 @@ input[id="contact-name"] {
 .page_find-us .section-panel {
   grid-column: -1/1;
 }
+
+.page_find-us .page_copy {
+  grid-row: 11;
+}
