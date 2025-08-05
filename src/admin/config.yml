@@ -21,11 +21,11 @@ collections:
             name: sections
             widget: list
             fields:
-              - { label: Section Title, name: title, widget: string }            
-              - { label: URL, name: url, widget: string }
-              - { label: "Section Image", name: sectionimage, widget: image }              
-              - { label: Content, name: body, widget: markdown }
-              - { label: "Link Text", name: "cta", widget: string }
+              - { label: Section Title, name: title, widget: string, required: false }            
+              - { label: Section Image, name: sectionimage, widget: image }              
+              - { label: Content, name: body, widget: markdown, required: false }
+              - { label: URL, name: url, widget: string, required: false }
+              - { label: Link Text, name: cta, widget: string, required: false }
   # Pages Collection (Folder-Based)
   - name: "pages"
     label: "Pages"
@@ -42,11 +42,11 @@ collections:
         widget: list
         required: false
         fields:
-          - { label: Section Title, name: title, widget: string }            
-          - { label: "Section Image", name: sectionimage, widget: image }              
-          - { label: Content, name: body, widget: markdown }
+          - { label: Section Title, name: title, widget: string, required: false }            
+          - { label: Section Image, name: sectionimage, widget: image }              
+          - { label: Content, name: body, widget: markdown, required: false }
           - { label: URL, name: url, widget: string, required: false }
-          - { label: "Link Text", name: "cta", widget: string, required: false }
+          - { label: Link Text, name: cta, widget: string, required: false }
       - label: Gallery Images
         name: gallery
         widget: list
