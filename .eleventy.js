@@ -2,6 +2,7 @@ import eleventyNavigationPlugin from "@11ty/eleventy-navigation";
 import yaml from "js-yaml";
 import markdownIt from "markdown-it";
 import markdownItAttrs from "markdown-it-attrs";
+import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 
 
 export default async function(eleventyConfig) {
@@ -27,6 +28,23 @@ export default async function(eleventyConfig) {
     if (!content) return "";
     return markdownRenderer.render(content);
   });
+
+  eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+		// output image formats
+		formats: ["avif", "webp", "jpeg"],
+
+		// output image widths
+		widths: ["auto"],
+		// optional, attributes assigned on <img> nodes override these values
+		htmlOptions: {
+			imgAttributes: {
+				loading: "lazy",
+				decoding: "async",
+        sizes: "auto",
+			},
+			pictureAttributes: {}
+		},
+	});
 };
 
 export const config = {
