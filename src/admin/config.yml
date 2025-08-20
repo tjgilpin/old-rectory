@@ -128,7 +128,6 @@ collections:
         name: footerlinks
         file: "src/_data/footerlinks.yml"
         fields:
-          - { label: Footer Logo, name: logo, widget: image, allow_multiple: false }
           - { label: Address, name: address, widget: markdown }
           - label: Secondary Links
             name: secondary
