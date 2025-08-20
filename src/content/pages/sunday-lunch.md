@@ -3,6 +3,10 @@ type: subpage
 parent_page: Food & Drink
 title: Sunday Lunch
 headerimage: /assets/img/29-dsc06565.jpg
+gallery:
+  - image: /assets/img/lunch-main.jpg
+  - image: /assets/img/lunch-starter.jpg
+  - image: /assets/img/lunch-dessert.jpg
 url: mailto:natalie@theoldrectoryhastings.co.uk
 cta: Book Sunday Lunch
 hide: true
