@@ -143,7 +143,7 @@ body > header img {
 
 .michelin {
   transform: rotate(4deg);
-  max-height: 90px;
+  max-width: 90px;
   position: absolute;
   right: 0;
   bottom: -1.5rem;
@@ -307,7 +307,7 @@ nav ul li a {
 }
 
 .certification img {
-  max-height: 65px;
+  max-width: 65px;
 }
 
 behold-widget {
