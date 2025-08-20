@@ -3,6 +3,10 @@ type: subpage
 parent_page: Food & Drink
 title: Seasonal Events
 headerimage: /assets/img/10-dsc06655.jpg
+gallery:
+  - image: /assets/img/seasonal-xmas.jpg
+  - image: /assets/img/seasonal-tomatoes.jpg
+  - image: /assets/img/seasonal-hot-dog.jpg
 url: ""
 cta: ""
 hide: true
