@@ -3,6 +3,10 @@ type: subpage
 parent_page: Food & Drink
 title: Teas
 headerimage: /assets/img/dsc05433.jpg
+gallery:
+  - image: /assets/img/teas-platter.jpg
+  - image: /assets/img/teas-cake.jpg
+  - image: /assets/img/teas-seating.jpg
 url: mailto:natalie@theoldrectoryhastings.co.uk
 cta: Book Tea Now
 hide: true
