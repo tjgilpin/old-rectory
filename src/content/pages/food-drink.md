@@ -35,4 +35,3 @@ hide: false
 order: 30
 template: Panel Image Background
 ---
-Food & Drink overall blurb?
