@@ -7,8 +7,8 @@ gallery:
   - image: /assets/img/725-_h1a6735-1910.jpg
   - image: /assets/img/87-_h1a5245-1234.jpg
   - image: /assets/img/our-wedding-day-456.jpg
-url: /
-cta: Link text
+url: ""
+cta: ""
 hide: true
 ---
 Say “I do” in the romantic setting of The Rectory’s beautifully manicured garden, available exclusively for your ceremony. Perfect for intimate gatherings, our Garden Wedding Ceremony package accommodates up to 78 guests, plus the couple, offering an elegant and relaxed outdoor celebration.
