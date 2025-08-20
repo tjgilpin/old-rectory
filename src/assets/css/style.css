@@ -645,6 +645,14 @@ h1, h2 {
   text-wrap: unset;  
 }
 
+.content_text p:first-of-type {
+  margin-top: 0;
+}
+
+.content_text h2:first-of-type {
+  margin-top: 1rem;
+}
+
 .subpage h2 {
   text-align: center;
 }
