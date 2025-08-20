@@ -3,6 +3,10 @@ type: subpage
 parent_page: Food & Drink
 title: Breakfast
 headerimage: /assets/img/old-rectory-krp006.jpg
+gallery:
+  - image: /assets/img/breakfast-meal.jpg
+  - image: /assets/img/breakfast-table.jpg
+  - image: /assets/img/breakfast-room.jpg
 url: mailto:natalie@theoldrectoryhastings.co.uk
 cta: Book Breakfast Now
 hide: true
