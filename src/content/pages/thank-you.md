@@ -1,7 +1,7 @@
 ---
 type: page
 title: Thank You
-hide: false
+hide: true
 order: 10
 template:
   - Panel Image Background
