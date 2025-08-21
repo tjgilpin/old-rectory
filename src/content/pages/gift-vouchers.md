@@ -1,7 +1,7 @@
 ---
 type: subpage
 parent_page: Treatment Rooms
-title: Gift Vouchers
+title: Treatment Gift Vouchers
 headerimage: /assets/img/treatment-rooms-vouchers-1600x900.jpg
 gallery:
   - image: /assets/img/treatment-rooms-vouchers-1600x900-1.jpg
