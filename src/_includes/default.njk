@@ -19,6 +19,9 @@
     <meta property="og:image:height" content="{{ settings.imageHeight }}">
     <meta property="og:image:alt" content="{{ settings.imageAlt }}">
     <link rel="stylesheet" href="/assets/css/style.css">
+    {% if title == 'Gift Vouchers'  %}
+    <script defer="defer" type="text/javascript" src="https://admin.one-tree.net/embed-3b673399cf.js"></script>    
+    {% endif %}
   </head>
   <body class="page_{{ title | slugify }}{% if type == 'page' %} page{% endif %}{% if parent_page %} subpage subpage_{{ parent_page | slugify }}{% endif %}  {% if gallery %}page_gallery{% endif %} {% if template %}template_{{ template | slugify }}{% endif %}">
     <header>
