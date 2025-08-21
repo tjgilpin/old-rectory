@@ -47,7 +47,7 @@
       <header>
         <img src="{{ headerimage | default(home.headerimage) }}" alt="{{ title }}" class="hero" />
         {% if title == 'Home'  %}
-          <img src="{{ home.headerlogo }}" alt="The Old Rectory Logo" class="logo">
+          <img eleventy:ignore src="{{ home.headerlogo }}" alt="The Old Rectory Logo" class="logo">
         {% else %}
         <h1>
           {{ title }}
