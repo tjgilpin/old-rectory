@@ -2,6 +2,8 @@ import eleventyNavigationPlugin from "@11ty/eleventy-navigation";
 import yaml from "js-yaml";
 import markdownIt from "markdown-it";
 import markdownItAttrs from "markdown-it-attrs";
+import path from "node:path";
+import fs from "node:fs";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 
 
@@ -30,6 +32,8 @@ export default async function(eleventyConfig) {
   });
 
   eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+    urlPath: "/img/built/",
+		outputDir: ".cache/@11ty/img/",
 		// output image formats
 		formats: ["avif", "webp", "jpeg"],
 		// output image widths
@@ -43,6 +47,11 @@ export default async function(eleventyConfig) {
 			},
 			pictureAttributes: {}
 		},
+	});
+  eleventyConfig.on("eleventy.after", () => {
+		fs.cpSync(".cache/@11ty/img/", path.join(eleventyConfig.directories.output, "/img/built/"), {
+			recursive: true
+		});
 	});
 };
 
