@@ -1,6 +1,6 @@
 ---
 type: subpage
-parent_page: Our Rooms
+parent_page: rooms
 title: Cobourg
 headerimage: /assets/img/or-24th-may-by-georgina-piper-63.jpg
 gallery:
