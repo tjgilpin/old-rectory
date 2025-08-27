@@ -1,6 +1,7 @@
 ---
 type: page
 title: Rose Cottage
+slug: rose-cottage
 gallery:
   - image: /assets/img/rose-cottage-1.jpg
   - image: /assets/img/rose-cottage-2.jpg
