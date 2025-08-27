@@ -1,6 +1,7 @@
 ---
 type: page
 title: Thank You
+slug: thank-you
 hide: true
 order: 10
 template:
