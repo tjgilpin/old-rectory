@@ -1,6 +1,6 @@
 ---
 type: subpage
-parent_page: Treatment Rooms
+parent_page: treatment-rooms
 title: Packages
 headerimage: /assets/img/treatment-rooms-packages-1600x900.jpg
 gallery:
