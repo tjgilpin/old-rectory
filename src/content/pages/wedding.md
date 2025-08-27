@@ -1,6 +1,7 @@
 ---
 type: page
 title: Weddings
+slug: weddings
 headerimage: /assets/img/weddings-1600x900.jpg
 sections:
   - title: Wedding Ceremony
