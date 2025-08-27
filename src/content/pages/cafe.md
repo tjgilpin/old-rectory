@@ -1,7 +1,7 @@
 ---
 type: page
 title: Café
-slug: /cafe-slug/
+slug: /cafe/
 headerimage: /assets/img/hero-cafe-room-dont-use.jpg
 gallery:
   - image: /assets/img/dsc01042.jpg
