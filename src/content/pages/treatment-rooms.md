@@ -1,6 +1,7 @@
 ---
 type: page
 title: Treatment Rooms
+slug: treatment-rooms
 headerimage: /assets/img/treatment-rooms-header-1600x900.jpg
 sections:
   - title: Gift Vouchers
