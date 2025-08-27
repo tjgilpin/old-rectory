@@ -1,6 +1,7 @@
 ---
 type: page
 title: Terms and Conditions
+slug: terms
 hide: true
 order: 10
 template: Panel Image Background
