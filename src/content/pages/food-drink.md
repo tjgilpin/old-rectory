@@ -1,6 +1,7 @@
 ---
 type: page
 title: Food & Drink
+slug: /food-drink/
 headerimage: /assets/img/hero-image-food-drink.jpg
 sections:
   - title: Sunday Lunch
