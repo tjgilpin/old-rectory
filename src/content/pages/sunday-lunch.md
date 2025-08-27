@@ -1,6 +1,6 @@
 ---
 type: subpage
-parent_page: Food & Drink
+parent_page: /food-drink/
 title: Sunday Lunch
 headerimage: /assets/img/29-dsc06565.jpg
 gallery:
