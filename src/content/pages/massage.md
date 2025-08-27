@@ -1,6 +1,6 @@
 ---
 type: subpage
-parent_page: Treatment Rooms
+parent_page: treatment-rooms
 title: Massage
 headerimage: /assets/img/treatment-rooms-massage-1600x900.jpg
 gallery:
