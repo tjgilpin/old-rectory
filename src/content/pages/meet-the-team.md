@@ -1,6 +1,7 @@
 ---
 type: page
 title: Meet The Team
+slug: meet-the-team
 headerimage: /assets/img/meet-the-team-1600x900.jpg
 sections:
   - body: >-
