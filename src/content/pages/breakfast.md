@@ -1,6 +1,6 @@
 ---
 type: subpage
-parent_page: Food & Drink
+parent_page: /food-drink/
 title: Breakfast
 headerimage: /assets/img/old-rectory-krp006.jpg
 gallery:
