@@ -1,6 +1,6 @@
 ---
 type: subpage
-parent_page: Our Rooms
+parent_page: rooms
 title: Croft
 headerimage: /assets/img/5-dsc00271.jpg
 gallery:
