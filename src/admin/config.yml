@@ -31,10 +31,11 @@ collections:
     label: "Pages"
     folder: "src/content/pages"
     create: true  # Allow adding new pages
-    filter: {field: "type", value: "page"}    
+    filter: {field: "type", value: "page"} 
     fields:
       - { label: "Page Type", name: "type", widget: "select", options: ["page", "subpage"] }
       - { label: "Page Title", name: "title", widget: "string", required: true }
+      - { label: "Page Slug", name: "slug", widget: "string", required: true }
       - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
       - { label: "Content", name: "body", widget: "markdown", required: false }
       - label: Sections
@@ -80,6 +81,7 @@ collections:
           display_fields: ["title"]  # Display title in dropdown
         }
       - { label: "Page Title", name: "title", widget: "string", required: true }
+      - { label: "Page Slug", name: "slug", widget: "string", required: true }
       - { label: "Page Subheading", name: "subhead", widget: "string", required: false }
       - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true }
       - { label: "Content", name: "body", widget: "markdown", required: false }
