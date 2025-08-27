@@ -1,6 +1,7 @@
 ---
 type: page
 title: FAQs
+slug: /faqs/
 hide: true
 order: 10
 template: Panel Image Background
