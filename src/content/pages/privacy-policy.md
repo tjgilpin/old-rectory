@@ -1,6 +1,7 @@
 ---
 type: page
 title: Privacy Policy
+slug: privacy
 hide: true
 order: 10
 ---
