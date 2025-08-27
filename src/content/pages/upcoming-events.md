@@ -1,6 +1,7 @@
 ---
 type: page
 title: Upcoming Events
+slug: upcoming-events
 hide: false
 order: 120
 template:
