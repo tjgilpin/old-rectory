@@ -1,6 +1,7 @@
 ---
 type: page
 title: Our Rooms
+slug: rooms
 headerimage: /assets/img/our-rooms-hero.jpg
 sections:
   - title: Crown
