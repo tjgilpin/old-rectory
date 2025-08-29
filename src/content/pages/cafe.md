@@ -3,7 +3,6 @@ hide: false
 slug: /cafe/
 type: page
 title: Café
-pageslug: ""
 headerimage: /assets/img/hero-cafe-room-dont-use.jpg
 gallery:
   - image: /assets/img/dsc01042.jpg
