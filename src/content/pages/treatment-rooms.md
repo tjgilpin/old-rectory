@@ -1,13 +1,15 @@
 ---
 type: page
 title: Treatment Rooms
+gallery: []
+hide: false
 slug: treatment-rooms
 headerimage: /assets/img/treatment-rooms-header-1600x900.jpg
 sections:
   - title: Gift Vouchers
     sectionimage: /assets/img/treatment-rooms-vouchers-1600x900.jpg
     body: E-Voucher, Paper Voucher, Postal Voucher - A perfect gift for any occasion
-    url: gift-vouchers
+    url: treatment-gift-vouchers
     cta: Prices & Booking
   - title: Facials
     body: Treatments include Dermalogica Pro Skin Facials & Peels, Natural Rock Rose
@@ -53,8 +55,6 @@ sections:
       Bridal packages
     cta: Prices & Booking
     url: packages
-gallery: []
-hide: false
 order: 100
 template: Panel Image Background
 ---
