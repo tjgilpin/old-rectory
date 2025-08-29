@@ -1,10 +1,11 @@
 ---
 type: subpage
 parent_page: Our Rooms
+parent_slug: rooms
+title: Crown
 headerimage: /assets/img/our-rooms-hero.jpg
 hide: true
 order: 10
-title: Crown
 gallery:
   - image: /assets/img/our-rooms-crown-01.jpg
   - image: /assets/img/our-rooms-crown-02.jpg
