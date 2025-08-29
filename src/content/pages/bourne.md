@@ -2,7 +2,7 @@
 type: subpage
 parent_page: Our Rooms
 parent_slug: rooms
-title: Bourne
+title: Bourne Suite
 headerimage: /assets/img/bournesuite-krp-29.jpg
 gallery:
   - image: /assets/img/our-rooms-bourne-01.jpg
