@@ -6,7 +6,7 @@ export default function() {
       }
       if (data.type === 'subpage') {
         let slugParent =  data.parent_slug ?? data.parent_page;
-        let slugChild = data.pagesubslug ?? data.title;
+        let slugChild = data.subpageslug ?? data.title;
         slugParent = this.slugify(slugParent);
         slugChild = this.slugify(slugChild);
         let slug = `${slugParent}/${slugChild}`;

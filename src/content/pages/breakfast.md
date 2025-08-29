@@ -3,7 +3,6 @@ type: subpage
 parent_page: Food & Drink
 parent_slug: food-drink
 title: Breakfast
-subpageslug: ""
 headerimage: /assets/img/old-rectory-krp006.jpg
 gallery:
   - image: /assets/img/breakfast-meal.jpg
