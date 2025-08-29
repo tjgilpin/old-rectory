@@ -1,6 +1,7 @@
 ---
 type: subpage
 parent_page: Food & Drink
+parent_slug: food-drink
 title: Teas
 headerimage: /assets/img/dsc05433.jpg
 gallery:
