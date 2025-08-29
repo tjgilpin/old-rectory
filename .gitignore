@@ -3,3 +3,4 @@ _site
 .DS_Store
 .dev.vars
 .wrangler
+.cache
