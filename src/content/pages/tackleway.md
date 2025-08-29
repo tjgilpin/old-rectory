@@ -1,6 +1,7 @@
 ---
 type: subpage
 parent_page: Our Rooms
+parent_slug: rooms
 title: Tackleway
 headerimage: /assets/img/or-24th-may-by-georgina-piper-58.jpg
 gallery:
