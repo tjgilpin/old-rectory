@@ -1,6 +1,8 @@
 ---
 type: page
 title: Our Rooms
+pageslug: rooms
+hide: false
 slug: rooms
 headerimage: /assets/img/our-rooms-hero.jpg
 sections:
@@ -68,7 +70,6 @@ sections:
     url: croft
     cta: Click here to book
     sectionimage: /assets/img/5-dsc00271.jpg
-hide: false
 order: 10
 template: Panel Image Background
 ---
