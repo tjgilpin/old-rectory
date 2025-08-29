@@ -85,9 +85,9 @@ collections:
           name: "parent_slug", 
           widget: "relation",
           collection: "pages", 
-          value_field: "page_slug",  # Stores parent page name directly
-          search_fields: ["page_slug"],  # Searchable by title
-          display_fields: ["page_slug"],  # Display title in dropdown
+          value_field: "pageslug",  # Stores parent page name directly
+          search_fields: ["pageslug"],  # Searchable by title
+          display_fields: ["pageslug"],  # Display title in dropdown
           required: false
         }
       - { label: "Page Title", name: "title", widget: "string", required: true }
