@@ -1,6 +1,7 @@
 ---
 type: subpage
 parent_page: Our Rooms
+parent_slug: rooms
 title: Rock-a-Nore
 headerimage: /assets/img/rock-a-nore-room-by-georgina-piper-5.jpg
 gallery:
