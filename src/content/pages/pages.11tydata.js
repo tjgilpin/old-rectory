@@ -5,12 +5,11 @@ export default function() {
         return '/index.html'; // Home page
       }
       if (data.type === 'subpage') {
-        let slugParent =  data.pageslug ?? data.parent_page;
+        let slugParent =  data.parent_slug ?? data.parent_page;
         let slugChild = data.pagesubslug ?? data.title;
         slugParent = this.slugify(slugParent);
         slugChild = this.slugify(slugChild);
         let slug = `${slugParent}/${slugChild}`;
-        slug = this.slugify(slug);
         return `/${slug}/index.html`; // Default permalink
       } else {
         let slug = data.pageslug ?? data.title;
