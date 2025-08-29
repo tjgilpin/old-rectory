@@ -1,6 +1,7 @@
 ---
 type: subpage
 parent_page: Food & Drink
+parent_slug: food-drink
 title: Seasonal Events
 headerimage: /assets/img/10-dsc06655.jpg
 gallery:
