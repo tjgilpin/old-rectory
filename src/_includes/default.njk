@@ -25,7 +25,7 @@
   </head>
   <body class="page_{{ title | slugify }}{% if type == 'page' %} page{% endif %}{% if parent_page %} subpage subpage_{{ parent_page | slugify }}{% endif %}  {% if gallery %}page_gallery{% endif %} {% if template %}template_{{ template | slugify }}{% endif %}">
     <header>
-      <a href="/"><img src="{{ settings.logo }}" alt="{{ settings.name }}" /></a>
+      <a href="/"><img eleventy:ignore src="{{ settings.logo }}" alt="{{ settings.name }}" /></a>
       <nav aria-label="Main">
         <ul>
           {% for entry in collections.all | eleventyNavigation %}
