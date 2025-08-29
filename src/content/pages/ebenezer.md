@@ -1,6 +1,6 @@
 ---
 type: subpage
-parent_page: rooms
+parent_page: Our Rooms
 title: Ebenezer
 headerimage: /assets/img/30-dsc00357.jpg
 gallery:

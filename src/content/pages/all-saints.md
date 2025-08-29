@@ -1,6 +1,6 @@
 ---
 type: subpage
-parent_page: rooms
+parent_page: Our Rooms
 title: All Saints
 subhead: Perfect for two, three or four to share
 headerimage: /assets/img/37-dsc06751.jpg

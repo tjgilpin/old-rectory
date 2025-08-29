@@ -1,6 +1,6 @@
 ---
 type: subpage
-parent_page: treatment-rooms
+parent_page: Treatment Rooms
 title: Body Treatments
 headerimage: /assets/img/treatment-rooms-body-1600x900.jpg
 gallery:

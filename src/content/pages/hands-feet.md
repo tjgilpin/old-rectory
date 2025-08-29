@@ -1,6 +1,6 @@
 ---
 type: subpage
-parent_page: treatment-rooms
+parent_page: Treatment Rooms
 title: Hands & Feet
 slug: hands-feet
 headerimage: /assets/img/treatment-rooms-hands-1600x900.jpg

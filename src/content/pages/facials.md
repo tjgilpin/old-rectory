@@ -1,6 +1,6 @@
 ---
 type: subpage
-parent_page: treatment-rooms
+parent_page: Treatment Rooms
 title: Facials
 headerimage: /assets/img/treatement-rooms-facials-1200x720.jpg
 gallery:
