@@ -1,19 +1,22 @@
 export default function() {
   return {
     permalink: function (data) {
-      let slug = data.title
-      slug.replace("and-", "")
-      if (slug === 'Home') {
+      if (data.title === 'Home') {
         return '/index.html'; // Home page
       }
-      if (data.parent_page) {
-        const slugPage = this.slugify(data.parent_page);
-        const slugSub = this.slugify(data.title).replace("and-", "");
-        slug = `${slugPage}/${slugSub}`;
-      } else {
+      if (data.type === 'subpage') {
+        let slugParent =  data.pageslug ?? data.parent_page;
+        let slugChild = data.pagesubslug ?? data.title;
+        slugParent = this.slugify(slugParent);
+        slugChild = this.slugify(slugChild);
+        let slug = `${slugParent}/${slugChild}`;
         slug = this.slugify(slug);
+        return `/${slug}/index.html`; // Default permalink
+      } else {
+        let slug = data.pageslug ?? data.title;
+        slug = this.slugify(slug);
+        return `/${slug}/index.html`; // Default permalink
       }
-      return `/${slug}/index.html`; // Default permalink
     },
     eleventyComputed: {
       eleventyNavigation: data => {

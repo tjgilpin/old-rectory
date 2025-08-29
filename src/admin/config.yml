@@ -91,8 +91,8 @@ collections:
           required: false
         }
       - { label: "Page Title", name: "title", widget: "string", required: true }
-      - { label: "Page Subheading", name: "subhead", widget: "string", required: false }
       - { label: "Subpage Slug", name: "subpageslug", widget: "string", required: false }
+      - { label: "Page Subheading", name: "subhead", widget: "string", required: false }
       - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true }
       - { label: "Content", name: "body", widget: "markdown", required: false }
       - label: Gallery Images
