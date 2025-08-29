@@ -1,6 +1,7 @@
 ---
 type: subpage
 parent_page: Our Rooms
+parent_slug: rooms
 title: Sinnock
 headerimage: /assets/img/23-dsc00318.jpg
 gallery:
