@@ -2,6 +2,7 @@
 type: subpage
 parent_page: Treatment Rooms
 title: Waxing, Threading & Eyes
+subpageslug: waxing-threading-eyes
 headerimage: /assets/img/treatment-rooms-waxing-1600x900.jpg
 gallery:
   - image: /assets/img/treatment-rooms-waxing-1600x900-4.jpg
