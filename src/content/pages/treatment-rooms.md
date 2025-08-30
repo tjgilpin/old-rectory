@@ -25,8 +25,8 @@ sections:
     url: massage
   - title: Independent Therapists
     sectionimage: /assets/img/treatment-rooms-specialised-1600x900.jpg
-    body: The Sculpted Facial with Charlotte Connoley, Oriental Massage with Roldan
-      and Sports, Remedial & Postural therapies with Julie
+    body: The Sculpted Facial with Charlotte Connoley and Sports, Remedial &
+      Postural therapies with Julie Nixey
     cta: Prices & Booking
     url: independent-therapists
   - title: Body Treatments
