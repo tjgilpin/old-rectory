@@ -2,8 +2,7 @@
 type: subpage
 parent_page: Treatment Rooms
 title: Hands & Feet
-slug: hands-feet
-headerimage: /assets/img/treatment-rooms-hands-1600x900.jpg
+subpageslug: hands-feet
 gallery:
   - image: /assets/img/treatment-rooms-hands-1600x900-1.jpg
   - image: /assets/img/treatment-rooms-hands-1600x900-2.jpg
@@ -12,6 +11,8 @@ gallery:
 url: ""
 cta: ""
 hide: true
+slug: hands-feet
+headerimage: /assets/img/treatment-rooms-hands-1600x900.jpg
 template: Panel Image Background
 ---
 ### With No Polish
