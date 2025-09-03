@@ -1140,7 +1140,7 @@ header h1 {
 
 .newsletter {
   display: inline-flex;
-  flex-wrap: wrap;
+  flex-direction: column;
   justify-content: center;
   column-gap: 1rem;
   position: relative;
@@ -1163,6 +1163,7 @@ header h1 {
 #mc-embedded-subscribe.cta {
   padding-top: 1rem;
   padding-bottom: 1rem;
+  margin-top: 1em;
 }
 
 .newsletter input, .newsletter button {
