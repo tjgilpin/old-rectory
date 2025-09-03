@@ -33,13 +33,18 @@ html {
 }
 
 @font-face {
-  font-family: CenturyGothic;
-  src: url('/assets/fonts/CenturyGothic.ttf') format('ttf');
+  font-family: "CenturyGothic";
+  src: url('/assets/fonts/CenturyGothic.woff2') format('woff2'),
+       url('/assets/fonts/CenturyGothic.woff') format('woff'),
+       url('/assets/fonts/CenturyGothic.ttf') format('truetype');
+  font-weight: 400;
 }
 
 @font-face {
-  font-family: CenturyGothic;
-  src: url('/assets/fonts/CenturyGothicBold.ttf') format('ttf');
+  font-family: "CenturyGothic";
+  src: url('/assets/fonts/CenturyGothicBold.woff2') format('woff2'),
+       url('/assets/fonts/CenturyGothicBold.woff') format('woff'),
+       url('/assets/fonts/CenturyGothicBold.ttf') format('truetype');
   font-weight: 700;
 }
 
