@@ -64,13 +64,3 @@ Inspired by traditional Indian head massage, this treatment uses a combination o
 
 <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book Tension Release Head Massage</button></a>
 
-### Garden Massage
-
-Enjoy a relaxing massage in our beautiful walled garden. You'll be sheltered under the pergola, surrounded by the sounds and scents of nature. A serene treat for one, or two at the same time. **Subject to availability. Advance booking is essential.**
-
-* 45 mins **£65**
-* 60 mins **£80**
-* 75 mins **£95**
-* 90 mins **£110**
-
-<a href="tel:0782781101"><button>Call 0782781101 to Book</button></a>
