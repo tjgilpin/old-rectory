@@ -4,6 +4,9 @@ export default function() {
       if (data.title === 'Home') {
         return '/index.html'; // Home page
       }
+      if (data.title === 'Page Not Found') {
+        return '/404.html'; // 404
+      }      
       if (data.type === 'subpage') {
         let slugParent =  data.parent_slug ?? data.parent_page;
         let slugChild = data.subpageslug ?? data.title;
