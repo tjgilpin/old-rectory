@@ -8,8 +8,10 @@ gallery:
   - image: /assets/img/breakfast-meal.jpg
   - image: /assets/img/breakfast-table.jpg
   - image: /assets/img/breakfast-room.jpg
-url: mailto:natalie@theoldrectoryhastings.co.uk
-cta: Book Breakfast Now
+url: tel:01424422410
+cta: Call to Book Breakfast Now
+url_secondary: mailto:natalie@theoldrectoryhastings.co.uk
+cta_secondary: Email to Book Breakfast Now
 hide: true
 ---
 We make our own sausages for both meat-eaters and vegetarians alike, cure our own bacon, as well as making Rectory Baked Beans, Black Pudding, Hash Browns & so much more. Our kippers and smoked salmon are smoked in our in-house smokery. Served over two courses and accompanied by Rectory Toast which paired with our multi-award winning Marmalade. 
