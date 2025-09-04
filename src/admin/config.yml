@@ -103,6 +103,8 @@ collections:
           - { label: "Gallery Image", name: image, widget: image } 
       - { label: URL, name: url, widget: string, required: false }
       - { label: "Link Text", name: "cta", widget: string, required: false }
+      - { label: URL Secondary, name: url_secondary, widget: string, required: false }
+      - { label: "Link Secondary Text", name: "cta_secondary", widget: string, required: false }
       - { label: "Navigation Order", name: "hide", widget: "hidden", default: true }
       - label: "Template"
         name: "template"
