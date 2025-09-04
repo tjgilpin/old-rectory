@@ -8,8 +8,10 @@ gallery:
   - image: /assets/img/lunch-main.jpg
   - image: /assets/img/lunch-starter.jpg
   - image: /assets/img/lunch-dessert.jpg
-url: mailto:natalie@theoldrectoryhastings.co.uk
-cta: Book Sunday Lunch
+url: tel:01424422410
+cta: Call to Book Sunday Lunch
+url_secondary: mailto:natalie@theoldrectoryhastings.co.uk
+cta_secondary: Email to Book Sunday Lunch
 hide: true
 ---
 In keeping with our home-from-home, welcoming atmosphere Sunday Lunches at The Old Rectory are hosted in our hand-painted dining room and our cosy lounge. Served over two or three courses our dedication to traditional Sunday Lunch is reflected in our ever-changing menu and focus on seasonal, locally sourced produce. Enjoy a cocktail by the fire before taking your seat & catching up with family and friends.
