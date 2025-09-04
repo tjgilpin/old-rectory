@@ -8,8 +8,10 @@ gallery:
   - image: /assets/img/teas-platter.jpg
   - image: /assets/img/teas-cake.jpg
   - image: /assets/img/teas-seating.jpg
-url: mailto:natalie@theoldrectoryhastings.co.uk
-cta: Book Tea Now
+url: tel:01424422410
+cta: Call to Book Tea Now
+url_secondary: mailto:natalie@theoldrectoryhastings.co.uk
+cta_secondary: Email to Book Tea Now
 hide: true
 ---
 All of our Teas are served with loose leaf tea and cafetiere coffee. Prosecco, Champagne or English Sparkling wine can also be added; this can be pre-ordered as a welcoming surprise or on the day if the mood takes you! 
