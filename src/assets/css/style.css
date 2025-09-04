@@ -665,6 +665,10 @@ a {
   margin-left: 0.75em;
 }
 
+.cta + .cta {
+  margin-top: 0;
+}
+
 .subpage .cta {
   background: var(--white);
   color: var(--blue);

@@ -142,6 +142,11 @@
               {{ cta }}
             </a>
           {% endif %}
+          {% if cta_secondary and url_secondary %}
+            <a href="{{ url_secondary }}" class="cta">
+              {{ cta_secondary }}
+            </a>
+          {% endif %}          
         </div>
         {% if gallery %}
         <div class="content_gallery">
