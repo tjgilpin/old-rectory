@@ -18,7 +18,7 @@ All of our Teas are served with loose leaf tea and cafetiere coffee. Prosecco, C
 
 We ask that all teas are booked in advance to ensure we are properly prepared to host you; this can be done via email or over the phone. Groups of 6 or more may be asked to pay a small deposit ahead of their booking. 
 
-Our Teas are a great way to cater for small events such as Baby Showers, for more information email our events manager Natalie on natalie@theoldrectoryhastings.co.uk.
+Our Teas are a great way to cater for small events such as Baby Showers, for more information email info@theoldrectoryhastings.co.uk.
 
 ### Cream Tea
 
