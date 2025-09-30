@@ -52,7 +52,6 @@ body {
   display: grid;
   grid-template-rows: auto 1fr auto;
   margin: 0;
-  height: 100dvh;
   overflow-x: hidden;
   font-family: "Century Gothic", CenturyGothic, AppleGothic, Futura, sans-serif; 
   font-size: 1rem;
@@ -1324,4 +1323,21 @@ input[id="contact-name"] {
 
 .page_find-us .page_copy {
   grid-row: 11;
+}
+
+.notice {
+  background: #000;
+  color: #fff;
+  padding: 0.65em;
+  line-height: 1.5;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 0.9em;
+  position: sticky;
+  top: 0;
+  z-index: 20;
+}
+
+.notice p {
+  margin: 0;
 }
