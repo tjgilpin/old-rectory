@@ -132,7 +132,7 @@ collections:
           - { label: "Image width", name: "width", widget: "number", default: 1200 }          
           - { label: "Image height", name: "height", widget: "number", default: 630 }          
           - { label: "Image alt", name: "alt", widget: "string" }
-      - label: "Sitewide"
+      - label: "Sitewide Notice"
         name: "sitewide"
         file: "src/_data/notice.yaml"
         fields:
