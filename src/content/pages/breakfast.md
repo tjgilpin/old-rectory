@@ -10,7 +10,7 @@ gallery:
   - image: /assets/img/breakfast-room.jpg
 url: tel:01424422410
 cta: Call to Book Breakfast Now
-url_secondary: mailto:natalie@theoldrectoryhastings.co.uk
+url_secondary: mailto:info@theoldrectoryhastings.co.uk
 cta_secondary: Email to Book Breakfast Now
 hide: true
 ---
