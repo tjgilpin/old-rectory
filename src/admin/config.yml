@@ -1,9 +1,9 @@
 backend:
   name: github
   repo: tjgilpin/old-rectory  
-  branch: main
-  site_domain: https://theoldrectoryhastings.co.uk
-  base_url: https://theoldrectoryhastings.co.uk
+  branch: dev
+  site_domain: https://dev.old-rectory.pages.dev
+  base_url: https://dev.old-rectory.pages.dev
   auth_endpoint: /api/auth
 media_folder: src/assets/img
 public_folder: /assets/img
@@ -137,7 +137,7 @@ collections:
         file: "src/_data/notice.yaml"
         fields:
           - { label: "Notice", name: "notice", widget: "markdown" }
-          - { label: "Notice Show", name: "show", widget: "boolean", default: false, required: false }
+          - { label: "Show Notice", name: "show", widget: "boolean", default: false }
       - label: "Treatment Terms"
         name: "treatment"
         file: "src/_data/treatment.yaml"
