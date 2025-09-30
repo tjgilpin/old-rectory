@@ -2,8 +2,8 @@ backend:
   name: github
   repo: tjgilpin/old-rectory  
   branch: main
-  site_domain: https://dev.theoldrectoryhastings.co.uk
-  base_url: https://dev.theoldrectoryhastings.co.uk
+  site_domain: https://theoldrectoryhastings.co.uk
+  base_url: https://theoldrectoryhastings.co.uk
   auth_endpoint: /api/auth
 media_folder: src/assets/img
 public_folder: /assets/img
