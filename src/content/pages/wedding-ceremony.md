@@ -19,7 +19,7 @@ Your package includes:
 * **Delicious canapés** served to all guests
 * A celebratory **glass of Mountfield sparkling English win**e per guest
 * A **large pitcher** of sparkling elderflower cordial for non-drinkers
-* A **one-night stay in our luxurious Crown Room** for the newlyweds—choose either the night before or the night of your wedding
+* A 'getting ready room' available from 8.30am on the day
 
 **Pricing is tailored to your guest count**, ensuring a personalized experience for every couple.
 
