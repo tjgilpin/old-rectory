@@ -132,12 +132,18 @@ collections:
           - { label: "Image width", name: "width", widget: "number", default: 1200 }          
           - { label: "Image height", name: "height", widget: "number", default: 630 }          
           - { label: "Image alt", name: "alt", widget: "string" }
+      - label: "Sitewide"
+        name: "sitewide"
+        file: "src/_data/notice.yaml"
+        fields:
+          - { label: "Notice", name: "notice", widget: "markdown" }
+          - { label: "Notice Show", name: "show", widget: "boolean", default: false, required: false }
       - label: "Treatment Terms"
         name: "treatment"
         file: "src/_data/treatment.yaml"
         fields:
           - { label: "Terms", name: "terms", widget: "markdown" }
-          - { label: "Vouchers", name: "vouchers", widget: "markdown" }
+          - { label: "Vouchers", name: "vouchers", widget: "markdown" }          
       - label: Footer Content
         name: footerlinks
         file: "src/_data/footerlinks.yml"
