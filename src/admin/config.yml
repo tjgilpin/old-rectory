@@ -8,32 +8,12 @@ backend:
 media_folder: src/assets/img
 public_folder: /assets/img
 collections:
-  - label: "Home Pages"
-    name: "homepages"
-    files:
-      - label: "Home Page"
-        name: "home"
-        file: "src/_data/home.yml"
-        fields:
-          - {label: "Header Image", name: headerimage, widget: image}
-          - {label: "Header Logo", name: headerlogo, widget: image}            
-          - label: Sections
-            name: sections
-            widget: list
-            fields:
-              - { label: Section Title, name: title, widget: string, required: false }            
-              - { label: Section Image, name: sectionimage, widget: image }              
-              - { label: Content, name: body, widget: markdown, required: false }
-              - { label: URL, name: url, widget: string, required: false }
-              - { label: Link Text, name: cta, widget: string, required: false }
   # Pages Collection (Folder-Based)
   - name: "pages"
     label: "Pages"
     folder: "src/content/pages"
     create: true  # Allow adding new pages
-    filter: {field: "type", value: "page"}    
     fields:
-      - { label: "Page Type", name: "type", widget: "select", options: ["page", "subpage"] }
       - { label: "Page Title", name: "title", widget: "string", required: true }
       - { label: "Page Slug", name: "pageslug", widget: "string", required: false }
       - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
@@ -63,14 +43,12 @@ collections:
         options: ["Panel Image Background", "Panel Stacked"]
         default: ["Panel Image Background"]
         required: false
-  # Sub Pages Collection (Folder-Based)
-  - name: "subpages"
-    label: "Sub Pages"
-    folder: "src/content/pages"
+  # Wedding Pages Collection (Folder-Based)
+  - name: "wedding"
+    label: "Wedding Pages"
+    folder: "src/content/wedding"
     create: true  # Allow adding new sub pages
-    filter: {field: "type", value: "subpage"}    
     fields:
-      - { label: "Page Type", name: "type", widget: "select", options: ["page", "subpage"] }
       - { 
           label: "Parent Page", 
           name: "parent_page", 
