@@ -39,3 +39,13 @@ This powerful soft tissue treatment seeks to re-structure your body by releasing
 
 <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book Postural Realignment</button></a>
 
+\
+**Aesthetics with Lola**
+
+Lola is an Advanced Aesthetics Practitioner – Plasma & Skin Regeneration Specialist. Her goal is to rejuvenate and regenerate your skin, revealing a natural glow while maintaining results that are beautifully subtle and timeless. Each treatment is carefully tailored, blending advanced expertise with a gentle, welcoming approach to ensure you feel comfortable, confident, and fully supported on your skin journey. Treatments include:
+
+Wrinkle Relaxing, 3rd Generation IPRF, Perfect Rejuvenation Plasma, PRPTOX, PRP for Hair Rejuvenation, Skin Boosters, Lumi-Pro, Lumi-Eye, Seventy Hyal 2000, Microneedling, Polynucleotides, Dermal Fillers, Cryopen Lesion Removal & Peels.
+
+* Consultation **Free**
+
+**Please note, each client must book a consultation to start with, after which Lola will recommend the most appropriate skincare plan for your individual goals.**
