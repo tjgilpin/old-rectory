@@ -46,11 +46,8 @@ Lola is an Advanced Aesthetics Practitioner – Plasma & Skin Regeneration Speci
 
 Wrinkle Relaxing, 3rd Generation IPRF, Perfect Rejuvenation Plasma, PRPTOX, PRP for Hair Rejuvenation, Skin Boosters, Lumi-Pro, Lumi-Eye, Seventy Hyal 2000, Microneedling, Polynucleotides, Dermal Fillers, Cryopen Lesion Removal & Peels.
 
-* Consultation **Free**
-
-\
-<a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book Aesthetic Treatments</button></a>
-
-
+* Consultation **Free**\
+  \
+  <a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book Aesthetic Consultation</button></a>
 
 **Please note, each client must book a consultation to start with, after which Lola will recommend the most appropriate skincare plan for your individual goals.**
