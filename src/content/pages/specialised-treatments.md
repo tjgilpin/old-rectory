@@ -48,4 +48,9 @@ Wrinkle Relaxing, 3rd Generation IPRF, Perfect Rejuvenation Plasma, PRPTOX, PRP 
 
 * Consultation **Free**
 
+\
+<a href="https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw?pId=86052"><button>Book Aesthetic Treatments</button></a>
+
+
+
 **Please note, each client must book a consultation to start with, after which Lola will recommend the most appropriate skincare plan for your individual goals.**
