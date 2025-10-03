@@ -14,7 +14,7 @@ collections:
     folder: "src/content/pages"
     create: true  # Allow adding new pages
     slug: "{{slug}}"
-    path: "{{slug}}.md"    
+    path: "{{slug}}"    
     fields:
       - { label: "Page Title", name: "title", widget: "string" }
       - { label: "Slug", name: "slug", widget: "string", required: false }      
@@ -39,7 +39,7 @@ collections:
         required: false
         fields:
           - { label: "Gallery Image", name: image, widget: image }
-      - label: Additional Options
+      - label: Additional Options 
         name: additional
         widget: object
         collapsed: true   # 👈 collapsed by default
