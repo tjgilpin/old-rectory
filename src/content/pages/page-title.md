@@ -1,5 +1,5 @@
 ---
-title: page-title
+title: Page Title Modified
 additional:
   hide: false
   order: 10
