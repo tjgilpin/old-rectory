@@ -13,7 +13,7 @@ collections:
     label: "Pages"
     folder: "src/content/pages"
     create: true  # Allow adding new pages
-    value_field: /.md
+    value_field: .md
     search_fields:
       - slug
       - title   
