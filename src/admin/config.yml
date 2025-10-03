@@ -13,15 +13,16 @@ collections:
     label: "Pages"
     folder: "src/content/pages"
     create: true  # Allow adding new pages
-    value_field: .md
-    search_fields:
-      - slugoverride
-      - name
-    slug: "{{slug}}"   
+    slug: "{{slug}}"
+    path: "{{slug}}.md"    
     fields:
-      - { label: "Page Title", name: "title", widget: "string", required: true }
+      - { label: "Page Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string", required: false }      
       - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
       - { label: "Content", name: "body", widget: "markdown", required: false }
+    search_fields:
+      - slug
+      - title      
       - label: Sections
         name: sections
         widget: list
@@ -43,7 +44,6 @@ collections:
         widget: object
         collapsed: true   # 👈 collapsed by default
         fields:
-          - { label: "Slug", name: "slugoverride", widget: "string", required: false }
           - { label: "Remove from Navigation", name: "hide", widget: "boolean", default: false }
           - { label: "Navigation Order", name: "order", widget: "number", default: 10 }
   # Wedding Pages Collection (Folder-Based)
