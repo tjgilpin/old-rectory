@@ -2,7 +2,7 @@ import eleventyNavigationPlugin from "@11ty/eleventy-navigation";
 import yaml from "js-yaml";
 import markdownIt from "markdown-it";
 import markdownItAttrs from "markdown-it-attrs";
-import path from "node:path";
+import path from "path";
 import fs from "node:fs";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 
@@ -53,12 +53,47 @@ export default async function(eleventyConfig) {
 			recursive: true
 		});
 	});
-};
 
-export const config = {
-  dir: {
-    input: "src",
-    output: "_site"
-  },
-  markdownTemplateEngine: "njk"
-};
+  eleventyConfig.addGlobalData("eleventyComputed", {
+    permalink: (data) => {
+      const inputPath = data.page.inputPath;
+  
+      // Only process src/content files
+      if (!inputPath.startsWith("./src/content/")) {
+        return data.permalink;
+      }
+  
+      // Relative path inside content folder
+      const relative = path.relative("./src/content", inputPath); 
+      const parts = relative.split(path.sep); // e.g., ["treatment-rooms", "index.md"]
+  
+      const folder = parts[0]; // top-level folder
+      const fileSlug = data.page.fileSlug; // "index"
+  
+      // Pages special case
+      if (folder === "pages") {
+        if (data.title === "Home") return `/`;
+        if (data.slug) return `/${data.slug}/`;
+        return `/${fileSlug}/`;
+      }
+  
+      // Section folders
+      console.log(fileSlug);
+      if (fileSlug === "index") return `/${folder}/`;        // <--- key fix for index.md
+      if (data.slug) return `/${folder}/${data.slug}/`;
+      return `/${folder}/${fileSlug}/`;
+    }
+  });
+
+  return {
+    dir: {
+      input: "src",
+      output: "_site",
+      includes: "_includes"
+    },
+    markdownTemplateEngine: "njk",
+    htmlTemplateEngine: "njk",
+    dataTemplateEngine: "njk",
+    passthroughFileCopy: true
+  };
+}
