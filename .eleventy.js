@@ -78,8 +78,7 @@ export default async function(eleventyConfig) {
       }
   
       // Section folders
-      console.log(fileSlug);
-      if (fileSlug === "index") return `/${folder}/`;        // <--- key fix for index.md
+      if (parts[1] === "index.md") return `/${folder}/`;        // <--- key fix for index.md
       if (data.slug) return `/${folder}/${data.slug}/`;
       return `/${folder}/${fileSlug}/`;
     }
