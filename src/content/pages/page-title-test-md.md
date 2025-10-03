@@ -1,4 +1,4 @@
 ---
 title: Page Title Test
-slug: Page Title Slug Override
+slug: Page Title Slug
 ---
