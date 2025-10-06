@@ -54,36 +54,6 @@ export default async function(eleventyConfig) {
 		});
 	});
 
-  eleventyConfig.addGlobalData("eleventyComputed", {
-    permalink: (data) => {
-      const inputPath = data.page.inputPath;
-  
-      // Only process src/content files
-      if (!inputPath.startsWith("./src/content/")) {
-        return data.permalink;
-      }
-  
-      // Relative path inside content folder
-      const relative = path.relative("./src/content", inputPath); 
-      const parts = relative.split(path.sep); // e.g., ["treatment-rooms", "index.md"]
-  
-      const folder = parts[0]; // top-level folder
-      const fileSlug = data.page.fileSlug; // "index"
-  
-      // Pages special case
-      if (folder === "pages") {
-        if (data.title === "Home") return `/`;
-        if (data.slug) return `/${data.slug}/`;
-        return `/${fileSlug}/`;
-      }
-  
-      // Section folders
-      if (parts[1] === "index.md") return `/${folder}/`;        // <--- key fix for index.md
-      if (data.slug) return `/${folder}/${data.slug}/`;
-      return `/${folder}/${fileSlug}/`;
-    }
-  });
-
   return {
     dir: {
       input: "src",
