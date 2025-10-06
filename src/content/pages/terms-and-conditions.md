@@ -3,9 +3,7 @@ type: page
 title: Terms and Conditions
 slug: terms
 pageslug: terms
-hide: true
 order: 10
-template: Panel Image Background
 ---
 ### Bookings
 

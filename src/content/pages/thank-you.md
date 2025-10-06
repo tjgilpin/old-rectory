@@ -2,10 +2,7 @@
 type: page
 title: Thank You
 slug: thank-you
-hide: true
 order: 10
-template:
-  - Panel Image Background
 ---
 ## Thank you for your message
 

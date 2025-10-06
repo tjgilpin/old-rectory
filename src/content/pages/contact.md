@@ -2,9 +2,7 @@
 type: page
 title: Contact
 slug: /contact/
-hide: true
 order: 10
-template: Panel Image Background
 additional:
   hide: true
   order: 10

@@ -3,7 +3,6 @@ type: page
 title: Privacy Policy
 slug: privacy
 pageslug: privacy
-hide: true
 order: 10
 ---
 ### Privacy Policy

@@ -110,7 +110,6 @@ sections:
 
       </p>
     sectionimage: /assets/img/shaun.jpg
-hide: true
 order: 10
 template: Panel Stacked
 ---

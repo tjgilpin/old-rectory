@@ -6,9 +6,7 @@ sections:
   - sectionimage: /assets/img/find-us-map.jpg
     url: https://maps.app.goo.gl/15JqmSQ38KjVxnjaA
     body: ""
-hide: true
 order: 10
-template: Panel Stacked
 ---
 The Old Rectory is a 20 minute walk from Hastings train station & a great way to get a glimpse of the town before checking-in. With regular services to and from London, Rye & Brighton it's a great alternative to driving. 
 

@@ -46,12 +46,10 @@ collections:
     label: "Wedding Pages"
     folder: "src/content/weddings"
     create: true  # Allow adding new sub pages
-    slug: "wedding/{{slug}}"
     fields:
       - { label: "Page Title", name: "title", widget: "string" }
-      - { label: "Slug", name: "pageslug", widget: "string", required: false }
-      - { label: "Page Subheading", name: "subhead", widget: "string", required: false }
-      - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true }
+      - { label: "Slug", name: "slug", widget: "string", required: false }      
+      - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
       - { label: "Content", name: "body", widget: "markdown", required: false }
       - label: Gallery Images
         name: gallery
@@ -64,13 +62,6 @@ collections:
       - { label: URL Secondary, name: url_secondary, widget: string, required: false }
       - { label: "Link Secondary Text", name: "cta_secondary", widget: string, required: false }
       - { label: "Navigation Order", name: "hide", widget: "hidden", default: true }
-      - label: "Template"
-        name: "template"
-        widget: "select"
-        multiple: false
-        options: ["Panel Image Background", "Panel Stacked"]
-        default: ["Panel Image Background"]
-        required: false
   - label: "Settings & Footer Content"
     name: "settings"
     editor:

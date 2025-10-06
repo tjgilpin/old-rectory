@@ -1,5 +1,4 @@
 ---
-hide: false
 slug: /cafe/
 type: page
 title: Café

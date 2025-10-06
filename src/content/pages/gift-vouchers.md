@@ -2,7 +2,6 @@
 type: page
 title: Gift Vouchers
 slug: /gift-vouchers/
-hide: true
 order: 10
 template:
   - Panel Image Background
