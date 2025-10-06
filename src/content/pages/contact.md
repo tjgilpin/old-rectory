@@ -5,6 +5,9 @@ slug: /contact/
 hide: true
 order: 10
 template: Panel Image Background
+additional:
+  hide: true
+  order: 10
 ---
 Planning a stay, arranging a wedding, booking a treatment, or simply have a question? Please contact us directly or use the form below – we’ll be delighted to assist. We're always happy to help.
 
