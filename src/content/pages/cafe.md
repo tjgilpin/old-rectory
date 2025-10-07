@@ -18,6 +18,8 @@ gallery:
   - image: /assets/img/dsc01239.jpg
   - image: /assets/img/dsc01252.jpg
 order: 110
+additional:
+  show: true
 ---
 Café at The Old Rectory is an elegantly designed space that offers all the important things in life: good coffee, good food, and good vibes. Our carefully planned seasonal menu features ingredients from trusted local suppliers, enhanced by in-house expertise—from our expert cake baker to our on-site garden smokers. Open seven days a week from 10 am to 4 pm, Café at The Old Rectory is the perfect place to catch up with old friends, relax after a walk with the dog, or enjoy some solo time with a cup of tea and a good book.
 
