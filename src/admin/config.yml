@@ -39,8 +39,8 @@ collections:
         widget: object
         collapsed: true   # 👈 collapsed by default
         fields:
-          - { label: "Show in Navigation", name: "show", widget: "boolean", default: true }
-          - { label: "Navigation Order", name: "order", widget: "number", default: 10 }
+          - { label: "Show in Navigation", name: "show", widget: "boolean", default: true, required: false }
+          - { label: "Navigation Order", name: "order", widget: "number", default: 10, required: false }
   # Wedding Pages Collection (Folder-Based)
   - name: "wedding"
     label: "Wedding Pages"
