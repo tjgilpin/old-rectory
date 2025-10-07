@@ -6,9 +6,6 @@ export default function() {
       const section = parts[2];
       const file = parts[3];
       if (section === 'pages') {
-
-        console.log(`data.additional.hide = ${data.additional.hide}`);
-
         if (file === 'index') {
           return '/index.html'; // Home page
         }
@@ -24,18 +21,16 @@ export default function() {
         }
       }
     },
-    eleventyNavigation: data => {
-      // Check if the page has `eleventyNavigation.hide` set to `true`
-      console.log(`data.additional.hide = ${data.additional.hide}`);
-      if (data.additional.hide === true) {
-        return undefined; // Exclude from navigation
-      }
-      // Include in navigation if no `hide` flag is set
-      return {
-        key: data.title,
-        order: data.order || 0,
-      };
-    }    
+    // eleventyNavigation: data => {
+    //   // Check if the page has `eleventyNavigation.hide` set to `true`
+    //   console.log(`data.additional.hide = ${data.additional.hide}`);
+    //   if (data.additional.hide !== true) {
+    //     return {
+    //       key: data.title,
+    //       order: data.order || 0,
+    //     };
+    //   }
+    // }    
     // layout: "default.njk", 
   }
 }
