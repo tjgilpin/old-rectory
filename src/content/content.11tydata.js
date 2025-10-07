@@ -4,20 +4,22 @@ export default function() {
       const path = data.page.filePathStem;
       const parts = path.split("/");
       const section = parts[2];
-      const file = parts[3];
+      const file = parts[3];   
+      let slug = data.slug || data.title;
+      slug = this.slugify(slug);
       if (section === 'pages') {
         if (file === 'index') {
           return '/index.html'; // Home page
         }
         else {
-          return `/${file}/index.html`; // Other pages in pages folder
+          return `/${slug}/index.html`; // Other pages in pages folder
         }
       }
       else {
         if (file === 'index') {
           return `/${section}/index.html`; // Section index pages
         } else {
-          return `/${section}/${file}/index.html`; // Other pages in section folders
+          return `/${section}/${slug}/index.html`; // Other pages in section folders
         }
       }
     },
