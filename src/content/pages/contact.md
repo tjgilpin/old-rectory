@@ -6,6 +6,7 @@ order: 10
 additional:
   hide: true
   order: 10
+  show: true
 ---
 Planning a stay, arranging a wedding, booking a treatment, or simply have a question? Please contact us directly or use the form below – we’ll be delighted to assist. We're always happy to help.
 
