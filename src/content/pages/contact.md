@@ -2,9 +2,7 @@
 type: page
 title: Contact
 slug: /contact/
-order: 10
 additional:
-  hide: true
   order: 10
   show: true
 ---

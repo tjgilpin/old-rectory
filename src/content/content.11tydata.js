@@ -23,16 +23,19 @@ export default function() {
         }
       }
     },
-    // eleventyNavigation: data => {
-    //   // Check if the page has `eleventyNavigation.hide` set to `true`
-    //   console.log(`data.additional.hide = ${data.additional.hide}`);
-    //   if (data.additional.hide !== true) {
-    //     return {
-    //       key: data.title,
-    //       order: data.order || 0,
-    //     };
-    //   }
-    // }    
+    eleventyComputed: {
+      eleventyNavigation: data => {
+        // Check if the page has `eleventyNavigation.hide` set to `true`
+        if (data.additional && data.additional.show) {
+          return {
+            key: data.title,
+            order: data.additional.order || 0,
+          };
+        } else {
+          return undefined; // Exclude from navigation
+        }
+      }
+    },
     // layout: "default.njk", 
   }
 }
