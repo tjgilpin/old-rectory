@@ -4,8 +4,14 @@ export default function() {
       const path = data.page.filePathStem;
       const parts = path.split("/");
       const section = parts[2];
-      const file = parts[3];   
-      let slug = data.slug || data.title;
+      const file = parts[3];
+      let slug;
+      if (data.additional && data.additional.slug) {
+        slug = data.additional.slug 
+      } else {
+        slug = data.title;
+      }
+      console.log(data.additional);
       slug = this.slugify(slug);
       if (section === 'pages') {
         if (file === 'index') {

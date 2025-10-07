@@ -15,7 +15,6 @@ collections:
     create: true  # Allow adding new pages
     fields:
       - { label: "Page Title", name: "title", widget: "string" }
-      - { label: "Slug", name: "slug", widget: "string", required: false }      
       - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
       - { label: "Content", name: "body", widget: "markdown", required: false }
       - label: Sections
@@ -39,6 +38,7 @@ collections:
         widget: object
         collapsed: true   # 👈 collapsed by default
         fields:
+          - { label: "Slug", name: "slug", widget: "string", hint: Customise page URL, required: false }      
           - { label: "Show in Navigation", name: "show", widget: "boolean", default: true, required: false }
           - { label: "Navigation Order", name: "order", widget: "number", default: 10, required: false }
   # Wedding Pages Collection (Folder-Based)
@@ -61,7 +61,6 @@ collections:
       - { label: "Link Text", name: "cta", widget: string, required: false }
       - { label: URL Secondary, name: url_secondary, widget: string, required: false }
       - { label: "Link Secondary Text", name: "cta_secondary", widget: string, required: false }
-      - { label: "Navigation Order", name: "hide", widget: "hidden", default: true }
   - label: "Settings & Footer Content"
     name: "settings"
     editor:
