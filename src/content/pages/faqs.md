@@ -2,7 +2,7 @@
 type: page
 title: FAQs
 slug: /faqs/
-headerimage: /assets/img/63-dsc00431.jpg
+headerimage: /assets/img/77-dsc00511.jpg
 hide: true
 order: 10
 template: Panel Image Background
