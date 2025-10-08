@@ -19,7 +19,7 @@ sections:
       our Teas are quintessentially traditional. Perfect as a birthday treat, as
       part of a baby-shower or for a long awaited catch-up with friends.
     cta: View Menus & Book
-    sectionimage: /assets/img/dsc05433.jpg
+    sectionimage: /assets/img/2-dsc01594.jpg
   - title: Breakfast
     url: breakfast
     cta: View Menus & Book
