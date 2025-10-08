@@ -3,7 +3,7 @@ type: subpage
 parent_page: Our Rooms
 parent_slug: rooms
 title: Croft
-headerimage: /assets/img/5-dsc00271.jpg
+headerimage: /assets/img/11-dsc00288.jpg
 gallery:
   - image: /assets/img/our-rooms-croft-05.jpg
   - image: /assets/img/our-rooms-croft-01.jpg
