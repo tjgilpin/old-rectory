@@ -2,7 +2,7 @@
 type: subpage
 parent_page: Weddings
 title: Wedding Ceremony
-headerimage: /assets/img/our-wedding-day-247.jpg
+headerimage: /assets/img/img_8153.jpg
 gallery:
   - image: /assets/img/725-_h1a6735-1910.jpg
   - image: /assets/img/87-_h1a5245-1234.jpg
