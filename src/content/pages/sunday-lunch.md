@@ -3,7 +3,7 @@ type: subpage
 parent_page: Food & Drink
 parent_slug: food-drink
 title: Sunday Lunch
-headerimage: /assets/img/24-dsc06550.jpg
+headerimage: /assets/img/29-dsc06565.jpg
 gallery:
   - image: /assets/img/lunch-main.jpg
   - image: /assets/img/lunch-starter.jpg
