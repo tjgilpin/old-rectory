@@ -2,7 +2,7 @@
 type: page
 title: FAQs
 slug: /faqs/
-headerimage: /assets/img/oldrectory-bridal-krp30.jpg
+headerimage: /assets/img/63-dsc00431.jpg
 hide: true
 order: 10
 template: Panel Image Background
