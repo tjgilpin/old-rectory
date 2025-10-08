@@ -6,16 +6,16 @@ title: Café
 headerimage: /assets/img/krp_oldrectory_08.jpg
 gallery:
   - image: /assets/img/dsc01042.jpg
-  - image: /assets/img/dsc01053.jpg
+  - image: /assets/img/krp_oldrectory_81.jpg
   - image: /assets/img/dsc01249.jpg
-  - image: /assets/img/krp_oldrectory_33.jpg
+  - image: /assets/img/krp_oldrectory_26.jpg
   - image: /assets/img/dsc01238.jpg
   - image: /assets/img/krp_oldrectory_36.jpg
   - image: /assets/img/dsc01290.jpg
   - image: /assets/img/krp_oldrectory_14.jpg
   - image: /assets/img/dsc00893.jpg
   - image: /assets/img/dsc01201.jpg
-  - image: /assets/img/krp_oldrectory_81.jpg
+  - image: /assets/img/krp_oldrectory_33.jpg
   - image: /assets/img/dsc01252.jpg
 order: 110
 ---
