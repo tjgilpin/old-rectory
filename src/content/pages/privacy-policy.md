@@ -3,6 +3,7 @@ type: page
 title: Privacy Policy
 slug: privacy
 pageslug: privacy
+headerimage: /assets/img/your-wedding-day-491.jpg
 hide: true
 order: 10
 ---
