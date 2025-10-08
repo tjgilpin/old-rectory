@@ -11,7 +11,6 @@ gallery:
   - image: /assets/img/krp_oldrectory_26.jpg
   - image: /assets/img/dsc01238.jpg
   - image: /assets/img/krp_oldrectory_36.jpg
-  - image: /assets/img/dsc01290.jpg
   - image: /assets/img/krp_oldrectory_14.jpg
   - image: /assets/img/dsc00893.jpg
   - image: /assets/img/dsc01201.jpg
