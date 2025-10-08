@@ -7,7 +7,7 @@ pageslug: food-drink
 headerimage: /assets/img/24-dsc06550.jpg
 sections:
   - title: Sunday Lunch
-    sectionimage: /assets/img/29-dsc06565.jpg
+    sectionimage: /assets/img/25-dsc06555.jpg
     body: The Old Rectory Traditional Sunday Lunches focus on seasonal, locally
       sourced produce. In keeping with our home-from-home, welcoming atmosphere
       are hearty & homely.
