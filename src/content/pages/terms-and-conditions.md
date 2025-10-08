@@ -1,9 +1,10 @@
 ---
+hide: true
+slug: terms
 type: page
 title: Terms and Conditions
-slug: terms
 pageslug: terms
-hide: true
+headerimage: /assets/img/oldrectory-bridal-krp12.jpg
 order: 10
 template: Panel Image Background
 ---
