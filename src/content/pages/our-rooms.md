@@ -1,10 +1,10 @@
 ---
+hide: false
+slug: rooms
 type: page
 title: Our Rooms
 pageslug: rooms
-hide: false
-slug: rooms
-headerimage: /assets/img/our-rooms-hero.jpg
+headerimage: /assets/img/oldrectory-krp-1.jpg
 sections:
   - title: Crown
     url: crown
