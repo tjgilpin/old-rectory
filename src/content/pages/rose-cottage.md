@@ -1,7 +1,9 @@
 ---
+hide: false
+slug: rose-cottage
 type: page
 title: Rose Cottage
-slug: rose-cottage
+headerimage: /assets/img/rose-cottage-4th-june-by-georgina-piper-photography-18-copy.jpg
 gallery:
   - image: /assets/img/rose-cottage-1.jpg
   - image: /assets/img/rose-cottage-2.jpg
@@ -9,7 +11,6 @@ gallery:
   - image: /assets/img/rose-cottage-4.jpg
   - image: /assets/img/rose-cottage-5.jpg
   - image: /assets/img/rose-cottage-6.jpg
-hide: false
 order: 20
 template:
   - Panel Image Background
