@@ -1,12 +1,13 @@
 ---
+hide: true
+slug: /find-us/
 type: page
 title: Find Us
-slug: /find-us/
+headerimage: /assets/img/img_9884.jpg
 sections:
   - sectionimage: /assets/img/find-us-map.jpg
     url: https://maps.app.goo.gl/15JqmSQ38KjVxnjaA
     body: ""
-hide: true
 order: 10
 template: Panel Stacked
 ---
