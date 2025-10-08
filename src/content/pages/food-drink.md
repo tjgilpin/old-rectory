@@ -1,10 +1,10 @@
 ---
+hide: false
+slug: /food-drink/
 type: page
 title: Food & Drink
 pageslug: food-drink
-hide: false
-slug: /food-drink/
-headerimage: /assets/img/hero-image-food-drink.jpg
+headerimage: /assets/img/24-dsc06550.jpg
 sections:
   - title: Sunday Lunch
     sectionimage: /assets/img/29-dsc06565.jpg
