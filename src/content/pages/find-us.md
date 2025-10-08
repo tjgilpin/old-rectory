@@ -3,7 +3,7 @@ hide: true
 slug: /find-us/
 type: page
 title: Find Us
-headerimage: /assets/img/img_9884.jpg
+headerimage: /assets/img/66-dsc00456.jpg
 sections:
   - sectionimage: /assets/img/find-us-map.jpg
     url: https://maps.app.goo.gl/15JqmSQ38KjVxnjaA
