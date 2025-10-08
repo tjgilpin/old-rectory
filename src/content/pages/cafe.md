@@ -78,8 +78,10 @@ Served on malted or white bread with homemade crisps
 
 * Ham & Piccallili **£9.00**
 * Smoked Chicken & Mango Chutney **£9.00**
-* * * Cheese & Fruit Chutney **£9.00**
-    * Crab & Rocket **£10.50**
+* Cheese & Fruit Chutney **£9.00**
+* Crab & Rocket **£10.50**
+
+
 
 </div>
 </div>
@@ -109,7 +111,9 @@ Decaf tea & coffee available on request
 
 ### Iced Drinks
 
-All of our coffees are available iced Prices start from **£3.80**
+All of our coffees are available iced Prices start from
+
+**£3.80**
 
 * Vanilla Syrup **80p**
 * Pumpkin Spice Syrup **80p**
