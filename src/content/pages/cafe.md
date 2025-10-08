@@ -41,55 +41,49 @@ Café at The Old Rectory is an elegantly designed space that offers all the impo
 <div class="menu">
 <div class="menu-col">
 
-* Two sourdough crumpets with whipped butter, add jam, marmalade, Marmite butter or honey butter **£5.00**
-* Maple roasted granola, Greek / plant based yoghurt, seasonal compote **£6.50**
-* Plant based French toast, Chantilly cream, seasonal compote **£8.50**
-* Bacon bap, walnut ketchup **£7.50**
-* Sausage patty, fried egg, Mayfield Swiss cheese, English muffin **£8.50**
-* Lions mane mushrooms, toasted Pan Gallego **£9.00**
-* Whipped medita, green hummus, pink pickled onions, toasted Pan Gallego **£9.50**
-* Hot smoked salmon, spinach parched egg and hollandaise sauce on whey bread toast **£10.00**
-* Seasonal soup, Pan Gallego, whipped butter **£7.00**
-* Pork and apple sausage roll, bacon jam **£5.50**
-* Sussex made Manchego cheese and olive scone, chorizo jam and whipped butter **£6.50**
+* Two sourdough crumpets with butter (add jam, marmalade, Marmite butter or honey butter) **£5.00**
+* Toast with butter (add jam, marmalade, Marmite butter  or honey butter) **£5.00**
+* Porridge with local honey, maple syrup or golden syrup **£7.00**
+* Maple roasted granola, Greek / plant based yoghurt & seasonal compote **£7.00**
+* Pork and apple sausage roll & bacon jam **£7.00**
+* Sussex Manchego cheese and olive scone, butter & chorizo jam **£7.00**
+* Bacon bap, pickled walnut ketchup **£8.00**
+* Seasonal veggie soup, served with toast **£8.00**
+* A mug of soup and half a sandwich **£9.00**
+* Sausage patty, fried egg, Mayfield Swiss cheese & English muffin **£9.50**
+* Basil’s Fungi Farm mushrooms, toasted sourdough **£9.50**
+* Whipped Sussex feta, roasted carrot hummus, pink pickled onions, & toasted sourdough **£9.50**
+* Hot smoked salmon, spinach poached egg and hollandaise sauce on sourdough toast **£11.00**
 
 </div>
 <div class="menu-col">
 
 ### Salads
 
-* Charred purple sprouting broccoli, courgettes, crumbled medita, pine nuts, leaves, couscous, lemon & thyme dressing **£11.50**
-* Smoked chicken, bitter leaves, sourdough croutons, bacon lardons, charred spring onions, cream dressing **£11.50**
-* Smoked mackerel, Jersey royals, horseradish, watercress, leaves, herb dressing **£11.50**
+* Charred purple sprouting broccoli, courgettes, crumbled sussex feta, pine nuts, leaves, couscous & herb dressing **£12.50**
 
-### Platters
+### Platter
 
-* Hot smoked salmon, potted crab, smoked sea bream, smoked prawn, pickled cucumber, crispy capers, smoked lemon mayo, whey toast **£15.00**
-* Nutmeg & mustard pork sausage, pork loin, garlic sausage, pork collar, pork rillette, cornichons, piccalilli, whey toast **£15.00**
-* Pevensey Blue, Sussex Charmer, smoked brie, Rosary Log, walnuts, pickled pear, whey toast **£15.00**
+* Hot smoked salmon, crab, smoked sea bream, smoked prawn, pickled cucumber, capers, lemon mayo & toast **£15.00**
 
-</div>
-</div>
+### Stew
 
-## Sunday & Monday
+Served with toasted sourdough
 
-<div class="menu">
-<div class="menu-col">
+* Chicken & chorizo stew **£15.00**
+* Seafood chowder **£15.00**
 
-* Two sourdough crumpets with whipped butter, add jam, marmalade, Marmite butter or honey butter **£5.00**
-* Maple roasted granola, Greek / plant based yoghurt, seasonal compote **£6.50**
-* Mixed fruit scone, clotted cream & jam **£5.00**
-* Bacon bap, walnut ketchup **£7.50**
-* Lions mane mushrooms, toasted Pan Gallego **£9.00**
+### Sandwiches
 
-</div>
-<div class="menu-col">
+Served on malted or white bread with homemade crisps 
 
-* Pork and apple sausage roll, bacon jam **£5.50**
-* Sussex made Manchego cheese and olive scone, chorizo jam and whipped butter (different price?) **£5.00**
-* Sussex Charmer and tomato quiche, green salad **11.00**
-* Kent asparagus, soft boiled egg & grated Twineham Grange **£8.00**
-* Crab sandwich on malted loaf, watercress & cornichons **£8.50**
+* Ham & Piccallili **£9.00**
+* Smoked Chicken & Mango Chutney **£9.00**
+* * Cheese & Fruit Chutney  **£9.00**
+
+  * Crab & Rocket  **£10.50**
+
+
 
 </div>
 </div>
@@ -116,6 +110,26 @@ Café at The Old Rectory is an elegantly designed space that offers all the impo
 * Tea for Two **£4.00**
 
 Decaf tea & coffee available on request
+
+### Iced Drinks
+
+All of our coffees are available iced Prices start from **£3.80**
+
+* Vanilla Syrup **80p**
+* Pumpkin Spice Syrup 80p
+
+### Soft Drinks
+
+* Nelly’s seasonal, cold pressed juice **£5.00**
+* Apple Juice **£3.00**
+* Orange Juice **£3.00**
+* Zak’s Kombucha 
+  Elderflower, lavender, ginger & tumeric or sparkling oolong **£5.00**
+* Fetimans
+  Victorian Lemonade, Rose Lemonade, Ginger Beer, Mandarian & Seville Orange, Eldeflower, Dandelion & Burdock  **£3.50**
+* Coca Cola / Diet Coke **£3.50**
+* Small Sparkling Water **£2.50**
+* Large Sparkling Water **£5.00**
 
 ### Wines
 
@@ -153,22 +167,6 @@ Decaf tea & coffee available on request
 
 * Glass **£8.00**
 
-### Iced Drinks
-
-* Iced Latte **£3.80**
-* Iced Mocha **£4.00**
-* Iced Chai Latte **£3.80**
-* Iced Dirty Chai **£4.00**
-* Iced Americano **£3.50**
-
-### Soft Drinks
-
-* Oakwood Apple Juice **£3.00**
-* Gusto Organic Soft Drinks\
-  Cola, Slim Cola, Cherry Cola,Ginger & Jalapeno, Lemon & Yuzu,Blood Orange **£3.50**
-* Small Sparkling Water **£2.50**
-* Large Sparkling Water **£5.00**
-
 ### Prosecco
 
 * Small Bottle **£7.00**
@@ -177,6 +175,7 @@ Decaf tea & coffee available on request
 ### Beer
 
 * Brewing Brothers Reforestation Pale Ale (GF) **£7.00**
+* Brewing Brothers Sussex Lager(GF) **£7.00**
 
 </div>
 
