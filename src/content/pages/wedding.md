@@ -1,8 +1,9 @@
 ---
+hide: false
+slug: weddings
 type: page
 title: Weddings
-slug: weddings
-headerimage: /assets/img/weddings-1600x900.jpg
+headerimage: /assets/img/107a3363.jpg
 sections:
   - title: Wedding Ceremony
     body: Perfect for intimate gatherings, our Garden Wedding Ceremony package
@@ -10,9 +11,9 @@ sections:
       relaxed outdoor celebration.
     url: wedding-ceremony
     cta: View Wedding Package
-    sectionimage: /assets/img/weddings-ceremony-only-package.jpg
+    sectionimage: /assets/img/img_8153.jpg
   - title: Wedding Extravaganza
-    sectionimage: /assets/img/weddings-complete-package.jpg
+    sectionimage: /assets/img/our-wedding-day-420.jpg
     body: For a truly unforgettable celebration, our Wedding Extravaganza package
       offers exclusive hire of The Old Rectory for two nights. Bed and
       breakfast, full marquee hire, staffing, furniture, crockery, silverware
@@ -20,7 +21,6 @@ sections:
     url: wedding-extravaganza
     cta: View Wedding Package
 gallery: []
-hide: false
 order: 50
 template: Panel Image Background
 ---
