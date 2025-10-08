@@ -79,9 +79,9 @@ Served on malted or white bread with homemade crisps
 
 * Ham & Piccallili **£9.00**
 * Smoked Chicken & Mango Chutney **£9.00**
-* * Cheese & Fruit Chutney  **£9.00**
+* * Cheese & Fruit Chutney **£9.00**
 
-  * Crab & Rocket  **£10.50**
+  * Crab & Rocket **£10.50**
 
 
 
