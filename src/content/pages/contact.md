@@ -2,7 +2,7 @@
 type: page
 title: Contact
 slug: /contact/
-headerimage: /assets/img/krp_oldrectory_78.jpg
+headerimage: /assets/img/oldrectory-krp-2.jpg
 hide: true
 order: 10
 template: Panel Image Background
