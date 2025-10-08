@@ -1,9 +1,8 @@
 ---
-type: page
-title: Treatment Rooms
-gallery: []
 hide: false
 slug: treatment-rooms
+type: page
+title: Treatment Rooms
 headerimage: /assets/img/treatment-rooms-header-1600x900.jpg
 sections:
   - title: Gift Vouchers
@@ -25,8 +24,8 @@ sections:
     url: massage
   - title: Independent Therapists
     sectionimage: /assets/img/treatment-rooms-specialised-1600x900.jpg
-    body: The Sculpted Facial with Charlotte Connoley and Sports, Remedial &
-      Postural therapies with Julie Nixey
+    body: The Sculpted Facial with Charlotte Connoley, Sports, Remedial & Postural
+      therapies with Julie Nixey and Aesthetic Treatments with Lola.
     cta: Prices & Booking
     url: independent-therapists
   - title: Body Treatments
@@ -55,6 +54,7 @@ sections:
       Bridal packages
     cta: Prices & Booking
     url: packages
+gallery: []
 order: 100
 template: Panel Image Background
 ---
