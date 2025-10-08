@@ -30,26 +30,26 @@ In keeping with our home-from-home, welcoming atmosphere Sunday Lunches at The O
 
 ### Starter
 
-* Duck and chicken liver parfait filled profiterole, rhubarb and ginger jam, herb salad
-* Beetroot risotto, Rectory hot smoked salmon, pickled mussels
-* Creamed spring vegetable soup, wild garlic crème fraiche, garlic croutons
+* Beetroot risotto with horseradish and chive soured cream and Hastings catch mackerel
+* Crab vol au vent, fennel salad, rectory baby grapes, curried mayonnaise
+* Courgette, lemon and garden mint fritters, pickled turnips, smoked aubergine puree 
 
 ### Main
 
-* Roasted chicken, ramson and lemon pork stuffing, chicken skin crackling
-* Roast pork loin, crackling, parsnip and apple fritter, apple puree
-* Vegetable and nut roast loaf, creamed mushroom palmier, battered spring onion
+* Roasted free range chicken, sage and onion stuffing, chicken skin crackling
+* Roast pork loin, cider glazed home smoked pork rib, salt and pepper scratching
+* Sussex cep, Mayfield cheese and leek filo pie, marmite butter charred savoy cabbage, cep velouté
 
-Sides: Roasted potatoes, seasonal vegetables, cauliflower cheese & Yorkshire puddings
+Sides: Roasties, honey roasted roots, cauliflower cheese, steamed green vegetables, yorkshire puddings, jugs of gravy
 
 </div>
 <div class="menu-col">
 
 ### Dessert
 
-* Rhubarb bread and butter pudding
-* Banana tiramisu, cinnamon caramel and fried plantain
-* Selection of local cheeses, kiwi and fennel chutney, house water biscuits
+* Fig, orange and cinnamon bread and butter pudding, whiskey and Guestling honey glazed apples, pouring cream
+* Autumnal poached fruit plate, ginger crumble, plum sorbet
+* Local cheese board, late berry chutney, rosemary water biscuits, candied walnuts, grapes and celery leaves
   (+£3 supplement)
 
 </div>
