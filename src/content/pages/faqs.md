@@ -2,6 +2,7 @@
 type: page
 title: FAQs
 slug: /faqs/
+headerimage: /assets/img/krp_oldrectory_60.jpg
 hide: true
 order: 10
 template: Panel Image Background
