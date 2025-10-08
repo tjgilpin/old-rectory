@@ -2,6 +2,7 @@
 type: page
 title: Upcoming Events
 slug: upcoming-events
+headerimage: /assets/img/our-wedding-day-1.jpg
 hide: false
 order: 120
 template:
