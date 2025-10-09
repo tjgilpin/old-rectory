@@ -235,8 +235,33 @@ collections:
         name: "header"
         file: "src/_data/header.yaml"
         fields:
-          - { label: "Logo", name: "logo", widget: "image", allow_multiple: false }
+          - { label: "Navigation Logo", name: "navlogo", widget: "image", allow_multiple: false }
+          - { label: "Home Logo", name: "homelogo", widget: "image", allow_multiple: false }
           - { label: "Header Image", name: "image", widget: "image", allow_multiple: false }
+      - label: Footer Content
+        name: footerlinks
+        file: "src/_data/footerlinks.yml"
+        fields:
+          - { label: Address, name: address, widget: markdown }
+          - label: Secondary Links
+            name: secondary
+            widget: list
+            collapsed: true
+            fields:
+              - { label: Title, name: title, widget: string }
+              - { label: URL, name: url, widget: string }
+          - label: Social Links
+            name: socials
+            widget: list
+            collapsed: true
+            fields:
+              - { label: Title, name: title, widget: string }
+              - { label: SVG Icon, name: icon, widget: text }
+              - { label: URL, name: url, widget: string }
+          - { label: Newsletter Embed, name: newsletter, widget: markdown, minimal: true }
+          - { label: Certification Title, name: certtitle, widget: markdown, minimal: true }
+          - { label: Certification Image, name: certimage, widget: image, allow_multiple: false }
+          - { label: Copyright, name: copyright, widget: text }
       - label: "Settings"
         name: "settings"          
         file: "src/_data/settings.yaml"
@@ -263,27 +288,3 @@ collections:
         fields:
           - { label: "Terms", name: "terms", widget: "markdown" }
           - { label: "Vouchers", name: "vouchers", widget: "markdown" }          
-      - label: Footer Content
-        name: footerlinks
-        file: "src/_data/footerlinks.yml"
-        fields:
-          - { label: Address, name: address, widget: markdown }
-          - label: Secondary Links
-            name: secondary
-            widget: list
-            collapsed: true
-            fields:
-              - { label: Title, name: title, widget: string }
-              - { label: URL, name: url, widget: string }
-          - label: Social Links
-            name: socials
-            widget: list
-            collapsed: true
-            fields:
-              - { label: Title, name: title, widget: string }
-              - { label: SVG Icon, name: icon, widget: text }
-              - { label: URL, name: url, widget: string }
-          - { label: Newsletter Embed, name: newsletter, widget: markdown, minimal: true }
-          - { label: Certification Title, name: certtitle, widget: markdown, minimal: true }
-          - { label: Certification Image, name: certimage, widget: image, allow_multiple: false }
-          - { label: Copyright, name: copyright, widget: text }

@@ -30,7 +30,7 @@
       </div>
     {% endif %}
     <header>
-      <a href="/"><img eleventy:ignore src="{{ settings.logo }}" alt="{{ settings.name }}" /></a>
+      <a href="/"><img eleventy:ignore src="{{ header.navlogo }}" alt="{{ settings.name }}" /></a>
       <nav aria-label="Main">
         <ul>
           {% for entry in collections.all | eleventyNavigation %}
@@ -44,9 +44,9 @@
     </header>
     <main>
       <header>
-        <img src="{{ headerimage | default(home.headerimage) }}" alt="{{ title }}" class="hero" />
+        <img src="{{ headerimage | default(header.image) }}" alt="{{ title }}" class="hero" />
         {% if title == 'Home'  %}
-          <img eleventy:ignore src="{{ home.headerlogo }}" alt="The Old Rectory Logo" class="logo">
+          <img eleventy:ignore src="{{ header.homelogo }}" alt="The Old Rectory Logo" class="logo">
         {% else %}
         <h1>
           {{ title }}
