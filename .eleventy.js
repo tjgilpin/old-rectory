@@ -57,16 +57,12 @@ export default async function(eleventyConfig) {
   eleventyConfig.addFilter('log', value => {
     console.log(value)
   });
-
-  return {
-    dir: {
-      input: "src",
-      output: "_site",
-      includes: "_includes"
-    },
-    markdownTemplateEngine: "njk",
-    htmlTemplateEngine: "njk",
-    dataTemplateEngine: "njk",
-    passthroughFileCopy: true
-  };
 }
+
+export const config = {
+  dir: {
+    input: "src",
+    output: "_site"
+  },
+  markdownTemplateEngine: "njk"
+};

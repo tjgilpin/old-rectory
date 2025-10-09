@@ -231,8 +231,14 @@ collections:
     editor:
       preview: false
     files:
+      - label: "Header"
+        name: "header"
+        file: "src/_data/header.yaml"
+        fields:
+          - { label: "Logo", name: "logo", widget: "image", allow_multiple: false }
+          - { label: "Header Image", name: "image", widget: "image", allow_multiple: false }
       - label: "Settings"
-        name: "settings"
+        name: "settings"          
         file: "src/_data/settings.yaml"
         fields:
           - { label: "Logo", name: "logo", widget: "image", allow_multiple: false }
