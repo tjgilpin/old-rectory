@@ -1,10 +1,9 @@
 ---
-type: page
-title: Food & Drink
-pageslug: food-drink
 hide: false
-slug: /food-drink/
 headerimage: /assets/img/hero-image-food-drink.jpg
+additional:
+  show: true
+slug: /food-drink/
 sections:
   - title: Sunday Lunch
     sectionimage: /assets/img/29-dsc06565.jpg
@@ -35,5 +34,8 @@ sections:
     url: seasonal-events
     cta: View Menus & Book
 order: 30
+title: Food & Drink
 template: Panel Image Background
+pageslug: food-drink
+type: page
 ---
