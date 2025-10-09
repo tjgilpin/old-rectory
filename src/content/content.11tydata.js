@@ -11,7 +11,6 @@ export default function() {
       } else {
         slug = data.title;
       }
-      console.log(data.additional);
       slug = this.slugify(slug);
       if (section === 'pages') {
         if (file === 'index') {
@@ -42,6 +41,6 @@ export default function() {
         }
       }
     },
-    // layout: "default.njk", 
+    layout: "default.njk", 
   }
 }
