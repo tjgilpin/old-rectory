@@ -11,4 +11,12 @@ sections:
       curated to offer something to suit everyone.
     cta: View Rooms
     url: /rooms/
+  - title: Food & Drink
+    body: Whether it’s an a la carte, two course breakfast, an Afternoon Tea or
+      Sunday lunch with friends The Old Rectory is a hub for traditional English
+      dishes. With award winning marmalade, homemade sausages and black pudding,
+      signature battenberg & house cocktails.
+    sectionimage: /assets/img/hero-image-food-drink.jpg
+    cta: View Menus
+    url: /food-drink/
 ---
