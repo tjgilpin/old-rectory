@@ -24,11 +24,13 @@
     {% endif %}
   </head>
   <body class="page_{{ title | slugify }}{% if type == 'page' %} page{% endif %}{% if parent_page %} subpage subpage_{{ parent_page | slugify }}{% endif %}  {% if gallery %}page_gallery{% endif %} {% if template %}template_{{ template | slugify }}{% endif %}">
+    <!-- sitewide notice  -->
     {% if notice.show %}
       <div class="notice">
         <p>{{ notice.notice | markdownify | safe  }}</p>
       </div>
     {% endif %}
+    <!-- page header -->
     <header>
       <a href="/"><img eleventy:ignore src="{{ header.navlogo }}" alt="{{ settings.name }}" /></a>
       <nav aria-label="Main">
@@ -42,7 +44,9 @@
       </nav>
       <img src="/assets/img/michelin-2024.png" alt="Michelin 2024" class="michelin">
     </header>
+    <!-- main content -->
     <main>
+      <!-- main content header -->
       <header>
         <img src="{{ headerimage | default(header.image) }}" alt="{{ title }}" class="hero" />
         {% if title == 'Home'  %}
@@ -53,10 +57,37 @@
         </h1>
         {% endif %}
       </header>
+      <!-- main content sections / panels -->
+      {% if sections %}
+        <div class="main-content">{% for section in sections %}
+          <section class="section-panel">
+            <div class="image">
+              {% if section.url %}<a href="{{ section.url }}">{% endif %}
+                <img src="{{ section.sectionimage }}" alt="{{ section.title }}">
+              {% if section.url %}</a>{% endif %}
+            </div>
+            <div class="title">
+              {% if section.url %}<a href="{{ section.url }}">{% endif %}
+                <h2>{{ section.title }}</h2>
+              {% if section.url %}</a>{% endif %}
+            </div>
+            <div class="text">
+              {% if section.url %}<a href="{{ section.url }}">{% endif %}
+                {{ section.body | safe }}
+              {% if section.url %}</a>{% endif %}
+              {% if section.cta and section.url %}
+              <a href="{{ section.url }}" class="cta">{{section.cta}}</a>
+              {% endif %}
+            </div>
+          </section>{% endfor %}          
+        </div>
+      {% endif %}
 
+      <!-- main content body -->
       {{ content | safe }}
 
     </main>
+    <!-- footer -->
     <footer>     
       <div class="logo-address">
         <svg width="130" height="83" viewBox="0 0 130 83" fill="none" xmlns="http://www.w3.org/2000/svg">
