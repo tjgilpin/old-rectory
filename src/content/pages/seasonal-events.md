@@ -82,17 +82,11 @@ Available to Book From 1st Dec until 22nd Dec
 
 · Sage and onion stuffing balls
 
-· Roast potatoes
+· Roast potatoes · Cauliflower cheese
 
-· Cauliflower cheese
+· Sprouts, chestnuts and leek crea · Honey glazed roasted roots
 
-· Sprouts, chestnuts and leek cream
-
-· Honey glazed roasted roots
-
-· Steamed winter greens
-
-· Gravy jugs
+· Steamed winter greens · Gravy jugs
 
 **Pudding:**
 
