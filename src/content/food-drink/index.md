@@ -1,6 +1,5 @@
 ---
 hide: false
-headerimage: /assets/img/hero-image-food-drink.jpg
 additional:
   show: true
 slug: /food-drink/
@@ -33,9 +32,10 @@ sections:
       reflect in our food offering.
     url: seasonal-events
     cta: View Menus & Book
+headerimage: /assets/img/hero-image-food-drink.jpg
 order: 30
 title: Food & Drink
 template: Panel Image Background
 pageslug: food-drink
-type: page
+type: index
 ---
