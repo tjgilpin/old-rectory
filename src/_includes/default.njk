@@ -58,8 +58,9 @@
         {% endif %}
       </header>
       <!-- main content sections / panels -->
-      {% if sections %}
-        <div class="main-content">{% for section in sections %}
+      <div class="main-content">
+        {% if sections %}
+          {% for section in sections %}
           <section class="section-panel">
             <div class="image">
               {% if section.url %}<a href="{{ section.url }}">{% endif %}
@@ -79,25 +80,33 @@
               <a href="{{ section.url }}" class="cta">{{section.cta}}</a>
               {% endif %}
             </div>
-          </section>{% endfor %}          
-        </div>
-      {% endif %}
+          </section>
+          {% endfor %}          
+        {% endif %}
 
-      <!-- main content sections / panels -->
-      {% if menus %}
-        <div class="main-content">{% for menu in menus %}
+        <!-- menu content sections / panels -->
+        {% if menus %}
+          {% for menu in menus %}
           <section class="menu-panel">
             <h2>{{ menu.heading }}</h2>
             <h3>{{ menu.subheading }}</h3>
-            {{ content | markdownify | safe }}
+            {{ menu.content | markdownify | safe }}
 
-          </section>{% endfor %}          
+          </section>
+          {% endfor %}          
+        {% endif %}
+        {% if gallery %}
+        <div class="gallery-wrapper">
+          <div class="gallery">
+            <ul>
+              {% for item in gallery %}
+                <li><img src="{{ item.image }}" alt="{{ title }} Gallery Photo"></li>
+              {% endfor %}
+            </ul>
+          </div>
         </div>
-      {% endif %}      
-
-      <!-- main content body -->
-      {{ content | safe }}
-
+        {% endif %}          
+      </div>
     </main>
     <!-- footer -->
     <footer>     
