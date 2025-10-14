@@ -26,7 +26,6 @@ Available to Book From 1st Dec until 22nd Dec
 ## Decadent Dinner Party Christmas Menu - £70 per person
 
 <div class="menu">
-<div class="menu-col">
 
 **Arrival nibbles**
 
@@ -70,8 +69,9 @@ Available to Book From 1st Dec until 22nd Dec
 
 ## Yuletide Cafe Menu - £40 per person
 
+</div>\
 <div class="menu">
-<div class="menu-col">
+
 
 **Main plates:**
 
