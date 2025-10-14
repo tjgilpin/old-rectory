@@ -933,8 +933,10 @@ p:has(button) a {
     flex-basis: 100%;
   }
 
-
-
+  .gallery li:last-child:nth-child(3n+5),
+  .gallery li:nth-last-child(2):nth-child(3n+4) {
+    flex-basis: 50%;
+  }
 
   .page_gallery .content_gallery {
     order: -1;
