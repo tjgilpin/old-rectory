@@ -1,5 +1,5 @@
 ---
-type: subpage
+type: page
 parent_page: Food & Drink
 parent_slug: food-drink
 title: Breakfast

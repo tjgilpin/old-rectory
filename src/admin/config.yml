@@ -120,7 +120,37 @@ collections:
     label: "Food & Drink Pages"
     folder: "src/content/food-drink"
     create: true  # Allow adding new pages
+    filter: {field: "type", value: "page"}    
     fields:
+      - { label: "Page Type", name: "type", widget: "select", options: ["page", "index"] }    
+      - { label: "Page Title", name: "title", widget: "string" }
+      - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
+      - { label: "Content", name: "body", widget: "markdown", required: false }
+      - label: Gallery Images
+        name: gallery
+        widget: list
+        required: false
+        fields:
+          - { label: "Gallery Image", name: image, widget: image }
+      - { label: URL, name: url, widget: string, required: false }
+      - { label: "Link Text", name: "cta", widget: string, required: false }
+      - { label: URL Secondary, name: url_secondary, widget: string, required: false }
+      - { label: "Link Secondary Text", name: "cta_secondary", widget: string, required: false }
+      - label: Additional Options 
+        name: additional
+        widget: object
+        collapsed: true   # 👈 collapsed by default
+        fields:
+          - { label: "Slug", name: "slug", widget: "string", hint: Customise page URL, required: false }      
+          - { label: "Show in Navigation", name: "show", widget: "boolean", default: true, required: false }
+          - { label: "Navigation Order", name: "order", widget: "number", default: 10, required: false }
+  - name: "food-drink-index"
+    label: "Food & Drink Index Page"
+    folder: "src/content/food-drink"
+    create: true  # Allow adding new pages
+    filter: {field: "type", value: "index"}    
+    fields:
+      - { label: "Page Type", name: "type", widget: "select", options: ["page", "index"] }    
       - { label: "Page Title", name: "title", widget: "string" }
       - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
       - { label: "Content", name: "body", widget: "markdown", required: false }
@@ -151,7 +181,7 @@ collections:
         fields:
           - { label: "Slug", name: "slug", widget: "string", hint: Customise page URL, required: false }      
           - { label: "Show in Navigation", name: "show", widget: "boolean", default: true, required: false }
-          - { label: "Navigation Order", name: "order", widget: "number", default: 10, required: false }
+          - { label: "Navigation Order", name: "order", widget: "number", default: 10, required: false }          
   # Treatment Rooms Pages Collection (Folder-Based)
   - name: "treatment-rooms"
     label: "Treatment Rooms Pages"
