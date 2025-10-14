@@ -6,9 +6,10 @@ title: Seasonal Events
 headerimage: /assets/img/10-dsc06655.jpg
 gallery:
   - image: /assets/img/seasonal-xmas.jpg
-  - image: /assets/img/page5.jpg
-  - image: /assets/img/page3.jpg
+  - image: /assets/img/page6.jpg
   - image: /assets/img/page1.jpg
+  - image: /assets/img/page3.jpg
+  - image: /assets/img/page5.jpg
 url: ""
 cta: ""
 hide: true
