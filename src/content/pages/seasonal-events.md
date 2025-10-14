@@ -66,14 +66,9 @@ Available to Book From 1st Dec until 22nd Dec
 
 **Coffee & Mince Pies**
 
-
-
-</div>
-<div class="menu-col">
-
 <hr/>
 
-### Yuletide Café Menu - £40 per person
+## Yuletide Cafe Menu - £40 per person
 
 <div class="menu">
 <div class="menu-col">
