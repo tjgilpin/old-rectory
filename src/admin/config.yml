@@ -124,6 +124,14 @@ collections:
       - { label: "Page Title", name: "title", widget: "string" }
       - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
       - { label: "Content", name: "body", widget: "markdown", required: false }
+      - label: Menus
+        name: menus
+        widget: list
+        required: false
+        fields:
+          - { label: Menu Heading, name: heading, widget: string, required: false }            
+          - { label: Menu Sub Heading, name: subheading, widget: string, required: false }            
+          - { label: Content, name: content, widget: markdown }
       - label: Sections
         name: sections
         widget: list

@@ -13,7 +13,7 @@ cta: Call to Book Sunday Lunch
 url_secondary: mailto:info@theoldrectoryhastings.co.uk
 cta_secondary: Email to Book Sunday Lunch
 type: subpage
-menu:
+menus:
   - content: >-
       **Starter**
 

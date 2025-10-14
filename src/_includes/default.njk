@@ -83,6 +83,18 @@
         </div>
       {% endif %}
 
+      <!-- main content sections / panels -->
+      {% if menus %}
+        <div class="main-content">{% for menu in menus %}
+          <section class="menu-panel">
+            <h2>{{ menu.heading }}</h2>
+            <h3>{{ menu.subheading }}</h3>
+            {{ content | markdownify | safe }}
+
+          </section>{% endfor %}          
+        </div>
+      {% endif %}      
+
       <!-- main content body -->
       {{ content | safe }}
 
