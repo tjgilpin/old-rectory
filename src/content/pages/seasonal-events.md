@@ -69,9 +69,8 @@ Available to Book From 1st Dec until 22nd Dec
 
 ## Yuletide Cafe Menu - £40 per person
 
-</div>\
+</div>
 <div class="menu">
-
 
 **Main plates:**
 
