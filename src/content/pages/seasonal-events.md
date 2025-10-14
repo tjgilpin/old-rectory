@@ -14,13 +14,11 @@ cta: ""
 hide: true
 template: Panel Image Background
 ---
-**Christmas Parties at The Old Rectory**
+## **Christmas Parties at The Old Rectory**
 
-Available to Book
+Available to Book From 1st Dec until 22nd Dec
 
-From 1st Dec until 22nd Dec
-
-All parties are for a minimum of 12 people
+**All parties are for a minimum of 12 people**
 
 <hr/>
 
