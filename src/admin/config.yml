@@ -32,77 +32,6 @@ collections:
         widget: object
         collapsed: true   # 👈 collapsed by default
         fields:
-          - { label: "Slug", name: "slug", widget: "string", hint: Customise page URL, required: false }      
-          - { label: "Show in Navigation", name: "show", widget: "boolean", default: true, required: false }
-          - { label: "Navigation Order", name: "order", widget: "number", default: 10, required: false }
-  # Pages Collection (Folder-Based)
-  - name: "pages"
-    label: "Pages"
-    folder: "src/content/pages"
-    create: true  # Allow adding new pages
-    fields:
-      - { label: "Page Title", name: "title", widget: "string" }
-      - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
-      - { label: "Content", name: "body", widget: "markdown", required: false }
-      - label: Sections
-        name: sections
-        widget: list
-        required: false
-        fields:
-          - { label: Section Title, name: title, widget: string, required: false }            
-          - { label: Section Image, name: sectionimage, widget: image }              
-          - { label: Content, name: body, widget: markdown, required: false }
-          - { label: URL, name: url, widget: string, required: false }
-          - { label: Link Text, name: cta, widget: string, required: false }
-      - label: Gallery Images
-        name: gallery
-        widget: list
-        required: false
-        fields:
-          - { label: "Gallery Image", name: image, widget: image }
-      - label: Additional Options 
-        name: additional
-        widget: object
-        collapsed: true   # 👈 collapsed by default
-        fields:
-          - { label: "Slug", name: "slug", widget: "string", hint: Customise page URL, required: false }      
-          - { label: "Show in Navigation", name: "show", widget: "boolean", default: true, required: false }
-          - { label: "Navigation Order", name: "order", widget: "number", default: 10, required: false }
-  # Wedding Pages Collection (Folder-Based)
-  - name: "wedding"
-    label: "Wedding Pages"
-    folder: "src/content/weddings"
-    create: true  # Allow adding new pages
-    fields:
-      - { label: "Page Title", name: "title", widget: "string" }
-      - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
-      - { label: "Content", name: "body", widget: "markdown", required: false }
-      - label: Sections
-        name: sections
-        widget: list
-        required: false
-        fields:
-          - { label: Section Title, name: title, widget: string, required: false }            
-          - { label: Section Image, name: sectionimage, widget: image }              
-          - { label: Content, name: body, widget: markdown, required: false }
-          - { label: URL, name: url, widget: string, required: false }
-          - { label: Link Text, name: cta, widget: string, required: false }
-      - label: Gallery Images
-        name: gallery
-        widget: list
-        required: false
-        fields:
-          - { label: "Gallery Image", name: image, widget: image }
-      - { label: URL, name: url, widget: string, required: false }
-      - { label: "Link Text", name: "cta", widget: string, required: false }
-      - { label: URL Secondary, name: url_secondary, widget: string, required: false }
-      - { label: "Link Secondary Text", name: "cta_secondary", widget: string, required: false }
-      - label: Additional Options 
-        name: additional
-        widget: object
-        collapsed: true   # 👈 collapsed by default
-        fields:
-          - { label: "Slug", name: "slug", widget: "string", hint: Customise page URL, required: false }      
           - { label: "Show in Navigation", name: "show", widget: "boolean", default: true, required: false }
           - { label: "Navigation Order", name: "order", widget: "number", default: 10, required: false }
   # Rooms Pages Collection (Folder-Based)
@@ -159,6 +88,43 @@ collections:
           - { label: Menu Heading, name: heading, widget: string, required: false }            
           - { label: Menu Sub Heading, name: subheading, widget: string, required: false }            
           - { label: Content, name: content, widget: markdown }
+      - label: Sections
+        name: sections
+        widget: list
+        required: false
+        fields:
+          - { label: Section Title, name: title, widget: string, required: false }            
+          - { label: Section Image, name: sectionimage, widget: image }              
+          - { label: Content, name: body, widget: markdown, required: false }
+          - { label: URL, name: url, widget: string, required: false }
+          - { label: Link Text, name: cta, widget: string, required: false }
+      - label: Gallery Images
+        name: gallery
+        widget: list
+        required: false
+        fields:
+          - { label: "Gallery Image", name: image, widget: image }
+      - { label: URL, name: url, widget: string, required: false }
+      - { label: "Link Text", name: "cta", widget: string, required: false }
+      - { label: URL Secondary, name: url_secondary, widget: string, required: false }
+      - { label: "Link Secondary Text", name: "cta_secondary", widget: string, required: false }
+      - label: Additional Options 
+        name: additional
+        widget: object
+        collapsed: true   # 👈 collapsed by default
+        fields:
+          - { label: "Slug", name: "slug", widget: "string", hint: Customise page URL, required: false }      
+          - { label: "Show in Navigation", name: "show", widget: "boolean", default: true, required: false }
+          - { label: "Navigation Order", name: "order", widget: "number", default: 10, required: false }               
+  # Wedding Pages Collection (Folder-Based)
+  - name: "wedding"
+    label: "Wedding Pages"
+    folder: "src/content/weddings"
+    create: true  # Allow adding new pages
+    fields:
+      - { label: "Page Title", name: "title", widget: "string" }
+      - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
+      - { label: "Content", name: "body", widget: "markdown", required: false }
       - label: Sections
         name: sections
         widget: list
@@ -261,7 +227,40 @@ collections:
           - { label: "Slug", name: "slug", widget: "string", hint: Customise page URL, required: false }      
           - { label: "Show in Navigation", name: "show", widget: "boolean", default: true, required: false }
           - { label: "Navigation Order", name: "order", widget: "number", default: 10, required: false }
-  - label: "Settings & Footer Content"
+  # Pages Collection (Folder-Based)
+  - name: "pages"
+    label: "Other Pages"
+    folder: "src/content/pages"
+    create: true  # Allow adding new pages
+    fields:
+      - { label: "Page Title", name: "title", widget: "string" }
+      - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
+      - { label: "Content", name: "body", widget: "markdown", required: false }
+      - label: Sections
+        name: sections
+        widget: list
+        required: false
+        fields:
+          - { label: Section Title, name: title, widget: string, required: false }            
+          - { label: Section Image, name: sectionimage, widget: image }              
+          - { label: Content, name: body, widget: markdown, required: false }
+          - { label: URL, name: url, widget: string, required: false }
+          - { label: Link Text, name: cta, widget: string, required: false }
+      - label: Gallery Images
+        name: gallery
+        widget: list
+        required: false
+        fields:
+          - { label: "Gallery Image", name: image, widget: image }
+      - label: Additional Options 
+        name: additional
+        widget: object
+        collapsed: true   # 👈 collapsed by default
+        fields:
+          - { label: "Slug", name: "slug", widget: "string", hint: Customise page URL, required: false }      
+          - { label: "Show in Navigation", name: "show", widget: "boolean", default: true, required: false }
+          - { label: "Navigation Order", name: "order", widget: "number", default: 10, required: false }          
+  - label: "Settings"
     name: "settings"
     editor:
       preview: false
