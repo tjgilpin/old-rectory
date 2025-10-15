@@ -1,9 +1,5 @@
 ---
-type: page
 title: Treatment Rooms
-gallery: []
-hide: false
-slug: treatment-rooms
 headerimage: /assets/img/treatment-rooms-header-1600x900.jpg
 sections:
   - title: Gift Vouchers
@@ -55,7 +51,5 @@ sections:
       Bridal packages
     cta: Prices & Booking
     url: packages
-order: 100
-template: Panel Image Background
 ---
 Established in 2017, the Treatment Rooms offer a range of wellness and beauty therapies in a calm and tranquil setting. Bookings are open to the public, as well as to guests of The Old Rectory.

@@ -8,6 +8,33 @@ backend:
 media_folder: src/assets/img
 public_folder: /assets/img
 collections:
+  # Index Collection (Folder-Based)
+  - name: "index"
+    label: "Index Pages"
+    folder: "src/content/index"
+    create: true  # Allow adding new pages
+    fields:
+      - { label: "Page Title", name: "title", widget: "string" }
+      - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
+      - { label: "Content", name: "body", widget: "markdown", required: false }
+      - label: Sections
+        name: sections
+        widget: list
+        required: false
+        fields:
+          - { label: Section Title, name: title, widget: string, required: false }            
+          - { label: Section Image, name: sectionimage, widget: image }              
+          - { label: Content, name: body, widget: markdown, required: false }
+          - { label: URL, name: url, widget: string, required: false }
+          - { label: Link Text, name: cta, widget: string, required: false }
+      - label: Additional Options 
+        name: additional
+        widget: object
+        collapsed: true   # 👈 collapsed by default
+        fields:
+          - { label: "Slug", name: "slug", widget: "string", hint: Customise page URL, required: false }      
+          - { label: "Show in Navigation", name: "show", widget: "boolean", default: true, required: false }
+          - { label: "Navigation Order", name: "order", widget: "number", default: 10, required: false }
   # Pages Collection (Folder-Based)
   - name: "pages"
     label: "Pages"

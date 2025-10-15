@@ -13,19 +13,17 @@ export default function() {
       }
       slug = this.slugify(slug);
       if (section === 'pages') {
-        if (file === 'index') {
-          return '/index.html'; // Home page
-        }
-        else {
-          return `/${slug}/index.html`; // Other pages in pages folder
+        return `/${slug}/index.html`; // Pages at root level
+      }
+      if (section === 'index') {
+        if (file === 'home') {
+          return `/index.html`; // Section index pages
+        } else {        
+          return `/${file}/index.html`; // Index page
         }
       }
       else {
-        if (file === 'index') {
-          return `/${section}/index.html`; // Section index pages
-        } else {
-          return `/${section}/${slug}/index.html`; // Other pages in section folders
-        }
+        return `/${section}/${slug}/index.html`; // Other pages in section folders
       }
     },
     eleventyComputed: {
