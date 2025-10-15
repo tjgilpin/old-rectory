@@ -17,9 +17,9 @@ export default function() {
       }
       if (section === 'index') {
         if (file === 'home') {
-          return `/index.html`; // Section index pages
+          return `/index.html`; // Index page
         } else {        
-          return `/${file}/index.html`; // Index page
+          return `/${file}/index.html`; // Section index pages
         }
       }
       else {
@@ -28,7 +28,7 @@ export default function() {
     },
     eleventyComputed: {
       eleventyNavigation: data => {
-        // Check if the page has `eleventyNavigation.hide` set to `true`
+        // Check if the page has `eleventyNavigation.show` set to `true`
         if (data.additional && data.additional.show) {
           return {
             key: data.title,
@@ -39,6 +39,13 @@ export default function() {
         }
       }
     },
+    eleventyComputed: {
+      type: data => {
+        const path = data.page.filePathStem;
+        const parts = path.split("/");
+        return parts[2];
+      }
+    },    
     layout: "default.njk", 
   }
 }
