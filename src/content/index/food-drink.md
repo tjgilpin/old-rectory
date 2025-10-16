@@ -1,6 +1,6 @@
 ---
-additional:
-  show: true
+title: Food & Drink
+headerimage: /assets/img/hero-image-food-drink.jpg
 sections:
   - title: Sunday Lunch
     sectionimage: /assets/img/29-dsc06565.jpg
@@ -30,6 +30,7 @@ sections:
       reflect in our food offering.
     url: seasonal-events
     cta: View Menus & Book
-headerimage: /assets/img/hero-image-food-drink.jpg
-title: Food & Drink
+additional:
+  show: true
+  order: 30
 ---
