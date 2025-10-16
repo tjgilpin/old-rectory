@@ -71,6 +71,7 @@ collections:
           - { label: "Slug", name: "slug", widget: "string", hint: Customise page URL, required: false }      
           - { label: "Show in Navigation", name: "show", widget: "boolean", default: true, required: false }
           - { label: "Navigation Order", name: "order", widget: "number", default: 10, required: false }
+          - { label: "Remove Category from URL", name: "shorterurl", widget: "boolean", default: false, required: false, hint: Remove /rooms/ from URL }
   # Food & Drink Pages Collection (Folder-Based)
   - name: "food-drink"
     label: "Food & Drink Pages"
@@ -115,7 +116,8 @@ collections:
         fields:
           - { label: "Slug", name: "slug", widget: "string", hint: Customise page URL, required: false }      
           - { label: "Show in Navigation", name: "show", widget: "boolean", default: true, required: false }
-          - { label: "Navigation Order", name: "order", widget: "number", default: 10, required: false }               
+          - { label: "Navigation Order", name: "order", widget: "number", default: 10, required: false }
+          - { label: "Remove Category from URL", name: "shorterurl", widget: "boolean", default: false, required: false, hint: Remove /food-drink/ from URL }
   # Wedding Pages Collection (Folder-Based)
   - name: "wedding"
     label: "Wedding Pages"

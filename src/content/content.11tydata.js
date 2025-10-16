@@ -22,6 +22,9 @@ export default function() {
           return `/${file}/index.html`; // Section index pages
         }
       }
+      if (data.additional && data.additional.shorterurl === true) {
+        return `/${slug}/index.html`; // Remove section / category from URL
+      }      
       else {
         return `/${section}/${slug}/index.html`; // Other pages in section folders
       }
@@ -29,7 +32,7 @@ export default function() {
     eleventyComputed: {
       eleventyNavigation: data => {
         // Check if the page has `eleventyNavigation.show` set to `true`
-        if (data.additional && data.additional.show) {
+        if (data.additional && data.additional.show === true) {
           return {
             key: data.title,
             order: data.additional.order || 0,
@@ -37,15 +40,13 @@ export default function() {
         } else {
           return undefined; // Exclude from navigation
         }
-      }
-    },
-    eleventyComputed: {
+      },
       type: data => {
         const path = data.page.filePathStem;
         const parts = path.split("/");
         return parts[2];
       }
-    },    
+    },
     layout: "default.njk", 
   }
 }
