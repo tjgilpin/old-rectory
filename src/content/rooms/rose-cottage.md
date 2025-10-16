@@ -10,6 +10,8 @@ gallery:
   - image: /assets/img/rose-cottage-5.jpg
   - image: /assets/img/rose-cottage-6.jpg
 order: 20
+additional:
+  shorterurl: true
 ---
 ## A charming fisherman’s cottage in the heart of Hastings Old Town.
 
