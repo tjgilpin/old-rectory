@@ -51,5 +51,8 @@ sections:
       Bridal packages
     cta: Prices & Booking
     url: packages
+additional:
+  show: true
+  order: 50
 ---
 Established in 2017, the Treatment Rooms offer a range of wellness and beauty therapies in a calm and tranquil setting. Bookings are open to the public, as well as to guests of The Old Rectory.
