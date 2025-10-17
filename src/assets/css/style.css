@@ -1352,3 +1352,16 @@ main header {
     grid-column: 2 / 3;  
   }
 }
+
+/* upcoming event cards */
+.card-panel {
+  display: grid;
+  aspect-ratio: 15/9;
+  position: relative;
+  justify-content: center;
+}
+
+.card-image, .card-panel .image {
+  position: absolute;
+  z-index: -1;
+}
