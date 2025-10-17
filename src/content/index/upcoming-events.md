@@ -3,11 +3,11 @@ title: Upcoming Events
 sections:
   - title: Christmas Wreath Workshop
     sectionimage: /assets/img/upcoming-events-wreath-900x450.jpg
-    body: Make your own wreath
+    body: "**Make your own wreath**"
     cta: Book Now
-    url: mailto:timgilpin@gmail.com
+    url: /
   - sectionimage: /assets/img/upcoming-events-dexter-900x450.jpg
-    body: Autumn / Winter 2025
+    body: "**Autumn / Winter 2025**"
     url: /
     cta: View Package
     title: The Great Dexter Experience
