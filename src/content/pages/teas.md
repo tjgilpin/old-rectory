@@ -16,7 +16,7 @@ hide: true
 ---
 All of our Teas are served with loose leaf tea and cafetiere coffee. Prosecco, Champagne or English Sparkling wine can also be added; this can be pre-ordered as a welcoming surprise or on the day if the mood takes you! 
 
-We ask that all teas are booked in advance to ensure we are properly prepared to host you; this can be done via email or over the phone. Groups of 6 or more may be asked to pay a small deposit ahead of their booking. 
+We ask that all teas are booked in advance to ensure we are properly prepared to host you; this can be done via email or over the phone. Groups of 6 or more may be asked to pay a small deposit ahead of their booking. We do ask that teas are served in pairs & all teas can be adapted to suit a wide range of dietary requirements and allergies. 
 
 Our Teas are a great way to cater for small events such as Baby Showers, for more information email info@theoldrectoryhastings.co.uk.
 
