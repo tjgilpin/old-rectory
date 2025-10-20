@@ -1421,6 +1421,21 @@ main header {
   grid-area: 3 / 1 / 4 / 2;  
 }
 
+.card-tag {
+  position: absolute;
+  background: var(--mustard);
+  left: -0.75em;
+  top: 1em;
+  color: var(--white);
+  padding: 0.25em 0.5em;
+}
+
 .card-cta a {
   text-decoration: none;
+}
+
+.small-caps {
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  font-size: 0.75em;
 }
