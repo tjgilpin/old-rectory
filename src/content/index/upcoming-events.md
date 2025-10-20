@@ -6,6 +6,7 @@ sections:
     body: "**Make your own wreath**"
     cta: Book Now
     url: /
+    tag: 12th December
   - sectionimage: /assets/img/upcoming-events-dexter-900x450.jpg
     body: "**Autumn / Winter 2025**"
     url: /
