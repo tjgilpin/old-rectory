@@ -1354,14 +1354,73 @@ main header {
 }
 
 /* upcoming event cards */
+
+.card-wrapper {
+  display: grid;
+  gap: 1rem;
+}
+
+@media screen and (min-width: 900px) {
+  .card-wrapper {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
 .card-panel {
   display: grid;
   aspect-ratio: 15/9;
   position: relative;
   justify-content: center;
+  grid-template-columns: 1fr;
+  grid-template-rows: 3fr 2fr 1fr;
+  text-align: center;
 }
 
-.card-image, .card-panel .image {
-  position: absolute;
+.card-panel > div:not(.card-image) {
+  padding: 0 1em 0 1em;
+}
+
+.card-image {
+  grid-area: 1 / 1 / 4 / 2;
   z-index: -1;
+  height: 100%;
+}
+
+.card-image img[width][height] {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+
+.card-title {
+  grid-area: 1 / 1 / 2 / 2;
+  place-self: end center;
+  padding-top: 1em;
+}
+
+.card-text {
+  grid-area: 2 / 1 / 3 / 2;
+  place-self: start center;
+  text-transform: uppercase;
+}
+
+.card-panel a {
+  color: var(--white);
+  text-decoration: none;
+}
+
+.card-panel h2 {
+  text-transform: uppercase;
+  color: var(--white);
+  border-bottom: 2px solid var(--white);
+  margin-bottom: 0;
+  padding-bottom: 0.25em;  
+}
+
+.card-cta {
+  grid-area: 3 / 1 / 4 / 2;  
+}
+
+.card-cta a {
+  text-decoration: none;
 }
