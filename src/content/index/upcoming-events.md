@@ -30,6 +30,7 @@ sections:
     tag: From 1st - 20th December
     url: /
     cta: Book Now
+    darktext: true
 additional:
   show: true
   order: 70
