@@ -1423,7 +1423,7 @@ main header {
   color: var(--white);
   border-bottom: 2px solid var(--white);
   margin-bottom: 0;
-  padding-bottom: 0.25em;  
+  display: inline;
 }
 
 .card-cta {
@@ -1434,17 +1434,23 @@ main header {
   position: absolute;
   background: var(--mustard);
   left: -0.75em;
-  top: 1em;
+  top: 0.5em;
   color: var(--blue);
   padding: 0.25em 0.5em;
 }
 
-.card-cta a {
+.card-cta p {
   text-decoration: none;
+  background: var(--blue);
+  color: var(--white);
+  display: inline;
+  padding: 0.5em 1em;
+  border: 2px solid var(--white);
 }
 
-.dark-text > p, .dark-text > h2  {
+.card-panel.dark-text .card-text p, .card-panel.dark-text .card-title h2  {
   color: var(--blue);
+  border-color: var(--blue);
 }
 
 /* utility classes */

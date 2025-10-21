@@ -79,7 +79,7 @@
                 {% if section.tag %}<span class="card-tag small-caps">{{section.tag}}</span>{% endif %}
                 {{ section.body | markdownify | safe }}
               </div>
-              <div class="card-cta">{{section.cta}}</div>
+              <div class="card-cta small-caps"><p>{{section.cta}}</p></div>
             </section>
             {% if section.url %}</a>{% endif %}
           {% endfor %}
