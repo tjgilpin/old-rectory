@@ -12,6 +12,24 @@ sections:
     url: /
     cta: View Package
     title: The Great Dexter Experience
+  - title: Winter Fair Weekend
+    sectionimage: /assets/img/upcoming-events-winterfair-900x540.jpg
+    body: |-
+      **Shop • Eat • Drink**
+
+      Sat 11am - 5pm, Sun 10am - 4pm
+    tag: 6th & 7th December
+    url: /
+    cta: Event Details
+  - title: Christmas Parties at the Old Rectory
+    sectionimage: /assets/img/upcoming-events-xmas-900x540.jpg
+    body: |-
+      **Available to Book Now**
+
+      Minimum 12 people
+    tag: From 1st - 20th December
+    url: /
+    cta: Book Now
 additional:
   show: true
   order: 70
