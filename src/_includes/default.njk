@@ -66,33 +66,22 @@
         {% if sections %}
           <div class="card-wrapper">
           {% for section in sections %}
+            {% if section.url %}<a href="{{ section.url }}">{% endif %}
             <section class="{% if pagetitle == 'upcoming-events' %}card-panel{% else %}section-panel{% endif %}">
               <div class="{% if pagetitle == 'upcoming-events' %}card-image{% else %}image{% endif %}">
-                {% if section.url %}<a href="{{ section.url }}">{% endif %}
-                  <img src="{{ section.sectionimage }}" alt="{{ section.title }}">
-                {% if section.url %}</a>{% endif %}
+                <img src="{{ section.sectionimage }}" alt="{{ section.title }}">
               </div>
               <div class="{% if pagetitle == 'upcoming-events' %}card-{% endif %}title">
-                {% if section.url %}<a href="{{ section.url }}">{% endif %}
-                  <h2>{{ section.title }}</h2>
-                {% if section.url %}</a>{% endif %}
+                <h2>{{ section.title }}</h2>
               </div>
               <div class="{% if pagetitle == 'upcoming-events' %}card-{% endif %}text">
                 {% if section.subtitle %}<h3>{{ section.subtitle }}</h3>{% endif %}
-                {% if section.date %}<span>{{ section.date }}</span>{% endif %}
-                {% if section.url %}<a href="{{ section.url }}">{% endif %}
-                  {{ section.body | markdownify | safe }}
-                {% if section.url %}</a>{% endif %}
+                {% if section.tag %}<span class="card-tag small-caps">{{section.tag}}</span>{% endif %}
+                {{ section.body | markdownify | safe }}
               </div>
-              {% if section.cta and section.url %}
-                <div class="card-cta">
-                    <a href="{{ section.url }}" class="cta">{{section.cta}}</a>
-                </div>
-              {% endif %}
-              {% if section.tag %}
-                <span class="card-tag small-caps">{{section.tag}}</span>
-              {% endif %}
+              <div class="card-cta">{{section.cta}}</div>
             </section>
+            {% if section.url %}</a>{% endif %}
           {% endfor %}
           </div>
         {% endif %}

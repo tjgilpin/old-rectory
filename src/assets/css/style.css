@@ -1366,6 +1366,10 @@ main header {
   }
 }
 
+.card-wrapper a {
+  text-decoration: none;
+}
+
 .card-panel {
   display: grid;
   aspect-ratio: 15/9;
@@ -1402,6 +1406,11 @@ main header {
   grid-area: 2 / 1 / 3 / 2;
   place-self: start center;
   text-transform: uppercase;
+}
+
+.card-text p {
+  color: var(--white);
+  text-decoration: none;
 }
 
 .card-panel a {
