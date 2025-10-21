@@ -28,6 +28,7 @@ collections:
           - { label: Events Date Tag, name: tag, widget: string, required: false }
           - { label: URL, name: url, widget: string, required: false }
           - { label: Link Text, name: cta, widget: string, required: false }
+          - { label: "Dark Text", name: "darktext", widget: "boolean", default: false, required: false, hint: Use dark text on light upcoming events image backgrounds }
       - label: Additional Options 
         name: additional
         widget: object

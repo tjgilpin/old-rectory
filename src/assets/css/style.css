@@ -1443,6 +1443,12 @@ main header {
   text-decoration: none;
 }
 
+.dark-text > p, .dark-text > h2  {
+  color: var(--blue);
+}
+
+/* utility classes */
+
 .small-caps {
   letter-spacing: 0.25em;
   text-transform: uppercase;
