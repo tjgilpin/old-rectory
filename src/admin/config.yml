@@ -29,19 +29,19 @@ collections:
           - { label: "Dark Text", name: "darktext", widget: "boolean", default: false, required: false, hint: Use dark text on light upcoming events image backgrounds }
           - { label: Link Text, name: cta, widget: string, required: false }
           - label: "Rooms Link"
-            name: "link_rooms"
+            name: "linkrooms"
             widget: "relation"
             collection: "rooms"
             search_fields: ["title"]
-            value_field: "slug"
+            value_field: "title"
             display_fields: ["title"]
             required: false
           - label: "Treatment Rooms Link"
-            name: "link_treatment-rooms"
+            name: "linktreatmentrooms"
             widget: "relation"
             collection: "treatment-rooms"
             search_fields: ["title"]
-            value_field: "slug"
+            value_field: "title"
             display_fields: ["title"]
             required: false
       - label: Additional Options 
