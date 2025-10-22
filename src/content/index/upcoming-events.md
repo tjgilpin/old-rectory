@@ -1,14 +1,16 @@
 ---
 title: Upcoming Events
 sections:
-  - title: Christmas Wreath Workshop
-    sectionimage: /assets/img/upcoming-events-wreath-900x450.jpg
-    body: "**Make your own wreath**"
-    cta: Book Now
+  - body: "**Make your own wreath**"
     url: /
-    tag: 12th December
+    cta: Book Now
     link_rooms: rose-cottage
+    sectionimage: /assets/img/upcoming-events-wreath-900x450.jpg
+    title: Christmas Wreath Workshop
+    tag: 12th December
+    linktreatmentrooms: hands-feet
     link_treatment-rooms: hands-feet
+    linkrooms: rose-cottage
   - sectionimage: /assets/img/upcoming-events-dexter-900x450.jpg
     body: "**Autumn / Winter 2025**"
     url: /
