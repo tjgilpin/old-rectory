@@ -63,6 +63,11 @@
         <div class="page_copy">
           {{ content | safe }}
         </div>  
+        <p>
+          {% if pagesection == 'index' %}
+            collection is: {{ pagefile }}
+          {% endif %}
+        </p>
         {% if sections %}
           <div class="card-wrapper">
           {% for section in sections %}
