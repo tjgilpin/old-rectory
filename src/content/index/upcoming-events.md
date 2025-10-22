@@ -7,8 +7,8 @@ sections:
     cta: Book Now
     url: /
     tag: 12th December
-    link_rooms: rose-cottage
-    link_treatment-rooms: hands-feet
+    link_rooms: ""
+    link_treatment-rooms: ""
   - sectionimage: /assets/img/upcoming-events-dexter-900x450.jpg
     body: "**Autumn / Winter 2025**"
     url: /
