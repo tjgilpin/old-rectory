@@ -12,7 +12,7 @@ collections:
   - name: "index"
     label: "Index Pages"
     folder: "src/content/index"
-    create: true  # Allow adding new pages
+    create: false # Don't allow adding new pages
     fields:
       - { label: "Page Title", name: "title", widget: "string" }
       - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
@@ -26,9 +26,24 @@ collections:
           - { label: Section Image, name: sectionimage, widget: image }              
           - { label: Content, name: body, widget: markdown, required: false }
           - { label: Events Date Tag, name: tag, widget: string, required: false }
-          - { label: URL, name: url, widget: string, required: false }
-          - { label: Link Text, name: cta, widget: string, required: false }
           - { label: "Dark Text", name: "darktext", widget: "boolean", default: false, required: false, hint: Use dark text on light upcoming events image backgrounds }
+          - { label: Link Text, name: cta, widget: string, required: false }
+          - label: "Rooms Link"
+            name: "link_rooms"
+            widget: "relation"
+            collection: "rooms"
+            search_fields: ["title"]
+            value_field: "slug"
+            display_fields: ["title"]
+            required: false
+          - label: "Treatment Rooms Link"
+            name: "link_treatment-rooms"
+            widget: "relation"
+            collection: "treatment-rooms"
+            search_fields: ["title"]
+            value_field: "slug"
+            display_fields: ["title"]
+            required: false
       - label: Additional Options 
         name: additional
         widget: object

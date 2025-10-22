@@ -45,7 +45,8 @@ export default function() {
         const path = data.page.filePathStem;
         const parts = path.split("/");
         return parts[2];
-      }
+      },
+      slug: data => data.additional && data.additional.slug ? data.additional.slug : data.title
     },
     layout: "default.njk", 
   }
