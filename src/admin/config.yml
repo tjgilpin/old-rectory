@@ -29,19 +29,43 @@ collections:
           - { label: "Dark Text", name: "darktext", widget: "boolean", default: false, required: false, hint: Use dark text on light upcoming events image backgrounds }
           - { label: Link Text, name: cta, widget: string, required: false }
           - label: "Rooms Link"
-            name: "linkrooms"
+            name: "link_rooms"
             widget: "relation"
             collection: "rooms"
             search_fields: ["title"]
-            value_field: "title"
+            value_field: "{{ slug }}"
             display_fields: ["title"]
             required: false
-          - label: "Treatment Rooms Link"
-            name: "linktreatmentrooms"
+          - label: "Food & Drink Link"
+            name: "link_food-drink"
+            widget: "relation"
+            collection: "food-drink"
+            search_fields: ["title"]
+            value_field: "{{ slug }}"
+            display_fields: ["title"]
+            required: false
+          - label: "Weddings Link"
+            name: "link_weddings"
             widget: "relation"
             collection: "treatment-rooms"
             search_fields: ["title"]
-            value_field: "title"
+            value_field: "{{ slug }}"
+            display_fields: ["title"]
+            required: false
+          - label: "Treatment Rooms Link"
+            name: "link_treatment-rooms"
+            widget: "relation"
+            collection: "treatment-rooms"
+            search_fields: ["title"]
+            value_field: "{{ slug }}"
+            display_fields: ["title"]
+            required: false
+          - label: "Upcoming Events Link"
+            name: "link_upcoming-events"
+            widget: "relation"
+            collection: "upcoming-events"
+            search_fields: ["title"]
+            value_field: "{{ slug }}"
             display_fields: ["title"]
             required: false
       - label: Additional Options 

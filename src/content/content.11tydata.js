@@ -41,11 +41,16 @@ export default function() {
           return undefined; // Exclude from navigation
         }
       },
-      type: data => {
+      pagesection: data => {
         const path = data.page.filePathStem;
         const parts = path.split("/");
         return parts[2];
       },
+      pagefile: data => {
+        const path = data.page.filePathStem;
+        const parts = path.split("/");
+        return parts[3];
+      },      
       slug: data => data.additional && data.additional.slug ? data.additional.slug : data.title
     },
     layout: "default.njk", 

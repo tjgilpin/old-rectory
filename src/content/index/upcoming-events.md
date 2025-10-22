@@ -8,9 +8,6 @@ sections:
     sectionimage: /assets/img/upcoming-events-wreath-900x450.jpg
     title: Christmas Wreath Workshop
     tag: 12th December
-    linktreatmentrooms: Pregnancy Treatments
-    link_treatment-rooms: hands-feet
-    linkrooms: Ebenezer
   - sectionimage: /assets/img/upcoming-events-dexter-900x450.jpg
     body: "**Autumn / Winter 2025**"
     url: /
