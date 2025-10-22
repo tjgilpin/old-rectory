@@ -66,6 +66,12 @@
         {% if sections %}
           <div class="card-wrapper">
           {% for section in sections %}
+
+          <p>
+          section.linkrooms: {{ section.linkrooms }}<br/>
+          section.linktreatmentrooms: {{ section.linktreatmentrooms }}
+        </p>
+
             {% if section.url %}<a href="{{ section.url }}">{% endif %}
             <section class="{% if section.darktext == true %}dark-text {% endif %}{% if pagetitle == 'upcoming-events' %}card-panel{% else %}section-panel{% endif %}">
               <div class="{% if pagetitle == 'upcoming-events' %}card-image{% else %}image{% endif %}">
