@@ -1,13 +1,50 @@
 backend:
   name: github
   repo: tjgilpin/old-rectory  
-  branch: dev
+  branch: index-file-collection
   site_domain: https://dev.old-rectory.pages.dev
   base_url: https://dev.old-rectory.pages.dev
   auth_endpoint: /api/auth
 media_folder: src/assets/img
 public_folder: /assets/img
 collections:
+  # Index Pages Data Collection
+  - label: "Index Pages"
+    name: "index-pages"
+    files:
+      - label: "Upcoming Events Page Data"
+        name: "upcoming-events"
+        file: "src/_data/events.yml"
+        fields:
+          - { label: "Page Title", name: "title", widget: "string" }
+          - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
+          - { label: "Content", name: "body", widget: "markdown", required: false }
+          - label: Sections
+            name: sections
+            widget: list
+            required: false
+            fields:
+              - { label: Section Title, name: title, widget: string, required: false }            
+              - { label: Section Image, name: sectionimage, widget: image }              
+              - { label: Content, name: body, widget: markdown, required: false }
+              - { label: Events Date Tag, name: tag, widget: string, required: false }
+              - { label: "Dark Text", name: "darktext", widget: "boolean", default: false, required: false, hint: Use dark text on light upcoming events image backgrounds }
+              - { label: Link Text, name: cta, widget: string, required: false }
+              - label: "Upcoming Events Link"
+                name: "link_upcoming-events"
+                widget: "relation"
+                collection: "upcoming-events"
+                search_fields: ["title"]
+                value_field: "{{ slug }}"
+                display_fields: ["title"]
+                required: false
+          - label: Additional Options 
+            name: additional
+            widget: object
+            collapsed: true   # 👈 collapsed by default
+            fields:
+              - { label: "Show in Navigation", name: "show", widget: "boolean", default: true, required: false }
+              - { label: "Navigation Order", name: "order", widget: "number", default: 10, required: false }
   # Index Collection (Folder-Based)
   - name: "index"
     label: "Index Pages"
@@ -29,43 +66,19 @@ collections:
           - { label: "Dark Text", name: "darktext", widget: "boolean", default: false, required: false, hint: Use dark text on light upcoming events image backgrounds }
           - { label: Link Text, name: cta, widget: string, required: false }
           - label: "Rooms Link"
-            name: "link_rooms"
+            name: "linkrooms"
             widget: "relation"
             collection: "rooms"
             search_fields: ["title"]
-            value_field: "{{ slug }}"
-            display_fields: ["title"]
-            required: false
-          - label: "Food & Drink Link"
-            name: "link_food-drink"
-            widget: "relation"
-            collection: "food-drink"
-            search_fields: ["title"]
-            value_field: "{{ slug }}"
-            display_fields: ["title"]
-            required: false
-          - label: "Weddings Link"
-            name: "link_weddings"
-            widget: "relation"
-            collection: "wedding"
-            search_fields: ["title"]
-            value_field: "{{ slug }}"
+            value_field: "title"
             display_fields: ["title"]
             required: false
           - label: "Treatment Rooms Link"
-            name: "link_treatment-rooms"
+            name: "linktreatmentrooms"
             widget: "relation"
             collection: "treatment-rooms"
             search_fields: ["title"]
-            value_field: "{{ slug }}"
-            display_fields: ["title"]
-            required: false
-          - label: "Upcoming Events Link"
-            name: "link_upcoming-events"
-            widget: "relation"
-            collection: "upcoming-events"
-            search_fields: ["title"]
-            value_field: "{{ slug }}"
+            value_field: "title"
             display_fields: ["title"]
             required: false
       - label: Additional Options 
