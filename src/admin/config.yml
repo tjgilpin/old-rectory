@@ -28,12 +28,6 @@ collections:
               - { label: Section Image, name: sectionimage, widget: image }              
               - { label: Content, name: body, widget: markdown, required: false }
               - { label: Link Text, name: cta, widget: string, required: false }
-          - label: Additional Options 
-            name: additional
-            widget: object
-            collapsed: true   # 👈 collapsed by default
-            fields:
-              - { label: "Navigation Order", name: "order", widget: "number", default: 10, required: false }        
       - label: "Our Rooms"
         name: "rooms"
         file: "src/_data/rooms.yml"
@@ -58,12 +52,7 @@ collections:
                 value_field: "{{ slug }}"
                 display_fields: ["title"]
                 required: false
-          - label: Additional Options 
-            name: additional
-            widget: object
-            collapsed: true   # 👈 collapsed by default
-            fields:
-              - { label: "Navigation Order", name: "order", widget: "number", default: 10, required: false }    
+          - { label: "Navigation Order", name: "order", widget: "number", default: 20 }    
       - label: "Food & Drink"
         name: "food-drink"
         file: "src/_data/food-drink.yml"
@@ -88,12 +77,7 @@ collections:
                 value_field: "{{ slug }}"
                 display_fields: ["title"]
                 required: false
-          - label: Additional Options 
-            name: additional
-            widget: object
-            collapsed: true   # 👈 collapsed by default
-            fields:
-              - { label: "Navigation Order", name: "order", widget: "number", default: 10, required: false }
+          - { label: "Navigation Order", name: "order", widget: "number", default: 20, required: false }
       - label: "Weddings"
         name: "weddings"
         file: "src/_data/weddings.yml"
@@ -118,12 +102,7 @@ collections:
                 value_field: "{{ slug }}"
                 display_fields: ["title"]
                 required: false
-          - label: Additional Options 
-            name: additional
-            widget: object
-            collapsed: true   # 👈 collapsed by default
-            fields:
-              - { label: "Navigation Order", name: "order", widget: "number", default: 10, required: false }
+          - { label: "Navigation Order", name: "order", widget: "number", default: 30, required: false }
       - label: "Treatment Rooms"
         name: "treatement-rooms"
         file: "src/_data/treatment-rooms.yml"
@@ -150,12 +129,7 @@ collections:
                 value_field: "{{ slug }}"
                 display_fields: ["title"]
                 required: false
-          - label: Additional Options 
-            name: additional
-            widget: object
-            collapsed: true   # 👈 collapsed by default
-            fields:
-              - { label: "Navigation Order", name: "order", widget: "number", default: 10, required: false }                               
+          - { label: "Navigation Order", name: "order", widget: "number", default: 40, required: false }                               
       - label: "Upcoming Events"
         name: "upcoming-events"
         file: "src/_data/upocming-events.yml"
@@ -182,12 +156,7 @@ collections:
                 value_field: "{{ slug }}"
                 display_fields: ["title"]
                 required: false
-          - label: Additional Options 
-            name: additional
-            widget: object
-            collapsed: true   # 👈 collapsed by default
-            fields:
-              - { label: "Navigation Order", name: "order", widget: "number", default: 10, required: false }
+          - { label: "Navigation Order", name: "order", widget: "number", default: 50, required: false }
   # Rooms Pages Collection (Folder-Based)
   - name: "rooms"
     label: "Rooms Pages"
