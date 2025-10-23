@@ -34,11 +34,11 @@ export default function() {
         const path = data.page.filePathStem;
         const parts = path.split("/");
         const section = parts[2];
-        // Check if the page has `eleventyNavigation.show` set to `true`
+        // Check if the page has `eleventyNavigation.show` set to `true` or is an index page
         if (data.additional?.show === true || section === 'index') {
           return {
             key: data.title,
-            order: data.additional?.order || data.order || 0,
+            order: data.additional?.order ?? data.order ?? 0,
           };
         } else {
           return undefined; // Exclude from navigation

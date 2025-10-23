@@ -59,6 +59,8 @@
         {% endif %}
       </header>
       <!-- main content sections / panels -->
+      {% set navPages = collections.all | eleventyNavigation %}
+      {{ navPages | dump | safe }}
       <div class="main-content">
         <div class="page_copy">
           {{ body | markdownify | safe or content | markdownify | safe }}
