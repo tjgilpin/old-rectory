@@ -26,6 +26,15 @@ export default {
       if (data.page.fileSlug === "treatment-rooms" && data.treatmentrooms) return data.treatmentrooms.headerimage;
       if (data.page.fileSlug === "upcoming-events" && data.upcomingevents) return data.upcomingevents.headerimage;
       return "";
-    }    
+    },
+    body: data => {
+      if (data.page.fileSlug === "home" && data.home) return data.home.body;
+      if (data.page.fileSlug === "rooms" && data.rooms) return data.rooms.body;
+      if (data.page.fileSlug === "food-drink" && data.fooddrink) return data.fooddrink.body;
+      if (data.page.fileSlug === "weddings" && data.weddings) return data.weddings.body;
+      if (data.page.fileSlug === "treatment-rooms" && data.treatmentrooms) return data.treatmentrooms.body;
+      if (data.page.fileSlug === "upcoming-events" && data.upcomingevents) return data.upcomingevents.body;
+      return "";
+    },    
   }
-}
+} 
