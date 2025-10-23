@@ -10,11 +10,155 @@ public_folder: /assets/img
 collections:
   # Index Pages Data Collection
   - label: "Index Pages"
-    name: "index-pages"
+    name: "index"
     files:
-      - label: "Upcoming Events Page Data"
+      - label: "Home"
+        name: "home"
+        file: "src/_data/home.yml"
+        fields:
+          - { label: "Page Title", name: "title", widget: "string" }
+          - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
+          - { label: "Content", name: "body", widget: "markdown", required: false }
+          - label: Sections
+            name: sections
+            widget: list
+            required: false
+            fields:
+              - { label: Section Title, name: title, widget: string, required: false }            
+              - { label: Section Image, name: sectionimage, widget: image }              
+              - { label: Content, name: body, widget: markdown, required: false }
+              - { label: Link Text, name: cta, widget: string, required: false }
+          - label: Additional Options 
+            name: additional
+            widget: object
+            collapsed: true   # 👈 collapsed by default
+            fields:
+              - { label: "Navigation Order", name: "order", widget: "number", default: 10, required: false }        
+      - label: "Our Rooms"
+        name: "rooms"
+        file: "src/_data/rooms.yml"
+        fields:
+          - { label: "Page Title", name: "title", widget: "string" }
+          - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
+          - { label: "Content", name: "body", widget: "markdown", required: false }
+          - label: Sections
+            name: sections
+            widget: list
+            required: false
+            fields:
+              - { label: Section Title, name: title, widget: string, required: false }            
+              - { label: Section Image, name: sectionimage, widget: image }              
+              - { label: Content, name: body, widget: markdown, required: false }
+              - { label: Link Text, name: cta, widget: string, required: false }
+              - label: "Rooms Link"
+                name: "link"
+                widget: "relation"
+                collection: "rooms"
+                search_fields: ["title"]
+                value_field: "{{ slug }}"
+                display_fields: ["title"]
+                required: false
+          - label: Additional Options 
+            name: additional
+            widget: object
+            collapsed: true   # 👈 collapsed by default
+            fields:
+              - { label: "Navigation Order", name: "order", widget: "number", default: 10, required: false }    
+      - label: "Food & Drink"
+        name: "food-drink"
+        file: "src/_data/food-drink.yml"
+        fields:
+          - { label: "Page Title", name: "title", widget: "string" }
+          - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
+          - { label: "Content", name: "body", widget: "markdown", required: false }
+          - label: Sections
+            name: sections
+            widget: list
+            required: false
+            fields:
+              - { label: Section Title, name: title, widget: string, required: false }            
+              - { label: Section Image, name: sectionimage, widget: image }              
+              - { label: Content, name: body, widget: markdown, required: false }
+              - { label: Link Text, name: cta, widget: string, required: false }
+              - label: "Food & Drink Link"
+                name: "link"
+                widget: "relation"
+                collection: "food-drink"
+                search_fields: ["title"]
+                value_field: "{{ slug }}"
+                display_fields: ["title"]
+                required: false
+          - label: Additional Options 
+            name: additional
+            widget: object
+            collapsed: true   # 👈 collapsed by default
+            fields:
+              - { label: "Navigation Order", name: "order", widget: "number", default: 10, required: false }
+      - label: "Weddings"
+        name: "weddings"
+        file: "src/_data/weddings.yml"
+        fields:
+          - { label: "Page Title", name: "title", widget: "string" }
+          - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
+          - { label: "Content", name: "body", widget: "markdown", required: false }
+          - label: Sections
+            name: sections
+            widget: list
+            required: false
+            fields:
+              - { label: Section Title, name: title, widget: string, required: false }            
+              - { label: Section Image, name: sectionimage, widget: image }              
+              - { label: Content, name: body, widget: markdown, required: false }
+              - { label: Link Text, name: cta, widget: string, required: false }
+              - label: "Weddings Link"
+                name: "link"
+                widget: "relation"
+                collection: "weddings"
+                search_fields: ["title"]
+                value_field: "{{ slug }}"
+                display_fields: ["title"]
+                required: false
+          - label: Additional Options 
+            name: additional
+            widget: object
+            collapsed: true   # 👈 collapsed by default
+            fields:
+              - { label: "Navigation Order", name: "order", widget: "number", default: 10, required: false }
+      - label: "Treatment Rooms"
+        name: "treatement-rooms"
+        file: "src/_data/treatment-rooms.yml"
+        fields:
+          - { label: "Page Title", name: "title", widget: "string" }
+          - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
+          - { label: "Content", name: "body", widget: "markdown", required: false }
+          - label: Sections
+            name: sections
+            widget: list
+            required: false
+            fields:
+              - { label: Section Title, name: title, widget: string, required: false }            
+              - { label: Section Image, name: sectionimage, widget: image }              
+              - { label: Content, name: body, widget: markdown, required: false }
+              - { label: Events Date Tag, name: tag, widget: string, required: false }
+              - { label: "Dark Text", name: "darktext", widget: "boolean", default: false, required: false, hint: Use dark text on light upcoming events image backgrounds }
+              - { label: Link Text, name: cta, widget: string, required: false }
+              - label: "Treatement Rooms Link"
+                name: "link"
+                widget: "relation"
+                collection: "treatment-rooms"
+                search_fields: ["title"]
+                value_field: "{{ slug }}"
+                display_fields: ["title"]
+                required: false
+          - label: Additional Options 
+            name: additional
+            widget: object
+            collapsed: true   # 👈 collapsed by default
+            fields:
+              - { label: "Navigation Order", name: "order", widget: "number", default: 10, required: false }                               
+      - label: "Upcoming Events"
         name: "upcoming-events"
-        file: "src/_data/events.yml"
+        file: "src/_data/upocming-events.yml"
         fields:
           - { label: "Page Title", name: "title", widget: "string" }
           - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
@@ -31,7 +175,7 @@ collections:
               - { label: "Dark Text", name: "darktext", widget: "boolean", default: false, required: false, hint: Use dark text on light upcoming events image backgrounds }
               - { label: Link Text, name: cta, widget: string, required: false }
               - label: "Upcoming Events Link"
-                name: "link_upcoming-events"
+                name: "link"
                 widget: "relation"
                 collection: "upcoming-events"
                 search_fields: ["title"]
@@ -43,51 +187,7 @@ collections:
             widget: object
             collapsed: true   # 👈 collapsed by default
             fields:
-              - { label: "Show in Navigation", name: "show", widget: "boolean", default: true, required: false }
               - { label: "Navigation Order", name: "order", widget: "number", default: 10, required: false }
-  # Index Collection (Folder-Based)
-  - name: "index"
-    label: "Index Pages"
-    folder: "src/content/index"
-    create: false # Don't allow adding new pages
-    fields:
-      - { label: "Page Title", name: "title", widget: "string" }
-      - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
-      - { label: "Content", name: "body", widget: "markdown", required: false }
-      - label: Sections
-        name: sections
-        widget: list
-        required: false
-        fields:
-          - { label: Section Title, name: title, widget: string, required: false }            
-          - { label: Section Image, name: sectionimage, widget: image }              
-          - { label: Content, name: body, widget: markdown, required: false }
-          - { label: Events Date Tag, name: tag, widget: string, required: false }
-          - { label: "Dark Text", name: "darktext", widget: "boolean", default: false, required: false, hint: Use dark text on light upcoming events image backgrounds }
-          - { label: Link Text, name: cta, widget: string, required: false }
-          - label: "Rooms Link"
-            name: "linkrooms"
-            widget: "relation"
-            collection: "rooms"
-            search_fields: ["title"]
-            value_field: "title"
-            display_fields: ["title"]
-            required: false
-          - label: "Treatment Rooms Link"
-            name: "linktreatmentrooms"
-            widget: "relation"
-            collection: "treatment-rooms"
-            search_fields: ["title"]
-            value_field: "title"
-            display_fields: ["title"]
-            required: false
-      - label: Additional Options 
-        name: additional
-        widget: object
-        collapsed: true   # 👈 collapsed by default
-        fields:
-          - { label: "Show in Navigation", name: "show", widget: "boolean", default: true, required: false }
-          - { label: "Navigation Order", name: "order", widget: "number", default: 10, required: false }
   # Rooms Pages Collection (Folder-Based)
   - name: "rooms"
     label: "Rooms Pages"
