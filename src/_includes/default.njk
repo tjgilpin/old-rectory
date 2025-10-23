@@ -61,15 +61,8 @@
       <!-- main content sections / panels -->
       <div class="main-content">
         <div class="page_copy">
-          {{ body or content | safe }}
+          {{ body | markdownify | safe or content | markdownify | safe }}
         </div>  
-        <p>
-          data yaml title displayTitle: {{ displayTitle }}
-          <br/>
-          home.title: {{ home.title }} <br/>
-          data.page.fileSlug: {{ data.page.fileSlug }} <br />
-          page.fileSlug: {{ page.fileSlug }}
-        </p>
         <p>
           {% if pagesection == 'index' %}
             collection is: {{ pagefile }}
