@@ -64,6 +64,11 @@
           {{ content | safe }}
         </div>  
         <p>
+          data yaml title displayTitle: {{ displayTitle }}
+          <br/>
+          home.title: {{ home.title }} 
+        </p>
+        <p>
           {% if pagesection == 'index' %}
             collection is: {{ pagefile }}
           {% endif %}
