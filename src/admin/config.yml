@@ -14,7 +14,7 @@ collections:
     files:
       - label: "Home"
         name: "home"
-        file: "src/_data/home.yml"
+        file: "src/_data/home.yaml"
         fields:
           - { label: "Page Title", name: "title", widget: "string" }
           - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
@@ -30,7 +30,7 @@ collections:
               - { label: Link Text, name: cta, widget: string, required: false }
       - label: "Our Rooms"
         name: "rooms"
-        file: "src/_data/rooms.yml"
+        file: "src/_data/rooms.yaml"
         fields:
           - { label: "Page Title", name: "title", widget: "string" }
           - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
@@ -55,7 +55,7 @@ collections:
           - { label: "Navigation Order", name: "order", widget: "number", default: 20 }    
       - label: "Food & Drink"
         name: "food-drink"
-        file: "src/_data/food-drink.yml"
+        file: "src/_data/fooddrink.yaml"
         fields:
           - { label: "Page Title", name: "title", widget: "string" }
           - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
@@ -80,7 +80,7 @@ collections:
           - { label: "Navigation Order", name: "order", widget: "number", default: 20, required: false }
       - label: "Weddings"
         name: "weddings"
-        file: "src/_data/weddings.yml"
+        file: "src/_data/weddings.yaml"
         fields:
           - { label: "Page Title", name: "title", widget: "string" }
           - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
@@ -105,7 +105,7 @@ collections:
           - { label: "Navigation Order", name: "order", widget: "number", default: 30, required: false }
       - label: "Treatment Rooms"
         name: "treatement-rooms"
-        file: "src/_data/treatment-rooms.yml"
+        file: "src/_data/treatmentrooms.yaml"
         fields:
           - { label: "Page Title", name: "title", widget: "string" }
           - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
@@ -132,7 +132,7 @@ collections:
           - { label: "Navigation Order", name: "order", widget: "number", default: 40, required: false }                               
       - label: "Upcoming Events"
         name: "upcoming-events"
-        file: "src/_data/upocming-events.yml"
+        file: "src/_data/upocmingevents.yaml"
         fields:
           - { label: "Page Title", name: "title", widget: "string" }
           - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
