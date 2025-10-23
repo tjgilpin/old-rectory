@@ -35,12 +35,6 @@ export default {
       if (data.page.fileSlug === "treatment-rooms" && data.treatmentrooms) return data.treatmentrooms.body;
       if (data.page.fileSlug === "upcoming-events" && data.upcomingevents) return data.upcomingevents.body;
       return "";
-    },
-    eleventyNavigation: data => {
-      return {
-        key: data.title,
-        order: data.order || 0,
-      };
-    },        
+    },    
   }
 }
