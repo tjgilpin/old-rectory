@@ -12,7 +12,7 @@ gallery:
 order: 20
 additional:
   shorterurl: true
-  order: 15
+  order: 20
   show: true
 ---
 ## A charming fisherman’s cottage in the heart of Hastings Old Town.
