@@ -1,6 +1,6 @@
 export default {
   eleventyComputed: {
-    displayTitle: data => {
+    indexTitle: data => {
       if (data.page.fileSlug === "home" && data.home) return data.home.title;
       if (data.page.fileSlug === "rooms" && data.rooms) return data.rooms.title;
       if (data.page.fileSlug === "food-drink" && data.fooddrink) return data.fooddrink.title;
