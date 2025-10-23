@@ -17,6 +17,15 @@ export default {
       if (data.page.fileSlug === "treatment-rooms" && data.treatmentrooms) return data.treatmentrooms.sections;
       if (data.page.fileSlug === "upcoming-events" && data.upcomingevents) return data.upcomingevents.sections;
       return "";
-    }
+    },
+    headerimage: data => {
+      if (data.page.fileSlug === "home" && data.home) return data.home.headerimage;
+      if (data.page.fileSlug === "rooms" && data.rooms) return data.rooms.headerimage;
+      if (data.page.fileSlug === "food-drink" && data.fooddrink) return data.fooddrink.headerimage;
+      if (data.page.fileSlug === "weddings" && data.weddings) return data.weddings.headerimage;
+      if (data.page.fileSlug === "treatment-rooms" && data.treatmentrooms) return data.treatmentrooms.headerimage;
+      if (data.page.fileSlug === "upcoming-events" && data.upcomingevents) return data.upcomingevents.headerimage;
+      return "";
+    }    
   }
 }
