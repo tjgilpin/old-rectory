@@ -1,6 +1,4 @@
 ---
-hide: false
-slug: rooms
 type: page
 title: Our Rooms
 pageslug: rooms
@@ -70,8 +68,11 @@ sections:
     url: croft
     cta: Click here to book
     sectionimage: /assets/img/5-dsc00271.jpg
+hide: false
+slug: rooms
 order: 10
 template: Panel Image Background
 ---
-Rest and relax in our boutique bedrooms, each one different from the others but all equally luxurious; with high quality linens, bespoke Old Rectory toiletries, artisanal tea and coffee facilities and homemade biscuits.
+Rest and relax in our boutique bedrooms, each one different from the others but all equally luxurious; with high quality linens, bespoke Old Rectory toiletries, artisanal tea and coffee facilities and homemade biscuits. 
 
+Throughout October & November get 10% off all midweek stays - Use code MIDWEEK when booking!
