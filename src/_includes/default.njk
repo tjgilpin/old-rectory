@@ -59,26 +59,20 @@
         {% endif %}
       </header>
       <!-- main content sections / panels -->
-      {% set navPages = collections.all | eleventyNavigation %}
-      {{ navPages | dump | safe }}
+      <!-- {% set navPages = collections.all | eleventyNavigation %}
+      {{ navPages | dump | safe }} -->
       <div class="main-content">
         <div class="page_copy">
-          {{ body | markdownify | safe or content | markdownify | safe }}
-        </div>  
-        <p>
-          {% if pagesection == 'index' %}
-            collection is: {{ pagefile }}
-          {% endif %}
-        </p>
+          {{ content | markdownify | safe }}
+          <!-- <p>
+            {% if pagesection == 'index' %}
+              collection is: {{ pagefile }}
+            {% endif %}
+          </p> -->
+        </div>
         {% if sections %}
           <div class="card-wrapper">
           {% for section in sections %}
-
-          <p>
-          section.linkrooms: {{ section.linkrooms }}<br/>
-          section.linktreatmentrooms: {{ section.linktreatmentrooms }}
-        </p>
-
             {% if section.url %}<a href="{{ section.url }}">{% endif %}
             <section class="{% if section.darktext == true %}dark-text {% endif %}{% if pagetitle == 'upcoming-events' %}card-panel{% else %}section-panel{% endif %}">
               <div class="{% if pagetitle == 'upcoming-events' %}card-image{% else %}image{% endif %}">
