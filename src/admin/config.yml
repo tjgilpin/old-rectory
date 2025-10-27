@@ -55,7 +55,7 @@ collections:
           - { label: "Navigation Order", name: "order", widget: "number", default: 20 }    
       - label: "Food & Drink"
         name: "food-drink"
-        file: "src/_data/fooddrink.yaml"
+        file: "src/_data/food-drink.yaml"
         fields:
           - { label: "Page Title", name: "title", widget: "string" }
           - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
@@ -105,7 +105,7 @@ collections:
           - { label: "Navigation Order", name: "order", widget: "number", default: 30, required: false }
       - label: "Treatment Rooms"
         name: "treatement-rooms"
-        file: "src/_data/treatmentrooms.yaml"
+        file: "src/_data/treatment-rooms.yaml"
         fields:
           - { label: "Page Title", name: "title", widget: "string" }
           - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
@@ -132,7 +132,7 @@ collections:
           - { label: "Navigation Order", name: "order", widget: "number", default: 40, required: false }                               
       - label: "Upcoming Events"
         name: "upcoming-events"
-        file: "src/_data/upcomingevents.yaml"
+        file: "src/_data/upcoming-events.yaml"
         fields:
           - { label: "Page Title", name: "title", widget: "string" }
           - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
