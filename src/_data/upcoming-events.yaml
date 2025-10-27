@@ -1,5 +1,4 @@
 title: Upcoming Events
-order: 70
 body: Don’t miss out on what’s coming up! From exclusive workshops and seasonal
   celebrations to live performances and community gatherings, there’s always
   something happening. Check back regularly to see what’s on and join us for an
@@ -16,6 +15,7 @@ sections:
     body: "**Autumn / Winter 2025**"
     cta: View Package
     title: The Great Dexter Experience
+    link: christmas-wreath-workshop
   - title: Winter Fair Weekend
     sectionimage: /assets/img/upcoming-events-winterfair-900x540.jpg
     body: |-
@@ -24,6 +24,7 @@ sections:
       Sat 11am - 5pm, Sun 10am - 4pm
     tag: 6th & 7th December
     cta: Event Details
+    link: christmas-wreath-workshop
   - title: Christmas Parties at the Old Rectory
     sectionimage: /assets/img/upcoming-events-xmas-900x540.jpg
     body: |-
@@ -33,3 +34,5 @@ sections:
     tag: From 1st - 20th December
     cta: Book Now
     darktext: true
+    link: christmas-wreath-workshop
+order: 70
