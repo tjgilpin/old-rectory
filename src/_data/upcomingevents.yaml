@@ -1,0 +1,13 @@
+title: Upcoming Events
+body: Don’t miss out on what’s coming up! From exclusive workshops and seasonal
+  celebrations to live performances and community gatherings, there’s always
+  something happening. Check back regularly to see what’s on and join us for an
+  unforgettable experience.
+sections:
+  - darktext: false
+    link: christmas-wreath-workshop
+    title: Christmas Wreath Workshop
+    sectionimage: /assets/img/upcoming-events-wreath-900x450.jpg
+    body: "**Make your own wreath**"
+    tag: 12th December
+    cta: Book Now
