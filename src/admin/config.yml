@@ -2,8 +2,8 @@ backend:
   name: github
   repo: tjgilpin/old-rectory  
   branch: index-file-collection
-  site_domain: https://dev.old-rectory.pages.dev
-  base_url: https://dev.old-rectory.pages.dev
+  site_domain: https://index-file-collection.old-rectory.pages.dev
+  base_url: https://index-file-collection.old-rectory.pages.dev
   auth_endpoint: /api/auth
 media_folder: src/assets/img
 public_folder: /assets/img
