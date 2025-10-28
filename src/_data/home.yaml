@@ -12,6 +12,7 @@ sections:
       everyone.[](https://theoldrectoryhastings.co.uk/rooms)[](https://theoldrectoryhastings.co.uk/rooms)
     title: Our Rooms
     cta: View Rooms
+    link: /rooms/
   - url: /food-drink
     sectionimage: /assets/img/hero-image-food-drink.jpg
     body: Whether it’s an a la carte, two course breakfast, an Afternoon Tea or
@@ -20,6 +21,7 @@ sections:
       signature battenberg & house cocktails.
     title: Food & Drink
     cta: View Menus
+    link: /food-drink/
   - url: /weddings
     sectionimage: /assets/img/hero-image-weddings.jpg
     body: Nestled in a picturesque location, our wedding venue offers a stunning
@@ -32,6 +34,7 @@ sections:
       love story.
     title: Weddings
     cta: View Wedding Packages
+    link: /weddings/
   - url: /treatment-rooms
     sectionimage: /assets/img/hero-image-treatments.jpg
     body: Established in 2017, the Treatment Rooms offer a range of wellness and
@@ -39,3 +42,4 @@ sections:
       public, as well as to guests of The Old Rectory.
     title: Treatment Rooms
     cta: View Wellness & Beauty Therapies
+    link: /treatment-rooms/
