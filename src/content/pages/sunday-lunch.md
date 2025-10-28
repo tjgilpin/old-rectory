@@ -18,11 +18,11 @@ In keeping with our home-from-home, welcoming atmosphere Sunday Lunches at The O
 
 <hr/>
 
-## Menu 19th October 2025
+## Menu 9th November 2025
 
 <div class="menu-text">
 
-2 courses **£23** - 3 courses **£27**
+2 courses **£28** - 3 courses **£36**
 
 </div>
 <div class="menu">
@@ -30,26 +30,26 @@ In keeping with our home-from-home, welcoming atmosphere Sunday Lunches at The O
 
 ### Starter
 
-* Beetroot risotto with horseradish and chive soured cream and Hastings catch mackerel
-* Crab vol au vent, fennel salad, rectory baby grapes, curried mayonnaise
-* Courgette, lemon and garden mint fritters, pickled turnips, smoked aubergine puree 
+* Venison liver parfait, apple jam and house oat cakes with cep scented honey
+* Home smoked sea bream, charred fennel, smoked olives and fennel seed butter sauce
+* Leek vinegarette tartlet, salad of bitter leaf, toasted walnut and garden fig
 
 ### Main
 
-* Roasted free range chicken, sage and onion stuffing, chicken skin crackling
-* Roast pork loin, cider glazed home smoked pork rib, salt and pepper scratching
-* Sussex cep, Mayfield cheese and leek filo pie, marmite butter charred savoy cabbage, cep velouté
+* Parsley, mint and parmesan crusted lamb, confit aubergine, whipped sheep’s cheese
+* Roasted chicken, sage and onion stuffing, pureed Jerusalem artichoke, chicken skin crackling
+* Carrot and cashew nut roast, beetroot and goat’s cheese arancini, horse radish cream
 
-Sides: Roasties, honey roasted roots, cauliflower cheese, steamed green vegetables, yorkshire puddings, jugs of gravy
+Sides: Roasted potatoes, glazed root vegetables, cauliflower cheese, buttered runner beans, Yorkshire pudding, gravy jugs
 
 </div>
 <div class="menu-col">
 
 ### Dessert
 
-* Fig, orange and cinnamon bread and butter pudding, whiskey and Guestling honey glazed apples, pouring cream
-* Autumnal poached fruit plate, ginger crumble, plum sorbet
-* Local cheese board, late berry chutney, rosemary water biscuits, candied walnuts, grapes and celery leaves
+* Lemon tart, strained crème fraiche and soused orange
+* Autumn fruit and ginger steamed pudding, white chocolate custard
+* Local cheese plate, house chutney, cheese biscuits, candied hazelnuts, celery
   (+£3 supplement)
 
 </div>
