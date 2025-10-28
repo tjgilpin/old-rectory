@@ -8,6 +8,8 @@ gallery:
   - image: /assets/img/lunch-main.jpg
   - image: /assets/img/lunch-starter.jpg
   - image: /assets/img/lunch-dessert.jpg
+  - image: /assets/img/6-dsc06340.jpg
+  - image: /assets/img/33-dsc06484.jpg
 url: tel:01424422410
 cta: Call to Book Sunday Lunch
 url_secondary: mailto:info@theoldrectoryhastings.co.uk
