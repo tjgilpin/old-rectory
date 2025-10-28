@@ -67,24 +67,32 @@
           {{ body | markdownify | safe }}
         </div>
         {% if sections %}
-          <div class="card-wrapper">
+          <div class="card-wrapper card-wrapper-{{ page.fileSlug }} ">
           {% for section in sections %}
-            {% if section.link %}<a href="{{ section.link }}">{% endif %}
-            <section class="{% if section.darktext == true %}dark-text {% endif %}{% if pagetitle == 'upcoming-events' %}card-panel{% else %}section-panel{% endif %}">
-              <div class="{% if pagetitle == 'upcoming-events' %}card-image{% else %}image{% endif %}">
+            <section class="card{% if section.darktext == true %} card-dark{% endif %}">
+              <div class="card-image">
+                {% if section.link %}<a href="{{ section.link }}">{% endif %}
                 <img src="{{ section.sectionimage }}" alt="{{ section.title }}">
+                {% if section.link %}</a>{% endif %}
               </div>
-              <div class="{% if pagetitle == 'upcoming-events' %}card-{% endif %}title">
+              <div class="card-title">
+                {% if section.link %}<a href="{{ section.link }}">{% endif %}
                 <h2>{{ section.title }}</h2>
+                {% if section.link %}</a>{% endif %}
               </div>
-              <div class="{% if pagetitle == 'upcoming-events' %}card-{% endif %}text">
+              <div class="card-text">
+                {% if section.link %}<a href="{{ section.link }}">{% endif %}
                 {% if section.subtitle %}<h3>{{ section.subtitle }}</h3>{% endif %}
                 {% if section.tag %}<span class="card-tag small-caps">{{section.tag}}</span>{% endif %}
                 {{ section.body | markdownify | safe }}
+                {% if section.link %}</a>{% endif %}
               </div>
-              <div class="card-cta small-caps"><p>{{section.cta}}</p></div>
+              <div class="card-cta small-caps">
+                {% if section.link %}<a href="{{ section.link }}">{% endif %}
+                <p>{{section.cta}}</p>
+                {% if section.link %}</a>{% endif %}
+              </div>
             </section>
-            {% if section.link %}</a>{% endif %}
           {% endfor %}
           </div>
         {% endif %}

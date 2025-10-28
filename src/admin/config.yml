@@ -28,6 +28,14 @@ collections:
               - { label: Section Image, name: sectionimage, widget: image }              
               - { label: Content, name: body, widget: markdown, required: false }
               - { label: Link Text, name: cta, widget: string, required: false }
+              - label: "Page Link"
+                name: "link"
+                widget: "select"
+                options:
+                  - { label: "Our Rooms", value: "/rooms/" }
+                  - { label: "Food & Drink", value: "/food-drink/" }
+                  - { label: "Weddings", value: "/weddings/" }
+                  - { label: "Treatment Rooms", value: "/treatment-rooms/" }
       - label: "Our Rooms"
         name: "rooms"
         file: "src/_data/rooms.yaml"

@@ -1337,6 +1337,7 @@ main header {
   display: grid;
   grid-template-columns: 1fr;
   margin-bottom: 2em;
+  justify-items: center;
 }
 
 
@@ -1367,7 +1368,7 @@ main header {
   }
 }
 
-/* upcoming event cards */
+/* all cards */
 
 .card-wrapper {
   display: grid;
@@ -1375,7 +1376,7 @@ main header {
 }
 
 @media screen and (min-width: 900px) {
-  .card-wrapper {
+  .card-wrapper-upcoming-events {
     grid-template-columns: 1fr 1fr;
   }
 }
@@ -1384,21 +1385,24 @@ main header {
   text-decoration: none;
 }
 
-.card-panel {
+.card {
   display: grid;
-  aspect-ratio: 15/9;
   position: relative;
   justify-content: center;
-  grid-template-columns: 1fr;
-  grid-template-rows: 3fr 2fr 1fr;
   text-align: center;
 }
 
-.card-panel > div:not(.card-image) {
+.card-wrapper-upcoming-events .card {
+  aspect-ratio: 15/9;
+  grid-template-columns: 1fr;
+  grid-template-rows: 3fr 2fr 1fr;
+}
+
+.card > div:not(.card-image) {
   padding: 0 1em 0 1em;
 }
 
-.card-image {
+.card-wrapper-upcoming-events .card-image {
   grid-area: 1 / 1 / 4 / 2;
   z-index: -1;
   height: 100%;
@@ -1410,13 +1414,13 @@ main header {
   width: 100%;
 }
 
-.card-title {
+.card-wrapper-upcoming-events .card-title {
   grid-area: 1 / 1 / 2 / 2;
   place-self: end center;
   padding-top: 1em;
 }
 
-.card-text {
+.card-wrapper-upcoming-events .card-text {
   grid-area: 2 / 1 / 3 / 2;
   place-self: start center;
   text-transform: uppercase;
@@ -1427,12 +1431,12 @@ main header {
   text-decoration: none;
 }
 
-.card-panel a {
+.card a {
   color: var(--white);
   text-decoration: none;
 }
 
-.card-panel h2 {
+.card h2 {
   text-transform: uppercase;
   color: var(--white);
   border-bottom: 2px solid var(--white);
@@ -1462,7 +1466,7 @@ main header {
   border: 2px solid var(--white);
 }
 
-.card-panel.dark-text .card-text p, .card-panel.dark-text .card-title h2  {
+.card-dark .card-text p, .card.dark .card-title h2  {
   color: var(--blue);
   border-color: var(--blue);
 }
