@@ -1284,6 +1284,15 @@ input[id="contact-name"] {
   margin: 0;
 }
 
+.notice p em {
+  font-style: normal;
+  background: var(--white);
+  color: #000;
+  padding: 0.125em 0.25em;
+}
+
+October & November 
+
 /* refactor main */
 
 /* main content */
