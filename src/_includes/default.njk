@@ -64,16 +64,12 @@
       <div class="main-content">
         <div class="page_copy">
           {{ content | markdownify | safe }}
-          <!-- <p>
-            {% if pagesection == 'index' %}
-              collection is: {{ pagefile }}
-            {% endif %}
-          </p> -->
+          {{ body | markdownify | safe }}
         </div>
         {% if sections %}
           <div class="card-wrapper">
           {% for section in sections %}
-            {% if section.url %}<a href="{{ section.url }}">{% endif %}
+            {% if section.link %}<a href="{{ section.link }}">{% endif %}
             <section class="{% if section.darktext == true %}dark-text {% endif %}{% if pagetitle == 'upcoming-events' %}card-panel{% else %}section-panel{% endif %}">
               <div class="{% if pagetitle == 'upcoming-events' %}card-image{% else %}image{% endif %}">
                 <img src="{{ section.sectionimage }}" alt="{{ section.title }}">
@@ -88,7 +84,7 @@
               </div>
               <div class="card-cta small-caps"><p>{{section.cta}}</p></div>
             </section>
-            {% if section.url %}</a>{% endif %}
+            {% if section.link %}</a>{% endif %}
           {% endfor %}
           </div>
         {% endif %}

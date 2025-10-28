@@ -1303,6 +1303,11 @@ main header {
   padding: 1rem;
 }
 
+.page_copy {
+  width: min(100%, 50em);
+  margin: auto;
+}
+
 /* body > main > *, .main_content > *  {
   grid-column: 2;
 }
