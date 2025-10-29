@@ -87,11 +87,13 @@
                 {{ section.body | markdownify | safe }}
                 {% if section.link %}</a>{% endif %}
               </div>
-              <div class="card-cta small-caps">
-                {% if section.link %}<a href="{{ section.link }}">{% endif %}
-                <p>{{section.cta}}</p>
-                {% if section.link %}</a>{% endif %}
-              </div>
+              {% if section.link and section.cta %}
+                <div class="card-cta small-caps">
+                  <a href="{{ section.link }}">
+                    <p>{{section.cta}}</p>
+                  </a>
+                </div>
+              {% endif %}
             </section>
           {% endfor %}
           </div>
