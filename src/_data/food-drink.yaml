@@ -1,7 +1,30 @@
 title: Food & Drink
+headerimage: /assets/img/krp_oldrectory_68-food.jpg
 sections:
   - title: Sunday Lunch
-    body: ""
+    body: The Old Rectory Traditional Sunday Lunches focus on seasonal, locally
+      sourced produce. In keeping with our home-from-home, welcoming atmosphere
+      are hearty & homely.
     link: sunday-lunch
     cta: View Menus & Book
+    sectionimage: /assets/img/header-sunday-lunch-1500x1000.jpg
+  - title: Teas
+    body: ""
+    cta: View Menus & Book
+    link: teas
+    sectionimage: /assets/img/header-teas-1500x1000.jpg
+  - title: Breakfast
+    body: We are passionate about our Breakfast. Our ingredients are sourced locally
+      and where possible are made in house to enable us to provide you with a
+      delicious two-course, a la carte breakfast that is freshly cooked to
+      order.
+    cta: View Menus & Book
+    link: breakfast
+    sectionimage: /assets/img/old-rectory-krp006.jpg
+  - title: Seasonal Events
+    body: The Hastings calendar is jam packed with exciting events that we love to
+      reflect in our food offering.
+    cta: View Menus & Book
+    link: seasonal-events
+    sectionimage: /assets/img/10-dsc06655.jpg
 order: 30
