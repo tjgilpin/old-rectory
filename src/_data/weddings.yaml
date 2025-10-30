@@ -23,6 +23,7 @@ sections:
     title: Wedding Ceremony
     cta: View Wedding Package
     sectionimage: /assets/img/header-wedding-ceremony-1500x1000.jpg
+    link: wedding-ceremony
   - title: Wedding Extravaganza
     sectionimage: /assets/img/header-wedding-extravaganza-1500x1000.png
     body: For a truly unforgettable celebration, our Wedding Extravaganza package
@@ -30,4 +31,5 @@ sections:
       breakfast, full marquee hire, staffing, furniture, crockery, silverware
       and glassware included.
     cta: View Wedding Package
+    link: wedding-extravaganza
 order: 40
