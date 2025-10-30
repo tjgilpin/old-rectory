@@ -1340,7 +1340,6 @@ main header {
   justify-items: center;
 }
 
-
 .section-panel .image {
   grid-row: 1 / 2;
   grid-column: 1 / 2;  
@@ -1386,7 +1385,13 @@ main header {
   text-decoration: none;
 }
 
-/* grid layout */
+.index .card {
+  max-height: 450px;
+  align-content: center;
+  overflow: hidden;
+}
+
+/* card grid layout */
 
 .card-image {
   grid-area: 1 / 1 / 2 / 2;  

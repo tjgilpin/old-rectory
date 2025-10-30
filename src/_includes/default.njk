@@ -24,7 +24,7 @@
     {% endif %}
   </head>
   {% set pagetitle = title | slugify %}
-  <body class="page_{{ pagetitle }}{% if type == 'index' %} index{% endif %}{% if type == 'page' %} page{% endif %}{% if parent_page %} subpage subpage_{{ parent_page | slugify }}{% endif %}  {% if gallery %}page_gallery{% endif %} {% if template %}template_{{ template | slugify }}{% endif %}">
+  <body class="page_{{ pagetitle }}{% if type == 'index' %} index{% endif %}{% if type == 'page' %} page{% endif %}{% if parent_page %} subpage subpage_{{ parent_page | slugify }}{% endif %}  {% if gallery %}page_gallery{% endif %} {% if template %}template_{{ template | slugify }}{% endif %} {{ pagesection }}">
     <!-- sitewide notice  -->
     {% if notice.show %}
       <div class="notice">
