@@ -1,8 +1,161 @@
 ---
+additional:
+  show: true
+  shorterurl: true
+  order: 60
 slug: /cafe/
-type: page
-title: Café
 headerimage: /assets/img/hero-cafe-room-dont-use.jpg
+order: 110
+title: Café
+menus:
+  - heading: Menu
+    content: >-
+      * Two sourdough crumpets with butter (add jam, marmalade, Marmite butter
+      or honey butter) **£5.00**
+
+      * Toast with butter (add jam, marmalade, Marmite butter  or honey butter) **£5.00**
+
+      * Porridge with local honey, maple syrup or golden syrup **£7.00**
+
+      * Maple roasted granola, Greek / plant based yoghurt & seasonal compote **£7.00**
+
+      * Pork and apple sausage roll & bacon jam **£7.00**
+
+      * Sussex Manchego cheese and olive scone, butter & chorizo jam **£7.00**
+
+      * Bacon bap, pickled walnut ketchup **£8.00**
+
+      * Seasonal veggie soup, served with toast **£8.00**
+
+      * A mug of soup and half a sandwich **£9.00**
+
+      * Sausage patty, fried egg, Mayfield Swiss cheese & English muffin **£9.50**
+
+      * Basil’s Fungi Farm mushrooms, toasted sourdough **£9.50**
+
+      * Whipped Sussex feta, roasted carrot hummus, pink pickled onions, & toasted sourdough **£9.50**
+
+      * Hot smoked salmon, spinach poached egg and hollandaise sauce on sourdough toast **£11.00**
+  - subheading: Salads
+    content: "* Charred purple sprouting broccoli, courgettes, crumbled sussex feta,
+      pine nuts, leaves, couscous & herb dressing **£12.50**"
+  - subheading: Platter
+    content: "* Hot smoked salmon, crab, smoked sea bream, smoked prawn, pickled
+      cucumber, capers, lemon mayo & toast **£15.00**"
+  - subheading: Stew
+    content: |-
+      Served with toasted sourdough
+
+      * Chicken & chorizo stew **£15.00**
+      * Seafood chowder **£15.00**
+  - content: |-
+      Served on malted or white bread with homemade crisps 
+
+      * Ham & Piccallili **£9.00**
+      * Smoked Chicken & Mango Chutney **£9.00**
+      * Cheese & Fruit Chutney **£9.00**
+      * Crab & Rocket **£10.50**
+    subheading: Sandwiches
+  - heading: Drinks
+    subheading: Hot Drinks
+    content: >-
+      * Espresso **£2.50**
+
+      * Double Espresso **£3.00**
+
+      * Americano **£3.20**
+
+      * Latte **£3.50**
+
+      * Flat White **£3.20**
+
+      * Cappuccino **£3.50**
+
+      * Babycino **£3.00**
+
+      * Mocha **£4.50**
+
+      * Hot Chocolate **£3.00**
+
+      * Chai Latte **£3.00**
+
+      * Dirty Chai **£4.50**
+
+      * Ringtons Tea
+
+      * English Breakfast, Earl Grey,Lemon & Ginger, Chamomile,Peppermint & GreenTea for One **£2.50**
+
+      * Tea for Two **£4.00**
+
+
+      Decaf tea & coffee available on request
+  - subheading: Iced Drinks
+    content: |-
+      All of our coffees are available iced.
+      Prices start from **£3.80**
+
+      * Vanilla Syrup **80p**
+      * Pumpkin Spice Syrup **80p**
+  - content: >-
+      * Nelly’s seasonal, cold pressed juice **£5.00**
+
+      * Apple Juice **£3.00**
+
+      * Orange Juice **£3.00**
+
+      * Zak’s Kombucha 
+        Elderflower, lavender, ginger & tumeric or sparkling oolong **£5.00**
+      * Fetimans
+        Victorian Lemonade, Rose Lemonade, Ginger Beer, Mandarian & Seville Orange, Eldeflower, Dandelion & Burdock  **£3.50**
+      * Coca Cola / Diet Coke **£3.50**
+
+      * Small Sparkling Water **£2.50**
+
+      * Large Sparkling Water **£5.00**
+    subheading: Soft Drinks
+  - heading: ""
+    content: |-
+      **El Copero White**
+
+      * Glass **£6.00**
+      * Half Carafe **£13.00**
+      * Full Carafe **£23.00**
+
+      **El Copero Red**
+
+      * Glass **£6.00**
+      * Half Carafe **£13.00**
+      * Full Carafe **£23.00**
+
+      **Les Oliviers Rose**
+
+      * Glass **£6.00**
+      * Half Carafe **£13.00**
+      * Full Carafe **£23.00**
+    subheading: Wines
+  - content: |-
+      **Bloody Mary**
+
+      * Glass **£8.00**
+      * Pitcher **£20.00**
+
+      **Pimms**
+
+      * Glass **£8.00**
+      * Pitcher **£20.00**
+
+      **Mimosa**
+
+      * Glass **£8.00**
+    subheading: Cocktails
+  - content: |-
+      * Small Bottle **£7.00**
+      * Large Bottle **£23.00**
+    subheading: Prosecco
+  - content: |-
+      * Brewing Brothers Reforestation Pale Ale (GF) **£7.00**
+      * Brewing Brothers Sussex Lager (GF) **£7.00**
+    subheading: Beer
 gallery:
   - image: /assets/img/dsc01042.jpg
   - image: /assets/img/dsc01053.jpg
@@ -17,11 +170,7 @@ gallery:
   - image: /assets/img/dsc01201.jpg
   - image: /assets/img/dsc01239.jpg
   - image: /assets/img/dsc01252.jpg
-order: 110
-additional:
-  show: true
-  shorterurl: true
-  order: 60
+type: page
 ---
 Café at The Old Rectory is an elegantly designed space that offers all the important things in life: good coffee, good food, and good vibes. Our carefully planned seasonal menu features ingredients from trusted local suppliers, enhanced by in-house expertise—from our expert cake baker to our on-site garden smokers. Open seven days a week from 10 am to 4 pm, Café at The Old Rectory is the perfect place to catch up with old friends, relax after a walk with the dog, or enjoy some solo time with a cup of tea and a good book.
 
