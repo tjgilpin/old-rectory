@@ -67,7 +67,7 @@
           {{ body | markdownify | safe }}
         </div>
         {% if sections %}
-          <div class="card-wrapper card-wrapper-{{ page.fileSlug }} ">
+          <div class="card-wrapper card-wrapper-{{ page.fileSlug }}{% if pagesection == 'index' %} card-wrapper-index{% endif %}">
           {% for section in sections %}
             <section class="card{% if section.darktext == true %} card-dark{% endif %}">
               <div class="card-image">
