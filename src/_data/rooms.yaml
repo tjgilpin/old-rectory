@@ -1,4 +1,5 @@
 title: Our Rooms
+headerimage: /assets/img/header-rooms-1500x1000.jpg
 body: >-
   Rest and relax in our boutique bedrooms, each one different from the others
   but all equally luxurious; with high quality linens, bespoke Old Rectory
@@ -6,4 +7,45 @@ body: >-
 
 
   Throughout October & November get 10% off all midweek stays - Use code MIDWEEK when booking!
+sections:
+  - title: Crown
+    body: Large, grand and opulent, with a bathtub in the center of the room & a
+      toilet in the bookcase. Our ‘honeymoon’ room. From £180 for two.
+    sectionimage: /assets/img/our-rooms-hero.jpg
+    cta: Click here to book
+    link: the-crown
+  - title: All Saints
+    sectionimage: /assets/img/36-dsc00377.jpg
+    body: A private corridor leads you past the sumptuous bathrooms to a light,
+      luxurious and spacious bedroom with its stunning hand printed Deborah
+      Bowness floral wallpaper and hand painted headboard. From £190 for two.
+    cta: Click here to book
+    link: all-saints
+  - body: This extensive suite is perfect for two, three or four to share. Enjoy a
+      cosy night in the private lounge with an equipped kitchen and dining
+      space. From £180 for two.
+    title: Bourne
+    cta: Click here to book
+    link: bourne
+    sectionimage: /assets/img/bournesuite-krp-07.jpg
+  - title: Ebenezer
+    sectionimage: /assets/img/30-dsc00357.jpg
+    cta: Click here to book
+    link: ebenezer
+    body: With its wall of Wedgwood calendar plates and elegant furniture; this
+      beautifully light and airy room at the front of the house, has Old town
+      views from its Georgian sash window. From £175 for two.
+  - title: Tackleway
+    sectionimage: /assets/img/or-24th-may-by-georgina-piper-58.jpg
+    body: ""
+    cta: Click here to book
+    link: tackleway
+  - title: Sinnock
+    sectionimage: /assets/img/16-dsc00302.jpg
+    body: Being Georgian in origin, this room is light and airy with high ceilings
+      and a beautiful chandelier. With hand painted panelled wallpaper designed
+      by Deborah Bowness, this room has a calm, yet majestic feel. From £190 for
+      two.
+    cta: Click here to book
+    link: sinnock
 order: 10
