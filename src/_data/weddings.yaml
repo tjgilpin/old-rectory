@@ -1,4 +1,5 @@
 title: Weddings
+headerimage: /assets/img/header-weddings-1500x1000.jpg
 body: >-
   A relaxed and stylish venue awaits you at The Old Rectory. We offer you a
   bespoke service where our gorgeous contemporary house and beautiful walled
@@ -15,4 +16,18 @@ body: >-
 
 
   [View Wedding Brochure](/assets/img/wedding-brochure.pdf)
+sections:
+  - body: Perfect for intimate gatherings, our Garden Wedding Ceremony package
+      accommodates up to 78 guests, plus the couple, offering an elegant and
+      relaxed outdoor celebration.
+    title: Wedding Ceremony
+    cta: View Wedding Package
+    sectionimage: /assets/img/header-wedding-ceremony-1500x1000.jpg
+  - title: Wedding Extravaganza
+    sectionimage: /assets/img/header-wedding-extravaganza-1500x1000.png
+    body: For a truly unforgettable celebration, our Wedding Extravaganza package
+      offers exclusive hire of The Old Rectory for two nights. Bed and
+      breakfast, full marquee hire, staffing, furniture, crockery, silverware
+      and glassware included.
+    cta: View Wedding Package
 order: 40
