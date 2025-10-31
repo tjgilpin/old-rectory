@@ -3,7 +3,7 @@ hide: false
 slug: upcoming-events
 type: page
 title: Upcoming Events
-headerimage: /assets/img/oldrectory04.jpg
+headerimage: /assets/img/your-wedding-day-1.jpg
 sections:
   - title: Christmas Wreath Workshop
     sectionimage: /assets/img/wreath-1-scaled.jpg
