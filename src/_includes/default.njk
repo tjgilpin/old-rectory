@@ -19,6 +19,9 @@
     <meta property="og:image:height" content="{{ settings.imageHeight }}"> -->
     <meta property="og:image:alt" content="{{ settings.imageAlt }}">
     <link rel="stylesheet" href="/assets/css/style.css">
+    {% if title == 'Upcoming Events' %}
+    <link rel="stylesheet" href="/assets/css/events.css">
+    {% endif %}
     {% if title == 'Gift Vouchers'  %}
     <script defer="defer" type="text/javascript" src="https://admin.one-tree.net/embed-3b673399cf.js"></script>    
     {% endif %}
@@ -48,8 +51,35 @@
         </h1>
         {% endif %}
       </header>
-
-      {% if title == 'Home'  %}
+      <!-- Upcoming Event Cards -->
+      {% if title == 'Upcoming Events' %}
+      <div class="page_copy">
+        {{ content | safe }}
+      </div>      
+      <div class="card-wrapper card-wrapper-{{ page.fileSlug }}">{% for section in sections %}
+        <section class="card{% if section.darktext == true %} card-dark{% endif %}">
+          <div class="card-image">
+            {% if section.url %}<a href="{{ section.url }}">{% endif %}
+              <img src="{{ section.sectionimage }}" alt="{{ section.title }}">
+            {% if section.url %}</a>{% endif %}
+          </div>
+          <div class="card-title">
+            {% if section.url %}<a href="{{ section.url }}">{% endif %}
+              <h2>{{ section.title }}</h2>
+            {% if section.url %}</a>{% endif %}
+          </div>
+          <div class="card-text">
+            {% if section.url %}<a href="{{ section.url }}">{% endif %}
+              {{ section.body | markdownify | safe }}
+            {% if section.url %}</a>{% endif %}
+            {% if section.cta and section.url %}
+              <a href="{{ section.url }}" class="card-cta">{{section.cta}}</a>
+            {% endif %}
+          </div>
+        </section>{% endfor %}        
+      </div>
+      <!-- Upcoming Event Cards -->
+      {% elseif title == 'Home'  %}
       <div class="content">{% for section in home.sections %}
         <section class="section-panel">
           <div class="image">
