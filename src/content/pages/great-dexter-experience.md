@@ -12,12 +12,15 @@ hide: true
 template:
   - Panel Image Background
 ---
-
-
-
 **Enjoy a two-night bed and breakfast stay in a beautiful garden-view room at The Old Rectory.**
 
+<hr/>
+
 **Savour a relaxing lunch in our charming café as part of your experience.**
+
+</div>
+<div class="menu">
+<div class="menu-col">
 
 Your stay includes:
 
@@ -25,12 +28,15 @@ Your stay includes:
 * DIXTER HOUSE & GARDENS
 * PROSECCO AND HOMEMADE CAKE ON ARRIVAL AT THE OLD RECTORY
 
+</div>
+<div class="menu-col">
+
 **Prices:**
 
 * **£550 for two guests**
 * **£375 for solo travellers**
 
-
-
-
 For Bookings: 01424 422410; info@theoldrectoryhastings.co.uk
+
+</div>
+</div>
