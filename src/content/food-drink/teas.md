@@ -16,7 +16,7 @@ menus:
       selection of classic sandwiches & homemade quiches. There is a mixture of
       fish, meat and vegetarian sandwiches to make sure there’s something for
       everyone; this is a fantastic option for a lunch time catch-up with
-      friends.
+      friends.  
 
       **£27 per person**
     subheading: Afternoon Tea
