@@ -6,7 +6,7 @@ headerimage: /assets/img/rustic-7643127_1280.jpg
 gallery:
   - image: /assets/img/87-dsc00770.jpg
   - image: /assets/img/screenshot-2025-10-21-at-14.36.43.png
-  - image: /assets/img/loomiere-weaves04-1024x1024.jpg
+  - image: /assets/img/img_6303.jpg
   - image: /assets/img/screenshot-2025-10-27-at-13.22.44.png
 hide: true
 template:
