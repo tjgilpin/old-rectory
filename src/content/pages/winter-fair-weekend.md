@@ -2,6 +2,7 @@
 type: subpage
 parent_page: Upcoming Events
 title: Winter Fair Weekend
+subpageslug: 6TH & 7TH DECEMBER
 headerimage: /assets/img/rustic-7643127_1280.jpg
 gallery:
   - image: /assets/img/87-dsc00770.jpg
