@@ -203,6 +203,6 @@
   font-weight: 700;
 }
 
-body.subpage_upcoming-events, body.subpage a {
+body.subpage_upcoming-events, body.subpage_upcoming-events a, body.subpage_upcoming-events footer, body.subpage_upcoming-events footer a { {
   color: var(--blue);
 }
