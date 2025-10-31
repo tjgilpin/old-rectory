@@ -30,6 +30,8 @@ sections:
       **Shop • Eat • Drink**
 
       Sat 11am - 5pm, Sun 10am - 4pm
+    url: winter-fair-weekend
+    cta: View Details
   - title: Christmas Parties at the Old Rectory
     sectionimage: /assets/img/upcoming-events-xmas-900x540.jpg
     body: |-
@@ -38,8 +40,8 @@ sections:
       **Available to Book Now**
 
       Minimum 12 people
-    url: mailto:info@theoldrectoryhastings.co.uk
-    cta: Book Now
+    url: christmas-parties
+    cta: View Details
     darktext: true
 order: 120
 template:
