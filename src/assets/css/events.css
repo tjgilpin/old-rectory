@@ -202,3 +202,7 @@
   font-size: 0.75em;
   font-weight: 700;
 }
+
+body.subpage_upcoming-events {
+  color: var(--blue);
+}
