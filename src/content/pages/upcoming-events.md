@@ -21,7 +21,7 @@ sections:
 
       **Autumn / Winter 2025**
     cta: View Our Package
-    url: great-dexter-experience
+    url: great-dixter-experience
   - title: Winter Fair Weekend
     sectionimage: /assets/img/rustic-7643127_1280.jpg
     body: |-
