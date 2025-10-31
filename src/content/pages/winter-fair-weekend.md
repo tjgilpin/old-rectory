@@ -13,7 +13,7 @@ hide: true
 template:
   - Panel Image Background
 ---
-# **6TH & 7TH DECEMBER**
+## **6TH & 7TH DECEMBER**
 
 <hr/>
 
