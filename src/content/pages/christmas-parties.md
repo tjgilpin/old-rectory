@@ -4,7 +4,7 @@ parent_page: Upcoming Events
 title: Christmas Parties
 headerimage: /assets/img/10-dsc06655.jpg
 gallery:
-  - image: /assets/img/10-dsc06655.jpg
+  - image: /assets/img/cover.jpg
   - image: /assets/img/page6.jpg
   - image: /assets/img/page1.jpg
   - image: /assets/img/page3.jpg
