@@ -24,3 +24,8 @@ Your stay includes:
 
 * **£550 for two guests**
 * **£375 for solo travellers**
+
+
+
+
+For Bookings: 01424 422410; info@theoldrectoryhastings.co.uk
