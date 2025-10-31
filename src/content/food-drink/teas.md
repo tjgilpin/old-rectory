@@ -8,7 +8,7 @@ menus:
   - subheading: Cream Tea
     content: >-
       
-      If you’re after something dainty and light, our Cream Tea is the ultimate treat. Made up of scones, clotted cream, jam and an assortment of our signature, homemade cakes. This is an option that pairs perfectly with a pamper session in our Treatment Rooms or enjoyed on its own as part of your well-deserved relaxation.
+      If you’re after something dainty and light, our Cream Tea is the ultimate treat. Made up of scones, clotted cream, jam and an assortment of our signature, homemade cakes. This is an option that pairs perfectly with a pamper session in our Treatment Rooms or enjoyed on its own as part of your well-deserved relaxation.  
 
       **£17 per person**
   - content: >-
@@ -25,7 +25,7 @@ menus:
       If sweets and cakes don’t quite suit your taste then this is the perfect
       option for you. A savoury scone, a selection of local cheeses; Brighton
       Blue, Sussex Charmer Cheddar & Sussex Brie, and Rectory Chutney &
-      Piccalilli.
+      Piccalilli.  
 
       **£17 per person**
 gallery:
