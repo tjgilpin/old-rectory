@@ -19,7 +19,7 @@
     <meta property="og:image:height" content="{{ settings.imageHeight }}"> -->
     <meta property="og:image:alt" content="{{ settings.imageAlt }}">
     <link rel="stylesheet" href="/assets/css/style.css">
-    {% if title == 'Upcoming Events' %}
+    {% if title == 'Upcoming Events' or parent_page == 'Upcoming Events' %}
     <link rel="stylesheet" href="/assets/css/events.css">
     {% endif %}
     {% if title == 'Gift Vouchers'  %}

@@ -203,6 +203,6 @@
   font-weight: 700;
 }
 
-body.subpage_upcoming-events {
+body.subpage_upcoming-events, body.subpage a {
   color: var(--blue);
 }
