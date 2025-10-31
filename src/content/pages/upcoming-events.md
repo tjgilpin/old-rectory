@@ -14,13 +14,13 @@ sections:
       **Make your own wreath**
     cta: View Workshops
     url: christmas-wreath-workshop
-  - title: The Great Dexter Experience
-    sectionimage: /assets/img/upcoming-events-dexter-900x540.jpg
+  - title: The Great Dixter Experience
+    sectionimage: /assets/img/long-border-2-jul-23-richard-bloom-d050623-38-do-not-use-externally.webp
     body: |-
       *Autumn / Winter 2025*
 
       **Autumn / Winter 2025**
-    cta: View Experience
+    cta: View Our Package
     url: great-dexter-experience
   - title: Winter Fair Weekend
     sectionimage: /assets/img/rustic-7643127_1280.jpg
