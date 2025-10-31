@@ -13,7 +13,7 @@ sections:
 
       **Make your own wreath**
     cta: View Workshops
-    url: christmas-wreath-workshops
+    url: christmas-wreath-workshop
   - title: The Great Dexter Experience
     sectionimage: /assets/img/upcoming-events-dexter-900x540.jpg
     body: |-
