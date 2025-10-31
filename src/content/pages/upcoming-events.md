@@ -6,7 +6,6 @@ title: Upcoming Events
 headerimage: /assets/img/our-wedding-day-1.jpg
 sections:
   - title: Christmas Wreath Workshop
-    darktext: false
     sectionimage: /assets/img/wreath-1-scaled.jpg
     body: |-
       *10th & 12th December*
@@ -42,7 +41,6 @@ sections:
       Minimum 12 people
     url: christmas-parties
     cta: View Details
-    darktext: true
 order: 120
 template:
   - Panel Image Background
