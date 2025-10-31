@@ -3,6 +3,11 @@ type: subpage
 parent_page: Upcoming Events
 title: Great Dixter Experience
 headerimage: /assets/img/long-border-2-jul-23-richard-bloom-d050623-38-do-not-use-externally.webp
+gallery:
+  - image: /assets/img/220805-greatdixter-5.jpg
+  - image: /assets/img/250510-greatdixter-331.jpg
+  - image: /assets/img/our-wedding-day-56.jpg
+  - image: /assets/img/53-dsc00497.jpg
 hide: true
 template:
   - Panel Image Background
