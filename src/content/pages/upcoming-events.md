@@ -7,23 +7,23 @@ headerimage: /assets/img/our-wedding-day-1.jpg
 sections:
   - title: Christmas Wreath Workshop
     darktext: false
-    sectionimage: /assets/img/upcoming-events-wreath-900x540.jpg
+    sectionimage: /assets/img/wreath-1-scaled.jpg
     body: |-
       *10th & 12th December*
 
       **Make your own wreath**
     cta: View Workshops
     url: christmas-wreath-workshop
-  - title: The Great Dexter Experience
-    sectionimage: /assets/img/upcoming-events-dexter-900x540.jpg
+  - title: The Great Dixter Experience
+    sectionimage: /assets/img/long-border-2-jul-23-richard-bloom-d050623-38-do-not-use-externally.webp
     body: |-
       *Autumn / Winter 2025*
 
       **Autumn / Winter 2025**
-    cta: View Experience
+    cta: View Our Package
     url: great-dexter-experience
   - title: Winter Fair Weekend
-    sectionimage: /assets/img/upcoming-events-winterfair-900x540.jpg
+    sectionimage: /assets/img/rustic-7643127_1280.jpg
     body: |-
       *6th & 7th December*
 
@@ -33,7 +33,7 @@ sections:
     url: winter-fair-weekend
     cta: View Details
   - title: Christmas Parties at the Old Rectory
-    sectionimage: /assets/img/upcoming-events-xmas-900x540.jpg
+    sectionimage: /assets/img/10-dsc06655.jpg
     body: |-
       *From 1st - 22 December*
 
