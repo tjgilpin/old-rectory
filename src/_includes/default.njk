@@ -65,6 +65,18 @@
         <div class="page_copy">
           {{ content | markdownify | safe }}
           {{ body | markdownify | safe }}
+                  <!-- menu content sections -->
+          {% if menus %}
+            <div class="menu-wrapper">
+              {% for menu in menus %}
+                <section class="menu-section">
+                  <h2>{{ menu.heading }}</h2>
+                  <h3>{{ menu.subheading }}</h3>
+                  {{ menu.content | markdownify | safe }}
+                </section>
+              {% endfor %}
+            </div>       
+          {% endif %}
         </div>
         {% if sections %}
           <div class="card-wrapper card-wrapper-{{ page.fileSlug }}{% if pagesection == 'index' %} card-wrapper-index{% endif %}">
@@ -98,19 +110,8 @@
           {% endfor %}
           </div>
         {% endif %}
-
-        <!-- menu content sections / panels -->
-        {% if menus %}
-          {% for menu in menus %}
-          <section class="menu-panel">
-            <h2>{{ menu.heading }}</h2>
-            <h3>{{ menu.subheading }}</h3>
-            {{ menu.content | markdownify | safe }}
-
-          </section>
-          {% endfor %}          
-        {% endif %}
-        {% if gallery %}
+       <!-- gallery content sections -->
+       {% if gallery %}
         <div class="gallery-wrapper">
           <div class="gallery">
             <ul>
