@@ -2,7 +2,7 @@
 type: subpage
 parent_page: Upcoming Events
 title: Winter Fair Weekend
-subpageslug: 6TH & 7TH DECEMBER
+subpageslug: ""
 headerimage: /assets/img/christmas-tree-5758765_1280.jpg
 gallery:
   - image: /assets/img/87-dsc00770.jpg
