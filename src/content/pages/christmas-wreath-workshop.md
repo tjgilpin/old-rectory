@@ -17,4 +17,4 @@ Embrace the festive season and craft your own enchanting wreath at the Old Recto
 
 *To Book*
 
-*Email: hannahaliceadams@hotmail.com*
+*Email: [hannahaliceadams@hotmail.com](mailto:hannahaliceadams@hotmail.com)*
