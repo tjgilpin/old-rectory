@@ -9,7 +9,6 @@ gallery:
   - image: /assets/img/page1.jpg
   - image: /assets/img/page3.jpg
   - image: /assets/img/page5.jpg
-  - image: /assets/img/cover.jpg
 hide: true
 template:
   - Panel Image Background
