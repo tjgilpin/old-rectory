@@ -4,8 +4,8 @@ parent_page: Upcoming Events
 title: Winter Fair Weekend
 headerimage: /assets/img/christmas-tree-5758765_1280.jpg
 gallery:
+  - image: /assets/img/251105-wintertable-29-2star-1-.jpg
   - image: /assets/img/87-dsc00770.jpg
-  - image: /assets/img/screenshot-2025-10-21-at-14.36.43.png
   - image: /assets/img/img_6303.jpg
   - image: /assets/img/screenshot-2025-10-27-at-13.22.44.png
 hide: true
