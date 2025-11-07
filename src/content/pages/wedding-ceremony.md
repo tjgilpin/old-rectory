@@ -1,7 +1,8 @@
 ---
 type: subpage
 parent_page: Weddings
-title: Wedding Ceremony
+title: "Wedding Ceremony "
+subhead: "Just The I Do's "
 headerimage: /assets/img/img_8153.jpg
 gallery:
   - image: /assets/img/725-_h1a6735-1910.jpg
