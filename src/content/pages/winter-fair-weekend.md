@@ -21,18 +21,18 @@ Saturday 11am – 5pm & Sunday 10am – 4pm
 
 ## **Join Us in celebrating the spirit of the festive season!**
 
-Entry: £5 (children 16 and under go free) Includes a glass of Prosecco or a Soft Drink
+Entry: £5 (children 16 and under go free) Includes a glass of Mulled wine or a Soft Drink
 
-Tickets: On entry (Or available in advance from The Old Rectory)
+Tickets: Due to capacity limitations advance ticket booking is preferred Tickets will be available on the door but are subject to time restrictions. We are running two time slots each day, 11am - 2pm & 2pm - 5pm on Saturday and 10am - 1pm & 1pm - 4pm on Sunday. 
+
+To book your ticket call or email us directly or pop-in & see us. 
 
 ## **!!!Win!!!**
 
 All tickets will be entered for our prize draw
 
-- One Night Stay for two
-- Treatments for two
-- Cream Tea for two
+* One Night Stay for two
+* Treatments for two
+* Cream Tea for two
 
 Draw takes place 8th December 2025
-
-
