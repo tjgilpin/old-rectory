@@ -7,6 +7,81 @@ slug: /cafe/
 headerimage: /assets/img/hero-cafe-room-dont-use.jpg
 order: 110
 title: Café
+menus:
+  - type: heading
+    text: Menu
+  - type: content
+    text: >-
+      * Two sourdough crumpets with butter (add jam, marmalade, Marmite butter
+      or honey butter) 
+
+        **£5.00**
+
+      * Toast with butter (add jam, marmalade, Marmite butter  or honey butter) 
+
+        **£5.00**
+
+      * Porridge with local honey, maple syrup or golden syrup 
+
+        **£7.00**
+
+      * Maple roasted granola, Greek / plant based yoghurt & seasonal compote 
+
+        **£7.00**
+
+      * Pork and apple sausage roll & bacon jam 
+
+        **£7.00**
+
+      * Sussex Manchego cheese and olive scone, butter & chorizo jam 
+
+        **£7.00**
+
+      * Bacon bap, pickled walnut ketchup 
+
+        **£8.00**
+
+      * Seasonal veggie soup, served with toast 
+
+        **£8.00**
+
+      * A mug of soup and half a sandwich 
+
+        **£9.00**
+
+      * Sausage patty, fried egg, Mayfield Swiss cheese & English muffin 
+
+        **£9.50**
+
+      * Basil’s Fungi Farm mushrooms, toasted sourdough 
+
+        **£9.50**
+
+      * Whipped Sussex feta, roasted carrot hummus, pink pickled onions, & toasted sourdough 
+
+        **£9.50**
+
+      * Hot smoked salmon, spinach poached egg and hollandaise sauce on sourdough toast 
+
+        **£11.00**
+  - type: subheading
+    text: Salads
+  - type: content
+    text: "* Charred purple sprouting broccoli, courgettes, crumbled sussex feta,
+      pine nuts, leaves, couscous & herb dressing **£12.50**"
+  - type: subheading
+    text: Platter
+  - type: content
+    text: "* Hot smoked salmon, crab, smoked sea bream, smoked prawn, pickled
+      cucumber, capers, lemon mayo & toast **£15.00**"
+  - type: subheading
+    text: Stew
+  - type: content
+    text: |-
+      Served with toasted sourdough
+
+      * Chicken & chorizo stew **£15.00**\
+        Seafood chowder **£15.00**
 gallery:
   - image: /assets/img/dsc01042.jpg
   - image: /assets/img/dsc01053.jpg
