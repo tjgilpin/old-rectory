@@ -212,14 +212,27 @@ collections:
       - { label: "Page Title", name: "title", widget: "string" }
       - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
       - { label: "Content", name: "body", widget: "markdown", required: false }
-      - label: Menus
-        name: menus
-        widget: list
-        required: false
-        fields:
-          - { label: Menu Heading, name: heading, widget: string, required: false }            
-          - { label: Menu Sub Heading, name: subheading, widget: string, required: false }            
-          - { label: Content, name: content, widget: markdown }
+      - label: 'Menus'
+        name: 'menus'
+        widget: 'list'
+        types:
+          - label: 'Heading'
+            name: 'heading'
+            widget: object
+            summary: '{{fields.text}}'
+            fields:
+              - { label: Text, name: text, widget: string }
+          - label: 'Subheading'
+            name: 'subheading'
+            widget: object
+            summary: '{{fields.text}}'
+            fields:
+              - { label: Text, name: text, widget: string }
+          - label: 'Menu Content'
+            name: 'content'
+            widget: object
+            fields:
+              - { label: Content, name: text, widget: markdown }
       - label: Sections
         name: sections
         widget: list
