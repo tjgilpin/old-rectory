@@ -80,8 +80,8 @@ menus:
     text: |-
       Served with toasted sourdough
 
-      * Chicken & chorizo stew **£15.00**\
-        Seafood chowder **£15.00**
+      * Chicken & chorizo stew **£15.00**
+      * Seafood chowder **£15.00**
 gallery:
   - image: /assets/img/dsc01042.jpg
   - image: /assets/img/dsc01053.jpg
