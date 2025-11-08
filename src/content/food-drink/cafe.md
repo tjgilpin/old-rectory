@@ -10,7 +10,7 @@ title: Café
 menus:
   - type: heading
     text: Menu
-  - type: content
+  - type: text
     text: >-
       * Two sourdough crumpets with butter (add jam, marmalade, Marmite butter
       or honey butter) 
@@ -25,7 +25,7 @@ menus:
 
         **£7.00**
 
-      * Maple roasted granola, Greek / plant based yoghurt & seasonal compote 
+      * Maple roasted granola, Greek / plant based yoghu  rt & seasonal compote 
 
         **£7.00**
 
@@ -66,17 +66,17 @@ menus:
         **£11.00**
   - type: subheading
     text: Salads
-  - type: content
+  - type: text
     text: "* Charred purple sprouting broccoli, courgettes, crumbled sussex feta,
       pine nuts, leaves, couscous & herb dressing **£12.50**"
   - type: subheading
     text: Platter
-  - type: content
+  - type: text
     text: "* Hot smoked salmon, crab, smoked sea bream, smoked prawn, pickled
       cucumber, capers, lemon mayo & toast **£15.00**"
   - type: subheading
     text: Stew
-  - type: content
+  - type: text
     text: |-
       Served with toasted sourdough
 

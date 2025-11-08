@@ -212,7 +212,7 @@ collections:
       - { label: "Page Title", name: "title", widget: "string" }
       - { label: "Header Images", name: headerimage, widget: image, allow_multiple: true, required: false }
       - { label: "Content", name: "body", widget: "markdown", required: false }
-      - label: 'Menus'
+      - label: 'Menu Sections'
         name: 'menus'
         widget: 'list'
         types:
@@ -228,11 +228,11 @@ collections:
             summary: '{{fields.text}}'
             fields:
               - { label: Text, name: text, widget: string }
-          - label: 'Menu Content'
-            name: 'content'
+          - label: 'Text'
+            name: 'text'
             widget: object
             fields:
-              - { label: Content, name: text, widget: markdown }
+              - { label: Text, name: text, widget: markdown }
       - label: Gallery Images
         name: gallery
         widget: list

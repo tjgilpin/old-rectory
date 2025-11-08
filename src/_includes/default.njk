@@ -72,7 +72,7 @@
                 <section class="menu-section">
                   <h2>{{ menu.heading.text }}</h2>
                   <h3>{{ menu.subheading.text }}</h3>
-                  {{ menu.content.text | markdownify | safe }}
+                  {{ menu.text.text | markdownify | safe }}
                 </section>
               {% endfor %}
             </div>       
