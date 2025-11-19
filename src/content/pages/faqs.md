@@ -66,4 +66,4 @@ We always do our best to make The Old Rectory a welcoming and comfortable place 
 
 ## How do I book a treatment using a gift voucher?
 
-If you’re booking a treatment online and want to pay using a gift voucher, you’ll first need to add the voucher to the Wallet section on your Fresha account. You’ll then be able to use the voucher as your 50% booking deposit.
+If you’re booking a treatment online and want to pay using a gift voucher, you’ll first need to create an account with our booking system Fresha. Once you’ve done this, add the voucher code to the ‘Wallet’ section of your Fresha account. You’ll then be able to use the voucher as your 50% booking deposit.
