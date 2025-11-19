@@ -62,3 +62,8 @@ We offer a corporate rate to businesses who require a location for visiting coll
 Our Sustainability Policy is covered by three main principles. The First is a fundamental focus on the conservation of resources through efficient use of water and energy and careful consideration for a ‘Reduce, Recycle & Reuse’ ethos. The Second Principle calls for products to be locally sourced as much as possible from like-minded businesses. We also encourage plant-based produced for those of our guests who aim to uphold these ideals. The Third Principle focuses on the building itself & a business-wide promise to treasure and uphold our beautiful house & its garden through constant care, regeneration & development. Our garden encourages biodiversity & wild spaces & is home to a compost site enriched with some of our food waste. These principles are instilled throughout all training at The Old Rectory & are upheld in our day-to-day operation.
 
 We always do our best to make The Old Rectory a welcoming and comfortable place to be; if you have a question that hasn't been covered here get in touch and a member of the team will be happy to help you.
+
+
+## How do I book a treatment using a gift voucher?
+
+If you’re booking a treatment online and want to pay using a gift voucher, you’ll first need to add the voucher to the Wallet section on your Fresha account. You’ll then be able to use the voucher as your 50% booking deposit.
