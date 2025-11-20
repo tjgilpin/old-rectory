@@ -36,3 +36,13 @@ All tickets will be entered for our prize draw
 * Cream Tea for two
 
 Draw takes place 8th December 2025
+
+
+
+*Accessibility* 
+
+As with our previous fairs, please remember that there is poor accessibility throughout the Rectory. Many of our stalls are on the first & second floors, children are welcome but the building is not suitable for pushchairs or wheelchairs. 
+
+*Dogs* 
+
+Since this year’s Winter Fair is indoors, space is a little tight! We absolutely love seeing your pups, but please keep in mind that bigger dogs might feel a bit cramped; if you are able to leave your furry friends at home they will be much more comfortable.
