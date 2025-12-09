@@ -21,39 +21,4 @@ In keeping with our home-from-home, welcoming atmosphere Sunday Lunches at The O
 
 <hr/>
 
-## Menu 9th November 2025
-
-<div class="menu-text">
-
-2 courses **£28** - 3 courses **£36**
-
-</div>
-<div class="menu">
-<div class="menu-col">
-
-### Starter
-
-* Venison liver parfait, apple jam and house oat cakes with cep scented honey
-* Home smoked sea bream, charred fennel, smoked olives and fennel seed butter sauce
-* Leek vinegarette tartlet, salad of bitter leaf, toasted walnut and garden fig
-
-### Main
-
-* Parsley, mint and parmesan crusted lamb, confit aubergine, whipped sheep’s cheese
-* Roasted chicken, sage and onion stuffing, pureed Jerusalem artichoke, chicken skin crackling
-* Carrot and cashew nut roast, beetroot and goat’s cheese arancini, horse radish cream
-
-Sides: Roasted potatoes, glazed root vegetables, cauliflower cheese, buttered runner beans, Yorkshire pudding, gravy jugs
-
-</div>
-<div class="menu-col">
-
-### Dessert
-
-* Lemon tart, strained crème fraiche and soused orange
-* Autumn fruit and ginger steamed pudding, white chocolate custard
-* Local cheese plate, house chutney, cheese biscuits, candied hazelnuts, celery
-  (+£3 supplement)
-
-</div>
-</div>
+## Keep an Eye on Our Next Sunday Lunch Dates of 2026 HERE
