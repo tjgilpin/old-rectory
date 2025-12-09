@@ -21,4 +21,6 @@ In keeping with our home-from-home, welcoming atmosphere Sunday Lunches at The O
 
 <hr/>
 
-## Keep an Eye on Our Next Sunday Lunch Dates of 2026 HERE
+## Keep an Eye on Our Next Sunday Lunch
+
+## Dates for 2026 COMING SOON
