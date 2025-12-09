@@ -6,6 +6,15 @@ title: Food & Drink
 pageslug: food-drink
 headerimage: /assets/img/krp_oldrectory_68.jpg
 sections:
+  - title: POP-UP with 3 Souls in a Bowl / 18th December 2025
+    sectionimage: /assets/img/584296720_18085163669315522_5896797791062475462_n.jpg
+    body: >-
+      You asked - and it’s back!
+
+
+      After the success of our very first pop-up, we’re thrilled to welcome 3 Souls in a Bowl back to Café at the Old Rectory for another unforgettable evening of Indian deliciousness that truly amazed.
+    url: popup
+    cta: View Menus & Book
   - title: Sunday Lunch
     sectionimage: /assets/img/24-dsc06550.jpg
     body: The Old Rectory Traditional Sunday Lunches focus on seasonal, locally
