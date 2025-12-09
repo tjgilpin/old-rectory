@@ -13,7 +13,7 @@ sections:
 
 
       After the success of our very first pop-up, we’re thrilled to welcome 3 Souls in a Bowl back to Café at the Old Rectory for another unforgettable evening of Indian deliciousness that truly amazed.
-    url: popup
+    url: pop-up
     cta: View Menus & Book
   - title: Sunday Lunch
     sectionimage: /assets/img/24-dsc06550.jpg
