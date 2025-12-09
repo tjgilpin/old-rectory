@@ -21,16 +21,6 @@ sections:
       **Autumn / Winter 2025**
     cta: View Our Package
     url: great-dixter-experience
-  - title: Winter Fair Weekend
-    sectionimage: /assets/img/rustic-7643127_1280.jpg
-    body: |-
-      *6th & 7th December*
-
-      **Shop • Eat • Drink**
-
-      Sat 11am - 5pm, Sun 10am - 4pm
-    url: winter-fair-weekend
-    cta: View Details
   - title: Christmas Parties at the Old Rectory
     sectionimage: /assets/img/10-dsc06655.jpg
     body: |-
