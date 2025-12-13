@@ -17,7 +17,7 @@ template: Panel Image Background
 E-vouchers can be [purchased here](https://www.fresha.com/a/treatment-rooms-hastings-the-old-rectory-harold-road-uk-cro1x5rw/gift-cards?pId=86052&menu=true)
 
 **Paper Voucher**\
-Presented with a treatment menu and envelope, please [call ](tel:0782781101)or [email](mailto:treatmentrooms@theoldrectoryhastings.co.uk)
+Presented with a treatment menu and envelope, please [call ](tel:07827811011)or [email](mailto:treatmentrooms@theoldrectoryhastings.co.uk)
 
 **Postal Voucher**\
-Postal vouchers can be supplied, please [call ](tel:0782781101)or [email](mailto:treatmentrooms@theoldrectoryhastings.co.uk)
+Postal vouchers can be supplied, please [call ](tel:07827811011)or [email](mailto:treatmentrooms@theoldrectoryhastings.co.uk)
