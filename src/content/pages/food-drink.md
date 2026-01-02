@@ -6,7 +6,7 @@ title: Food & Drink
 pageslug: food-drink
 headerimage: /assets/img/krp_oldrectory_68.jpg
 sections:
-  - title: POP-UP with 3 Souls in a Bowl / 18th December 2025
+  - title: POP-UP with 3 Souls in a Bowl / NEXT DATE TBC
     sectionimage: /assets/img/584296720_18085163669315522_5896797791062475462_n.jpg
     body: >-
       You asked - and it’s back!
