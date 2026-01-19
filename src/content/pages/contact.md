@@ -11,11 +11,11 @@ Planning a stay, arranging a wedding, booking a treatment, or simply have a ques
 
 ## Rooms
 
-Call us on [01424 422 410](tel:01424422410) or email [info@theoldrectoryhastings.co.uk](mailto:info@theoldrectoryhastings.co.uk?subject=Rooms)
+Call us on [07436201117 ](tel:01424422410)or email [info@theoldrectoryhastings.co.uk](mailto:info@theoldrectoryhastings.co.uk?subject=Rooms)
 
 ## Weddings & Events
 
-Call us on [01424 422 410](tel:01424422410) or email [natalie@theoldrectoryhastings.co.uk](mailto:natalie@theoldrectoryhastings.co.uk)
+Call us on [](tel:01424422410)[07436201117 ](<>) or email [natalie@theoldrectoryhastings.co.uk](mailto:natalie@theoldrectoryhastings.co.uk)
 
 ## Treatment Rooms
 
