@@ -1,7 +1,8 @@
 ---
+hide: true
+slug: meet-the-team
 type: page
 title: Meet The Team
-slug: meet-the-team
 headerimage: /assets/img/meet-the-team-1600x900.jpg
 sections:
   - body: >-
@@ -46,28 +47,6 @@ sections:
 
       </p>
     sectionimage: /assets/img/treatment-team-800x1200.jpg
-  - title: "Our Chefs - Flavour Makers & Foodie Wizards - Matthew "
-    body: >-
-      <p>
-
-      Here at The Old Rectory, we don’t mess around when it comes to food. Our chefs are passionate about every bite, using seasonal, local ingredients to create dishes that feel both comforting and a little bit special.
-
-      </p>
-
-      <p>
-
-      Matthew is king of canapes and the master of Sunday roasts. His seasonal menus are all about honest, hearty food done right – with a little flair thrown in for good measure. From delicate bites to full-on feasts, he makes sure every meal tells a story (and ends with a clean plate).
-
-      </p>
-    sectionimage: /assets/img/matthew.jpg
-  - title: Our Chefs – Flavour Makers & Foodie Wizards - Janek
-    body: >-
-      <p>
-
-      Let’s talk Janek, our resident smokehouse sorcerer. He’s the genius behind our hot smoked salmon &amp; kippers, and the hands behind our home-cured bacon, handmade sausages and indulgent black pudding. When he’s not manning the BBQ at a wedding, you’ll find him tending our edible garden – or giving some TLC to our fish pond. Yes, really.
-
-      </p>
-    sectionimage: /assets/img/janek.jpg
   - title: Hattie, Lindsey & Tom – Coffee, Cake & Cheer
     body: >-
       <p>
@@ -110,7 +89,6 @@ sections:
 
       </p>
     sectionimage: /assets/img/shaun.jpg
-hide: true
 order: 10
 template: Panel Stacked
 ---
