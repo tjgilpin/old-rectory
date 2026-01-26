@@ -3,6 +3,7 @@ type: subpage
 parent_page: "Room & Treatment Packages "
 title: "For Shared Escapes "
 headerimage: /assets/img/36-dsc00377.jpg
+url: for-shared
 hide: true
 template:
   - Panel Image Background
