@@ -26,7 +26,7 @@ If you’re after something dainty and light, our Cream Tea is the ultimate trea
 
 ### Afternoon Tea
 
-Taking everything offered with a cream tea & upgraded to include a selection of classic sandwiches & homemade quiches. There is a mixture of fish, meat and vegetarian sandwiches to make sure there’s something for everyone; this is a fantastic option for a lunch time catch-up with friends. £27 per person 
+Taking everything offered with a cream tea & upgraded to include a selection of classic sandwiches & homemade quiches. There is a mixture of fish, meat and vegetarian sandwiches to make sure there’s something for everyone; this is a fantastic option for a lunch time catch-up with friends. £28 per person 
 
 ### Savoury Tea
 
