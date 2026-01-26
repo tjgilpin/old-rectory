@@ -101,11 +101,11 @@ body.subpage_food-and-drink {
   background: var(--orange);
 }
 
-body.subpage {
+body.subpage:not(.subpage_room-and-treatment-packages) {
   color: var(--white);
 }
 
-body.subpage footer, body.subpage footer a {
+body.subpage:not(.subpage_room-and-treatment-packages) footer, body.subpage:not(.subpage_room-and-treatment-packages) footer a {
   color: var(--white);
 }
 
@@ -770,7 +770,7 @@ body.subpage main ul:not(.breadcrumbs) li {
   text-align-last: left;
 }
 
-body.subpage a {
+body.subpage:not(.subpage_room-and-treatment-packages) a {
   color: var(--white);
 }
 
