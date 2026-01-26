@@ -3,6 +3,7 @@ type: subpage
 parent_page: "Room & Treatment Packages "
 title: For Couples
 headerimage: /assets/img/oldrectory-bridal-krp12.jpg
+url: for-couples
 hide: true
 template:
   - Panel Image Background
