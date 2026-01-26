@@ -11,7 +11,7 @@ sections:
   - title: For Shared Escapes (Twin Room)
     body: Midweek Escape (Sunday – Thursday) & Weekend Retreat (Friday – Saturday)
     sectionimage: /assets/img/all-saints-1.jpg
-    url: for-shared
+    url: for-shared-escapes
     cta: Prices & Booking
 hide: false
 order: 10
