@@ -14,6 +14,7 @@ sections:
       **Weekend Retreat (Friday – Saturday) - £500**
 
       Make it a longer, more luxurious escape with a **two-night stay in the Crown Room**. Begin your break with **Cream Tea and Prosecco**, wake up to **breakfast both mornings**, and melt into relaxation with a **45-minute massage each**. A truly indulgent weekend made for romance and rest.
+    url: for-couples
 hide: false
 order: 10
 template:
