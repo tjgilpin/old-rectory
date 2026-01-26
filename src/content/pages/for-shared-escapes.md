@@ -5,8 +5,7 @@ title: "For Shared Escapes "
 headerimage: /assets/img/36-dsc00377.jpg
 url: for-shared
 hide: true
-template:
-  - Panel Image Background
+template: Panel Image Background
 ---
 **Midweek Getaway (Sunday – Thursday) - £350**
 Share a restful night away in our **All Saints Twin Room**, where comfort meets charm. Your stay includes **breakfast**, **Cream Tea with Prosecco**, and a **45-minute massage each** — perfect for catching up, celebrating, or simply slowing down together.
