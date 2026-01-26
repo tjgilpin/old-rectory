@@ -1,7 +1,7 @@
 ---
 type: page
 title: "Room & Treatment Packages "
-headerimage: /assets/img/23-dsc00318.jpg
+headerimage: /assets/img/krp07010.jpg
 sections:
   - title: For Couples
     sectionimage: /assets/img/krp_oldrectory_59.jpg
