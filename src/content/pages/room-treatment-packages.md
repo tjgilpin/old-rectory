@@ -15,11 +15,11 @@ sections:
     cta: Prices & Booking
   - title: For Shared Escapes (Twin Room)
     body: |-
-      **Midweek Getaway (Sunday – Thursday)** 
+      **Midweek Escape (Sunday – Thursday)**
 
       **&**
 
-      **Weekend Escape (Friday – Saturday)**
+      **Weekend Retreat (Friday – Saturday)**
     sectionimage: /assets/img/all-saints-1.jpg
     url: for-shared
     cta: Prices & Booking
