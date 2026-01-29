@@ -12,3 +12,9 @@ Enjoy a blissful one-night stay in our elegant Crown Room, complete with a deli
 
 **Weekend Retreat (Friday – Saturday) - £500**
 Make it a longer, more luxurious escape with a two-night stay in the Crown Room. Begin your break with Cream Tea and Prosecco, wake up to breakfast both mornings, and melt into relaxation with a 45-minute massage each. A truly indulgent weekend made for romance and rest.
+
+
+
+**To check availability & book, please call 01424 422410 or email [info@theoldrectoryhastings.co.uk](mailto:info@theoldrectoryhastings.co.uk)**
+
+**[](mailto:info@theoldrectoryhastings.co.uk)These packages cannot be booked online.**
