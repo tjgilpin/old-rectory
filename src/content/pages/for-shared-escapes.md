@@ -12,3 +12,9 @@ Share a restful night away in our All Saints Twin Room, where comfort meets cha
 
 **Weekend Escape (Friday – Saturday) - £550**
 Enjoy a two-night stay in the All Saints Twin Room, complete with Cream Tea and Prosecco, breakfast both mornings, and a 45-minute massage each. The ideal blend of togetherness, relaxation, and a little luxury.
+
+
+
+**To check availability & book, please call 01424 422410 or email [info@theoldrectoryhastings.co.uk](mailto:info@theoldrectoryhastings.co.uk)**
+
+**[](mailto:info@theoldrectoryhastings.co.uk)These packages cannot be booked online.**
