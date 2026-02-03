@@ -13,27 +13,19 @@ template:
 
 **• Tuesday 3rd February**
 
-5:15pm - 9:15pm
-
-SWEET & SAVOURY PUFF
+5:15pm - 9:15pm / SWEET & SAVOURY PUFF
 
 **• Tuesday 24th February**
 
-5:15pm - 9:15pm
-
-BAGELS & PRETZELS
+5:15pm - 9:15pm / BAGELS & PRETZELS
 
 **• Tuesday 10th March**
 
-5:15pm - 9:15pm
+5:15pm - 9:15pm / CIABATTA & FOCACCIA
 
-CIABATTA & FOCACCIA
+• **Tuesday 17th March**
 
-**Tuesday 17th March**
-
-5:15pm - 9:15pm
-
-GLUTEN FREE
+5:15pm - 9:15pm / GLUTEN FREE
 
 **Class Price: £75 per person / Includes nibbles and wine.**
 
