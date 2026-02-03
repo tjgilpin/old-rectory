@@ -2,9 +2,9 @@
 type: subpage
 parent_page: Upcoming Events
 title: BREAD WORKSHOPS with Emmanuel Hadiandreou
-subpageslug: Booking NOW
+subpageslug: bread-workshop
 headerimage: /assets/img/66-dsc01095.jpg
-url: bread-workshop
+url: ""
 hide: true
 template:
   - Panel Image Background
