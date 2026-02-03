@@ -2,7 +2,9 @@
 type: subpage
 parent_page: Upcoming Events
 title: BREAD WORKSHOPS with Emmanuel Hadiandreou
+subpageslug: Booking NOW
 headerimage: /assets/img/66-dsc01095.jpg
+url: bread-workshop
 hide: true
 template:
   - Panel Image Background
@@ -33,12 +35,8 @@ CIABATTA & FOCACCIA
 
 GLUTEN FREE
 
-Class Price: £75 per person
+**Class Price: £75 per person / Includes nibbles and wine.**
 
-Includes nibbles and wine.
-
-Please bring an apron and a bag or
-
-container to take home your freshly baked bread.
+Please bring an apron and a bag or container to take home your freshly baked bread.
 
 **To book your place, email emsbread@gmail.com**
