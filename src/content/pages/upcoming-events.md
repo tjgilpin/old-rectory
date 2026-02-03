@@ -17,7 +17,10 @@ sections:
     sectionimage: /assets/img/66-dsc01095.jpg
     url: bread-workshop
     cta: View Our Workshop
-    body: February / March 2026
+    body: |-
+      *February / March 2026*
+
+      **February / March 2026**
 order: 120
 template:
   - Panel Image Background
