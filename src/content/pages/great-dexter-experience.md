@@ -14,8 +14,6 @@ template:
 ---
 **Enjoy a two-night bed and breakfast stay in a beautiful garden-view room at The Old Rectory.**
 
-<hr/>
-
 **Savour a relaxing lunch in our charming café as part of your experience.**
 
 Your stay includes:
