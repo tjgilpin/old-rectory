@@ -11,12 +11,6 @@ hide: true
 template:
   - Panel Image Background
 ---
-After the success of our very first pop-up, we’re thrilled to welcome 3 Souls in a Bowl back to Café at the Old Rectory for another unforgettable evening of Indian deliciousness that truly amazed.
+Valentine's Afternoon Tea
 
-Join us for a special pop-up dining experience featuring a menu crafted with love, skill, and the soul of India by Chef Raj Deb
-
-NEXT POP-UP TO BE ANNOUNCED SOON
-
-6 course meal - £ 44.95 per person
-
-TO BOOK: Please WhatsAPP Raj Deb 07795105314
+Treat yourself and your loved one to something truly special this Valentine's!
