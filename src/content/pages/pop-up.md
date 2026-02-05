@@ -14,3 +14,14 @@ template:
 Valentine's Afternoon Tea
 
 Treat yourself and your loved one to something truly special this Valentine's!
+
+Enjoy our exclusive Valentine’s Afternoon Tea, lovingly crafted by Hattie, featuring a delicious selection of homemade cakes and beautifully prepared savoury sandwiches.
+
+£30 per person / Includes a glass of fizz
+
+Served:
+Friday 13th, Saturday 14th & Sunday 15th / From 12pm (last sitting at 3pm)
+
+Book now — spaces are limited!
+Call 01424 422410
+or email [info@theoldrectoryhastings.co.uk](mailto:info@theoldrectoryhastings.co.uk)
