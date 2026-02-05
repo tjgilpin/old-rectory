@@ -6,13 +6,13 @@ title: Food & Drink
 pageslug: food-drink
 headerimage: /assets/img/krp_oldrectory_68.jpg
 sections:
-  - title: POP-UP with 3 Souls in a Bowl / NEXT DATE TBC
-    sectionimage: /assets/img/584296720_18085163669315522_5896797791062475462_n.jpg
-    body: >-
-      You asked - and it’s back!
+  - title: Valentine's Afternoon Tea / Friday 13th, Saturday 14th & Sunday 15th
+      February
+    sectionimage: /assets/img/unnamed.jpg
+    body: |-
+      Valentine's Afternoon Tea
 
-
-      After the success of our very first pop-up, we’re thrilled to welcome 3 Souls in a Bowl back to Café at the Old Rectory for another unforgettable evening of Indian deliciousness that truly amazed.
+      Booking Now!
     url: pop-up
     cta: View Menus & Book
   - title: Sunday Lunch
