@@ -16,6 +16,5 @@ gallery:
   - image: /assets/img/our-wedding-day-2.jpg
 hide: false
 order: 10
-template:
-  - Panel Image Background
+template: Panel Stacked
 ---
