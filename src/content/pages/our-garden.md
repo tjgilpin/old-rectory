@@ -2,6 +2,7 @@
 type: page
 title: Our Garden
 headerimage: /assets/img/87-_h1a5245-1234.jpg
+sections: []
 gallery:
   - image: /assets/img/107a3352.jpg
   - image: /assets/img/87-_h1a5245-1234.jpg
@@ -24,6 +25,10 @@ gallery:
   - image: /assets/img/your-wedding-day-183.jpg
   - image: /assets/img/your-wedding-day-19.jpg
   - image: /assets/img/our-wedding-day-4.jpg
+  - image: /assets/img/phoebe-charlie-old-rectory-brewing-brothers-49.jpg
+  - image: /assets/img/your-wedding-day-10.jpg
+  - image: /assets/img/our-wedding-day-456.jpg
+  - image: /assets/img/our-wedding-day-420.jpg
 hide: false
 order: 10
 template: Panel Stacked
