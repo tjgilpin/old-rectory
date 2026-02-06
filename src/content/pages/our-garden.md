@@ -14,6 +14,8 @@ gallery:
   - image: /assets/img/phoebe-charlie-old-rectory-brewing-brothers-13.jpg
   - image: /assets/img/your-wedding-day-123exposure.jpg
   - image: /assets/img/our-wedding-day-2.jpg
+  - image: /assets/img/our-wedding-day-339.jpg
+  - image: /assets/img/725-_h1a6735-1910.jpg
 hide: false
 order: 10
 template: Panel Stacked
