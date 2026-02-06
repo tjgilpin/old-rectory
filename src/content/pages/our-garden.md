@@ -21,6 +21,9 @@ gallery:
   - image: /assets/img/emily-and-alex-128-of-879-.jpg
   - image: /assets/img/krp_oldrectory_39.jpg
   - image: /assets/img/our-wedding-day-7.jpg
+  - image: /assets/img/your-wedding-day-183.jpg
+  - image: /assets/img/your-wedding-day-19.jpg
+  - image: /assets/img/our-wedding-day-4.jpg
 hide: false
 order: 10
 template: Panel Stacked
