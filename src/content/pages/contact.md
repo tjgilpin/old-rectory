@@ -21,6 +21,15 @@ Call us on [](tel:01424422410)[01424 422410 ](<>) or email [natalie@theoldrector
 
 Call us on [07827 811 011](tel:07827811011) or email [treatmentrooms@theoldrectoryhastings.co.uk](mailto:treatmentrooms@theoldrectoryhastings.co.uk)
 
+
+
+[](mailto:treatmentrooms@theoldrectoryhastings.co.uk)
+
+**For press and media enquiries,** please contact - E: coast.collective@whitehair.co / M: +44 7949 039715
+
+
+[](mailto:treatmentrooms@theoldrectoryhastings.co.uk)
+
 ## General Enquiries
 
 *Fields marked with* <span class="asterisk">*</span>* are required*
