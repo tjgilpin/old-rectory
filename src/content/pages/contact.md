@@ -23,7 +23,7 @@ Call us on [07827 811 011](tel:07827811011) or email [treatmentrooms@theoldrecto
 
 [](mailto:treatmentrooms@theoldrectoryhastings.co.uk)
 
-**For Press and Media Enquiries**
+For Press and Media Enquiries
 
 Call us on [](<>)[](https://theoldrectoryhastings.co.uk/admin/)[07949 039715](<tel:07949 039715>) or email [](<>)[coast.collective@whitehair.co](mailto:coast.collective@whitehair.co)
 
