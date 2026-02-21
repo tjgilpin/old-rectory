@@ -32,7 +32,7 @@ Includes a deep cleanse, skin resurfacing and extractions, which helps to calm a
 
 ### Dermalogica Pro Power Peel
 
-Targeting skin texture, tone, wrinkles and breakouts. Using AHAs and BHAs, lactic acid, salicylic acid and glycolic acid to provide a totally customisable deep exfoliation with little down time. Perfect for those who want to target lines and wrinkles, uneven pigmentation and acne breakouts. A patch test is required 24-48 hours prior to your treatment. We also recommend a skin consultation or proskin facial before your peel to ensure you leave with the best results possible after your Pro Power Peel.
+Targeting skin texture, tone, wrinkles and breakouts. Using AHAs and BHAs, lactic acid, salicylic acid and glycolic acid to provide a totally customisable deep exfoliation with little down time. Perfect for those who want to target lines and wrinkles, uneven pigmentation and acne breakouts. A patch test is required 24-48 hours prior to your treatment. In the 7 days leading up to your peel, you must avoid sun exposure to the face, and skincare products containing the following ingredients: retinol (or any Vitamin A derivative), glycolic acid and any other AHAs or BHAs, such as lactic & salicylic. Make up cannot be applied for 3 days after your peel. 
 
 * 30 mins **£60**
 * 60 mins **£95**
