@@ -3,24 +3,24 @@ type: subpage
 parent_page: Food & Drink
 parent_slug: food-drink
 title: Pop-Up
-headerimage: /assets/img/unnamed.jpg
+headerimage: /assets/img/dsc05433.jpg
 gallery:
-  - image: /assets/img/instagram-valentines-copy.jpg
+  - image: /assets/img/mothers-day-copy.jpg
 url: pop-up
 hide: true
 template:
   - Panel Image Background
 ---
-Valentine's Afternoon Tea
+Mother's Day Afternoon Tea.
 
-Treat yourself and your loved one to something truly special this Valentine's!
+Treat yourself and your loved one to something truly special this Mother's Day!
 
-Enjoy our exclusive Valentine’s Afternoon Tea, lovingly crafted by Hattie, featuring a delicious selection of homemade cakes and beautifully prepared savoury sandwiches.
+Enjoy our exclusive Mother's Day Afternoon Tea, lovingly crafted by Hattie, featuring a delicious selection of homemade cakes and beautifully prepared savoury sandwiches.
 
-£30 per person / Includes a glass of fizz
+£35 per person / Includes a glass of prosecco
 
 Served:
-Friday 13th, Saturday 14th & Sunday 15th / From 12pm (last sitting at 3pm)
+Sunday 15th March (last sitting at 3pm)
 
 Book now — spaces are limited!
 Call 01424 422410
