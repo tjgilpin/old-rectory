@@ -6,13 +6,12 @@ title: Food & Drink
 pageslug: food-drink
 headerimage: /assets/img/krp_oldrectory_68.jpg
 sections:
-  - title: Valentine's Afternoon Tea / Friday 13th, Saturday 14th & Sunday 15th
-      February
-    sectionimage: /assets/img/unnamed.jpg
+  - title: Mother's Day Afternoon Tea / Sunday 15th March
+    sectionimage: /assets/img/2-dsc01594.jpg
     body: |-
-      Valentine's Afternoon Tea
+      Mother's Day Afternoon Tea
 
-      Booking Now!
+      Booking Now! £35 per person (includes a glass of prosecco)
     url: pop-up
     cta: View Menus & Book
   - title: Sunday Lunch
