@@ -21,6 +21,11 @@ sections:
       *February / March 2026*
 
       **February / March 2026**
+  - title: Mother's Day Afternoon Tea
+    sectionimage: /assets/img/2-dsc01594.jpg
+    body: Treat Mum to a glorious Afternoon Tea experience this Mother's Day
+    url: Mothers_Day
+    cta: "More Details "
 order: 120
 template:
   - Panel Image Background
