@@ -4,7 +4,7 @@ parent_page: Upcoming Events
 parent_slug: ""
 title: Mother's Day Afternoon Tea
 headerimage: /assets/img/mothers-day-copy.jpg
-url: MothersDay
+url: mother
 hide: true
 template:
   - Panel Image Background
