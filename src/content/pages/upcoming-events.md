@@ -8,7 +8,7 @@ sections:
   - title: Mother's Day Afternoon Tea
     sectionimage: /assets/img/2-dsc01594.jpg
     body: Treat Mum to a glorious Afternoon Tea experience this Mother's Day
-    url: Mothers_Day
+    url: MothersDay
     cta: "More Details "
   - title: The Great Dixter Experience
     sectionimage: /assets/img/long-border-2-jul-23-richard-bloom-d050623-38-do-not-use-externally.webp
