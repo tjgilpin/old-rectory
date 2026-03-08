@@ -1,4 +1,6 @@
 ---
+hide: false
+slug: rose-cottage
 type: page
 title: Rose Cottage
 headerimage: /assets/img/rose-cottage-4th-june-by-georgina-piper-photography-18-copy.jpg
@@ -9,8 +11,6 @@ gallery:
   - image: /assets/img/rose-cottage-4.jpg
   - image: /assets/img/rose-cottage-5.jpg
   - image: /assets/img/rose-cottage-6.jpg
-hide: false
-slug: rose-cottage
 order: 20
 template:
   - Panel Image Background
@@ -23,8 +23,6 @@ This self-contained, self-catered option is an exciting new venture for The Old 
 * Dog friendly
 * Child friendly - Cot provided in the main bedroom 
 * One bedroom with a double bed on the top floor
-* Kitchen with cooking facilities
+* Kitchen with cooking facilities, crockery & stemware for up to 4 guests
 * Bathroom with a bath & overhead shower
-* Breakfast hamper for the duration of your stay provided by The Old Rectory Kitchen
-
-  *This property is not suitable for those with limited mobility.*
+* *This property is not suitable for those with limited mobility.*
