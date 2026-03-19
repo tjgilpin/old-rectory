@@ -2,19 +2,27 @@
 type: subpage
 parent_page: Upcoming Events
 parent_slug: ""
-title: Mother's Day Afternoon Tea
-headerimage: /assets/img/mothers-day-copy.jpg
-url: mother
+title: 3 Souls in a bowl Pop Up
+headerimage: /assets/img/584296720_18085163669315522_5896797791062475462_n.jpg
+gallery:
+  - image: /assets/img/menu-insta.jpg
+url: pop-up
 hide: true
 template:
   - Panel Image Background
 ---
-Treat your mum to a special afternoon tea in our gorgeous house. Join us for a delightful Mother's Day experience for £35 per person, which includes; 
+3 SOULS IN A BOWL at THE OLD RECTORY
 
-\- A glass of prosecco 
+A Soulful Journey Through India By Chef Raj Deb
 
-\- A selection of lovely scones, sandwiches & cakes 
+5TH APRIL EASTER SUNDAY
 
-\- Tea or Coffee 
+2 course £29 per person
 
-Spaces are limited so book now to avoid disappointment!
+3 course £36 per person
+
+Time: 12.30pm - 3.30pm
+
+TO BOOK
+
+T: 01424 422410 E: info@theoldrectoryhastings.co.uk
