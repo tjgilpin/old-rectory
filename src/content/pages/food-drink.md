@@ -6,14 +6,14 @@ title: Food & Drink
 pageslug: food-drink
 headerimage: /assets/img/krp_oldrectory_68.jpg
 sections:
-  - title: Mother's Day Afternoon Tea / Sunday 15th March
-    sectionimage: /assets/img/2-dsc01594.jpg
+  - title: 3 Souls in a Bowl / Easter Sunday 5th April / Pop-Up
+    sectionimage: /assets/img/584296720_18085163669315522_5896797791062475462_n.jpg
     body: |-
-      Mother's Day Afternoon Tea
+      A Soulful Journey Through India by Chef Raj Deb
 
-      Booking Now! £35 per person (includes a glass of prosecco)
+      Booking Now!
     url: pop-up
-    cta: View Menus & Book
+    cta: View Menu & Book
   - title: Sunday Lunch
     sectionimage: /assets/img/24-dsc06550.jpg
     body: The Old Rectory Traditional Sunday Lunches focus on seasonal, locally
