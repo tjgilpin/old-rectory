@@ -3,25 +3,30 @@ type: subpage
 parent_page: Food & Drink
 parent_slug: food-drink
 title: Pop-Up
-headerimage: /assets/img/dsc05433.jpg
+headerimage: /assets/img/584296720_18085163669315522_5896797791062475462_n.jpg
 gallery:
-  - image: /assets/img/mothers-day-copy.jpg
+  - image: /assets/img/menu-insta.jpg
 url: pop-up
 hide: true
 template:
   - Panel Image Background
 ---
-Mother's Day Afternoon Tea.
+3 SOULS IN A BOWL at THE OLD RECTORY
 
-Treat yourself and your loved one to something truly special this Mother's Day!
+A Soulful Journey Through India By Chef Raj Deb
 
-Enjoy our exclusive Mother's Day Afternoon Tea, lovingly crafted by Hattie, featuring a delicious selection of homemade cakes and beautifully prepared savoury sandwiches.
+5TH APRIL EASTER SUNDAY
 
-£35 per person / Includes a glass of prosecco
+2 course £29 per person
 
-Served:
-Sunday 15th March (last sitting at 3pm)
+3 course £36 per person
 
-Book now — spaces are limited!
+Time: 12.30pm - 3.30pm
+
+TO BOOK
 Call 01424 422410
 or email [info@theoldrectoryhastings.co.uk](mailto:info@theoldrectoryhastings.co.uk)
+
+Spaces are Limited
+
+[](mailto:info@theoldrectoryhastings.co.uk)
