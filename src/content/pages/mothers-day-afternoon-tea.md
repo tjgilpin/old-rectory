@@ -1,7 +1,7 @@
 ---
 type: subpage
 parent_page: Food & Drink
-parent_slug: ""
+parent_slug: food-drink
 title: 3 Souls in a bowl Pop Up
 headerimage: /assets/img/584296720_18085163669315522_5896797791062475462_n.jpg
 gallery:
