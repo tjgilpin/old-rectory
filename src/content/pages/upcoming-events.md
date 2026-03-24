@@ -13,6 +13,9 @@ sections:
       **Autumn / Winter 2025**
     cta: View Our Package
     url: great-dixter-experience
+  - title: Bread Workshop with Emmanuel Hadiandreou
+    sectionimage: /assets/img/66-dsc01095.jpg
+    body: April and May Workshops / Booking Now!
 order: 120
 template:
   - Panel Image Background
