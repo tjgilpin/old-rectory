@@ -16,6 +16,8 @@ sections:
   - title: Bread Workshop with Emmanuel Hadiandreou
     sectionimage: /assets/img/66-dsc01095.jpg
     body: April and May Workshops / Booking Now!
+    url: bread-workshop
+    cta: View Our Workshop
 order: 120
 template:
   - Panel Image Background
