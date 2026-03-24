@@ -5,6 +5,7 @@ title: Bread Workshops at the Cafe with Emmanuel Hadjiandreou
 headerimage: /assets/img/66-dsc01095.jpg
 gallery:
   - image: /assets/img/485761023_1067285805439733_4585928479960126341_n.jpg
+url: bread-workshop
 url_secondary: bread-workshop
 hide: true
 template:
