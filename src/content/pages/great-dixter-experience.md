@@ -1,30 +1,33 @@
 ---
 type: subpage
 parent_page: Upcoming Events
-title: Great Dixter Experience
-headerimage: /assets/img/long-border-2-jul-23-richard-bloom-d050623-38-do-not-use-externally.webp
+title: Bread Workshops at the Cafe with Emmanuel Hadjiandreou
+headerimage: /assets/img/66-dsc01095.jpg
 gallery:
-  - image: /assets/img/220805-greatdixter-5.jpg
-  - image: /assets/img/250510-greatdixter-331.jpg
-  - image: /assets/img/our-wedding-day-56.jpg
-  - image: /assets/img/53-dsc00497.jpg
+  - image: /assets/img/485761023_1067285805439733_4585928479960126341_n.jpg
+url_secondary: bread-workshop
 hide: true
 template:
   - Panel Image Background
 ---
-**Enjoy a two-night bed and breakfast stay in a beautiful garden-view room at The Old Rectory.**
+**BREAD WORKSHOPS WITH EMMANUEL HADJIANDREOU**
 
-**Savour a relaxing lunch in our charming café as part of your experience.**
+• Tuesday 14th April 5:15pm - 9:15pm // Gluten-Free
 
-Your stay includes:
+• Tuesday 28th April 5:15pm - 9:15pm // Bagels & Pretzels
 
-* COMPLIMENTARY ENTRY TO THE ICONIC GREAT
-* DIXTER HOUSE & GARDENS
-* PROSECCO AND HOMEMADE CAKE ON ARRIVAL AT THE OLD RECTORY
+• Thursday 7th May 5:15pm - 9:15pm // Foccacia & Ciabatta
 
-**Prices:**
+• Tuesday 19th May 5:15pm - 9:15pm // Sweet and Savoury Pastry
 
-* **£550 for two guests**
-* **£375 for solo travellers**
 
-For Bookings: [01424 422410](<tel:01424 422410>); [info@theoldrectoryhastings.co.uk](mailto:info@theoldrectoryhastings.co.uk)
+
+Class Price: £75 per person
+
+Includes nibbles and wine.
+
+Please bring an apron and a bag or container to take home your freshly baked bread.
+
+**To book your place, email emsbread@gmail.com**
+
+Location: Cafe at The Old Rectory, 2 Harold Rd, Hastings TN35 5ND
