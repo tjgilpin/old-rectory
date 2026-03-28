@@ -2,10 +2,11 @@
 type: subpage
 parent_page: Upcoming Events
 title: Bread Workshops at the Cafe with Emmanuel Hadjiandreou
+subpageslug: bread-workshop
 headerimage: /assets/img/66-dsc01095.jpg
 gallery:
   - image: /assets/img/485761023_1067285805439733_4585928479960126341_n.jpg
-url: bread-workshop
+url: ""
 url_secondary: ""
 hide: true
 template:
