@@ -29,4 +29,19 @@ or email [info@theoldrectoryhastings.co.uk](mailto:info@theoldrectoryhastings.c
 
 Spaces are Limited
 
+## FUTURE DATES:
+
+## 19th April Sunday Lunch at The Old Rectory
+
+## 10th May Pop-up Cafe at The Old Rectory
+
+## 11th May Pop-up Cafe at The Old Rectory 
+
+## 24th Pop-up Cafe at The Old Rectory
+
+## 25th Pop-up Cafe at The Old Rectory
+
+
+
+
 [](mailto:info@theoldrectoryhastings.co.uk)
