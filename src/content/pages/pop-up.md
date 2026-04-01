@@ -24,25 +24,22 @@ A Soulful Journey Through India By Chef Raj Deb
 
 Time: 12.30pm - 3.30pm
 
-TO BOOK
+### TO BOOK
 Call 01424 422410
 or email [info@theoldrectoryhastings.co.uk](mailto:info@theoldrectoryhastings.co.uk)
 
-Spaces are Limited
+### Spaces are Limited
 
-### FUTURE APRIL DATES:
+###### FUTURE APRIL DATES:
 
-### 10th April Pop-up / / Cafe at The Old Rectory
+###### 10th April Pop-up / / Cafe at The Old Rectory
 
-### 11th April Pop-up / / Cafe at The Old Rectory 
+###### 11th April Pop-up / / Cafe at The Old Rectory 
 
-### 19th April Sunday Lunch / / at The Old Rectory
+###### 19th April Sunday Lunch / / at The Old Rectory
 
-### 24th April Pop-up / / Cafe at The Old Rectory
+###### 24th April Pop-up / / Cafe at The Old Rectory
 
-### 25th April Pop-up / / Cafe at The Old Rectory
-
-
-
+###### 25th April Pop-up / / Cafe at The Old Rectory
 
 [](mailto:info@theoldrectoryhastings.co.uk)
