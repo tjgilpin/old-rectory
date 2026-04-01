@@ -6,6 +6,7 @@ title: Pop-Up
 headerimage: /assets/img/584296720_18085163669315522_5896797791062475462_n.jpg
 gallery:
   - image: /assets/img/menu-insta.jpg
+  - image: /assets/img/instagram-popups-copy.jpg
 url: pop-up
 hide: true
 template:
