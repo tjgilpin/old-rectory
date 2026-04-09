@@ -31,8 +31,6 @@ or email [info@theoldrectoryhastings.co.uk](mailto:info@theoldrectoryhastings.c
 
 ###### FUTURE APRIL DATES:
 
-###### 10th April Pop-up / / Cafe at The Old Rectory
-
 ###### 11th April Pop-up / / Cafe at The Old Rectory 
 
 ###### 19th April Sunday Lunch / / at The Old Rectory
