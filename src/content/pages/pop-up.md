@@ -5,7 +5,7 @@ parent_slug: food-drink
 title: Pop-Up
 headerimage: /assets/img/584296720_18085163669315522_5896797791062475462_n.jpg
 gallery:
-  - image: /assets/img/menu-insta.jpg
+  - image: /assets/img/popup-11th-instagram-copy.jpg
   - image: /assets/img/instagram-popups-copy.jpg
 url: pop-up
 hide: true
@@ -16,15 +16,14 @@ template:
 
 A Soulful Journey Through India By Chef Raj Deb
 
-5TH APRIL EASTER SUNDAY
+11TH APRIL Pop-Up at The Cafe 
 
-2 course £29 per person
+6 course 49 per person
 
-3 course £36 per person
-
-Time: 12.30pm - 3.30pm
+Time: 6:30 Drinks / 7:7.30 Food
 
 ### TO BOOK
+
 Call 01424 422410
 or email [info@theoldrectoryhastings.co.uk](mailto:info@theoldrectoryhastings.co.uk)
 
