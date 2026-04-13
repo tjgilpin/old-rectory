@@ -6,7 +6,7 @@ headerimage: /assets/img/long-border-2-jul-23-richard-bloom-d050623-38-do-not-us
 gallery:
   - image: /assets/img/great-dixter-ss26-copy.jpg
   - image: /assets/img/or-24th-maby-georgina-piper-66.jpg
-  - image: /assets/img/our-wedding-day-56.jpg
+  - image: /assets/img/or-24th-may-by-georgina-piper-54.jpg
   - image: /assets/img/250402-greatdixter-170.jpg
 hide: true
 template:
