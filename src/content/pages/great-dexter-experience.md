@@ -12,15 +12,21 @@ hide: true
 template:
   - Panel Image Background
 ---
-**Enjoy a two-night bed and breakfast stay in a beautiful garden-view room at The Old Rectory.**
+#### **Enjoy a two-night bed and breakfast stay in a beautiful garden-view room at The Old Rectory.**
 
 **Savour a relaxing lunch in our charming café as part of your experience.**
 
 Your stay includes:
 
 * COMPLIMENTARY ENTRY TO THE ICONIC GREAT
+
+
 * DIXTER HOUSE & GARDENS
+
+
 * PROSECCO AND HOMEMADE CAKE ON ARRIVAL AT THE OLD RECTORY
+
+
 
 **Prices:**
 
