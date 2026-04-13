@@ -6,7 +6,7 @@ title: Food & Drink
 pageslug: food-drink
 headerimage: /assets/img/krp_oldrectory_68.jpg
 sections:
-  - title: 3 Souls in a Bowl / 11th April / Pop-Up / at the CAFE
+  - title: 3 Souls in a Bowl / 19th April / Sunday Lunch / at The Old Rectory
     sectionimage: /assets/img/584296720_18085163669315522_5896797791062475462_n.jpg
     body: |-
       A Soulful Journey Through India by Chef Raj Deb
