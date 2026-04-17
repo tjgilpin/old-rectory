@@ -12,13 +12,61 @@ hide: true
 template:
   - Panel Image Background
 ---
-3 SOULS IN A BOWL Pop-Up
+##### 3 SOULS IN A BOWL Pop-Up
 
-CAFE at The Old Rectory
+##### CAFE at The Old Rectory
 
-Saturday 25TH APRIL 
+##### Saturday 25TH APRIL 
 
-MENU COMING SOON
+##### MENU
+
+###### Canapes on arrival
+
+###### Raita Rotation
+
+(A trio of raita’s in bitesize tartlets)
+
+Old Rectory Smoked Salmon Chilli, cucumber spring onion and mint Raita
+
+Old Rectory Smoked Prawn Garlic & Ginger, Soy Carrot Raita
+
+Pickled Beetroot + Szechwan pepper Raita
+
+###### Amuse Bouche
+
+Tamil Tomato Rasam
+
+Choice of Starter
+
+Our Signature Garlic Chilli Tiger Prawns – Sweet Chilli, Lime Spring Onions.
+
+Braised Red Cabbage & Apple Samosa – Tamarind, Jaggery Mustard.
+
+Tandoori Chicken Chop – Garlic, Coriander Mint Chutney
+
+###### (Chef’s Palette Refresher)
+
+###### Choice of Mains
+
+Sali Boti - Mutton & Apricot with a Parsi gravy - crisp straw potato’s and pickled shallots
+
+Masor Jhol – Piquant Assamese Mackerel Fish Curry – Mint Crisps, Micro Coriander
+
+Murgh Nari Komla - Chicken Spicy Creamy Coconut & Orange Sauce – Orange Zest, Coconut shavings, Curry Leaf Crisps
+
+Tofu / Paneer Makhni – Tomato Cashew Nut Sauce, Fenugreek, Vegan Butter, Date & Pomegranate Molasses – Cashew Nuts
+
+Served with: Pomegranate, Aromatic Saffron Pilau Rice, Garlic & Coriander Naan & Kachumber Salad
+
+###### Desserts
+
+Mango & Cardamom Panna cotta
+
+Chai Cheesecake
+
+Trio Of Sorbets
+
+
 
 ### TO BOOK
 
