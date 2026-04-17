@@ -9,9 +9,9 @@ sections:
   - title: 3 Souls in a Bowl Pop-Up / Saturday 25th April / CAFE at The Old Rectory
     sectionimage: /assets/img/584296720_18085163669315522_5896797791062475462_n.jpg
     body: |-
-      ##### A Soulful Journey Through India by Chef Raj Deb
+      ### A Soulful Journey Through India by Chef Raj Deb
 
-      ##### Booking Now!
+      ### Booking Now!
     url: pop-up
     cta: View Menu & Book
   - title: Sunday Lunch
