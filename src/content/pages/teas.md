@@ -3,11 +3,11 @@ type: subpage
 parent_page: Food & Drink
 parent_slug: food-drink
 title: Teas
-headerimage: /assets/img/dsc05433.jpg
+headerimage: /assets/img/2-dsc01594.jpg
 gallery:
-  - image: /assets/img/teas-platter.jpg
   - image: /assets/img/2-dsc01594.jpg
   - image: /assets/img/teas-seating.jpg
+  - image: /assets/img/teas-platter.jpg
 url: tel:01424422410
 cta: Call to Book Tea Now
 url_secondary: mailto:info@theoldrectoryhastings.co.uk
