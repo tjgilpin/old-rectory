@@ -22,9 +22,11 @@ hide: true
 
 ##### We do ask that teas are served in pairs & all teas can be adapted to suit a wide range of dietary requirements and allergies.
 
-##### Our Teas are a great way to cater for small events such as Baby Showers, for more information email info@theoldrectoryhastings.co.uk.
+##### Our Teas are a great way to cater for small events such as Baby Showers, 
 
-###### CREAM TEA - £17 PER PERSON
+### For more information email info@theoldrectoryhastings.co.uk
+
+### CREAM TEA - £17 PER PERSON
 
 If you’re after something dainty and light, our Cream Tea is the ultimate treat. Made up of scones, clotted cream, jam and an assortment of our signature, homemade cakes. This is an option that pairs perfectly with a pamper session in our Treatment Rooms or enjoyed on its own as part of your well-deserved relaxation.
 
@@ -32,7 +34,7 @@ If you’re after something dainty and light, our Cream Tea is the ultimate trea
 
 ###### \- Plain scones
 
-###### \- Clotted cream &amp; jam
+###### \- Clotted cream & jam
 
 ###### \- Victoria Sponge
 
@@ -42,29 +44,29 @@ If you’re after something dainty and light, our Cream Tea is the ultimate trea
 
 ###### \- Seasonal fruit tartlet
 
-###### AFTERNOON TEA - £28 PER PERSON
+### AFTERNOON TEA - £28 PER PERSON
 
-Taking everything offered with a cream tea &amp; upgraded to include a selection of classic sandwiches. There is a mixture of fish, meat and vegetarian sandwiches to make sure there’s something for everyone; this is a fantastic option for a lunch time catch-up with friends.
+Taking everything offered with a cream tea & upgraded to include a selection of classic sandwiches. There is a mixture of fish, meat and vegetarian sandwiches to make sure there’s something for everyone; this is a fantastic option for a lunchtime catch-up with friends.
 
-### Savoury
+###### Savoury
 
 ###### \-Cucumber, cream cheese & Dill sandwiches
 
 ###### \- Smoked salmon sandwiches
 
-###### \- Ham &amp; mustard sandwiches
+###### \- Ham & mustard sandwiches
 
 ###### \- Egg mayonnaise sandwiches
 
 ###### \- Coronation chicken vol-au-vent
 
-### Sweet
+###### Sweet
 
 ###### \- Fruit scones
 
 ###### \- Plain scones
 
-###### \- Clotted cream &amp; jam
+###### \- Clotted cream & jam
 
 ###### \- Victoria Sponge
 
