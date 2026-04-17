@@ -5,7 +5,8 @@ parent_slug: food-drink
 title: Pop-Up
 headerimage: /assets/img/584296720_18085163669315522_5896797791062475462_n.jpg
 gallery:
-  - image: /assets/img/popup-copy.jpg
+  - image: /assets/img/popup-cover-copy.jpg
+  - image: /assets/img/menupopup-copy.jpg
 url: pop-up
 hide: true
 template:
