@@ -22,9 +22,9 @@ hide: true
 
 ##### We do ask that teas are served in pairs & all teas can be adapted to suit a wide range of dietary requirements and allergies.
 
-##### Our Teas are a great way to cater for small events such as Baby Showers, 
+##### Our Teas are a great way to cater for small events such as Baby Showers,
 
-### For more information email info@theoldrectoryhastings.co.uk
+### For more information email [info@theoldrectoryhastings.co.uk](mailto:info@theoldrectoryhastings.co.uk)
 
 ### CREAM TEA - £17 PER PERSON
 
