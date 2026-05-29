@@ -123,6 +123,11 @@ body.subpage_upcoming-events .cta {
   color: var(--white);
 }
 
+body.subpage_our-rooms .cta  {
+  background: var(--white);
+  color: var(--blue) !important;
+}
+
 body.subpage footer img[src$=".svg"] {
   filter: brightness(0) invert(1);
 }
