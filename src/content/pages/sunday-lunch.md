@@ -21,6 +21,10 @@ In keeping with our home-from-home, welcoming atmosphere Sunday Lunches at The O
 
 <hr/>
 
-## Keep an Eye on Our Next Sunday Lunch
+## BOOKING NOW SUNDAY LUNCH 5TH JULY 2026
 
-## Dates for 2026 COMING SOON
+### Call 01424 422410
+
+Or email [info@theoldrectoryhastings.co.uk](https://theoldrectoryhastings.co.uk/food-drink/orchard-rd/)
+
+### [](https://theoldrectoryhastings.co.uk/food-drink/orchard-rd/)Spaces are Limited
