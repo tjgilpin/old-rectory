@@ -23,11 +23,11 @@ template:
 
 ###### Orchard Road dishes will feature on the daytime menu of The Old Rectory Café and Orchard Road takeovers are planned each Friday and Saturday evening, as well as Sunday lunches with a Rob Hills twist within the main hotel.
 
-### BOOKING ARE NOW OPEN!
+### BOOKINGS ARE NOW OPEN!
 
 ### \- SOUTH-EAST ASIAN INSPIRED CUISINE AT THE CAFE - 3RD JULY
 
-### \- TRADITIONAL LUNCH SUNDAY AT THE OLD RECTORY - 5TH JULY
+### \- TRADITIONAL SUNDAY LUNCH AT THE OLD RECTORY - 5TH JULY
 
 ### Call 01424 422410
 
