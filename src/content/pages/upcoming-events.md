@@ -21,6 +21,7 @@ sections:
       cuisine.
     url: orchard-rd-events
     sectionimage: /assets/img/11-_dsc8257.jpg
+    cta: book our next event
 order: 120
 template:
   - Panel Image Background
