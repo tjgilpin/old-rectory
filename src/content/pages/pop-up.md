@@ -2,23 +2,30 @@
 type: subpage
 parent_page: Food & Drink
 parent_slug: food-drink
-title: Pop-Up
-headerimage: /assets/img/584296720_18085163669315522_5896797791062475462_n.jpg
-gallery: []
-url: pop-up
+title: ORCHARD RD
+headerimage: /assets/img/8-_dsc8215.jpg
+gallery:
+  - image: /assets/img/260527-orchardrd-4s-07-copy.jpg
+url: ORCHARD RD
 hide: true
 template:
   - Panel Image Background
 ---
-##### 3 SOULS IN A BOWL Pop-Up
+###### ORCHARD ROAD AT THE OLD RECTORY
 
-##### CAFE at The Old Rectory
+###### Celebrated chef Rob Hills returns to The Old Rectory with refined Singaporean cuisine.
 
-##### Next Pop Up To be Announced SOON
+###### Upcoming menus will showcase the bold, complex flavours that have defined Hills' career, transitioning from a small cult pop-up into a major local culinary staple. Diners can expect his celebrated freshly made bao buns, his popular Singaporean butter chicken, and his absolute signature dish: a rich, slow-cooked Beef Rendang.
 
-### TO BOOK
+###### Orchard Road dishes will feature on the daytime menu of The Old Rectory Café and Orchard Road takeovers are planned each Friday and Saturday evening, as well as Sunday lunches with a Rob Hills twist within the main hotel.
 
-Call 01424 422410 Or WhatsApp: 07436201117
+###### BOOKING ARE NOW OPEN!
+
+###### \- SOUTH-EAST ASIAN INSPIRED CUISINE AT THE CAFE - 3RD JULY
+
+###### \- TRADITIONAL LUNCH SUNDAY AT THE OLD RECTORY - 5TH JULY
+
+Call 01424 422410 
 Or email [info@theoldrectoryhastings.co.uk](<>)
 
 ##### [](<>)Spaces are Limited[](<>)
