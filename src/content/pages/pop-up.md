@@ -6,7 +6,7 @@ title: ORCHARD RD
 headerimage: /assets/img/8-_dsc8215.jpg
 gallery:
   - image: /assets/img/260527-orchardrd-4s-07-copy.jpg
-url: ORCHARD RD
+url: orchard-rd
 hide: true
 template:
   - Panel Image Background
