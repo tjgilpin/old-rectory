@@ -17,7 +17,7 @@ sections:
     cta: View Our Workshop
   - title: Orchard Road at the Cafe
     body: Chef Rob Hills brings his popular Orchard Road concept to the Old Rectory
-      Cafe offering a more refined take on his signature Southeast Asian
+      Cafe, offering a more refined take on his signature Southeast Asian
       cuisine.
     url: orchard-rd-events
     sectionimage: /assets/img/11-_dsc8257.jpg
