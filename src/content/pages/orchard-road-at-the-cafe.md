@@ -2,6 +2,7 @@
 type: subpage
 parent_page: Upcoming Events
 title: Orchard Road at The Cafe
+subpageslug: orchard-rd-events
 headerimage: /assets/img/16-_dsc8734.jpg
 gallery:
   - image: /assets/img/14-_dsc8558.jpg
