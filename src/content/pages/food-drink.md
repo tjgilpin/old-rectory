@@ -21,9 +21,9 @@ sections:
     cta: View Menu & Book
   - title: Sunday Lunch
     sectionimage: /assets/img/24-dsc06550.jpg
-    body: The Old Rectory Traditional Sunday Lunches focus on seasonal, locally
-      sourced produce. In keeping with our home-from-home, welcoming atmosphere
-      are hearty & homely.
+    body: The Old Rectory Traditional Sunday Lunches by chef Rob Hills focus on
+      seasonal, locally sourced produce. In keeping with our home-from-home,
+      welcoming atmosphere are hearty & homely.
     url: sunday-lunch
     cta: View Menus & Book
   - title: Teas
