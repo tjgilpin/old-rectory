@@ -20,8 +20,8 @@ sections:
       Cafe, offering a more refined take on his signature Southeast Asian
       cuisine.
     url: orchard-rd-events
-    sectionimage: /assets/img/11-_dsc8257.jpg
-    cta: book our next event
+    sectionimage: /assets/img/2-_dsc7880.jpg
+    cta: View Our Next Event at the Cafe
 order: 120
 template:
   - Panel Image Background
