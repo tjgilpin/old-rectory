@@ -19,7 +19,7 @@ sections:
 
 
       FROM JULY 2026
-    url: pop-up
+    url: orchard-rd
     cta: View Menu & Book
   - title: Sunday Lunch
     sectionimage: /assets/img/24-dsc06550.jpg
