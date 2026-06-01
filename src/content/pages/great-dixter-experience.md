@@ -14,17 +14,21 @@ template:
 ---
 **BREAD WORKSHOPS WITH EMMANUEL HADJIANDREOU**
 
+**June**
+
 • Tuesday 16th June 5:15pm - 9:15pm // Gluten-Free
+
+**July**
 
 • Tuesday 14th July 5:15pm - 9:15pm // Bagels & Pretzels
 
-
+**August**
 
 • Tuesday 18th August 5:15pm - 9:15pm // Foccacia & Ciabatta
 
 • Tuesday 25th August 5:15pm - 9:15pm // Introduction to Rye Sourdough
 
-
+**September**
 
 • Tuesday 15th September 5:15pm - 9:15pm // Gluten-Free
 
@@ -32,13 +36,13 @@ template:
 
 • Tuesday 29th September 5:15pm - 9:15pm // Vegan Scones & Ultimate Chocolate Chip Cookie
 
-
+**October**
 
 • Tuesday 6th October 5:15pm - 9:15pm // Foccacia & Ciabatta
 
 • Tuesday 13th October 5:15pm - 9:15pm // Bagels & Pretzels
 
-
+**November**
 
 • Tuesday 3rd November 5:15pm - 9:15pm // Gluten-Free
 
@@ -48,7 +52,7 @@ template:
 
 • Tuesday 24th November 5:15pm - 9:15pm // Foccacia & Ciabatta
 
-
+**December**
 
 • Tuesday 8th December 5:15pm - 9:15pm // Vegan Scones & Ultimate Chocolate Chip Cookie
 
