@@ -128,6 +128,11 @@ body.subpage_our-rooms .cta  {
   color: var(--blue) !important;
 }
 
+body.subpage_food-and-drink .cta  {
+  background: var(--white);
+  color: var(--orange) !important;
+}
+
 body.subpage footer img[src$=".svg"] {
   filter: brightness(0) invert(1);
 }
