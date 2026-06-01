@@ -21,7 +21,11 @@ In keeping with our home-from-home, welcoming atmosphere Sunday Lunches at The O
 
 <hr/>
 
-## BOOKING NOW SUNDAY LUNCH 5TH JULY 2026
+## BOOKING NOW
+
+## SUNDAY LUNCH with Rob Hills
+
+## 5TH JULY 2026 at THE OLD RECTORY
 
 ### Call 01424 422410
 
