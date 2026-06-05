@@ -40,7 +40,7 @@ sections:
     cta: Click here to book
     body: With its picture window overlooking the garden, this cosy, stylish room is
       decorated in original 1970s Sanderson wallpaper. A huge Carrara marble
-      shower room  completes the look. From £150 for two.
+      shower room  completes the look. From £170 for two.
   - title: Sinnock
     url: sinnock
     sectionimage: /assets/img/16-dsc00302.jpg
@@ -52,13 +52,13 @@ sections:
   - sectionimage: /assets/img/or-24th-may-by-georgina-piper-63.jpg
     body: Painted in muted greens and cream, with its wall sconces and vintage
       paintings, this room is bright and airy and looks over the garden. From
-      £160 for two
+      £170 for two
     url: cobourg
     cta: Click here to book
     title: Cobourg
   - body: Our cosiest room, with its sloping ceiling. Rock a Nore is hidden away on
       the second floor at the top of the house; perfect for a little getaway.
-      From £140 for two
+      From £160 for two
     sectionimage: /assets/img/rock-a-nore-room-by-georgina-piper-5.jpg
     url: rock-a-nore
     title: Rock A Nore
