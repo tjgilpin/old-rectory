@@ -16,9 +16,10 @@ hide: true
 template: Panel Image Background
 ---
 ## Cosy & Stylish
+
 With its picture window overlooking the garden, this cosy, stylish room is decorated in original 1970s Sanderson wallpaper. A huge Carrara marble shower room completes the look.
 
-#### This room features; 
+#### This room features;
 
 * A double bed with feather bedding & high quality cotton sheets
 * A marble wetroom with waterfall shower & speciality Oast & Rye toiletries 
@@ -26,4 +27,4 @@ With its picture window overlooking the garden, this cosy, stylish room is decor
 * Clock radio, smart TV, unlimited Wi-Fi
 * Portable fan, heaters & hot water bottle
 * Hypoallergenic bedding available on request
-* From £150 including breakfast
+* From £170 including breakfast
