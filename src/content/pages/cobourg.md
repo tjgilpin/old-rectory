@@ -12,14 +12,15 @@ gallery:
   - image: /assets/img/our-rooms-cobourg-05.jpg
   - image: /assets/img/our-rooms-cobourg-06.jpg
 url: http://secure.hotels.uk.com/webbookings/?HotelID=12288
-cta: Book now from £160
+cta: Book now from £170
 hide: true
 template: Panel Image Background
 ---
 ## Tranquil & Relaxing
+
 On the first floor, this elegant tranquil room faces our fabulous garden. Painted in muted greens and cream, with its wall sconces and vintage paintings; the handmade blind and cushions using stunning Louise Body fabric add to the relaxing feel.
 
-#### This room features; 
+#### This room features;
 
 * A double bed with feather bedding & high quality cotton sheets
 * An en-suite with a bath, overhead waterfall shower & speciality Oast & Rye toiletries 
@@ -27,5 +28,4 @@ On the first floor, this elegant tranquil room faces our fabulous garden. Painte
 * Clock radio, smart TV, unlimited Wi-Fi
 * Portable fan, heaters & hot water bottle
 * Hypoallergenic bedding available on request
-* From £160 including breakfast
-
+* From £170 including breakfast
