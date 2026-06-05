@@ -11,7 +11,7 @@ gallery:
   - image: /assets/img/our-rooms-tackleway-05.jpg
   - image: /assets/img/our-rooms-tackleway-04.jpg
 url: http://secure.hotels.uk.com/webbookings/?HotelID=12288
-cta: Book now from £150
+cta: Book now from £170
 hide: true
 template: Panel Image Background
 ---
