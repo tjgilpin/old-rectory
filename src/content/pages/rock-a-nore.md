@@ -12,7 +12,7 @@ gallery:
   - image: /assets/img/our-rooms-rockanore-05.jpg
   - image: /assets/img/our-rooms-rockanore-06.jpg
 url: http://secure.hotels.uk.com/webbookings/?HotelID=12288
-cta: Book now from £140
+cta: Book now from £160
 hide: true
 template: Panel Image Background
 ---
@@ -20,7 +20,7 @@ template: Panel Image Background
 
 Our cosiest room, with its sloping ceiling. Rock a Nore is hidden away on the second floor at the top of the house. Decorated in muted greys, with lovely attention to detail around the woodwork.  A Carrara marble ensuite completes the setting. 
 
-#### This room features; 
+#### This room features;
 
 * A double bed with feather bedding & high quality cotton sheets
 * An en-suite with a walk-in, waterfall shower & speciality Oast & Rye toiletries 
@@ -28,4 +28,4 @@ Our cosiest room, with its sloping ceiling. Rock a Nore is hidden away on the se
 * Clock radio, smart TV, unlimited Wi-Fi
 * Portable fan, heaters & hot water bottle
 * Hypoallergenic bedding available on request
-* From £140 including breakfast
+* From £160 including breakfast
