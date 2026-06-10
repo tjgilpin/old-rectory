@@ -8,6 +8,7 @@ gallery:
   - image: /assets/img/14-_dsc8558.jpg
   - image: /assets/img/16-_dsc8734.jpg
   - image: /assets/img/9-_dsc8221.jpg
+  - image: /assets/img/orchard-rd_menu-copy.jpg
 url: orchard-rd-events
 hide: true
 template:
