@@ -10,6 +10,7 @@ gallery:
   - image: /assets/img/16-_dsc8734.jpg
   - image: /assets/img/2-_dsc7880.jpg
   - image: /assets/img/260527-orchardrd-3s-01.jpg
+  - image: /assets/img/orchard-rd_menu-copy.jpg
 url: orchard-rd
 hide: true
 template:
