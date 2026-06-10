@@ -39,7 +39,7 @@ sections:
     body: We are passionate about our Breakfast. Our ingredients are sourced locally
       and where possible are made in house to enable us to provide you with a
       delicious two-course, a la carte breakfast that is freshly cooked to
-      order.
+      order. Also Available for the Non-Residents.
     sectionimage: /assets/img/old-rectory-krp006.jpg
   - title: Seasonal Events
     sectionimage: /assets/img/10-dsc06655.jpg
