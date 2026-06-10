@@ -20,7 +20,7 @@ template:
 
 #### Celebrated chef Rob Hills returns to The Old Rectory with refined Singaporean cuisine.
 
-#### Upcoming menus will showcase the bold, complex flavours that have defined Hills' career, transitioning from a small cult pop-up into a major local culinary staple. Diners can expect his celebrated freshly made bao buns, his popular Singaporean butter chicken, and his absolute signature dish: a rich, slow-cooked Beef Rendang.
+#### Upcoming menus will showcase the bold, complex flavours that have defined Hills' career, transitioning from a small cult pop-up into a major local culinary staple. Diners can expect his celebrated freshly made bao, his popular Singaporean butter chicken, and his absolute signature dish: a rich, slow-cooked Beef Rendang.
 
 #### Orchard Road dishes will feature on the daytime menu of The Old Rectory Café and Orchard Road takeovers are planned each Friday and Saturday evening, as well as Sunday lunches with a Rob Hills twist within the main hotel.
 
