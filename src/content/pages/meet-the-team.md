@@ -91,12 +91,15 @@ sections:
       They also tend to the indoor plants—truly the safest pair of hands to bring a touch of green to our communal spaces, dining room tables, and each guest room.
 
       </p>
-    sectionimage: /assets/img/zeline-800x1200.jpg
+    sectionimage: /assets/img/alasdair-margaret-the-old-rectory-hastings-kerrie-wood-photography-20.jpg
   - title: Shaun – Sculptor & Explorer
     body: >-
       <p>
 
-      Sculptor, explorer, and silent partner, Shaun is Lionel’s right-hand man. Long-time friend and Old Rectory alumnus, Shaun has several art installations throughout the Rectory, café, and garden. When he’s not off exploring the globe, you’ll often find him sampling delights and chatting with friends in the café.
+      Orchard Road dishes feature on the daytime menu of The Old Rectory Café and Orchard Road takeovers are happening each Friday and Saturday evening, as well as Sunday lunches with a Rob Hills twist within the Cafe every Sunday.
+
+
+      "This is a really exciting time for me and Orchard Road, “ says Rob. “Moving back to The Old Rectory after 5 years allows me to develop the Orchard Road brand even further. We’ll be presenting a more refined experience, featuring old favourites alongside many exciting new dishes"
 
       </p>
     sectionimage: /assets/img/shaun.jpg
@@ -105,4 +108,4 @@ template: Panel Stacked
 ---
 Say hello to the dream team behind your stay!
 
-At The Old Rectory, we believe that great service starts with great people – and lucky for us, we’ve got some absolute gems. Whether they’re fluffing your pillows, soothing your soul in the Treatment Rooms, or plating up your perfect poached egg, our team is here to make you feel relaxed, well-fed &amp; wonderfully looked after.
+At The Old Rectory, we believe that great service starts with great people – and lucky for us, we’ve got some absolute gems. Whether they’re fluffing your pillows, soothing your soul in the Treatment Rooms, or plating up your perfect poached egg, our team is here to make you feel relaxed, well-fed & wonderfully looked after.
