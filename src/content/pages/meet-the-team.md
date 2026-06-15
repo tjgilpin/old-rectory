@@ -33,20 +33,31 @@ sections:
       From greeting you with a grin to delivering breakfasts, weddings &amp; afternoon teas worthy of a Michelin Key, they’ve mastered the art of making every guest feel like royalty – with a cuppa always close by.
 
       </p>
-  - title: Lucy & The Treatment Rooms Team – Calm in Human Form
+  - body: >-
+      <p>
+
+      Orchard Road dishes feature on the daytime menu of The Old Rectory Café and Orchard Road takeovers are happening each Friday and Saturday evening, as well as Sunday lunches with a Rob Hills twist within the Cafe every Sunday.
+
+
+      "This is a really exciting time for me and Orchard Road, “ says Rob. “Moving back to The Old Rectory after 12 years allows me to develop the Orchard Road brand even further. We’ll be presenting a more refined experience, featuring old favourites alongside many exciting new dishes"
+
+      </p>
+    sectionimage: /assets/img/260527-orchardrd-4s-07.jpg
+    title: Chef Rob Hills - House Chef for Sunday Lunches and Orchard Road at the Cafe
+  - title: Vicki & The Treatment Rooms Team – Calm in Human Form
     body: >-
       <p>
 
-      Over in our little sanctuary of serenity, Lucy leads our Treatment Rooms team – a group of calm, kind and wonderfully skilled therapists. They’re up to date with all the latest techniques and tailor every treatment to you.
+      Over in our little sanctuary of serenity, Vicki leads our Treatment Rooms team – a group of calm, kind and wonderfully skilled therapists. They’re up to date with all the latest techniques and tailor every treatment to you.
 
       </p>
 
       <p>
 
-      From oncology &amp; pregnancy massage to glowing facials, perfectly polished pedicures, and everything in between, this team is here to help you float out feeling like your very best self.
+      From couples & pregnancy massage to glowing facials, perfectly polished pedicures, and everything in between, this team is here to help you float out feeling like your very best self.
 
       </p>
-    sectionimage: /assets/img/treatment-team-800x1200.jpg
+    sectionimage: /assets/img/krp06340.jpg
   - title: Hattie, Lindsey & Tom – Coffee, Cake & Cheer
     body: >-
       <p>
