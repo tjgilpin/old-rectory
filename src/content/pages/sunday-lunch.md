@@ -25,7 +25,7 @@ In keeping with our home-from-home, welcoming atmosphere our Sunday Lunches are 
 
 #### FROM 12.30 - 4pm 
 
-#### BOOKING NOW / 5TH JULY 2026 / SUNDAY LUNCH with Rob Hills 
+#### BOOKING NOW / 5TH JULY 2026 / SUNDAY LUNCH with Rob Hills
 
 #### Please see the Menu (Left)
 
@@ -33,8 +33,8 @@ In keeping with our home-from-home, welcoming atmosphere our Sunday Lunches are 
 
 <hr/>
 
-##### Call 01424 422410 
+Call 01424 422410
 
-##### Or email [info@theoldrectoryhastings.co.uk](https://theoldrectoryhastings.co.uk/food-drink/orchard-rd/)
+Or email [info@theoldrectoryhastings.co.uk](https://theoldrectoryhastings.co.uk/food-drink/orchard-rd/)
 
-##### [](https://theoldrectoryhastings.co.uk/food-drink/orchard-rd/)Spaces are Limited
+[](https://theoldrectoryhastings.co.uk/food-drink/orchard-rd/)Spaces are Limited
