@@ -21,15 +21,15 @@ In keeping with our home-from-home, welcoming atmosphere our Sunday Lunches are 
 
 <hr/>
 
-## EVERY SUNDAY
+#### EVERY SUNDAY
 
-## FROM 12.30 - 4pm 
+#### FROM 12.30 - 4pm 
 
-## BOOKING NOW / 5TH JULY 2026 / SUNDAY LUNCH with Rob Hills 
+#### BOOKING NOW / 5TH JULY 2026 / SUNDAY LUNCH with Rob Hills 
 
-## Please see the Menu (Left)
+#### Please see the Menu (Left)
 
-### Booking essential. Deposit required for all bookings
+#### Booking essential. Deposit required for all bookings
 
 ##### Call 01424 422410 
 
