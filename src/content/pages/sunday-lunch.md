@@ -8,7 +8,7 @@ gallery:
   - image: /assets/img/lunch-main.jpg
   - image: /assets/img/lunch-starter.jpg
   - image: /assets/img/lunch-dessert.jpg
-  - image: /assets/img/6-dsc06340.jpg
+  - image: /assets/img/sunday-lunch-instagram-copy.jpg
   - image: /assets/img/33-dsc06484.jpg
   - image: /assets/img/29-dsc06565.jpg
 url: tel:01424422410
@@ -23,9 +23,11 @@ In keeping with our home-from-home, welcoming atmosphere Sunday Lunches at The O
 
 ## BOOKING NOW
 
-## SUNDAY LUNCH with Rob Hills
+## SUNDAY LUNCH with Rob Hills 
 
-## 5TH JULY 2026 at THE OLD RECTORY
+## Please see the Menu (Left)
+
+## 5TH JULY 2026 at THE OLD RECTORY 
 
 ### Call 01424 422410
 
