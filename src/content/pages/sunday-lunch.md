@@ -17,19 +17,21 @@ url_secondary: mailto:info@theoldrectoryhastings.co.uk
 cta_secondary: Email to Book Sunday Lunch
 hide: true
 ---
-In keeping with our home-from-home, welcoming atmosphere Sunday Lunches at The Old Rectory are hosted in our hand-painted dining room and our cosy lounge. Served over two or three courses our dedication to traditional Sunday Lunch is reflected in our ever-changing menu and focus on seasonal, locally sourced produce. Enjoy a cocktail by the fire before taking your seat & catching up with family and friends.
+In keeping with our home-from-home, welcoming atmosphere our Sunday Lunches are traditional and delicious. Served at Cafe at The Old Rectory our Sunday Lunch is reflected in our ever-changing menu and focus on seasonal, locally sourced produce. Enjoy a cocktail by the garden or by the fire before taking your seat & catching up with family and friends.
 
 <hr/>
 
-## BOOKING NOW
+## EVERY SUNDAY
 
-## SUNDAY LUNCH with Rob Hills 
+## FROM 12.30 - 4pm 
+
+## BOOKING NOW / 5TH JULY 2026 / SUNDAY LUNCH with Rob Hills 
 
 ## Please see the Menu (Left)
 
-## 5TH JULY 2026 at THE OLD RECTORY 
+### Booking essential. Deposit required for all bookings
 
-### Call 01424 422410
+Call 01424 422410 
 
 Or email [info@theoldrectoryhastings.co.uk](https://theoldrectoryhastings.co.uk/food-drink/orchard-rd/)
 
