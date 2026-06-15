@@ -31,6 +31,8 @@ In keeping with our home-from-home, welcoming atmosphere our Sunday Lunches are 
 
 #### Booking essential. Deposit required for all bookings
 
+<hr/>
+
 ##### Call 01424 422410 
 
 ##### Or email [info@theoldrectoryhastings.co.uk](https://theoldrectoryhastings.co.uk/food-drink/orchard-rd/)
