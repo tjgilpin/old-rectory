@@ -8,6 +8,7 @@ gallery:
   - image: /assets/img/2-dsc01594.jpg
   - image: /assets/img/teas-seating.jpg
   - image: /assets/img/teas-platter.jpg
+  - image: /assets/img/deborah-stephen-wedding-275.jpg
 url: tel:01424422410
 cta: Call to Book Tea Now
 url_secondary: mailto:info@theoldrectoryhastings.co.uk
