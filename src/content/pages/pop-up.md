@@ -16,6 +16,16 @@ hide: true
 template:
   - Panel Image Background
 ---
+#### \- SOUTH-EAST ASIAN INSPIRED CUISINE
+
+#### AT THE CAFE - Every Friday  (Bookings now Open)
+
+#### \- TRADITIONAL SUNDAY LUNCH
+
+#### AT THE CAFE - Every Sunday (Bookings now Open)
+
+### <hr/>
+
 ### ORCHARD ROAD AT THE OLD RECTORY
 
 Celebrated chef Rob Hills returns to The Old Rectory with refined Singaporean cuisine.
@@ -26,18 +36,10 @@ Orchard Road dishes will feature on the daytime menu of The Old Rectory Café an
 
 <hr/>
 
-### BOOKINGS ARE NOW OPEN!
+#### Call 01424 422410
 
-### \- SOUTH-EAST ASIAN INSPIRED CUISINE AT THE CAFE - 3RD JULY- Please see the Menu (Left)
+#### Or email [info@theoldrectoryhastings.co.uk](<>)
 
-### \- TRADITIONAL SUNDAY LUNCH AT THE OLD RECTORY - 5TH JULY
-
-<hr/>
-
-Call 01424 422410
-
-Or email [info@theoldrectoryhastings.co.uk](<>)
-
-[](<>)Spaces are Limited[](<>)
+#### [](<>)Spaces are Limited[](<>)
 
 [](mailto:info@theoldrectoryhastings.co.uk)
