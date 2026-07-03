@@ -151,7 +151,8 @@ All of our coffees are available iced Prices start from **£4.00**
 
 #### Sparkling Wines
 
-* Le Dolci Colline Prosecco (sml bottle) **£8.00**, (lrg bottle) **£28.00**
+* Le Dolci Colline Prosecco (sml bottle) **£8.00**
+* Le Dolci Colline Prosecco (lrg bottle) **£28.00**
 * Mountfield English Sparkling Classic Cuvee Bottle (lrg bottle) **£50**
 
 
