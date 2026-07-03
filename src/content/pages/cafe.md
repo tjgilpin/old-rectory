@@ -18,21 +18,15 @@ gallery:
   - image: /assets/img/dsc01252.jpg
 order: 110
 ---
-Café at The Old Rectory is an elegantly designed space that offers all the important things in life: good coffee, good food, and good vibes. Our carefully planned seasonal menu features ingredients from trusted local suppliers, enhanced by in-house expertise—from our expert cake baker to our on-site garden smokers. Open seven days a week from 10 am to 4 pm, Café at The Old Rectory is the perfect place to catch up with old friends, relax after a walk with the dog, or enjoy some solo time with a cup of tea and a good book.
+Café at The Old Rectory is an elegantly designed space that offers all the important things in life: good coffee, good food, and good vibes. Our carefully planned seasonal menu features ingredients from trusted local suppliers, enhanced by in-house expertise-from our expert cake baker to our on-site garden smokers.
 
-We take pride in using the best local and seasonal ingredients, where possible.
+**Open seven days a week from 10 am to 4 pm,** Café at The Old Rectory is the perfect place to catch up with old friends, relax after a walk with the dog, or enjoy some solo time with a cup of tea and a good book.
 
-We make our own sausages and cure our own bacon.
-
-**Our bread** is baked onsite by our friend and master baker, Emmanuel Hadjiandreou, whilst our sourdough crumpets are produced in small batches by Rebecca, from Crumb and Grind.
-
-**Our exclusive coffee** blend is freshly roasted by Jonny at the Rye Bay Coffee Company.
-
-**Our mushroom**s are grown just a stone’s throw away by Robbie at Basil’s Fungi Farm in Hastings, less than a mile from our door. Each week Robbie hand selects a range of mushrooms for our dishes.
-
-**Every cake and dessert** is baked in-house by Hattie and our **signature marmalade** is not only homemade by Christine, it’s award-winning.
-
-**Our Indian inspired dishe**s are from the minds of 3 Souls in a Bowl, who host regular Sunday Lunches & Dinner Pop-Ups at The Old Rectory
+* ##### We take pride in using the best local and seasonal ingredients, where possible. We make our own sausage patties, cure our own bacon, and smoke our own salmon.
+* ##### Our bread is baked on-site by our friend and master baker, Emmanuel Hadjiandreou, whilst our sourdough crumpets are produced in small batches by Rebecca, from Crumb and Grind.
+* ##### Our exclusive coffee blend is freshly roasted by Jonny at the Rye Bay Coffee Company.
+* ##### Our mushrooms are grown just a stone's throw away by Robbie at Basil's Fungi Farm in Hastings, less than a mile from our door. Each week Robbie hand-selects a range of mushrooms for our dishes.
+* ##### Every cake and dessert is baked in-house by Hattie and our signature marmalade is not only homemade by Christine, it's award-winning
 
 <hr/>
 
@@ -118,9 +112,13 @@ Served on malted or white bread with a handful of crisps
 
 Decaf tea & coffee available on request
 
-### Boozie Coffee
 
-Add a shot of amaretto, cointreau or whiskey to your coffee **£8.00**
+
+#### Boozie Coffee
+
+* Add a shot of amaretto, cointreau or whiskey to your coffee **£8.00**
+
+
 
 ### Iced Drinks
 
@@ -129,6 +127,8 @@ All of our coffees are available iced Prices start from **£4.00**
 * Iced Matcha **£4.75**
 * Flavoured Syrups **80p**
 * Alternative Milks (Oat, Soya or Almond) **30p**
+
+
 
 ### Soft Drinks
 
@@ -141,20 +141,28 @@ All of our coffees are available iced Prices start from **£4.00**
 * Small Sparkling Water **£2.50**
 * Large Sparkling Water **£5.00**
 
+
+
 ### Cocktails - £10.00 Each
 
 * Bloody Mary / Gin & Tonic / Pimms
+
+
 
 #### Sparkling Wines
 
 * Le Dolci Colline Prosecco (sml bottle) **£8.00**, (lrg bottle) **£28.00**
 * Mountfield English Sparkling Classic Cuvee Bottle (lrg bottle) **£50**
 
+
+
 #### Wines
 
 * Louis Eschenauer Bordeaux (250ml) **£7.00**
 * Louis Eschenauer Sauvignon Blanc (250ml) **£7.00**
 * Fleurs de Prairie Cotes De Provence Rose (187m) **£7.00**
+
+
 
 ### Beer
 
@@ -168,7 +176,7 @@ All of our coffees are available iced Prices start from **£4.00**
 
 **Allergies & Dietary Requirements**
 
-Many of our dishes can be made to suit a vegetarian, vegan or gluten free diet. We also stock a selection of dairy alternatives. Should you have any allergies or dietary requirements please speak to us about how we can accommodate this.
+Many of our dishes can be made to suit a vegetarian, vegan, or gluten-free diet. We also stock a selection of dairy alternatives. Should you have any allergies or dietary requirements, please speak to us about how we can accommodate them.
 
 Service charge is not included.
 
