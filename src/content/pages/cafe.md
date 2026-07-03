@@ -63,18 +63,27 @@ We make our own sausages and cure our own bacon.
 
 ### Stew
 
-Served on malted or white bread with homemade crisps 
-
-* Rectory Ham & homemade Pickle **£9.00**
-* Smoked Chicken & mango chutney **£9.00**
-* Cheese / plant-based cheese & homemade fruit chutney **£9.00**
-* Crab & Rocket **£11.00**
+* Seafood chowder with sourdough **£16.00**
 
 ### Sandwiches
 
-* Bacon & fried egg naanwich, chakka, sweet chilli sauce & spicy tomato relish **£11.00**
-* Bombay butter beans on toasted sourdough **£10.50**
-* Ma’s Masala Omelette with onion, chilli &amp; tomato, rocket salad & toasted naan **£9.50**
+Served on malted or white bread with a handful of crisps
+
+* Cheese / plant-based cheese with mango chutney **£10.00**
+* Coronation chicken **£10.00**
+* Coronation chickpea **£10.00**
+* * Rectory ham with apple chutney **£10.00**
+
+  * Crab & Rocket **£12.00**
+* Ploughmans - ham, cheese, apple chutney **£12.00**
+
+#### ORCHARD RD DISHES
+
+* Breakfast Bao: Two fluffy steamed bao. With a crispy streaky bacon and spiced sausage patties. Finished with tonkotsu sauce. kewpie mavo & house chilli oil **£12.00**
+
+* Roti Canai: Flakey Malaysian flatbreads, served with a vegetable mamak lentil dhal, topped with curry leaves. Served with a mango chutney (vegan) **£8.00**
+
+* Orchard Rd's signature Beef Rendang Caramelised coconut beef curry, cooked slowly in rich aromatic spices. Topped with Serudung,  sambal Tunis. Served with steamed jasmine rice **£16.00**
 
 </div>
 </div>
