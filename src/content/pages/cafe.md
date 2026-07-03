@@ -53,18 +53,13 @@ We make our own sausages and cure our own bacon.
 * Hot smoked salmon, spinach, poached egg & hollandaise on sourdough **£13.00**
 * Devilled kidneys on sourdough **£14.00**
 
-
-
 </div>
 <div class="menu-col">
 
 ### Salads
 
-Served with toasted sourdough
-
-* Hand rolled Turkey meatballs **£16.00**
-* Chicken & chorizo stew **£16.00**
-* Seafood chowder **£16.00**
+* Hot smoked salmon, cucumber, peas & mint salad **£13.00**
+* Feta, watermelon, rocket, mint & lime and sunflower seed salad **£13.00**
 
 ### Stew
 
