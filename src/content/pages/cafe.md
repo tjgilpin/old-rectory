@@ -83,7 +83,9 @@ Served on malted or white bread with a handful of crisps
 
 * Roti Canai: Flakey Malaysian flatbreads, served with a vegetable mamak lentil dhal, topped with curry leaves. Served with a mango chutney (vegan) **£8.00**
 
-* Orchard Rd's signature Beef Rendang Caramelised coconut beef curry, cooked slowly in rich aromatic spices. Topped with Serudung,  sambal Tunis. Served with steamed jasmine rice **£16.00**
+* Orchard Rd's signature Beef Rendang Caramelised coconut beef curry, cooked slowly in rich aromatic spices.Topped with Serudung,  sambal Tunis. Served with steamed jasmine rice **£16.00**
+
+
 
 </div>
 </div>
@@ -94,23 +96,25 @@ Served on malted or white bread with a handful of crisps
 
 ### Hot Drinks
 
-* Double Espresso **£3.00**
-* Americano **£3.20**
-* Long Black **£3.00**
+* Double Espresso **£3.20**
+* Americano **£3.40**
+* Long Black **£3.30**
 * Latte **£3.80**
-* Flat White **£3.50**
+* Flat White **£3.60**
 * Cortado **£3.40**
-* Cappuccino small **£3.50** regular **£3.80**
+* Cappuccino **£3.80**
+* Macchiato **£3.20**
 * Babycino (steamed milk & chocolate powder) small **£1.50**
 * Puppicino (steamed milk) **£1.50**
 * Mocha **£4.80**
-* Hot Chocolate small **£3.50** large **£4.50**
-* Chai Latte **£3.50**
+* Hot Chocolate **£4.50**
+* Matcha Latte **£4.75**
+* Chai Latte **£4.20**
 * Dirty Chai **£4.50**
 * Ringtons Tea
-* English Breakfast, Earl Grey,Lemon & Ginger, Chamomile,Peppermint & Green 
+* English Breakfast, Earl Grey, Rooibos, Lemon & Ginger, Chamomile, Peppermint & Green 
 * Tea for One **£2.80**
-* Tea for Two **£4.00**
+* Tea for Two **£4.20**
 
 Decaf tea & coffee available on request
 
@@ -122,50 +126,41 @@ Add a shot of amaretto, cointreau or whiskey to your coffee **£8.00**
 
 All of our coffees are available iced Prices start from **£4.00**
 
-* Vanilla Syrup **80p**
-* Alternative Milks (Oat, Soya or Almond) **40p**
+* Iced Matcha **£4.75**
+* Flavoured Syrups **80p**
+* Alternative Milks (Oat, Soya or Almond) **30p**
 
 ### Soft Drinks
 
-* Nelly’s seasonal, cold pressed juice **£5.00**
 * Charrington’s Apple Juice **£3.00**
 * Orange Juice **£3.00**
 * Zak’s Kombucha 
-  Elderflower, lavender, ginger & tumeric or sparkling oolong **£5.00**
-* Fetimans (Victorian Lemonade, Ginger Beer, Sparkling Elderflower)  **£3.50**
+  (Victorian Lemonade, Sparkling Elderflower, Ginger Beer, Orange & Mandarin Jigger, Rhubarb lemonade) **£3.50**
 * Coca Cola / Diet Coke **£3.50**
 * Zak’s Kombucha **£5.00**
 * Small Sparkling Water **£2.50**
 * Large Sparkling Water **£5.00**
 
-### Sparkling Wines
+### Cocktails - £10.00 Each
 
-**Le Dolci Colline Prosecco**
+* Bloody Mary / Gin & Tonic / Pimms
 
-Small Bottle **£7.00 ,** Large Bottle **£23.00**
+#### Sparkling Wines
 
-**Mountfield English Sparkling Classic Cuvee** Bottle **£50**
+* Le Dolci Colline Prosecco (sml bottle) **£8.00**, (lrg bottle) **£28.00**
+* Mountfield English Sparkling Classic Cuvee Bottle (lrg bottle) **£50**
 
-**White Wine - Ai Galera Mistico (Italy)**
+#### Wines
 
-* Glass **£7.00**
-* Half Carafe **£16.00**
-* Full Carafe **£26.00**
-
-**Red Wine - Percheron (South Africa)**
-
-* Glass **£7.00**
-* Half Carafe **£16.00**
-* Full Carafe **£26.00**
-
-### Cocktails
-
-**Bloody Mary, Kir Imperial or Hugo Spritz £10.00 each**
+* Louis Eschenauer Bordeaux (250ml) **£7.00**
+* Louis Eschenauer Sauvignon Blanc (250ml) **£7.00**
+* Fleurs de Prairie Cotes De Provence Rose (187m) **£7.00**
 
 ### Beer
 
 * Brewing Brothers Reforestation Pale Ale (GF) **£7.00**
 * Brewing Brothers Sussex Lager(GF) **£7.00**
+* Charringtons Medium Cider **£6.00**
 
 </div>
 
@@ -174,8 +169,6 @@ Small Bottle **£7.00 ,** Large Bottle **£23.00**
 **Allergies & Dietary Requirements**
 
 Many of our dishes can be made to suit a vegetarian, vegan or gluten free diet. We also stock a selection of dairy alternatives. Should you have any allergies or dietary requirements please speak to us about how we can accommodate this.
-
-All of our wines are served in a 125ml measure as standard. 175ml & 250ml glasses are available on request. 
 
 Service charge is not included.
 
