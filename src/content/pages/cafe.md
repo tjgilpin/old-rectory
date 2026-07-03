@@ -41,32 +41,32 @@ We make our own sausages and cure our own bacon.
 <div class="menu">
 <div class="menu-col">
 
-* Two sourdough crumpets with butter (add jam, marmalade, Marmite butter or honey butter) **£5.00**
-* Two slices of toast with butter (add jam, marmalade, Marmite butter or honey butter) **£5.00**
-* Porridge with local honey, maple syrup or golden syrup **£7.00**
-* Maple roasted granola, greek / plant-based yoghurt & seasonal compote **£7.00**
-* Pork & apple sausage roll with bacon jam **£7.00**
-* Sussex Manchego cheese and olive scone, butter & chorizo jam **£7.00**
-* Bacon sandwich, pickled walnut ketchup on malted or white bread **£8.50**
-* Seasonal veggie soup, served with sourdough **£9.00**
-* A mug of soup and half a sandwich **£9.00**
-* Sausage patty, fried egg, Mayfield Swiss cheese, English muffin **£10.00**
-* Hot smoked salmon, spinach, poached egg & hollandaise sauce on sourdough toast **£12.00**
-* Basil’s Fungi Farm mushrooms &amp; toasted sourdough **£10.00**
-* Whipped feta, roasted carrot hummus, pink pickled onions &amp; toasted sourdough **£10.00**
+* Two slices of toast or Two sourdough crumpets. Served with your choice of Jam, marmalade, honey butter or Marmite butter **£5.00**
+* Cheese scone with butter and chutney **£7.00**
+* Maple toasted granola, yoghurt and seasonal compote **£8.00**
+* Pork & apple sausage roll with bacon jam **£8.00**
+* Bacon sandwich on malted or white bread.Served with your choice of pickled walnut ketchup, HP sauce, or tomato ketchup **£9.00**
+* Smoked mackerel and apple crumpets **£11.00**
+* Courgette, peas and feta on sourdough sprinkled with dukkah **£11.00**
+* Basil's fungi farm mushrooms on toasted sourdough **£11.00**
+* Sausage patty, fried egg, Mayfield Swiss cheese, on an English muffin **£11.00**
+* Hot smoked salmon, spinach, poached egg & hollandaise on sourdough **£13.00**
+* Devilled kidneys on sourdough **£14.00**
+
+
 
 </div>
 <div class="menu-col">
 
-### Stew
+### Salads
 
 Served with toasted sourdough
 
 * Hand rolled Turkey meatballs **£16.00**
-* Chicken & chorizo stew** £16.00**
+* Chicken & chorizo stew **£16.00**
 * Seafood chowder **£16.00**
 
-### Sandwiches
+### Stew
 
 Served on malted or white bread with homemade crisps 
 
@@ -75,15 +75,11 @@ Served on malted or white bread with homemade crisps
 * Cheese / plant-based cheese & homemade fruit chutney **£9.00**
 * Crab & Rocket **£11.00**
 
-### 3 Souls in a Bowl Dishes
+### Sandwiches
 
 * Bacon & fried egg naanwich, chakka, sweet chilli sauce & spicy tomato relish **£11.00**
-
 * Bombay butter beans on toasted sourdough **£10.50**
-
 * Ma’s Masala Omelette with onion, chilli &amp; tomato, rocket salad & toasted naan **£9.50**
-
-
 
 </div>
 </div>
@@ -99,8 +95,8 @@ Served on malted or white bread with homemade crisps
 * Long Black **£3.00**
 * Latte **£3.80**
 * Flat White **£3.50**
-* Cortado** £3.40**
-* Cappuccino small **£3.50** regular** £3.80**
+* Cortado **£3.40**
+* Cappuccino small **£3.50** regular **£3.80**
 * Babycino (steamed milk & chocolate powder) small **£1.50**
 * Puppicino (steamed milk) **£1.50**
 * Mocha **£4.80**
