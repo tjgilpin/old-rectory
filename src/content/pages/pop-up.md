@@ -18,11 +18,11 @@ template:
 ---
 #### \- SOUTH-EAST ASIAN INSPIRED CUISINE
 
-#### AT THE CAFE - Every Friday  (Bookings now Open)
+#### AT THE CAFE - Every Friday  & Saturday / 6pm-9pm / (Bookings now Open)
 
 #### \- TRADITIONAL SUNDAY LUNCH
 
-#### AT THE CAFE - Every Sunday (Bookings now Open)
+#### AT THE CAFE - Every Sunday / 12.30pm-4pm / (Bookings now Open)
 
 ### <hr/>
 
