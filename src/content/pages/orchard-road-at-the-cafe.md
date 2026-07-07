@@ -26,6 +26,6 @@ Upcoming menus will showcase the bold, complex flavours which have defined Hills
 
 #### Booking Now
 
-#### Every Friday & Saturday / 5pm-9pm / South-East Asian inspired cuisine by Orchard Road at the Cafe
+#### Every Friday & Saturday / 6pm-9pm / South-East Asian inspired cuisine by Orchard Road at the Cafe
 
 For Bookings: [01424 422410](<tel:01424 422410>); [info@theoldrectoryhastings.co.uk](mailto:info@theoldrectoryhastings.co.uk)
