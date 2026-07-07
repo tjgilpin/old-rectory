@@ -8,15 +8,8 @@ headerimage: /assets/img/krp_oldrectory_68.jpg
 sections:
   - title: ORCHARD ROAD SOUTH-EAST ASIAN INSPIRED CUISINE AT THE OLD RECTORY
     sectionimage: /assets/img/16-_dsc8734.jpg
-    body: >-
-      Celebrated chef Rob Hills returns to The Old Rectory with refined
-      Singaporean cuisine.
-
-
-      Orchard Road dishes will feature on the daytime menu of The Old Rectory Café and Orchard Road takeovers are planned each Friday and Saturday evening, as well as Sunday lunches with a Rob Hills twist within the main hotel.
-
-
-      FROM JULY 2026
+    body: Orchard Road each Friday and Saturday evening, as well as Sunday lunches
+      every Sunday with a Rob Hills twist at Café at The Old Rectory.
     url: orchard-rd
     cta: View Menu & Book
   - title: Sunday Lunch
