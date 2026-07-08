@@ -78,3 +78,5 @@ Taking everything offered with a cream tea & upgraded to include a selection of 
 ###### \- Seasonal fruit tartlet
 
 Please note there's an additional £3 charge for specialist dietary requirements. Gluten-free, vegan or lactose intolerant.
+
+Teas are served in a minimum of two and are not available for sharing.
