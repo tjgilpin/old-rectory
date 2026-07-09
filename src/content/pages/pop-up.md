@@ -8,7 +8,7 @@ gallery:
   - image: /assets/img/general-poster.jpg
   - image: /assets/img/20-_dsc8796.jpg
   - image: /assets/img/16-_dsc8734.jpg
-  - image: /assets/img/orchard-rd_menu-copy.jpg
+  - image: /assets/img/orch-new-menu-insta.jpg
   - image: /assets/img/260527-orchardrd-3s-04.jpg
   - image: /assets/img/2-_dsc7880.jpg
 url: orchard-rd
