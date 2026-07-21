@@ -5,12 +5,10 @@ parent_slug: food-drink
 title: Sunday Lunch
 headerimage: /assets/img/29-dsc06565.jpg
 gallery:
-  - image: /assets/img/lunch-main.jpg
-  - image: /assets/img/lunch-starter.jpg
+  - image: /assets/img/b9395532-3fa9-4718-bac9-fc9b62fd5039.png
+  - image: /assets/img/fcd07385-1bf4-411e-ad0b-a74d9c8ccb2b.png
   - image: /assets/img/lunch-dessert.jpg
   - image: /assets/img/sunday-lunch-instagram-copy.jpg
-  - image: /assets/img/33-dsc06484.jpg
-  - image: /assets/img/29-dsc06565.jpg
 url: tel:01424422410
 cta: Call to Book Sunday Lunch
 url_secondary: mailto:info@theoldrectoryhastings.co.uk
@@ -23,7 +21,7 @@ In keeping with our home-from-home, welcoming atmosphere our Sunday Lunches are 
 
 #### EVERY SUNDAY
 
-#### FROM 12.30 - 4pm 
+#### FROM 12.30 - 6pm 
 
 #### BOOKING NOW / SUNDAY LUNCH with Rob Hills
 
