@@ -25,7 +25,7 @@ In keeping with our home-from-home, welcoming atmosphere our Sunday Lunches are 
 
 #### FROM 12.30 - 4pm 
 
-#### BOOKING NOW / 19TH JULY 2026 / SUNDAY LUNCH with Rob Hills
+#### BOOKING NOW / SUNDAY LUNCH with Rob Hills
 
 #### Please see the Menu (Left)
 
