@@ -6,13 +6,14 @@ title: Food & Drink
 pageslug: food-drink
 headerimage: /assets/img/krp_oldrectory_68.jpg
 sections:
-  - title: ORCHARD ROAD SOUTH-EAST ASIAN INSPIRED CUISINE AT THE OLD RECTORY
+  - title: ORCHARD ROAD SOUTH-EAST ASIAN INSPIRED CUISINE EVERY FRIDAY & SATURDAY
+      EVENING AT THE CAFE
     sectionimage: /assets/img/16-_dsc8734.jpg
-    body: Orchard Road each Friday and Saturday evening, as well as Sunday lunches
-      every Sunday with a Rob Hills twist at Café at The Old Rectory.
+    body: Orchard Road each Friday and Saturday evening with chef Rob Hills at Café
+      at The Old Rectory.
     url: orchard-rd
     cta: View Menu & Book
-  - title: Sunday Lunch
+  - title: SUNDAY LUNCH EVERY SUNDAY AT THE CAFE
     sectionimage: /assets/img/24-dsc06550.jpg
     body: The Old Rectory Traditional Sunday Lunches by chef Rob Hills focus on
       seasonal, locally sourced produce. In keeping with our home-from-home,
