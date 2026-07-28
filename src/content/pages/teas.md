@@ -3,7 +3,7 @@ type: subpage
 parent_page: Food & Drink
 parent_slug: food-drink
 title: Teas
-headerimage: /assets/img/32x9-tea.jpg
+headerimage: /assets/img/teas.jpg
 gallery:
   - image: /assets/img/2-dsc01594.jpg
   - image: /assets/img/150-apc_0325.jpg
