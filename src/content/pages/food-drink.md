@@ -6,8 +6,7 @@ title: Food & Drink
 pageslug: food-drink
 headerimage: /assets/img/krp_oldrectory_68.jpg
 sections:
-  - title: ORCHARD ROAD SOUTH-EAST ASIAN INSPIRED CUISINE EVERY FRIDAY & SATURDAY
-      EVENING AT THE CAFE
+  - title: ORCHARD ROAD SOUTH-EAST ASIAN INSPIRED CUISINE EVERY AT THE CAFE
     sectionimage: /assets/img/16-_dsc8734.jpg
     body: Orchard Road each Friday and Saturday evening with chef Rob Hills at Café
       at The Old Rectory.
