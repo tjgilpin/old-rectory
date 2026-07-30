@@ -714,7 +714,8 @@ a {
 
 .main_content, .content_primary {
   padding: 1.5rem;
-  /* overflow: hidden; */
+  overflow: hidden;
+  overflow-wrap: break-word;
 }
 /* 
 .page_privacy-policy .main_content {
@@ -810,7 +811,7 @@ body.subpage ul a:has(button) {
 
 main > header {
   overflow: hidden;
-  display: flex;
+  /* display: flex; */
   place-items: center;  
 }
 
