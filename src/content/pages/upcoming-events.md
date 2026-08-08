@@ -7,7 +7,7 @@ headerimage: /assets/img/your-wedding-day-1.jpg
 sections:
   - title: The Great Dixter Experience
     sectionimage: /assets/img/long-border-2-jul-23-richard-bloom-d050623-38-do-not-use-externally.webp
-    body: "**Spring / Summer Package 2025 Booking Now**"
+    body: "**Summer Package 2026 Booking Now**"
     cta: View Our Package
     url: great-dixter-experience
   - title: Bread Workshop with Emmanuel Hadiandreou
