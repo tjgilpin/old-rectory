@@ -4,7 +4,7 @@ slug: /food-drink/
 type: page
 title: Food & Drink
 pageslug: food-drink
-headerimage: /assets/img/krp_oldrectory_68.jpg
+headerimage: /assets/img/food.jpg
 sections:
   - title: ORCHARD ROAD SOUTH-EAST ASIAN INSPIRED CUISINE EVERY AT THE CAFE
     sectionimage: /assets/img/16-_dsc8734.jpg
