@@ -19,7 +19,11 @@ template:
 ---
 #### \- SOUTH-EAST ASIAN INSPIRED CUISINE
 
-#### AT THE CAFE - Every Friday  & Saturday / 6pm-9pm / (Bookings now Open)
+#### AT THE CAFE - Every Friday  & Saturday
+
+####  6pm-9pm 
+
+#### (Bookings now Open)
 
 ### <hr/>
 
@@ -30,11 +34,5 @@ Celebrated chef Rob Hills returns to The Old Rectory with refined Singaporean cu
 The menus showcase the bold, complex flavours that have defined Hills' career, transitioning from a small cult pop-up into a major local culinary staple. Diners can expect his celebrated freshly made bao, his popular Singaporean butter chicken, and his absolute signature dish: a rich, slow-cooked Beef Rendang.
 
 Orchard Road dishes are featured on the daytime menu at The Old Rectory Café and Orchard Road takeovers are taking place each Friday and Saturday evening, as well as Sunday lunches with a Rob Hills twist at the Café.
-
-<hr/>[](<>)
-
-#### [BOOK HERE:](<>)
-
-#### [https://theoldrectorycafe.resos.com/booking](<>)[](<>)
 
 [](mailto:info@theoldrectoryhastings.co.uk)
