@@ -11,7 +11,8 @@ gallery:
   - image: /assets/img/orch-new-menu-insta.jpg
   - image: /assets/img/260527-orchardrd-3s-04.jpg
   - image: /assets/img/2-_dsc7880.jpg
-url: orchard-rd
+url: https://theoldrectorycafe.resos.com/booking
+cta: Book a Table
 hide: true
 template:
   - Panel Image Background
