@@ -20,10 +20,6 @@ template:
 
 #### AT THE CAFE - Every Friday  & Saturday / 6pm-9pm / (Bookings now Open)
 
-#### \- TRADITIONAL SUNDAY LUNCH
-
-#### AT THE CAFE - Every Sunday / 12.30pm-4pm / (Bookings now Open)
-
 ### <hr/>
 
 ### ORCHARD ROAD AT THE OLD RECTORY
@@ -34,12 +30,10 @@ The menus showcase the bold, complex flavours that have defined Hills' career, t
 
 Orchard Road dishes are featured on the daytime menu at The Old Rectory Café and Orchard Road takeovers are taking place each Friday and Saturday evening, as well as Sunday lunches with a Rob Hills twist at the Café.
 
-<hr/>
+<hr/>[](<>)
 
-#### Call 01424 422410
+#### [BOOK HERE:](<>)
 
-#### Or email [info@theoldrectoryhastings.co.uk](<>)
-
-#### [](<>)Spaces are Limited[](<>)
+#### [https://theoldrectorycafe.resos.com/booking](<>)[](<>)
 
 [](mailto:info@theoldrectoryhastings.co.uk)
