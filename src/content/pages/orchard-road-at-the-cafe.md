@@ -9,7 +9,8 @@ gallery:
   - image: /assets/img/16-_dsc8734.jpg
   - image: /assets/img/9-_dsc8221.jpg
   - image: /assets/img/orch-new-menu-insta.jpg
-url: orchard-rd-events
+url: https://theoldrectorycafe.resos.com/booking
+cta: Book a Table
 hide: true
 template:
   - Panel Image Background
@@ -26,6 +27,4 @@ Upcoming menus will showcase the bold, complex flavours which have defined Hills
 
 #### Booking Now
 
-#### Every Friday & Saturday / 6pm-9pm / South-East Asian inspired cuisine by Orchard Road at the Cafe
-
-For Bookings: [01424 422410](<tel:01424 422410>); [info@theoldrectoryhastings.co.uk](mailto:info@theoldrectoryhastings.co.uk)
+#### Every Friday & Saturday / 6pm-9pm / South-East Asian inspired cuisine by Orchard Road at the Cafe[](mailto:info@theoldrectoryhastings.co.uk)
