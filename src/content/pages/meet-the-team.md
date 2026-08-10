@@ -96,10 +96,17 @@ sections:
     body: >-
       <p>
 
-      Orchard Road dishes feature on the daytime menu of The Old Rectory Café and Orchard Road takeovers are happening each Friday and Saturday evening, as well as Sunday lunches with a Rob Hills twist within the Cafe every Sunday.
+      Sculptor, explorer and silent partner, Shaun is Lionel’s right-hand man.
 
 
-      "This is a really exciting time for me and Orchard Road, “ says Rob. “Moving back to The Old Rectory after 5 years allows me to develop the Orchard Road brand even further. We’ll be presenting a more refined experience, featuring old favourites alongside many exciting new dishes"
+      A long-time friend and proud Old Rectory alumnus, Shaun has left his creative mark throughout the Rectory, café and garden, with a number of his unique art installations adding to the character of the place.
+
+
+      When he’s not off exploring somewhere new around the globe, you’ll often find Shaun right here at the café — sampling the delights, catching up with friends and enjoying the atmosphere he’s helped make so special.
+
+
+      Creative, curious and always ready for the next adventure, Shaun is very much part of the Old Rectory family.
+
 
       </p>
     sectionimage: /assets/img/shaun.jpg
