@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Minimal eleventy template with basic configuration for pages and posts",
   "scripts": {
-    "run": "npx @11ty/eleventy --serve"
+    "run": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
   },
   "author": {
     "name": "Tim Gilpin",
