@@ -35,7 +35,7 @@ export default async function(eleventyConfig) {
     urlPath: "/img/built/",
 		outputDir: ".cache/@11ty/img/",
 		// output image formats
-		formats: ["avif", "webp", "jpeg"],
+		formats: ["webp", "jpeg"],
 		// output image widths
 		widths: ["auto"],
 		// optional, attributes assigned on <img> nodes override these values
