@@ -27,14 +27,14 @@ export default defineStackbitConfig({
     new GitContentSource({
       rootPath: __dirname,
 
-      contentDirs: ["src/content"],
+      contentDirs: ["src/content/pages"],
 
       models: [
         {
           name: "Page",
           type: "page",
           urlPath: "/rooms/{slug}/",
-          filePath: "src/content/pages/{slug}.md",
+          filePath: "{slug}.md",
       
           fields: [
             {
