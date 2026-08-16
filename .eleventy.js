@@ -49,10 +49,15 @@ export default async function(eleventyConfig) {
 		},
 	});
   eleventyConfig.on("eleventy.after", () => {
-		fs.cpSync(".cache/@11ty/img/", path.join(eleventyConfig.directories.output, "/img/built/"), {
-			recursive: true
-		});
-	});
+    const imageDir = ".cache/@11ty/img/";
+    const outputDir = path.join(eleventyConfig.directories.output, "img/built/");
+  
+    if (fs.existsSync(imageDir)) {
+      fs.cpSync(imageDir, outputDir, {
+        recursive: true
+      });
+    }
+  });
 };
 
 export const config = {
