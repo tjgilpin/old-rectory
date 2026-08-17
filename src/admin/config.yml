@@ -53,7 +53,11 @@ collections:
         widget: list
         required: false
         fields:
-          - { label: "Gallery Image", name: image, widget: image } 
+          - { label: "Gallery Image", name: image, widget: image }
+      - { label: URL, name: url, widget: string, required: false }
+      - { label: "Link Text", name: "cta", widget: string, required: false }
+      - { label: URL Secondary, name: url_secondary, widget: string, required: false }
+      - { label: "Link Secondary Text", name: "cta_secondary", widget: string, required: false }          
       - { label: "Remove from Navigation", name: "hide", widget: "boolean", default: false }
       - { label: "Navigation Order", name: "order", widget: "number", default: 10 }
       - label: "Template"
