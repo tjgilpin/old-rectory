@@ -120,7 +120,7 @@ body.subpage_upcoming-events a {
 
 body.subpage_upcoming-events .cta {
   background: var(--blue);
-  color: var(--white);
+  color: var(--white) !important;
 }
 
 body.subpage_our-rooms .cta  {
@@ -811,7 +811,7 @@ body.subpage ul a:has(button) {
 
 main > header {
   overflow: hidden;
-  /* display: flex; */
+  display: flex;
   place-items: center;  
 }
 
