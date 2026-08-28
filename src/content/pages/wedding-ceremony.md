@@ -32,4 +32,4 @@ Looking to elevate your celebration? We offer a selection of **optional upgrades
 
 Create unforgettable memories in a setting that blends timeless charm with countryside elegance. Contact us to begin planning your perfect day.
 
-Email natalie@theoldrectoryhastings.co.uk
+Email manager@theoldrectoryhastings.co.uk
