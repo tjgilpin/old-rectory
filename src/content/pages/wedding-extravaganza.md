@@ -23,4 +23,4 @@ This all-inclusive package features:
 
 Whether you’re dreaming of a classic garden party or a stylish country celebration, this package offers the perfect canvas to bring your vision to life. Let The Old Rectory be your home for the weekend as you celebrate love, laughter, and the start of your forever.
 
-Contact Natalie - natalie@theoldrectoryhastings.co.uk for more information
+Contact Natalie or Kayleigh - manager@theoldrectoryhastings.co.uk for more information
