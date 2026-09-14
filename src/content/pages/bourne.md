@@ -37,7 +37,7 @@ Enjoy a cosy night in the private lounge with an equipped kitchen and dining spa
 
 Enjoy all of these features with your family. Bourne is now open to families with young ones, aged three and above, and also to those travelling with their dogs. There are just a few extra Terms and Conditions associated with these types of bookings to help keep everyone safe and to ensure that all guests are still treated to the classic Rectory experience.
 
-These bookings must adhere to the following policies:
+##### These bookings must adhere to the following policies:
 
 ● Young children and pets are not permitted to use the communal guest lounges.
 
@@ -47,8 +47,6 @@ These bookings must adhere to the following policies:
 
 ● Young children and dogs are not to be left in the flat unattended for any period of time.
 
-● Breakfast will be brought up to your kitchen for you to enjoy. We will ask you to pre-order
-
-with us the day before.
+● Breakfast will be brought up to your kitchen for you to enjoy. We will ask you to pre-order with us the day before.
 
 ● Any bookings with pets are subject to a £35 cleaning fee per stay.
