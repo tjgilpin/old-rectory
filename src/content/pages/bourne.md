@@ -23,12 +23,12 @@ Enjoy a cosy night in the private lounge with an equipped kitchen and dining spa
 
 #### This room features:
 
-* A double bed with feather bedding & high quality cotton sheets facing the garden
-* A double bed with feather bedding & high quality cotton sheets facing the church-yard 
+* A double bed with feather bedding & high-quality cotton sheets facing the garden
+* A double bed with feather bedding & high-quality cotton sheets facing the churchyard 
 * A sizeable shower room  
 * Tea & Coffee from Ringtons & homemade biscuits 
 * An equipped kitchen with electric hob, oven & toaster
-* Clock radio, smart Tv, unlimited Wi-Fi
+* Clock radio, smart TV, unlimited Wi-Fi
 * Portable fan and heaters 
 * Hypoallergenic bedding available on request
 * From £180 including breakfast
