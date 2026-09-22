@@ -6,6 +6,17 @@ title: Food & Drink
 pageslug: food-drink
 headerimage: /assets/img/food.jpg
 sections:
+  - title: Christmas at The Old Rectory
+    sectionimage: /assets/img/10-dsc06655.jpg
+    body: >-
+      This year, there are four very different ways to celebrate, from a relaxed
+      Orchard Road feast to an indulgent five-course Christmas dinner, with
+      plenty in between.
+
+
+      Think festive feasting, flowing drinks, candlelit tables, Christmas cocktails and plenty of reasons to stay a little longer.
+    url: seasonal-events
+    cta: View Menus & Book
   - title: ORCHARD ROAD SOUTH-EAST ASIAN INSPIRED CUISINE EVERY AT THE CAFE
     sectionimage: /assets/img/16-_dsc8734.jpg
     body: Orchard Road each Friday and Saturday evening with chef Rob Hills at Café
@@ -34,17 +45,6 @@ sections:
       delicious two-course, a la carte breakfast that is freshly cooked to
       order. Also Available for the Non-Residents.
     sectionimage: /assets/img/old-rectory-krp006.jpg
-  - title: Christmas at The Old Rectory
-    sectionimage: /assets/img/10-dsc06655.jpg
-    body: >-
-      This year, there are four very different ways to celebrate, from a relaxed
-      Orchard Road feast to an indulgent five-course Christmas dinner, with
-      plenty in between.
-
-
-      Think festive feasting, flowing drinks, candlelit tables, Christmas cocktails and plenty of reasons to stay a little longer.
-    url: seasonal-events
-    cta: View Menus & Book
 order: 30
 template: Panel Image Background
 ---
