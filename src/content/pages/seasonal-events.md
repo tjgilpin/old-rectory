@@ -10,10 +10,10 @@ gallery:
   - image: /assets/img/10-dsc06655.jpg
   - image: /assets/img/orch-cafe-menu-copy.jpg
   - image: /assets/img/3-dsc06653.jpg
-  - image: /assets/img/251105-wintertable-16-3star.jpg
-  - image: /assets/img/classic-christmas-menu-copy.jpg
   - image: /assets/img/251105-wintertable-8-3star.jpg
+  - image: /assets/img/classic-christmas-menu-copy.jpg
   - image: /assets/img/12-dsc06685.jpg
+  - image: /assets/img/251105-wintertable-16-3star.jpg
   - image: /assets/img/orchard-banquet-copy.jpg
 url: ""
 cta: ""
