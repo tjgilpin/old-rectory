@@ -36,8 +36,13 @@ sections:
     sectionimage: /assets/img/old-rectory-krp006.jpg
   - title: Seasonal Events
     sectionimage: /assets/img/10-dsc06655.jpg
-    body: The Hastings calendar is jam packed with exciting events that we love to
-      reflect in our food offering.
+    body: >-
+      This year, there are four very different ways to celebrate, from a relaxed
+      Orchard Road feast to an indulgent five-course Christmas dinner, with
+      plenty in between.
+
+
+      Think festive feasting, flowing drinks, candlelit tables, Christmas cocktails and plenty of reasons to stay a little longer.
     url: seasonal-events
     cta: View Menus & Book
 order: 30
