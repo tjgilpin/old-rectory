@@ -14,7 +14,7 @@ cta: ""
 hide: true
 template: Panel Image Background
 ---
-### Christmas at The Old Rectory
+### Christmas at The Old Rectory Menus
 
 Orchard Road & Café at The Old Rectory
 A relaxed buffet-style feast with a tailor-made menu for your party, blending Orchard Road favourites with Christmas classics. Enjoy exclusive use of the Café at no extra cost — perfect for festive cocktails, mingling and dancing.
