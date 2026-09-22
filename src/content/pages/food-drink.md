@@ -43,7 +43,7 @@ sections:
 
 
       Think festive feasting, flowing drinks, candlelit tables, Christmas cocktails and plenty of reasons to stay a little longer.
-    url: Christmas-at-The-Old-Rectory
+    url: seasonal-events
     cta: View Menus & Book
 order: 30
 template: Panel Image Background
