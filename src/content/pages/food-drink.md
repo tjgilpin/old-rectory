@@ -34,7 +34,7 @@ sections:
       delicious two-course, a la carte breakfast that is freshly cooked to
       order. Also Available for the Non-Residents.
     sectionimage: /assets/img/old-rectory-krp006.jpg
-  - title: Seasonal Events
+  - title: Christmas at The Old Rectory
     sectionimage: /assets/img/10-dsc06655.jpg
     body: >-
       This year, there are four very different ways to celebrate, from a relaxed
@@ -43,7 +43,7 @@ sections:
 
 
       Think festive feasting, flowing drinks, candlelit tables, Christmas cocktails and plenty of reasons to stay a little longer.
-    url: seasonal-events
+    url: Christmas-at-The-Old-Rectory
     cta: View Menus & Book
 order: 30
 template: Panel Image Background
