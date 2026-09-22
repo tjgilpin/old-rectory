@@ -22,19 +22,35 @@ template: Panel Image Background
 ---
 ### Christmas at The Old Rectory Menus
 
-Orchard Road & Café at The Old Rectory
+This year, there are four very different ways to celebrate, from a relaxed Orchard Road feast to an indulgent five-course Christmas dinner, with plenty in between.
+
+Think festive feasting, flowing drinks, candlelit tables, Christmas cocktails and plenty of reasons to stay a little longer.
+
+
+
+##### Orchard Road & Café at The Old Rectory
+
 A relaxed buffet-style feast with a tailor-made menu for your party, blending Orchard Road favourites with Christmas classics. Enjoy exclusive use of the Café at no extra cost — perfect for festive cocktails, mingling and dancing.
 From £30 per person
 
-Orchard Road Christmas Special × Café at The Old Rectory
+
+
+##### Orchard Road Christmas Special × Café at The Old Rectory
+
 A luxurious three-course Christmas dinner served in our cosy Café. Expect Orchard Road favourites, bespoke drinks and plenty of festive cheer.
 From £38 per person
 
-Classic Christmas at The Old Rectory
+
+
+##### Classic Christmas at The Old Rectory
+
 A decadent five-course Christmas feast served in our hand-painted dining room, with festive classics, warming drinks by the open fire, Christmas crackers and a candlelit setting.
 From £59 per person
 
-Orchard Road Banquet at The Old Rectory
+
+
+##### Orchard Road Banquet at The Old Rectory
+
 A glamorous sharing feast, starting with dim sum and followed by extravagant mains and delicious desserts, all served family-style. Enjoy exclusive use of our hand-painted dining room and dine like an emperor.
 From £59 per person
 
