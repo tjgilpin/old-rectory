@@ -15,7 +15,7 @@ gallery:
   - image: /assets/img/12-dsc06685.jpg
   - image: /assets/img/251105-wintertable-16-3star.jpg
   - image: /assets/img/orchard-banquet-copy.jpg
-url: seasonal-events
+url: ""
 cta: ""
 hide: true
 template: Panel Image Background
