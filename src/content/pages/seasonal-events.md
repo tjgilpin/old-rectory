@@ -3,7 +3,7 @@ type: subpage
 parent_page: Food & Drink
 parent_slug: food-drink
 title: Christmas at The Old Rectory
-headerimage: /assets/img/10-dsc06655.jpg
+headerimage: /assets/img/251105-wintertable-16-3star.jpg
 gallery:
   - image: /assets/img/cafe-menu-copy.jpg
   - image: /assets/img/251105-wintertable-18-3star.jpg
