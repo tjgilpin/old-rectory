@@ -8,7 +8,7 @@ gallery:
   - image: /assets/img/14-_dsc8558.jpg
   - image: /assets/img/16-_dsc8734.jpg
   - image: /assets/img/9-_dsc8221.jpg
-  - image: /assets/img/orch-new-menu-insta.jpg
+  - image: /assets/img/orchard-rd_menu_aug-copy.jpg
 url: https://theoldrectorycafe.resos.com/booking
 cta: Book a Table
 hide: true
