@@ -1,9 +1,9 @@
 ---
+hide: false
+slug: /food-drink/
 type: page
 title: Food & Drink
 pageslug: food-drink
-hide: false
-slug: /food-drink/
 headerimage: /assets/img/food.jpg
 sections:
   - title: Christmas at The Old Rectory
@@ -17,7 +17,7 @@ sections:
       Think festive feasting, flowing drinks, candlelit tables, Christmas cocktails and plenty of reasons to stay a little longer.
     url: christmas-at-the-old-rectory
     cta: View Menus & Book
-  - title: ORCHARD ROAD SOUTH-EAST ASIAN INSPIRED CUISINE EVERY AT THE CAFE
+  - title: ORCHARD ROAD SOUTH-EAST ASIAN INSPIRED CUISINE AT THE CAFE
     sectionimage: /assets/img/16-_dsc8734.jpg
     body: Orchard Road each Friday and Saturday evening with chef Rob Hills at Café
       at The Old Rectory.
