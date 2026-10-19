@@ -20,7 +20,17 @@ order: 110
 ---
 Café at The Old Rectory is an elegantly designed space that offers all the important things in life: good coffee, good food, and good vibes. Our carefully planned seasonal menu features ingredients from trusted local suppliers, enhanced by in-house expertise-from our expert cake baker to our on-site garden smokers.
 
-**Open seven days a week from 10 am to 4 pm,** Café at The Old Rectory is the perfect place to catch up with old friends, relax after a walk with the dog, or enjoy some solo time with a cup of tea and a good book.
+**Opening Hours:**
+
+**Monday & Tuesday: Closed**
+
+**Wednesday - Saturday: 10am-4pm**
+
+**Orchard Road Every Friday & Saturday: 6pm-9pm**
+
+**Sunday Lunch Every Sunday: 12pm-6pm**
+
+Café at The Old Rectory is the perfect place to catch up with old friends, relax after a walk with the dog, or enjoy some solo time with a cup of tea and a good book.
 
 * ##### We take pride in using the best local and seasonal ingredients, where possible. We make our own sausage patties, cure our own bacon, and smoke our own salmon.
 * ##### Our bread is baked on-site by our friend and master baker, Emmanuel Hadjiandreou, whilst our sourdough crumpets are produced in small batches by Rebecca, from Crumb and Grind.
@@ -67,19 +77,14 @@ Served on malted or white bread with a handful of crisps
 * Coronation chicken **£10.00**
 * Coronation chickpea **£10.00**
 * * Rectory ham with apple chutney **£10.00**
-
   * Crab & Rocket **£12.00**
 * Ploughmans - ham, cheese, apple chutney **£12.00**
 
 #### ORCHARD RD DISHES
 
 * Breakfast Bao: Two fluffy steamed bao. With a crispy streaky bacon and spiced sausage patties. Finished with tonkotsu sauce. kewpie mavo & house chilli oil **£12.00**
-
 * Roti Canai: Flakey Malaysian flatbreads, served with a vegetable mamak lentil dhal, topped with curry leaves. Served with a mango chutney (vegan) **£8.00**
-
 * Orchard Rd's signature Beef Rendang Caramelised coconut beef curry, cooked slowly in rich aromatic spices.Topped with Serudung,  sambal Tunis. Served with steamed jasmine rice **£16.00**
-
-
 
 </div>
 </div>
@@ -112,13 +117,9 @@ Served on malted or white bread with a handful of crisps
 
 Decaf tea & coffee available on request
 
-
-
 #### Boozie Coffee
 
 * Add a shot of amaretto, cointreau or whiskey to your coffee **£8.00**
-
-
 
 ### Iced Drinks
 
@@ -127,8 +128,6 @@ All of our coffees are available iced Prices start from **£4.00**
 * Iced Matcha **£4.75**
 * Flavoured Syrups **80p**
 * Alternative Milks (Oat, Soya or Almond) **30p**
-
-
 
 ### Soft Drinks
 
@@ -141,13 +140,9 @@ All of our coffees are available iced Prices start from **£4.00**
 * Small Sparkling Water **£2.50**
 * Large Sparkling Water **£5.00**
 
-
-
 ### Cocktails - £10.00 Each
 
 * Bloody Mary / Gin & Tonic / Pimms
-
-
 
 #### Sparkling Wines
 
@@ -155,15 +150,11 @@ All of our coffees are available iced Prices start from **£4.00**
 * Le Dolci Colline Prosecco (lrg bottle) **£28.00**
 * Mountfield English Sparkling Classic Cuvee Bottle (lrg bottle) **£50**
 
-
-
 #### Wines
 
 * Louis Eschenauer Bordeaux (250ml) **£7.00**
 * Louis Eschenauer Sauvignon Blanc (250ml) **£7.00**
 * Fleurs de Prairie Cotes De Provence Rose (187m) **£7.00**
-
-
 
 ### Beer
 
