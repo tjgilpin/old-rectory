@@ -14,51 +14,18 @@ template:
 ---
 **BREAD WORKSHOPS WITH EMMANUEL HADJIANDREOU**
 
-**June**
+**NOVEMBER**
 
-• Tuesday 16th June 5:15pm - 9:15pm // Gluten-Free
+*  3rd November - Gluten-Free
+* 10 November - Sweet and Savoury Pastry
+* 17 November - Introduction to Rye Sourdough
+* 24th November - Ciabatta and Focaccia
 
-**July**
+**DECEMBER**
 
-• Tuesday 14th July 5:15pm - 9:15pm // Bagels & Pretzels
-
-**August**
-
-• Tuesday 18th August 5:15pm - 9:15pm // Foccacia & Ciabatta
-
-• Tuesday 25th August 5:15pm - 9:15pm // Introduction to Rye Sourdough
-
-**September**
-
-• Tuesday 15th September 5:15pm - 9:15pm // Gluten-Free
-
-• Tuesday 22nd September 5:15pm - 9:15pm // Sweet & Savoury Pastry
-
-• Tuesday 29th September 5:15pm - 9:15pm // Vegan Scones & Ultimate Chocolate Chip Cookie
-
-**October**
-
-• Tuesday 6th October 5:15pm - 9:15pm // Foccacia & Ciabatta
-
-• Tuesday 13th October 5:15pm - 9:15pm // Bagels & Pretzels
-
-**November**
-
-• Tuesday 3rd November 5:15pm - 9:15pm // Gluten-Free
-
-• Tuesday 10th November 5:15pm - 9:15pm // Sweet & Savoury Pastry
-
-• Tuesday 17th November 5:15pm - 9:15pm // Introduction to Rye Sourdough
-
-• Tuesday 24th November 5:15pm - 9:15pm // Foccacia & Ciabatta
-
-**December**
-
-• Tuesday 8th December 5:15pm - 9:15pm // Vegan Scones & Ultimate Chocolate Chip Cookie
-
-• Tuesday 15th December 5:15pm - 9:15pm // Gingerbread Men & Mince Pies
-
-• Tuesday 22nd December 5:15pm - 9:15pm // Festive Bread Wreath
+* 8 December - Introduction to Rye Sourdough
+* 15 December - Gingerbread and Mince Pies
+* 22 December - Festive Christmas Bread Wreath
 
 
 
