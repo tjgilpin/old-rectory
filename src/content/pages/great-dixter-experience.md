@@ -16,18 +16,12 @@ template:
 
 **NOVEMBER**
 
-*  3rd November - Gluten-Free
-* 10 November - Sweet and Savoury Pastry
 * 17 November - Introduction to Rye Sourdough
-* 24th November - Ciabatta and Focaccia
 
 **DECEMBER**
 
 * 8 December - Introduction to Rye Sourdough
-* 15 December - Gingerbread and Mince Pies
-* 22 December - Festive Christmas Bread Wreath
-
-
+* 15 December - Festive Christmas Bread Wreath
 
 #### Class Price: £75 per person. Includes nibbles and wine.
 
