@@ -811,7 +811,7 @@ body.subpage ul a:has(button) {
 
 main > header {
   overflow: hidden;
-  /* display: flex; */
+  display: flex;
   place-items: center;  
 }
 
