@@ -844,6 +844,7 @@ body > main > header {
   background-color: var(--blue);
   background: url(/assets/img/logo-r-bg.svg) no-repeat center center var(--blue);
   background-size: cover;
+  aspect-ratio: 3/2;
 }
 
 body > main > header:not(:has(img)) {
