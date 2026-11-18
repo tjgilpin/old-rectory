@@ -841,8 +841,8 @@ body > header {
 body > main > header {
   max-height: 450px;
   position: relative;
-  background-color: var(--blue);
-  background: url(/assets/img/logo-r-bg.svg) no-repeat center center var(--blue);
+  /* background-color: var(--blue);
+  background: url(/assets/img/logo-r-bg.svg) no-repeat center center var(--blue); */
   background-size: cover;
   aspect-ratio: 3/2;
 }
