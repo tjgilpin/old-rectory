@@ -19,8 +19,8 @@ sections:
     cta: View Menus & Book
   - title: ORCHARD ROAD SOUTH-EAST ASIAN INSPIRED CUISINE AT THE CAFE
     sectionimage: /assets/img/16-_dsc8734.jpg
-    body: Orchard Road each Friday and Saturday evening with chef Rob Hills at Café
-      at The Old Rectory.
+    body: Orchard Road every Thursday, Friday and Saturday evening with chef Rob
+      Hills at Café at The Old Rectory.
     url: orchard-rd
     cta: View Menu & Book
   - title: SUNDAY LUNCH EVERY SUNDAY AT THE CAFE
