@@ -18,9 +18,19 @@ template:
 ---
 #### \- SOUTH-EAST ASIAN INSPIRED CUISINE
 
-#### AT THE CAFE - Every Friday  & Saturday
+#### AT THE CAFE - Every Thursday, Friday  & Saturday
 
-####  6pm-9pm 
+#### 6pm-9pm
+
+# +
+
+#### **Pre Theatre Dinners, for Stables Theatre ticket holders only**
+
+#### **From 6pm- 7.30pm**
+
+#### **With a Special Menu for *£20.00 per person*** 
+
+
 
 #### (Bookings now Open)
 
